@@ -2,7 +2,7 @@
 
 Eine Visualisierung der Schulen in NRW mit ihrem [Schulsozialindex](https://www.schulministerium.nrw/schulsozialindex)  auf einer Karte
 
-Dieses Projekt generiert mit Python eine Webseite, auf der eine interaktive Karte unter Verwendung von [OpenStreetMap](https://www.openstreetmap.org) und [leaflet](https://leafletjs.com/) von Schulen und ihrem Schulsozialindex dargestellt wird.
+Dieses Projekt generiert mit Python eine [Webseite](https://homlador.github.io/schulsozialindex-karte/), auf der eine interaktive Karte unter Verwendung von [OpenStreetMap](https://www.openstreetmap.org) und [leaflet](https://leafletjs.com/) von Schulen und ihrem Schulsozialindex dargestellt wird.
 Die Adressdaten werden automatisiert mit [Nominatim](https://nominatim.org/) ergänzt, sind daher nicht vollständig und möglicherweise fehlerhaft.
 
 ## HOWTO
@@ -13,5 +13,5 @@ Die Adressdaten werden automatisiert mit [Nominatim](https://nominatim.org/) erg
 Adressdaten ergänzen: `$ uv run geocode_schools.py`
 Automatisiert werden die meisten Adressen (zumindest ungefährder weiterführenden Schulen gefunden. Fehlerquote unbekannt. Bei Grundschulen funktioniert es kaum.
 ggf. Manuell ergänzen bzw korrigieren
-3. Daten nach JSON konvertieren: `$ uv run convert_to_json`
+3. Daten nach JSON konvertieren: `$ uv run convert_to_json.py`
 3. index.html öffnen
