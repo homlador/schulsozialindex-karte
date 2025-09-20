@@ -1,0 +1,858 @@
+[
+  {
+    "name": "Duisburg, GG am Röttgersbach",
+    "schultyp": "Grundschule",
+    "sozialindex": "4",
+    "latitude": "51.5169458",
+    "longitude": "6.7737546",
+    "address": "KGV Am Mattlerbusch, Röttgersbach, Hamborn, Duisburg, Nordrhein-Westfalen, 47169, Deutschland"
+  },
+  {
+    "name": "Duisburg, GG Hans-Christian-Andersen",
+    "schultyp": "Grundschule",
+    "sozialindex": "9",
+    "latitude": "51.482634",
+    "longitude": "6.802633",
+    "address": "Hans-Christian-Andersen-Schule GGS, Wiesbadener Straße, Hagenshof, Obermeiderich, Meiderich/Beeck, Duisburg, Nordrhein-Westfalen, 47138, Deutschland"
+  },
+  {
+    "name": "Duisburg, KG am Bergmannsplatz",
+    "schultyp": "Grundschule",
+    "sozialindex": "3",
+    "latitude": "51.5069979",
+    "longitude": "6.8119679",
+    "address": "Am Atropshof, Siedlung Bergmannsplatz, Hamborn, Duisburg, Nordrhein-Westfalen, 47167, Deutschland"
+  },
+  {
+    "name": "Duisburg, KG Fährmann",
+    "schultyp": "Grundschule",
+    "sozialindex": "4",
+    "latitude": "51.4755474",
+    "longitude": "6.7395080",
+    "address": "Fährmann-Schule, 121, Neanderstraße, Beeck, Meiderich/Beeck, Duisburg, Nordrhein-Westfalen, 47139, Deutschland"
+  },
+  {
+    "name": "Duisburg, KG Nombericher Str.",
+    "schultyp": "Grundschule",
+    "sozialindex": "4",
+    "latitude": "51.4700956",
+    "longitude": "6.7595281",
+    "address": "Nombericher Straße, Meiderich-Berg, Untermeiderich, Meiderich/Beeck, Duisburg, Nordrhein-Westfalen, 47137, Deutschland"
+  },
+  {
+    "name": "Duisburg, GG Friedenstr.",
+    "schultyp": "Grundschule",
+    "sozialindex": "9",
+    "latitude": "51.4514992",
+    "longitude": "6.7067581",
+    "address": "Friedenstraße, Alt-Homberg, Homberg, Homberg/Ruhrort/Baerl, Duisburg, Nordrhein-Westfalen, 47198, Deutschland"
+  },
+  {
+    "name": "Duisburg, KG Böhmer Str.",
+    "schultyp": "Grundschule",
+    "sozialindex": "1",
+    "latitude": "51.3854571",
+    "longitude": "6.7639872",
+    "address": "Böhmer Straße, Österreicher Viertel, Buchholz, Duisburg-Süd, Duisburg, Nordrhein-Westfalen, 47249, Deutschland"
+  },
+  {
+    "name": "Duisburg, GG Schule im Dichterviertel",
+    "schultyp": "Grundschule",
+    "sozialindex": "9",
+    "latitude": "51.5032175",
+    "longitude": "6.7809892",
+    "address": "Im ZebraPark, Dichterviertel, Obermarxloh, Hamborn, Duisburg, Nordrhein-Westfalen, 47167, Deutschland"
+  },
+  {
+    "name": "Duisburg, KG Abteischule",
+    "schultyp": "Grundschule",
+    "sozialindex": "7",
+    "latitude": "51.4902697",
+    "longitude": "6.7659032",
+    "address": "Abteischule, 23a, Jägerstraße, Hamborn, Duisburg, Nordrhein-Westfalen, 47166, Deutschland"
+  },
+  {
+    "name": "Duisburg, KG Goldstr.",
+    "schultyp": "Grundschule",
+    "sozialindex": "5",
+    "latitude": "51.4311566",
+    "longitude": "6.7611575",
+    "address": "Goldstraße, City Wohnpark, Dellviertel, Duisburg-Mitte, Duisburg, Nordrhein-Westfalen, 47051, Deutschland"
+  },
+  {
+    "name": "Duisburg, KG Henriettenstr.",
+    "schultyp": "Grundschule",
+    "sozialindex": "9",
+    "latitude": "51.5023723",
+    "longitude": "6.7531345",
+    "address": "Henriettenstraße, Marxloh, Hamborn, Duisburg, Nordrhein-Westfalen, 47169, Deutschland"
+  },
+  {
+    "name": "Duisburg, KG Barbara",
+    "schultyp": "Grundschule",
+    "sozialindex": "5",
+    "latitude": "51.443839",
+    "longitude": "6.6823979",
+    "address": "Barbarastraße, Hochheide, Homberg/Ruhrort/Baerl, Duisburg, Nordrhein-Westfalen, 47198, Deutschland"
+  },
+  {
+    "name": "Duisburg, KG Grabenstr.",
+    "schultyp": "Grundschule",
+    "sozialindex": "3",
+    "latitude": "51.4310757",
+    "longitude": "6.7922612",
+    "address": "Grabenstraße, Wabenquartier, Neudorf-Nord, Duisburg-Mitte, Duisburg, Nordrhein-Westfalen, 47057, Deutschland"
+  },
+  {
+    "name": "Duisburg, GG Rahm",
+    "schultyp": "Grundschule",
+    "sozialindex": "2",
+    "latitude": "51.3509215",
+    "longitude": "6.7867847",
+    "address": "Grundschule Rahm (GGS), 20, Am Knappert, Rahm, Duisburg-Süd, Duisburg, Nordrhein-Westfalen, 47269, Deutschland"
+  },
+  {
+    "name": "Duisburg, GG Tonstr.",
+    "schultyp": "Grundschule",
+    "sozialindex": "3",
+    "latitude": "51.4369502",
+    "longitude": "6.793617",
+    "address": "Tonstraße, Duissern, Duisburg-Mitte, Duisburg, Nordrhein-Westfalen, 47058, Deutschland"
+  },
+  {
+    "name": "Duisburg, GG Zoppenbrückstr.",
+    "schultyp": "Grundschule",
+    "sozialindex": "5",
+    "latitude": "51.4621698",
+    "longitude": "6.7925387",
+    "address": "Zoppenbrückstraße, Ratingsee, Obermeiderich, Meiderich/Beeck, Duisburg, Nordrhein-Westfalen, 47138, Deutschland"
+  },
+  {
+    "name": "Duisburg, GG Wrangelstr.",
+    "schultyp": "Grundschule",
+    "sozialindex": "5",
+    "latitude": "51.4406831",
+    "longitude": "6.7464299",
+    "address": "Wrangelstraße, Kaßlerfeld, Duisburg-Mitte, Duisburg, Nordrhein-Westfalen, 47059, Deutschland"
+  },
+  {
+    "name": "Duisburg, GG Am Mattlerbusch",
+    "schultyp": "Grundschule",
+    "sozialindex": "3",
+    "latitude": "51.5169458",
+    "longitude": "6.7737546",
+    "address": "KGV Am Mattlerbusch, Röttgersbach, Hamborn, Duisburg, Nordrhein-Westfalen, 47169, Deutschland"
+  },
+  {
+    "name": "Duisburg, GG Schule am Park",
+    "schultyp": "Grundschule",
+    "sozialindex": "6",
+    "latitude": "",
+    "longitude": "",
+    "address": ""
+  },
+  {
+    "name": "Duisburg, GG Heinr.-Bongers-Str.",
+    "schultyp": "Grundschule",
+    "sozialindex": "4",
+    "latitude": "51.4061565",
+    "longitude": "6.6948308",
+    "address": "Grundschule Auf dem Berg, Stettiner Straße, Bergheim, Rheinhausen, Duisburg, Nordrhein-Westfalen, 47228, Deutschland"
+  },
+  {
+    "name": "Duisburg, GG Hochfelder Markt",
+    "schultyp": "Grundschule",
+    "sozialindex": "9",
+    "latitude": "51.4165745",
+    "longitude": "6.7573435",
+    "address": "Hochfelder Markt, Fröbelstraße, RheinOrt, Hochfeld, Duisburg-Mitte, Duisburg, Nordrhein-Westfalen, 47053, Deutschland"
+  },
+  {
+    "name": "Duisburg, GG Bruckhausen",
+    "schultyp": "Grundschule",
+    "sozialindex": "9",
+    "latitude": "51.4874995",
+    "longitude": "6.7396567",
+    "address": "Bruckhausen, Meiderich/Beeck, Duisburg, Nordrhein-Westfalen, 47139, Deutschland"
+  },
+  {
+    "name": "Duisburg, GG Sandstr.",
+    "schultyp": "Grundschule",
+    "sozialindex": "9",
+    "latitude": "51.5063704",
+    "longitude": "6.7550243",
+    "address": "Sandstraße, Jubiläumshainviertel, Marxloh, Hamborn, Duisburg, Nordrhein-Westfalen, 47169, Deutschland"
+  },
+  {
+    "name": "Duisburg, GG Salzmannschule",
+    "schultyp": "Grundschule",
+    "sozialindex": "7",
+    "latitude": "51.4989556",
+    "longitude": "6.8105811",
+    "address": "Salzmannschule, 71-73, Max-Planck-Straße, Siedlung Bergmannsplatz, Neumühl, Hamborn, Duisburg, Nordrhein-Westfalen, 47167, Deutschland"
+  },
+  {
+    "name": "Duisburg, GG Lange Kamp",
+    "schultyp": "Grundschule",
+    "sozialindex": "9",
+    "latitude": "",
+    "longitude": "",
+    "address": ""
+  },
+  {
+    "name": "Duisburg, GG Böhmer Str.",
+    "schultyp": "Grundschule",
+    "sozialindex": "3",
+    "latitude": "51.3854571",
+    "longitude": "6.7639872",
+    "address": "Böhmer Straße, Österreicher Viertel, Buchholz, Duisburg-Süd, Duisburg, Nordrhein-Westfalen, 47249, Deutschland"
+  },
+  {
+    "name": "Duisburg, GG Mozartstr.",
+    "schultyp": "Grundschule",
+    "sozialindex": "4",
+    "latitude": "51.4173832",
+    "longitude": "6.7910681",
+    "address": "Mozartstraße, Einschornsteinsiedlung, Neudorf-Süd, Duisburg-Mitte, Duisburg, Nordrhein-Westfalen, 47057, Deutschland"
+  },
+  {
+    "name": "Duisburg, GG Lilienthalstr.",
+    "schultyp": "Grundschule",
+    "sozialindex": "6",
+    "latitude": "51.436303",
+    "longitude": "6.7263533",
+    "address": "Lilienthalstraße, Diergardt-Siedlung, Neuenkamp, Duisburg-Mitte, Duisburg, Nordrhein-Westfalen, 47059, Deutschland"
+  },
+  {
+    "name": "Duisburg, GG Klosterstr.",
+    "schultyp": "Grundschule",
+    "sozialindex": "6",
+    "latitude": "51.4334797",
+    "longitude": "6.7572264",
+    "address": "Klosterstraße, Altstadt, Duisburg-Mitte, Duisburg, Nordrhein-Westfalen, 47051, Deutschland"
+  },
+  {
+    "name": "Duisburg, GG Hundertwasser-Schule",
+    "schultyp": "Grundschule",
+    "sozialindex": "8",
+    "latitude": "51.4061565",
+    "longitude": "6.6948308",
+    "address": "Grundschule Auf dem Berg, Stettiner Straße, Bergheim, Rheinhausen, Duisburg, Nordrhein-Westfalen, 47228, Deutschland"
+  },
+  {
+    "name": "Duisburg, GG Humboldtstr.",
+    "schultyp": "Grundschule",
+    "sozialindex": "6",
+    "latitude": "51.4890709",
+    "longitude": "6.7776888",
+    "address": "Humboldtstraße, Hamborn, Duisburg, Nordrhein-Westfalen, 47166, Deutschland"
+  },
+  {
+    "name": "Duisburg, GG Ruhrort",
+    "schultyp": "Grundschule",
+    "sozialindex": "7",
+    "latitude": "51.4538969",
+    "longitude": "6.733484",
+    "address": "Ruhrort, Homberg/Ruhrort/Baerl, Duisburg, Nordrhein-Westfalen, Deutschland"
+  },
+  {
+    "name": "Duisburg, GG Brückenstr.",
+    "schultyp": "Grundschule",
+    "sozialindex": "9",
+    "latitude": "51.4371628",
+    "longitude": "6.7085432",
+    "address": "Brückenstraße, Essenberg, Homberg, Homberg/Ruhrort/Baerl, Duisburg, Nordrhein-Westfalen, 47198, Deutschland"
+  },
+  {
+    "name": "Duisburg, GG Hermann-Grothe-Str.",
+    "schultyp": "Grundschule",
+    "sozialindex": "1",
+    "latitude": "51.3947211",
+    "longitude": "6.8111558",
+    "address": "Hermann-Grothe-Straße, Bissingheim, Duisburg-Süd, Duisburg, Nordrhein-Westfalen, 47279, Deutschland"
+  },
+  {
+    "name": "Duisburg, GG Beeckerwerth",
+    "schultyp": "Grundschule",
+    "sozialindex": "2",
+    "latitude": "51.476088",
+    "longitude": "6.6987755",
+    "address": "Beeckerwerth, Meiderich/Beeck, Duisburg, Nordrhein-Westfalen, 47198, Deutschland"
+  },
+  {
+    "name": "Duisburg, GG Hebbelstr.",
+    "schultyp": "Grundschule",
+    "sozialindex": "7",
+    "latitude": "51.424031",
+    "longitude": "6.7837227",
+    "address": "kath. Grundschule Grabenstraße und Gemeinschaftsgrundschule Hebbelstraße, Grabenstraße, Wabenquartier, Neudorf-Süd, Duisburg-Mitte, Duisburg, Nordrhein-Westfalen, 47057, Deutschland"
+  },
+  {
+    "name": "Duisburg, GG Habichtstr.",
+    "schultyp": "Grundschule",
+    "sozialindex": "5",
+    "latitude": "51.3998791",
+    "longitude": "6.7633878",
+    "address": "Habichtstraße, Hitzblecksiedlung, Wanheimerort, Duisburg-Mitte, Duisburg, Nordrhein-Westfalen, 47055, Deutschland"
+  },
+  {
+    "name": "Duisburg, GG Großenbaumer Allee",
+    "schultyp": "Grundschule",
+    "sozialindex": "2",
+    "latitude": "51.3710561",
+    "longitude": "6.7796494",
+    "address": "Großenbaumer Allee, Großenbaum, Duisburg-Süd, Duisburg, Nordrhein-Westfalen, 47269, Deutschland"
+  },
+  {
+    "name": "Duisburg, GG Kunterbunt",
+    "schultyp": "Grundschule",
+    "sozialindex": "7",
+    "latitude": "51.5001692",
+    "longitude": "6.77452",
+    "address": "GGS Kunterbunt, 80, Kantstraße, Dichterviertel, Hamborn, Duisburg, Nordrhein-Westfalen, 47166, Deutschland"
+  },
+  {
+    "name": "Duisburg, GG Regenbogenschule",
+    "schultyp": "Grundschule",
+    "sozialindex": "9",
+    "latitude": "51.5072567",
+    "longitude": "6.7590123",
+    "address": "GGS Regenbogenschule, 65, Ottostraße, Jubiläumshainviertel, Marxloh, Hamborn, Duisburg, Nordrhein-Westfalen, 47169, Deutschland"
+  },
+  {
+    "name": "Duisburg, GG Gartenstraße",
+    "schultyp": "Grundschule",
+    "sozialindex": "9",
+    "latitude": "51.4129814",
+    "longitude": "6.7078732",
+    "address": "Gartenstraße, Rheinhausen, Duisburg, Nordrhein-Westfalen, 47226, Deutschland"
+  },
+  {
+    "name": "Duisburg, GG Laar",
+    "schultyp": "Grundschule",
+    "sozialindex": "8",
+    "latitude": "51.4646469",
+    "longitude": "6.7297927",
+    "address": "Laar, Meiderich/Beeck, Duisburg, Nordrhein-Westfalen, 47119, Deutschland"
+  },
+  {
+    "name": "Duisburg, GG Eschenstr.",
+    "schultyp": "Grundschule",
+    "sozialindex": "9",
+    "latitude": "51.3958213",
+    "longitude": "6.7533159",
+    "address": "Eschenstraße, Wanheimerort, Duisburg-Mitte, Duisburg, Nordrhein-Westfalen, 47055, Deutschland"
+  },
+  {
+    "name": "Duisburg, GG Otfried-Preußler",
+    "schultyp": "Grundschule",
+    "sozialindex": "8",
+    "latitude": "51.4696954",
+    "longitude": "6.7803621",
+    "address": "Otfried-Preußler-Schule GGS, 5, Brückelstraße, Lösort-Emschertal, Mittelmeiderich, Meiderich/Beeck, Duisburg, Nordrhein-Westfalen, 47137, Deutschland"
+  },
+  {
+    "name": "Duisburg, GG Breite Str.",
+    "schultyp": "Grundschule",
+    "sozialindex": "9",
+    "latitude": "51.5148337",
+    "longitude": "6.7530084",
+    "address": "Breite Straße, Wehofen, Walsum, Duisburg, Nordrhein-Westfalen, 47169, Deutschland"
+  },
+  {
+    "name": "Duisburg, GG Berg",
+    "schultyp": "Grundschule",
+    "sozialindex": "5",
+    "latitude": "51.4061565",
+    "longitude": "6.6948308",
+    "address": "Grundschule Auf dem Berg, Stettiner Straße, Bergheim, Rheinhausen, Duisburg, Nordrhein-Westfalen, 47228, Deutschland"
+  },
+  {
+    "name": "Duisburg, GG Am See",
+    "schultyp": "Grundschule",
+    "sozialindex": "2",
+    "latitude": "51.3907286",
+    "longitude": "6.8008559",
+    "address": "Am See, Wedau, Duisburg-Süd, Duisburg, Nordrhein-Westfalen, 47279, Deutschland"
+  },
+  {
+    "name": "Duisburg, GG Wanheim",
+    "schultyp": "Grundschule",
+    "sozialindex": "8",
+    "latitude": "51.3804259",
+    "longitude": "6.742401",
+    "address": "Grundschule Wanheim, 50, Am Tollberg, Angerhausen, Wanheim-Angerhausen, Duisburg-Süd, Duisburg, Nordrhein-Westfalen, 47249, Deutschland"
+  },
+  {
+    "name": "Duisburg, GG Albert-Schweitzer-Str.",
+    "schultyp": "Grundschule",
+    "sozialindex": "3",
+    "latitude": "51.3672063",
+    "longitude": "6.7418481",
+    "address": "Albert-Schweitzer-Straße, Am alten Angerbach, Huckingen, Duisburg-Süd, Duisburg, Nordrhein-Westfalen, 47259, Deutschland"
+  },
+  {
+    "name": "Duisburg, GG Schulstr.",
+    "schultyp": "Grundschule",
+    "sozialindex": "7",
+    "latitude": "51.5231579",
+    "longitude": "6.7395773",
+    "address": "Schulstraße, Walsum, Duisburg, Nordrhein-Westfalen, 47179, Deutschland"
+  },
+  {
+    "name": "Duisburg, GG Sternstr.",
+    "schultyp": "Grundschule",
+    "sozialindex": "5",
+    "latitude": "51.5248573",
+    "longitude": "6.7485506",
+    "address": "Grundschule Sternstraße, 76, Sternstraße, Aldenrade, Walsum, Duisburg, Nordrhein-Westfalen, 47179, Deutschland"
+  },
+  {
+    "name": "Duisburg, GG Vennbruchschule",
+    "schultyp": "Grundschule",
+    "sozialindex": "5",
+    "latitude": "51.4061565",
+    "longitude": "6.6948308",
+    "address": "Grundschule Auf dem Berg, Stettiner Straße, Bergheim, Rheinhausen, Duisburg, Nordrhein-Westfalen, 47228, Deutschland"
+  },
+  {
+    "name": "Duisburg, GG Unter den Kastanien",
+    "schultyp": "Grundschule",
+    "sozialindex": "3",
+    "latitude": "51.5283059",
+    "longitude": "6.7650157",
+    "address": "Unter den Kastanien, Wehofen, Walsum, Duisburg, Nordrhein-Westfalen, 47179, Deutschland"
+  },
+  {
+    "name": "Duisburg, KG Don-Bosco",
+    "schultyp": "Grundschule",
+    "sozialindex": "6",
+    "latitude": "",
+    "longitude": "",
+    "address": ""
+  },
+  {
+    "name": "Duisburg, GG Theißelmannschule",
+    "schultyp": "Grundschule",
+    "sozialindex": "1",
+    "latitude": "51.5319658",
+    "longitude": "6.7108038",
+    "address": "GGS Theißelmannschule, 33, Theißelmannstraße, Alt-Walsum, Walsum, Duisburg, Nordrhein-Westfalen, 47178, Deutschland"
+  },
+  {
+    "name": "Duisburg, GG Ottoschule",
+    "schultyp": "Grundschule",
+    "sozialindex": "8",
+    "latitude": "",
+    "longitude": "",
+    "address": ""
+  },
+  {
+    "name": "Duisburg, GG Kirchstr.",
+    "schultyp": "Grundschule",
+    "sozialindex": "9",
+    "latitude": "51.5312532",
+    "longitude": "6.7075376",
+    "address": "Kirchstraße, Alt-Walsum, Walsum, Duisburg, Nordrhein-Westfalen, 47178, Deutschland"
+  },
+  {
+    "name": "Duisburg, GG Marienstr.",
+    "schultyp": "Grundschule",
+    "sozialindex": "4",
+    "latitude": "51.5063729",
+    "longitude": "6.7537454",
+    "address": "Marienstraße, Marxloh, Hamborn, Duisburg, Nordrhein-Westfalen, 47169, Deutschland"
+  },
+  {
+    "name": "Duisburg, GG Am Lutherpark",
+    "schultyp": "Grundschule",
+    "sozialindex": "2",
+    "latitude": "51.4565218",
+    "longitude": "6.6994952",
+    "address": "Gemeinschaftsgrundschule am Lutherpark, 124, Schillerstraße, Siedlung Johannenhof, Homberg, Homberg/Ruhrort/Baerl, Duisburg, Nordrhein-Westfalen, 47198, Deutschland"
+  },
+  {
+    "name": "Duisburg, GG Marktstr.",
+    "schultyp": "Grundschule",
+    "sozialindex": "5",
+    "latitude": "51.5316588",
+    "longitude": "6.763346",
+    "address": "Marktstraße, Wehofen, Walsum, Duisburg, Nordrhein-Westfalen, 47179, Deutschland"
+  },
+  {
+    "name": "Duisburg, GG Mevissenstr.",
+    "schultyp": "Grundschule",
+    "sozialindex": "3",
+    "latitude": "51.4153796",
+    "longitude": "6.6858978",
+    "address": "Mevissenstraße, Oestrum, Rheinhausen, Duisburg, Nordrhein-Westfalen, 47228, Deutschland"
+  },
+  {
+    "name": "Duisburg, GG Van-Gogh-Str.",
+    "schultyp": "Grundschule",
+    "sozialindex": "1",
+    "latitude": "51.4140136",
+    "longitude": "6.6651738",
+    "address": "Van-Gogh-Straße, Trompet, Rheinhausen, Duisburg, Nordrhein-Westfalen, 47228, Deutschland"
+  },
+  {
+    "name": "Duisburg, GG Pestalozzistr.",
+    "schultyp": "Grundschule",
+    "sozialindex": "8",
+    "latitude": "51.5031951",
+    "longitude": "6.7467191",
+    "address": "Pestalozzistraße, Marxloh, Hamborn, Duisburg, Nordrhein-Westfalen, 47169, Deutschland"
+  },
+  {
+    "name": "Duisburg, GG Am Borgschenhof",
+    "schultyp": "Grundschule",
+    "sozialindex": "8",
+    "latitude": "51.3961136",
+    "longitude": "6.6952414",
+    "address": "Am Borgschenhof, Friemersheim, Rheinhausen, Duisburg, Nordrhein-Westfalen, 47229, Deutschland"
+  },
+  {
+    "name": "Duisburg, GG Beethovenstr.",
+    "schultyp": "Grundschule",
+    "sozialindex": "9",
+    "latitude": "51.4055319",
+    "longitude": "6.6517771",
+    "address": "Beethovenstraße, Kaldenhausen, Rheinhausen, Duisburg, Nordrhein-Westfalen, 47239, Deutschland"
+  },
+  {
+    "name": "Duisburg, GG Auf dem Berg",
+    "schultyp": "Grundschule",
+    "sozialindex": "5",
+    "latitude": "51.4051081",
+    "longitude": "6.6967235",
+    "address": "Auf dem Berg, Bergheim, Rheinhausen, Duisburg, Nordrhein-Westfalen, 47228, Deutschland"
+  },
+  {
+    "name": "Duisburg, GG Bergheimer Str.",
+    "schultyp": "Grundschule",
+    "sozialindex": "5",
+    "latitude": "51.4220939",
+    "longitude": "6.6985627",
+    "address": "Bergheimer Straße, Asterlagen, Rheinhausen, Duisburg, Nordrhein-Westfalen, 47228, Deutschland"
+  },
+  {
+    "name": "Duisburg, GG Krefelder Str.",
+    "schultyp": "Grundschule",
+    "sozialindex": "9",
+    "latitude": "51.4107771",
+    "longitude": "6.7190038",
+    "address": "Krefelder Straße, Atrop, Hochemmerich, Rheinhausen, Duisburg, Nordrhein-Westfalen, 47226, Deutschland"
+  },
+  {
+    "name": "Duisburg, EG Baerler Waldschule",
+    "schultyp": "Grundschule",
+    "sozialindex": "1",
+    "latitude": "51.4061565",
+    "longitude": "6.6948308",
+    "address": "Grundschule Auf dem Berg, Stettiner Straße, Bergheim, Rheinhausen, Duisburg, Nordrhein-Westfalen, 47228, Deutschland"
+  },
+  {
+    "name": "Duisburg, GG Gerhart-Hauptmann",
+    "schultyp": "Grundschule",
+    "sozialindex": "5",
+    "latitude": "51.3944815",
+    "longitude": "6.6784489",
+    "address": "GGS Gerhart-Hauptmann-Grundschule, 1, Breslauer Straße, Rumeln, Rheinhausen, Duisburg, Nordrhein-Westfalen, 47239, Deutschland"
+  },
+  {
+    "name": "Duisburg, GG Marienfeld",
+    "schultyp": "Grundschule",
+    "sozialindex": "2",
+    "latitude": "51.4018064",
+    "longitude": "6.6621008",
+    "address": "Marienfeld Grundschule, 12, Kirchstraße, Rumeln, Rheinhausen, Duisburg, Nordrhein-Westfalen, 47239, Deutschland"
+  },
+  {
+    "name": "Duisburg, GG Donkschule",
+    "schultyp": "Grundschule",
+    "sozialindex": "1",
+    "latitude": "51.3939053",
+    "longitude": "6.6519159",
+    "address": "Ggs Donkschule, 13, Gartenstraße, Kaldenhausen, Rheinhausen, Duisburg, Nordrhein-Westfalen, 47239, Deutschland"
+  },
+  {
+    "name": "Duisburg, GG (Verb.) Lauenburger Allee",
+    "schultyp": "Grundschule",
+    "sozialindex": "2",
+    "latitude": "",
+    "longitude": "",
+    "address": ""
+  },
+  {
+    "name": "Duisburg, GG (Verb.) Im Reimel",
+    "schultyp": "Grundschule",
+    "sozialindex": "2",
+    "latitude": "",
+    "longitude": "",
+    "address": ""
+  },
+  {
+    "name": "Duisburg, GG Astrid-Lindgren-Schule",
+    "schultyp": "Grundschule",
+    "sozialindex": "4",
+    "latitude": "51.4413021",
+    "longitude": "6.7836959",
+    "address": "Astrid-Lindgren-Schule, 80, Aakerfährstraße, Duissern, Duisburg-Mitte, Duisburg, Nordrhein-Westfalen, 47058, Deutschland"
+  },
+  {
+    "name": "Duisburg, GH Ludgerusstraße",
+    "schultyp": "Hauptschule",
+    "sozialindex": "8",
+    "latitude": "51.530574",
+    "longitude": "6.7488697",
+    "address": "Ludgerusstraße, Aldenrade, Walsum, Duisburg, Nordrhein-Westfalen, 47179, Deutschland"
+  },
+  {
+    "name": "Duisburg, RS Karl-Lehr",
+    "schultyp": "Realschule",
+    "sozialindex": "6",
+    "latitude": "51.4048586",
+    "longitude": "6.7668592",
+    "address": "Karl-Lehr-Realschule, 12, Wacholderstraße, Dickelsbachsiedlung, Wanheimerort, Duisburg-Mitte, Duisburg, Nordrhein-Westfalen, 47055, Deutschland"
+  },
+  {
+    "name": "Duisburg, RS Gustav-Stresemann-Realsch.",
+    "schultyp": "Realschule",
+    "sozialindex": "6",
+    "latitude": "",
+    "longitude": "",
+    "address": ""
+  },
+  {
+    "name": "Duisburg, RS Gustav-Heinemann-Schule",
+    "schultyp": "Realschule",
+    "sozialindex": "6",
+    "latitude": "51.4344303",
+    "longitude": "6.7686302",
+    "address": "Gustav-Heinemann-Realschule, 17, Landgerichtsstraße, Altstadt, Duisburg-Mitte, Duisburg, Nordrhein-Westfalen, 47051, Deutschland"
+  },
+  {
+    "name": "Duisburg, RS Fahrn",
+    "schultyp": "Realschule",
+    "sozialindex": "5",
+    "latitude": "51.5156647",
+    "longitude": "6.7506555",
+    "address": "Realschule Fahrn, 1, Netzestraße, Wehofen, Walsum, Duisburg, Nordrhein-Westfalen, 47169, Deutschland"
+  },
+  {
+    "name": "Duisburg, SK Am Biegerpark",
+    "schultyp": "Sekundarschule",
+    "sozialindex": "5",
+    "latitude": "51.3838293",
+    "longitude": "6.7462324",
+    "address": "Sekundarschule Am Biegerpark, Dependance, Beim Knevelshof, Wanheim, Wanheim-Angerhausen, Duisburg-Süd, Duisburg, Nordrhein-Westfalen, 47249, Deutschland"
+  },
+  {
+    "name": "Duisburg, SK Justus-von-Liebig-Schule",
+    "schultyp": "Sekundarschule",
+    "sozialindex": "7",
+    "latitude": "51.4980259",
+    "longitude": "6.7702393",
+    "address": "Justus-von-Liebig-Schule, Dependance, 43, August-Thyssen-Straße, Dichterviertel, Hamborn, Duisburg, Nordrhein-Westfalen, 47166, Deutschland"
+  },
+  {
+    "name": "Duisburg, GE Green-Gesamtschule",
+    "schultyp": "Gesamtschule",
+    "sozialindex": "7",
+    "latitude": "51.4036933",
+    "longitude": "6.7089737",
+    "address": "Green Gesamtschule, Stormstraße, Rheinhausen, Duisburg, Nordrhein-Westfalen, 47226, Deutschland"
+  },
+  {
+    "name": "Duisburg, GE Anne-Frank Gesamtschule",
+    "schultyp": "Gesamtschule",
+    "sozialindex": "5",
+    "latitude": "51.3756782",
+    "longitude": "6.78218",
+    "address": "Gesamtschule Duisburg Süd, 168-174, Großenbaumer Allee, Großenbaum, Duisburg-Süd, Duisburg, Nordrhein-Westfalen, 47269, Deutschland"
+  },
+  {
+    "name": "Duisburg, GE Süd",
+    "schultyp": "Gesamtschule",
+    "sozialindex": "3",
+    "latitude": "51.3756528",
+    "longitude": "6.7502003",
+    "address": "Schulzentrum Duisburg Süd, Am Ziegelkamp, Huckingen, Duisburg-Süd, Duisburg, Nordrhein-Westfalen, 47259, Deutschland"
+  },
+  {
+    "name": "Duisburg, GE Gottfried-Wilhelm-Leibniz",
+    "schultyp": "Gesamtschule",
+    "sozialindex": "5",
+    "latitude": "51.4886665",
+    "longitude": "6.7655257",
+    "address": "Leibniz-Gesamtschule, 274-278, Hamborner Straße, Hamborn, Duisburg, Nordrhein-Westfalen, 47166, Deutschland"
+  },
+  {
+    "name": "Duisburg, GE Heinrich-Heine-Schule",
+    "schultyp": "Gesamtschule",
+    "sozialindex": "6",
+    "latitude": "51.4086222",
+    "longitude": "6.698425",
+    "address": "Heinrich-Heine-Gesamtschule, In den Peschen, Bergheim, Rheinhausen, Duisburg, Nordrhein-Westfalen, 47228, Deutschland"
+  },
+  {
+    "name": "Duisburg, GE Mitte",
+    "schultyp": "Gesamtschule",
+    "sozialindex": "5",
+    "latitude": "51.4302149",
+    "longitude": "6.7906663",
+    "address": "Gesamtschule DU-Mitte, 49, Pappenstraße, Wabenquartier, Neudorf-Nord, Duisburg-Mitte, Duisburg, Nordrhein-Westfalen, 47057, Deutschland"
+  },
+  {
+    "name": "Duisburg, GE Meiderich",
+    "schultyp": "Gesamtschule",
+    "sozialindex": "9",
+    "latitude": "51.4658722",
+    "longitude": "6.7852415",
+    "address": "Gesamtschule Meiderich, 30, Westender Straße, Ratingsee-Siedlung, Mittelmeiderich, Meiderich/Beeck, Duisburg, Nordrhein-Westfalen, 47138, Deutschland"
+  },
+  {
+    "name": "Duisburg, GE Walsum",
+    "schultyp": "Gesamtschule",
+    "sozialindex": "5",
+    "latitude": "51.53188",
+    "longitude": "6.74011",
+    "address": "Gesamtschule Walsum, 51, Kurze Straße, Walsum, Duisburg, Nordrhein-Westfalen, 47179, Deutschland"
+  },
+  {
+    "name": "Duisburg, GE Erich Kästner",
+    "schultyp": "Gesamtschule",
+    "sozialindex": "8",
+    "latitude": "51.4461319",
+    "longitude": "6.6924111",
+    "address": "Erich-Kästner-Gesamtschule, 87, Ehrenstraße, Hochheide, Homberg/Ruhrort/Baerl, Duisburg, Nordrhein-Westfalen, 47198, Deutschland"
+  },
+  {
+    "name": "Duisburg, GE Theodor-König",
+    "schultyp": "Gesamtschule",
+    "sozialindex": "8",
+    "latitude": "51.4726811",
+    "longitude": "6.762046",
+    "address": "Theodor-König-Gesamtschule Klassen 5-6, 54, Gartsträucherstraße, Untermeiderich, Meiderich/Beeck, Duisburg, Nordrhein-Westfalen, 47137, Deutschland"
+  },
+  {
+    "name": "Duisburg, GE Emschertal",
+    "schultyp": "Gesamtschule",
+    "sozialindex": "6",
+    "latitude": "51.4989468",
+    "longitude": "6.8091716",
+    "address": "Gesamtschule Emschertal - Neumühl, 11, Albert-Einstein-Straße, Siedlung Bergmannsplatz, Neumühl, Hamborn, Duisburg, Nordrhein-Westfalen, 47167, Deutschland"
+  },
+  {
+    "name": "Duisburg, GE Lise-Meitner",
+    "schultyp": "Gesamtschule",
+    "sozialindex": "5",
+    "latitude": "51.4004204",
+    "longitude": "6.7046574",
+    "address": "Lise-Meitner-Gesamtschule, 3, Lessingstraße, Rheinhausen, Duisburg, Nordrhein-Westfalen, 47226, Deutschland"
+  },
+  {
+    "name": "Duisburg, GE Aletta-Haniel-Gesamtschule",
+    "schultyp": "Gesamtschule",
+    "sozialindex": "6",
+    "latitude": "51.4509026",
+    "longitude": "6.7365142",
+    "address": "Aletta-Haniel-Gesamtschule (Zweigstelle), 13, Carpstraße, Ruhrort, Homberg/Ruhrort/Baerl, Duisburg, Nordrhein-Westfalen, 47119, Deutschland"
+  },
+  {
+    "name": "Duisburg, GE Herbert-Grillo",
+    "schultyp": "Gesamtschule",
+    "sozialindex": "9",
+    "latitude": "51.502512",
+    "longitude": "6.7481102",
+    "address": "Herbert-Grillo-Gesamtschule, An der Paulskirche, Marxloh, Hamborn, Duisburg, Nordrhein-Westfalen, 47169, Deutschland"
+  },
+  {
+    "name": "Duisburg, GE Globus am Dellplatz",
+    "schultyp": "Gesamtschule",
+    "sozialindex": "9",
+    "latitude": "51.4151",
+    "longitude": "6.7601205",
+    "address": "Gesamtschule Globus am Dellplatz (Zweigstelle), 107, Gitschiner Straße, Hochfeld, Duisburg-Mitte, Duisburg, Nordrhein-Westfalen, 47053, Deutschland"
+  },
+  {
+    "name": "Duisburg, Gym Landfermann",
+    "schultyp": "Gymnasium",
+    "sozialindex": "4",
+    "latitude": "51.4342765",
+    "longitude": "6.7740959",
+    "address": "Landfermann-Gymnasium, 10, Mainstraße, Altstadt, Duisburg-Mitte, Duisburg, Nordrhein-Westfalen, 47051, Deutschland"
+  },
+  {
+    "name": "Duisburg, Gym Steinbart",
+    "schultyp": "Gymnasium",
+    "sozialindex": "3",
+    "latitude": "51.4277758",
+    "longitude": "6.7661341",
+    "address": "Steinbart-Gymnasium, 45, Realschulstraße, City Wohnpark, Dellviertel, Duisburg-Mitte, Duisburg, Nordrhein-Westfalen, 47051, Deutschland"
+  },
+  {
+    "name": "Duisburg, Gym Mercator",
+    "schultyp": "Gymnasium",
+    "sozialindex": "6",
+    "latitude": "51.4228033",
+    "longitude": "6.7580476",
+    "address": "Mercator-Gymnasium, 152, Musfeldstraße, City Wohnpark, Dellviertel, Duisburg-Mitte, Duisburg, Nordrhein-Westfalen, 47053, Deutschland"
+  },
+  {
+    "name": "Duisburg, Gym Reinhard-u.-Max-Mannesmann",
+    "schultyp": "Gymnasium",
+    "sozialindex": "2",
+    "latitude": "51.3762042",
+    "longitude": "6.7512301",
+    "address": "Gebäude A, Reinhard-und-Max-Mannesmann-Gymnasium, 13-15, Am Ziegelkamp, Huckingen, Duisburg-Süd, Duisburg, Nordrhein-Westfalen, 47259, Deutschland"
+  },
+  {
+    "name": "Duisburg, Gym Max-Planck",
+    "schultyp": "Gymnasium",
+    "sozialindex": "7",
+    "latitude": "51.4661941",
+    "longitude": "6.7767543",
+    "address": "Max-Planck-Gymnasium, 12, Werner-Wild-Straße, Mittelmeiderich, Meiderich/Beeck, Duisburg, Nordrhein-Westfalen, 47137, Deutschland"
+  },
+  {
+    "name": "Duisburg, Gym Elly-Heuss-Knapp",
+    "schultyp": "Gymnasium",
+    "sozialindex": "6",
+    "latitude": "51.4995031",
+    "longitude": "6.7548744",
+    "address": "Elly-Heuss-Knapp-Gymnasium, Arnimstraße, Marxloh, Hamborn, Duisburg, Nordrhein-Westfalen, 47169, Deutschland"
+  },
+  {
+    "name": "Duisburg, Gym Kopernikus",
+    "schultyp": "Gymnasium",
+    "sozialindex": "4",
+    "latitude": "51.5336178",
+    "longitude": "6.7382168",
+    "address": "Kopernikus-Gymnasium, 81, Beckersloh, Walsum, Duisburg, Nordrhein-Westfalen, 47179, Deutschland"
+  },
+  {
+    "name": "Duisburg, Gym Franz-Haniel",
+    "schultyp": "Gymnasium",
+    "sozialindex": "4",
+    "latitude": "51.4521593",
+    "longitude": "6.7042173",
+    "address": "Franz-Haniel-Gymnasium, 25, Wilhelmstraße, Alt-Homberg, Homberg, Homberg/Ruhrort/Baerl, Duisburg, Nordrhein-Westfalen, 47198, Deutschland"
+  },
+  {
+    "name": "Duisburg, Gym Krupp",
+    "schultyp": "Gymnasium",
+    "sozialindex": "5",
+    "latitude": "51.409748",
+    "longitude": "6.696803",
+    "address": "Europaschule Krupp-Gymnasium, In den Peschen, Bergheim, Rheinhausen, Duisburg, Nordrhein-Westfalen, 47228, Deutschland"
+  },
+  {
+    "name": "Duisburg, Gym Albert-Einstein",
+    "schultyp": "Gymnasium",
+    "sozialindex": "2",
+    "latitude": "51.3970094",
+    "longitude": "6.655606",
+    "address": "Albert-Einstein-Gymnasium, Kendelstraße, Kaldenhausen, Rheinhausen, Duisburg, Nordrhein-Westfalen, 47239, Deutschland"
+  }
+]

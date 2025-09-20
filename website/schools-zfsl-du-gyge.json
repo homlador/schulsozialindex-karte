@@ -1,0 +1,226 @@
+[
+  {
+    "name": "Ratingen, Gym Kopernikus",
+    "schultyp": "Gymnasium",
+    "sozialindex": "2",
+    "latitude": "51.34318",
+    "longitude": "6.8283429",
+    "address": "Kopernikus-Gymnasium-Lintorf, 112, Duisburger Straße, Lintorf, Lintorf/Breitscheid, Ratingen, Kreis Mettmann, Nordrhein-Westfalen, 40885, Deutschland"
+  },
+  {
+    "name": "Moers, GE Geschwister-Scholl",
+    "schultyp": "Gesamtschule",
+    "sozialindex": "6",
+    "latitude": "51.4489806",
+    "longitude": "6.6601559",
+    "address": "Geschwister-Scholl-Gesamtschule Moers, 522, Römerstraße, Hochstraß, Moers, Kreis Wesel, Nordrhein-Westfalen, 47443, Deutschland"
+  },
+  {
+    "name": "Moers, Gym Grafschafter",
+    "schultyp": "Gymnasium",
+    "sozialindex": "4",
+    "latitude": "51.4509139",
+    "longitude": "6.6337358",
+    "address": "Grafschafter Gymnasium, Bankstraße, Altstadt Moers, Moers-Mitte, Moers, Kreis Wesel, Nordrhein-Westfalen, 47441, Deutschland"
+  },
+  {
+    "name": "Moers, Gym Adolfinum",
+    "schultyp": "Gymnasium",
+    "sozialindex": "2",
+    "latitude": "51.4536582",
+    "longitude": "6.6303081",
+    "address": "Gymnasium Adolfinum, Ostring, Altstadt Moers, Moers-Mitte, Moers, Kreis Wesel, Nordrhein-Westfalen, 47441, Deutschland"
+  },
+  {
+    "name": "Moers, Gym in den Filder Benden",
+    "schultyp": "Gymnasium",
+    "sozialindex": "2",
+    "latitude": "51.4423565",
+    "longitude": "6.6201818",
+    "address": "Gymnasium in den Filder Benden, 43, Zahnstraße, Vinn, Moers, Kreis Wesel, Nordrhein-Westfalen, 47447, Deutschland"
+  },
+  {
+    "name": "Duisburg, GE Süd",
+    "schultyp": "Gesamtschule",
+    "sozialindex": "3",
+    "latitude": "51.3756528",
+    "longitude": "6.7502003",
+    "address": "Schulzentrum Duisburg Süd, Am Ziegelkamp, Huckingen, Duisburg-Süd, Duisburg, Nordrhein-Westfalen, 47259, Deutschland"
+  },
+  {
+    "name": "Duisburg, GE Gottfried-Wilhelm-Leibniz",
+    "schultyp": "Gesamtschule",
+    "sozialindex": "5",
+    "latitude": "51.4886665",
+    "longitude": "6.7655257",
+    "address": "Leibniz-Gesamtschule, 274-278, Hamborner Straße, Hamborn, Duisburg, Nordrhein-Westfalen, 47166, Deutschland"
+  },
+  {
+    "name": "Duisburg, GE Heinrich-Heine-Schule",
+    "schultyp": "Gesamtschule",
+    "sozialindex": "6",
+    "latitude": "51.4086222",
+    "longitude": "6.698425",
+    "address": "Heinrich-Heine-Gesamtschule, In den Peschen, Bergheim, Rheinhausen, Duisburg, Nordrhein-Westfalen, 47228, Deutschland"
+  },
+  {
+    "name": "Duisburg, GE Mitte",
+    "schultyp": "Gesamtschule",
+    "sozialindex": "5",
+    "latitude": "51.4361812",
+    "longitude": "6.7784618",
+    "address": "Gesamtschule Duisburg-Mitte, Falkstraße, Duissern, Duisburg-Mitte, Duisburg, Nordrhein-Westfalen, 47058, Deutschland"
+  },
+  {
+    "name": "Duisburg, GE Meiderich",
+    "schultyp": "Gesamtschule",
+    "sozialindex": "9",
+    "latitude": "51.4658722",
+    "longitude": "6.7852415",
+    "address": "Gesamtschule Meiderich, 30, Westender Straße, Mittelmeiderich, Meiderich/Beeck, Duisburg, Nordrhein-Westfalen, 47138, Deutschland"
+  },
+  {
+    "name": "Duisburg, GE Walsum",
+    "schultyp": "Gesamtschule",
+    "sozialindex": "5",
+    "latitude": "51.53188",
+    "longitude": "6.74011",
+    "address": "Gesamtschule Walsum, 51, Kurze Straße, Walsum, Duisburg, Nordrhein-Westfalen, 47179, Deutschland"
+  },
+  {
+    "name": "Duisburg, GE Erich Kästner",
+    "schultyp": "Gesamtschule",
+    "sozialindex": "8",
+    "latitude": "51.4461319",
+    "longitude": "6.6924111",
+    "address": "Erich-Kästner-Gesamtschule, 87, Ehrenstraße, Hochheide, Homberg/Ruhrort/Baerl, Duisburg, Nordrhein-Westfalen, 47198, Deutschland"
+  },
+  {
+    "name": "Duisburg, GE Theodor-König",
+    "schultyp": "Gesamtschule",
+    "sozialindex": "8",
+    "latitude": "51.4790936",
+    "longitude": "6.744867",
+    "address": "Theodor-König-Gesamtschule, 10a, Möhlenkampstraße, Bruckhausen, Meiderich/Beeck, Duisburg, Nordrhein-Westfalen, 47139, Deutschland"
+  },
+  {
+    "name": "Duisburg, GE Emschertal",
+    "schultyp": "Gesamtschule",
+    "sozialindex": "6",
+    "latitude": "51.4989468",
+    "longitude": "6.8091716",
+    "address": "Gesamtschule Emschertal - Neumühl, 11, Albert-Einstein-Straße, Siedlung Bergmannsplatz, Neumühl, Hamborn, Duisburg, Nordrhein-Westfalen, 47167, Deutschland"
+  },
+  {
+    "name": "Duisburg, GE Aletta-Haniel-Gesamtschule",
+    "schultyp": "Gesamtschule",
+    "sozialindex": "6",
+    "latitude": "51.4531273",
+    "longitude": "6.7363209",
+    "address": "Aletta-Haniel Gesamtschule, 25, Karlstraße, Ruhrort, Homberg/Ruhrort/Baerl, Duisburg, Nordrhein-Westfalen, 47119, Deutschland"
+  },
+  {
+    "name": "Duisburg, GE Globus am Dellplatz",
+    "schultyp": "Gesamtschule",
+    "sozialindex": "9",
+    "latitude": "51.4151",
+    "longitude": "6.7601205",
+    "address": "Gesamtschule Globus am Dellplatz (Zweigstelle), 107, Gitschiner Straße, Hochfeld, Duisburg-Mitte, Duisburg, Nordrhein-Westfalen, 47053, Deutschland"
+  },
+  {
+    "name": "Duisburg, Gym Landfermann",
+    "schultyp": "Gymnasium",
+    "sozialindex": "4",
+    "latitude": "51.4342765",
+    "longitude": "6.7740959",
+    "address": "Landfermann-Gymnasium, 10, Mainstraße, Altstadt, Duisburg-Mitte, Duisburg, Nordrhein-Westfalen, 47051, Deutschland"
+  },
+  {
+    "name": "Duisburg, Gym Steinbart",
+    "schultyp": "Gymnasium",
+    "sozialindex": "3",
+    "latitude": "51.4277758",
+    "longitude": "6.7661341",
+    "address": "Steinbart-Gymnasium, 45, Realschulstraße, City Wohnpark, Dellviertel, Duisburg-Mitte, Duisburg, Nordrhein-Westfalen, 47051, Deutschland"
+  },
+  {
+    "name": "Duisburg, Gym Mercator",
+    "schultyp": "Gymnasium",
+    "sozialindex": "6",
+    "latitude": "51.4228033",
+    "longitude": "6.7580476",
+    "address": "Mercator-Gymnasium, 152, Musfeldstraße, City Wohnpark, Dellviertel, Duisburg-Mitte, Duisburg, Nordrhein-Westfalen, 47053, Deutschland"
+  },
+  {
+    "name": "Duisburg, Gym Reinhard-u.-Max-Mannesmann",
+    "schultyp": "Gymnasium",
+    "sozialindex": "2",
+    "latitude": "51.3762042",
+    "longitude": "6.7512301",
+    "address": "Gebäude A, Reinhard-und-Max-Mannesmann-Gymnasium, 13-15, Am Ziegelkamp, Huckingen, Duisburg-Süd, Duisburg, Nordrhein-Westfalen, 47259, Deutschland"
+  },
+  {
+    "name": "Duisburg, Gym Max-Planck",
+    "schultyp": "Gymnasium",
+    "sozialindex": "7",
+    "latitude": "51.4661941",
+    "longitude": "6.7767543",
+    "address": "Max-Planck-Gymnasium, 12, Werner-Wild-Straße, Mittelmeiderich, Meiderich/Beeck, Duisburg, Nordrhein-Westfalen, 47137, Deutschland"
+  },
+  {
+    "name": "Duisburg, Gym Elly-Heuss-Knapp",
+    "schultyp": "Gymnasium",
+    "sozialindex": "6",
+    "latitude": "51.4995031",
+    "longitude": "6.7548744",
+    "address": "Elly-Heuss-Knapp-Gymnasium, Willy-Brandt-Ring, Marxloh, Hamborn, Duisburg, Nordrhein-Westfalen, 47169, Deutschland"
+  },
+  {
+    "name": "Duisburg, Gym Kopernikus",
+    "schultyp": "Gymnasium",
+    "sozialindex": "4",
+    "latitude": "51.5336178",
+    "longitude": "6.7382168",
+    "address": "Kopernikus-Gymnasium, 81, Beckersloh, Walsum, Duisburg, Nordrhein-Westfalen, 47179, Deutschland"
+  },
+  {
+    "name": "Duisburg, Gym Franz-Haniel",
+    "schultyp": "Gymnasium",
+    "sozialindex": "4",
+    "latitude": "51.4521593",
+    "longitude": "6.7042173",
+    "address": "Franz-Haniel-Gymnasium, 25, Wilhelmstraße, Alt-Homberg, Homberg, Homberg/Ruhrort/Baerl, Duisburg, Nordrhein-Westfalen, 47198, Deutschland"
+  },
+  {
+    "name": "Duisburg, Gym Krupp",
+    "schultyp": "Gymnasium",
+    "sozialindex": "5",
+    "latitude": "51.409748",
+    "longitude": "6.696803",
+    "address": "Europaschule Krupp-Gymnasium, In den Peschen, Bergheim, Rheinhausen, Duisburg, Nordrhein-Westfalen, 47228, Deutschland"
+  },
+  {
+    "name": "Duisburg, Gym Albert-Einstein",
+    "schultyp": "Gymnasium",
+    "sozialindex": "2",
+    "latitude": "51.3970094",
+    "longitude": "6.655606",
+    "address": "Albert-Einstein-Gymnasium, Kendelstraße, Kaldenhausen, Rheinhausen, Duisburg, Nordrhein-Westfalen, 47239, Deutschland"
+  },
+  {
+    "name": "Essen, Gym Nord-Ost",
+    "schultyp": "Gymnasium",
+    "sozialindex": "7",
+    "latitude": "51.4704119",
+    "longitude": "7.0224415",
+    "address": "Gymnasium Essen Nord-Ost, 77, 79, Katzenbruchstraße, Eltingviertel, Nordviertel, Stadtbezirk I, Essen, Nordrhein-Westfalen, 45141, Deutschland"
+  },
+  {
+    "name": "Mülheim an der Ruhr, Gym Broich",
+    "schultyp": "Gymnasium",
+    "sozialindex": "2",
+    "latitude": "51.4210236",
+    "longitude": "6.8626902",
+    "address": "Gymnasium Broich, 21, Ritterstraße, Broicher Mitte, Broich, Linksruhr, Mülheim an der Ruhr, Nordrhein-Westfalen, 45479, Deutschland"
+  }
+]

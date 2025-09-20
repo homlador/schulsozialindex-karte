@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Schulsozialindex Karte</title>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <style>
+        #map {
+            height: calc(100vh - 40px);
+            width: 100%;
+        }
+        .info-bar {
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            background: rgba(255, 255, 255, 0.9);
+            padding: 10px;
+            text-align: center;
+            font-size: 14px;
+            border-top: 1px solid #ccc;
+            box-shadow: 0 -2px 5px rgba(0,0,0,0.1);
+        }
+        .info-bar a {
+            color: #0078A8;
+            text-decoration: none;
+        }
+        .info-bar a:hover {
+            text-decoration: underline;
+        }
+        body {
+            margin: 0;
+            padding: 0;
+        }
+        .control-panel {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            z-index: 1000;
+            background: white;
+            padding: 10px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.2);
+        }
+        .control-panel h3 {
+            margin: 0 0 10px 0;
+        }
+        .school-search {
+            margin-bottom: 15px;
+        }
+        .school-search {
+            display: flex;
+            gap: 5px;
+        }
+        .school-search input {
+            flex: 1;
+            padding: 5px;
+            box-sizing: border-box;
+        }
+        .school-search button {
+            padding: 5px 10px;
+            cursor: pointer;
+            background-color: #f0f0f0;
+            border: 1px solid #ccc;
+            border-radius: 3px;
+        }
+        .school-search button:hover {
+            background-color: #e0e0e0;
+        }
+        .school-type-control {
+            margin: 5px 0;
+        }
+        .school-count {
+            margin-left: 5px;
+            color: #666;
+            font-size: 0.9em;
+        }
+        .dataset-select {
+            margin-bottom: 15px;
+        }
+        .dataset-select select {
+            width: 100%;
+            padding: 5px;
+            box-sizing: border-box;
+        }
+    </style>
+</head>
+<body>
+    <div id="map"></div>
+    <div class="info-bar">
+        Schulsozialindex-Karte NRW | Nicht alle Schulen sind berücksichtigt, denn: Adressdaten wurden automatisiert ergänzt | Adressdaten können fehlerhaft sein |
+        <a href="https://www.schulministerium.nrw/schulsozialindex" target="_blank">Mehr Informationen zum Schulsozialindex</a>
+    </div>
+    <div class="control-panel">
+        <div class="dataset-select">
+            <h3>Datensatz</h3>
+            <select id="datasetSelect">
+                <option value="schools-duisburg.json">Duisburg</option>                                                
+                <option value="schools-nrw-sek2.json">NRW Sek II</option>       
+                <option value="schools-zfsl-du-gyge.json">ZFSL Duisburg GyGe</option>                
+                <option value="schools-br-ddorf.json">BR Düsseldorf</option>
+
+            </select>
+        </div>
+        <div class="school-search">
+            <input type="text" id="schoolSearch" placeholder="Schule suchen..." />
+            <button id="resetSearch">×</button>
+        </div>
+        <h3>Schultypen</h3>
+        <div class="school-type-control">
+            <input type="checkbox" id="type-all" value="all" checked>
+            <label for="type-all">Alle</label>
+        </div>
+        <div class="school-type-control">
+            <input type="checkbox" id="type-gs" value="Grundschule" checked>
+            <label for="type-gs">Grundschule</label>
+        </div>
+        <div class="school-type-control">
+            <input type="checkbox" id="type-hs" value="Hauptschule" checked>
+            <label for="type-hs">Hauptschule</label>
+        </div>
+        <div class="school-type-control">
+            <input type="checkbox" id="type-rs" value="Realschule" checked>
+            <label for="type-rs">Realschule</label>
+        </div>
+        <div class="school-type-control">
+            <input type="checkbox" id="type-rs" value="Sekundarschule" checked>
+            <label for="type-rs">Sekundarschule</label>
+        </div>        
+        <div class="school-type-control">
+            <input type="checkbox" id="type-ges" value="Gesamtschule" checked>
+            <label for="type-ges">Gesamtschule</label>
+        </div>
+        <div class="school-type-control">
+            <input type="checkbox" id="type-gym" value="Gymnasium" checked>
+            <label for="type-gym">Gymnasium</label>
+        </div>
+    </div>
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="map.js"></script>
+</body>
+</html>
