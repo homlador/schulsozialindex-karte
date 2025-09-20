@@ -7,10 +7,11 @@ Die Adressdaten werden automatisiert mit [Nominatim](https://nominatim.org/) erg
 
 ## HOWTO
 
-1. [Daten aus PDF](https://www.schulministerium.nrw/system/files/media/document/file/sozialindex_schulliste_schuljahr_2025-26.pdf) extrahieren und in csv speichern: `$ extract_data.py`
+0. `$ uv sync`
+1. [Daten aus PDF](https://www.schulministerium.nrw/system/files/media/document/file/sozialindex_schulliste_schuljahr_2025-26.pdf) extrahieren und in csv speichern: `$ uv run extract_data.py`
 2. Ggf die ausgewählten Schulen in geocode_schools.py anpassen. 
-Adressdaten ergänzen: `$ geocode_schools.py`
+Adressdaten ergänzen: `$ uv run geocode_schools.py`
 Automatisiert werden die meisten Adressen (zumindest ungefährder weiterführenden Schulen gefunden. Fehlerquote unbekannt. Bei Grundschulen funktioniert es kaum.
 ggf. Manuell ergänzen bzw korrigieren
-3. Daten nach JSON konvertieren: `$ convert_to_json`
+3. Daten nach JSON konvertieren: `$ uv run convert_to_json`
 3. index.html öffnen

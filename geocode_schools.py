@@ -5,8 +5,8 @@ import time
 import os
 
 def load_existing_coordinates():
-    if os.path.exists('alle_schulen-mit-koordinaten.csv'):
-        existing_df = pd.read_csv('alle_schulen-mit-koordinaten.csv')
+    if os.path.exists('schulen-mit-koordinaten.csv'):
+        existing_df = pd.read_csv('schulen-mit-koordinaten.csv')
         # Erstelle ein Dictionary mit Schulnummer als Schlüssel
         return existing_df.set_index('Schulnummer')[['latitude', 'longitude', 'found_address']].to_dict('index')
     return {}
