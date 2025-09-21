@@ -1249,8 +1249,8 @@
     "schultyp": "Grundschule",
     "sozialindex": "3",
     "anzahl": "325",
-    "latitude": "51.3854571",
-    "longitude": "6.7639872",
+    "latitude": "51.3848603",
+    "longitude": "6.7627473",
     "address": "Böhmer Straße, Österreicher Viertel, Buchholz, Duisburg-Süd, Duisburg, Nordrhein-Westfalen, 47249, Deutschland"
   },
   {
@@ -1273,18 +1273,7 @@
     "anzahl": "200",
     "latitude": "51.4362178",
     "longitude": "6.7229591",
-    "address": "Gemeinschaftsgrundschule Lilienthalstraße, 28, Lilienthalstraße, Diergardt-Siedlung, Neuenkamp, Duisburg-Mitte, Duisburg, Nordrhein-Westfalen, 47059, Deutschland"
-  },
-  {
-    "name": "Städt. Gem. Grundschule",
-    "schulnummer": "101515",
-    "ort": "Duisburg",
-    "schultyp": "Grundschule",
-    "sozialindex": "6",
-    "anzahl": "205",
-    "latitude": "51.4335325",
-    "longitude": "6.7580466",
-    "address": "Städtische Gemeinschaftsgrundschule Klosterstraße, 18, Klosterstraße, Altstadt, Duisburg-Mitte, Duisburg, Nordrhein-Westfalen, 47051, Deutschland"
+    "address": "Gemeinschaftsgrundschule Lilienthalstraße, 28, Lilienthalstraße, Diergardt-Siedlung, Neuenkamp, Duisburg-Mitte, Duisburg, Nordrhein-Westfalen, 47059, Deutschland\"\n2024/25,Grundschule,5112000,Krfr. Stadt Duisburg,101515,Städt. Gem. Grundschule,,,Klosterstr. 18,47051,Duisburg,Öffentlich,203.0,2982344.0,203.0,24851.0,101515@schule.nrw.de,205,6,51.4335325,6.7580466,Städtische Gemeinschaftsgrundschule Klosterstraße"
   },
   {
     "name": "Hundertwasser-Schule",
