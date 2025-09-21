@@ -27,19 +27,6 @@ function getColorForIndex(index) {
 let markers = [];
 let searchTerm = '';
 
-// Suchfeld Event-Listener
-document.getElementById('schoolSearch').addEventListener('input', function(e) {
-    searchTerm = e.target.value.toLowerCase();
-    updateMarkers(window.schools);
-});
-
-// Reset-Button Event-Listener
-document.getElementById('resetSearch').addEventListener('click', function() {
-    document.getElementById('schoolSearch').value = '';
-    searchTerm = '';
-    updateMarkers(window.schools);
-});
-
 // Funktion zum Aktualisieren der Statistik
 function updateStatistics(schools) {
     // Zähle Schulen pro Typ
@@ -79,8 +66,13 @@ function updateStatistics(schools) {
 }
 // Radius anhand der Anzahl berechnen
 function getRadius(anzahl) {    
-    const base = Math.sqrt(anzahl) * 0.6; // Skalierung
-    return Math.min(base, 15);          // Maximale Grösse
+    const dynamic = document.getElementById('dynamicRadius').checked;
+    if (dynamic) {
+        const base = Math.sqrt(anzahl) * 0.6;   // Skalierung
+        return Math.min(base, 15);              // Maximale Grösse
+    } else {
+        return 8;
+    }
 }
 
 // Funktion zum Aktualisieren der Marker basierend auf den Filtereinstellungen und der Suche
@@ -143,6 +135,19 @@ if (datasetSelect && datasetSelect.options.length > 0) {
     loadSchoolData(datasetSelect.options[0].value);
 }
 
+// Suchfeld Event-Listener
+document.getElementById('schoolSearch').addEventListener('input', function(e) {
+    searchTerm = e.target.value.toLowerCase();
+    updateMarkers(window.schools);
+});
+
+// Reset-Button Event-Listener
+document.getElementById('resetSearch').addEventListener('click', function() {
+    document.getElementById('schoolSearch').value = '';
+    searchTerm = '';
+    updateMarkers(window.schools);
+});
+
 // Statistik-Spans für alle Labels erstellen
 document.querySelectorAll('.school-type-control label').forEach(label => {
     const span = document.createElement('span');
@@ -154,6 +159,11 @@ document.querySelectorAll('.school-type-control label').forEach(label => {
 // Event-Listener für Dropdown-Änderungen
 document.getElementById('datasetSelect').addEventListener('change', function(e) {
     loadSchoolData(e.target.value);
+});
+
+// Event-Listener für Options-Änderungen
+document.getElementById('dynamicRadius').addEventListener('change', function(e) {
+    updateMarkers(window.schools);
 });
 
 // Event-Listener für Checkbox-Änderungen

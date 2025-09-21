@@ -26,5 +26,4 @@ Manuell aufbereiten
 
 ## TODO
 
-* Darstellung der Schulen als Kreis mit Grösse abhängig von der Schülerzahl
 * Auswahl nach Bezirken o.ä per Javascript
