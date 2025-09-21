@@ -108,6 +108,7 @@ function updateMarkers(schools) {
                 .bindPopup(`
                     <strong>${school.name} (${school.schultyp})</strong><br>
                     Sozialindex: ${school.sozialindex}<br>
+                    Anzahl: ${school.anzahl}<br>
                     ${school.address}
                 `);
             markers.push(marker);

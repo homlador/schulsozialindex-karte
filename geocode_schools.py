@@ -1,3 +1,7 @@
+"""
+Sucht zu Schulen in NRW die Geokoordinaten (Latitude, Longitude) mittels Nominatim (OpenStreetMap)
+"""
+
 from geopy.geocoders import Nominatim
 from geopy.exc import GeocoderTimedOut
 import pandas as pd
@@ -11,59 +15,35 @@ def load_existing_coordinates():
         return existing_df.set_index('Schulnummer')[['latitude', 'longitude', 'found_address']].to_dict('index')
     return {}
 
+def do_geocode(geolocator, query, attempt=1, max_attempts=5):
+    try:
+        return geolocator.geocode(query, exactly_one=True)
+    except GeocoderTimedOut:
+        if attempt <= max_attempts:
+            return do_geocode(geolocator, query, attempt=attempt+1)
+        raise
+    
 def geocode_school(geolocator, school_info):
     try:
         # Extrahiere Stadt und Schulname
-        city = school_info['Kreis/Stadt']
-        school_name = school_info['Schulname']
-        school_type = school_info['Schulform']
-        
-        # Entferne Anführungszeichen und Stadt-Präfix
-        school_name = school_name.strip('"')
-        if ", " in school_name:
-            city, school_name = school_name.split(", ", 1)
-        
-        # Extrahiere den eigentlichen Schulnamen und entferne Präfixe
-        name_parts = school_name.split()
-        if len(name_parts) > 1 and name_parts[0].upper() in ['GG', 'RS', 'GE', 'GH', 'SK', 'GYM', 'KG']:
-            school_name = " ".join(name_parts[1:])
-        
-        # Normalisiere Schultyp
-        school_type_map = {
-            'GG': 'Gemeinschaftsgrundschule',
-            'KG': 'Katholische Grundschule',
-            'EG': 'Evangelische Grundschule',
-            'GE': 'Gesamtschule',
-            'Gym': 'Gymnasium',
-            'RS': 'Realschule',
-            'GH': 'Hauptschule',
-            'SK': 'Sekundarschule'
-        }
-        
-        if school_type in school_type_map:
-            school_type = school_type_map[school_type]
-        
-        # Entferne das Wort "Stadt" aus dem Stadtnamen
-        city = city.replace("Stadt ", "").strip()
-        city = city.replace("Kreis ", "").strip()
-                    
-        school_name = school_name.replace('Gym ', '')
-        school_name = school_name.replace('GE', '')
-        school_name = school_name.replace('Schule', '')
-        school_name = school_name.replace('Gesamtsch.', '')
+        city = school_info['Ort']
+        school_name = school_info['Amtliche Bezeichnung 1']
+        school_type = school_info['Schulform']            
+        school_name = school_name.replace('Städt.', '')
+        school_adress = school_info['Straße und Hausnummer']
         
         # Baue verschiedene Queries für bessere Trefferchancen
-        queries = [                        
-            f"{school_name} {school_type} {city}",
-            f"{school_name} {city}",            
-            f"{school_name} Schule {city}",            
-            f"{school_type} {city}",
+        queries = [                 
+            f"{school_name} {school_adress} {city}",                                      
+            f"{school_adress} {city}",    
+            f"{school_name} {city}",                        
+            f"{school_name} {school_type} {city}"
         ]
         
         # Versuche alle Queries
         for query in queries:
             print(f"  Versuche: {query}")
-            location = geolocator.geocode(f"{query}, Deutschland", exactly_one=True)
+            location = do_geocode(geolocator, query)
             if location:
                 return {
                     'latitude': location.latitude,
@@ -71,38 +51,30 @@ def geocode_school(geolocator, school_info):
                     'found_address': location.address,
                     'used_query': query
                 }
-            
-        location = geolocator.geocode(query, exactly_one=True)
-        
-        if location:
-            return {
-                'latitude': location.latitude,
-                'longitude': location.longitude,
-                'found_address': location.address
-            }
+            # Warte 1 Sekunde zwischen Anfragen (Nominatim Policy)
+            time.sleep(1)        
         return None
     except Exception as e:
         print(f"Fehler bei {school_name}: {str(e)}")
         return None
 
 def main():       
-    df = pd.read_csv('alle_schulen.csv')        
+    # Definiere die Datentypen für die Spalten, damit diese nicht als float mit XYZ.0 gespeichert werden
+    columns_with_int = ['Amtlicher Gemeindeschlüssel', 'Schulformschlüssel', 'Schulnummer', 'Sozialindex', 'Anzahl', 'Postleitzahl', 'Amtlicher Gemeinde-schlüssel']    
+    types = {col: 'Int32' for col in columns_with_int}
+    df = pd.read_csv('AS_BS_Verzeichnis_2024_25_mit_Sozialindex.csv', dtype=types)       
     print(f"{len(df)} Schulen aus CSV gelesen.")
     
     # ----------------------- Ab hier anpassen zum Filtern ----------------------- 
     # Filtere nur eine Auswahl an Städten
-    auswahl_staedte = None
-    auswahl_schulnummern = None
-    # Beispielhafte Auswahl
-    #auswahl_staedte = ['Stadt Duisburg']    
-    #auswahl_schulnummern = [164306, 164549, 164586, 164598, 164604, 164616, 164641, 164665, 164677, 164847, 165116, 165517, 165979, 165992, 166005, 166017, 166030, 166080, 183532, 185267, 187793, 188177, 188499, 188712, 189261, 189583, 189595, 191395, 191474, 192211, 193252]     
+    auswahl_staedte = None    
+    #auswahl_staedte = ['Duisburg']        
     if auswahl_staedte is not None:
-        df_schulen = df[df['Kreis/Stadt'].isin(auswahl_staedte)].copy()
-    elif auswahl_schulnummern is not None:
-        df_schulen = df[df['Schulnummer'].isin(auswahl_schulnummern)].copy()
+        df_schulen = df[df['Ort'].isin(auswahl_staedte)].copy()
     else:
         df_schulen = df.copy()
-                    
+    
+    # Den Schulsozialindex gibt es nicht für Berufskollegs und Förderschulen                
     schulformen = [
         'Grundschule', 
         'Gesamtschule', 
@@ -111,8 +83,8 @@ def main():
         'Hauptschule', 
         'Sekundarschule'
     ]
-    #df_schulen = df_schulen[df_schulen['Schulform'].isin(schulformen)]
-    #df_schulen = df_schulen[df_schulen['Bezirksregierung'].isin(['Düsseldorf'])]
+    df_schulen = df_schulen[df_schulen['Schulform'].isin(schulformen)]
+    #df_schulen = df_schulen[df_schulen['Verwaltungsbezirk'].isin(['Düsseldorf'])]
     
     # ----------------------- Ende Anpassungen -----------------------
     
@@ -120,6 +92,8 @@ def main():
     
     # Lade vorhandene Koordinaten
     existing_coordinates = load_existing_coordinates()
+    
+    print(f"{len(existing_coordinates)} Existierende Koordinaten geladen.")
     
     # Neue Spalten für die Koordinaten, falls sie noch nicht existieren
     if 'latitude' not in df_schulen.columns:
@@ -134,8 +108,9 @@ def main():
     
     # Durchlaufe alle Schulen
     for idx, row in df_schulen.iterrows():
+        row['Schulnummer'] = pd.to_numeric(row['Schulnummer'], downcast='integer', errors='coerce')
         school_number = row['Schulnummer']
-        school_name = row['Schulname'].strip('"')
+        school_name = row['Amtliche Bezeichnung 1'].strip('"')
         
         # Prüfe ob bereits Koordinaten existieren
         if school_number in existing_coordinates:
@@ -149,6 +124,7 @@ def main():
                 continue
         
         print(f"\nSuche neue Koordinaten für: {school_name}")
+        result = None
         result = geocode_school(geolocator, row)
         
         if result:
@@ -158,10 +134,7 @@ def main():
             print(f"Gefunden: {result['latitude']}, {result['longitude']}")
             print(f"Adresse: {result['found_address']}")
         else:
-            print(f"Keine Koordinaten gefunden für {school_name}")
-        
-        # Warte 1 Sekunde zwischen Anfragen (Nominatim Policy)
-        time.sleep(1)
+            print(f"Keine Koordinaten gefunden für {school_name}")    
     
     # Speichere Ergebnisse
     output_file = 'schulen-mit-koordinaten.csv'
@@ -178,7 +151,7 @@ def main():
         print("\nNicht gefundene Schulen:")
         not_found = df_schulen[df_schulen['latitude'].isna()]
         for _, row in not_found.iterrows():
-            print(f"- {row['Schulname']}")
+            print(f"- {row['Amtliche Bezeichnung 1']}")
 
 if __name__ == "__main__":
     main()

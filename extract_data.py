@@ -1,3 +1,7 @@
+"""
+Extrahiert Schulinformationen und Sozialindex aus dem PDF-Dokument
+"""
+
 import pdfplumber
 import pandas as pd
 import re
@@ -148,6 +152,6 @@ if all_schools:
     
     print("\nExtrahierte Daten (erste 10 Zeilen):")
     print(df.head(10))
-    df.to_csv('alle_schulen.csv', index=False)
+    df.to_csv('sozialindex_schulliste_schuljahr_2025-26.csv', index=False)
     print(f"\nAnzahl der extrahierten Schulen: {len(df)}")
 

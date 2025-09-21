@@ -88,18 +88,15 @@
 <body>
     <div id="map"></div>
     <div class="info-bar">
-        Schulsozialindex-Karte für NRW | Nicht alle Schulen sind berücksichtigt, denn: Adressdaten wurden automatisiert ergänzt | Adressdaten können fehlerhaft sein | <a href="https://github.com/homlador/schulsozialindex-karte">Code auf Github</a> |
-        <a href="https://www.schulministerium.nrw/schulsozialindex" target="_blank">Mehr Informationen zum Schulsozialindex</a>
+        Schulsozialindex-Karte für NRW | Adressdaten vom <a href="https://statistik.nrw/service/veroeffentlichungen/schulen-in-nordrhein-westfalen-und-ihre-erreichbarkeiten/schulkarte-und-umkreissuche">Statistischen Landesamt</a> | Geo-Koordinaten von <a href="https://nominatim.org/">Nominatim</a> | Code auf <a href="https://github.com/homlador/schulsozialindex-karte">Github</a> | Mehr Informationen zum <a href="https://www.schulministerium.nrw/schulsozialindex" target="_blank">Schulsozialindex</a>
     </div>
     <div class="control-panel">
         <div class="dataset-select">
             <h3>Datensatz</h3>
             <select id="datasetSelect">
+                <option value="schools.json">Alle</option>                                                
                 <option value="schools-duisburg.json">Duisburg</option>                                                
-                <option value="schools-nrw-sek2.json">NRW Sek II</option>       
                 <option value="schools-zfsl-du-gyge.json">ZFSL Duisburg GyGe</option>                
-                <option value="schools-br-ddorf.json">BR Düsseldorf</option>
-
             </select>
         </div>
         <div class="school-search">
