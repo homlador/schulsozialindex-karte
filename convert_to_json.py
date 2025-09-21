@@ -10,6 +10,7 @@ def convert_csv_to_json():
     
     with open('schulen-mit-koordinaten.csv', 'r', encoding='utf-8') as file:
         csv_reader = csv.DictReader(file)
+        #auswahl_schulnummern = [164306, 164549, 164586, 164598, 164604, 164616, 164641, 164665, 164677, 164847, 165116, 165517, 165979, 165992, 166005, 166017, 166030, 166080, 183532, 185267, 187793, 188177, 188499, 188712, 189261, 189583, 189595, 191395, 191474, 192211, 193252] 
         for row in csv_reader:            
             schools.append({
                 'name': row['Amtliche Bezeichnung 1'],
@@ -21,9 +22,10 @@ def convert_csv_to_json():
                 'latitude': row['latitude'],
                 'longitude': row['longitude'],
                 'address': row['found_address']
-            }) #if row['Ort'] == 'Duisburg' else None
+            }) #if int(row['Schulnummer']) in auswahl_schulnummern else None           
+            #if row['Ort'] == 'Duisburg' else None
     
-    with open('docs/schools-duisburg.json', 'w', encoding='utf-8') as file:
+    with open('docs/schools.json', 'w', encoding='utf-8') as file:
         json.dump(schools, file, ensure_ascii=False, indent=2)
 
 if __name__ == '__main__':

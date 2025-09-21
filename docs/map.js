@@ -77,6 +77,11 @@ function updateStatistics(schools) {
         }
     });
 }
+// Radius anhand der Anzahl berechnen
+function getRadius(anzahl) {    
+    const base = Math.sqrt(anzahl) * 0.6; // Skalierung
+    return Math.min(base, 15);          // Maximale Grösse
+}
 
 // Funktion zum Aktualisieren der Marker basierend auf den Filtereinstellungen und der Suche
 function updateMarkers(schools) {
@@ -97,7 +102,7 @@ function updateMarkers(schools) {
             (searchTerm === '' || school.name.toLowerCase().includes(searchTerm))) {
             const color = getColorForIndex(school.sozialindex);
             const marker = L.circleMarker([school.latitude, school.longitude], {
-                radius: 8,
+                radius: getRadius(school.anzahl),
                 fillColor: color,
                 color: '#000',
                 weight: 1,

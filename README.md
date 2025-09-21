@@ -16,7 +16,6 @@ Die Adressdaten basierend auf Daten von "IT.NRW, Statistisches Landesamt, Düsse
 Manuell aufbereiten
 * Leere Zeilen und Zeilen mit Anmerkungen oben und unten löschen.
 * Spalten umbenennen zu: Schulnnummer, Anzahl, Verwaltungsbezirk.
-* Doppelungen entfernen (in Calc: Daten->Doppelungen).
 
 3. Geokoordinaten mit [Nominatim](https://nominatim.org/) ergänzen: `$ uv run geocode_schools.py`
 (Ggf die ausgewählten Schulen in geocode_schools.py anpassen)

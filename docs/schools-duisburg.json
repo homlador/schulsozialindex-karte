@@ -357,7 +357,7 @@
     "ort": "Duisburg",
     "schultyp": "Grundschule",
     "sozialindex": "9",
-    "anzahl": "280",
+    "anzahl": "350",
     "latitude": "51.418123",
     "longitude": "6.7502805",
     "address": "Gemeinschaftsgrundschule Brückenstraße, 96-98, Brückenstraße, RheinOrt, Hochfeld, Duisburg-Mitte, Duisburg, Nordrhein-Westfalen, 47053, Deutschland"
@@ -500,7 +500,7 @@
     "ort": "Duisburg",
     "schultyp": "Grundschule",
     "sozialindex": "5",
-    "anzahl": "205",
+    "anzahl": "345",
     "latitude": "51.4674398",
     "longitude": "6.7532472",
     "address": "GGS Bergschule, 48, Bergstraße, Meiderich-Berg, Untermeiderich, Meiderich/Beeck, Duisburg, Nordrhein-Westfalen, 47137, Deutschland"
@@ -797,7 +797,7 @@
     "ort": "Duisburg",
     "schultyp": "Grundschule",
     "sozialindex": "2",
-    "anzahl": "210",
+    "anzahl": "325",
     "latitude": "51.3640195",
     "longitude": "6.7817265",
     "address": "Schulverbund GGS Lauenburger Allee, 17, Lauenburger Allee, Großenbaum, Duisburg-Süd, Duisburg, Nordrhein-Westfalen, 47269, Deutschland"
@@ -808,7 +808,7 @@
     "ort": "Duisburg",
     "schultyp": "Grundschule",
     "sozialindex": "2",
-    "anzahl": "105",
+    "anzahl": "215",
     "latitude": "51.3504943",
     "longitude": "6.7111505",
     "address": "Schulverbund GGS Im Reimel (Teilstandort), 50, Am Lindentor, Mündelheim, Duisburg-Süd, Duisburg, Nordrhein-Westfalen, 47259, Deutschland"
@@ -852,7 +852,7 @@
     "ort": "Duisburg",
     "schultyp": "Realschule",
     "sozialindex": "6",
-    "anzahl": "90",
+    "anzahl": "570",
     "latitude": "51.4025813",
     "longitude": "6.7667925",
     "address": "Kranischschule (Förderschule), 21-25, Kranichstraße, Hitzblecksiedlung, Wanheimerort, Duisburg-Mitte, Duisburg, Nordrhein-Westfalen, 47055, Deutschland"
@@ -885,7 +885,7 @@
     "ort": "Duisburg",
     "schultyp": "Realschule",
     "sozialindex": "5",
-    "anzahl": "260",
+    "anzahl": "835",
     "latitude": "51.5220133",
     "longitude": "6.7371988",
     "address": "Dittfeldstraße, Fahrn, Walsum, Duisburg, Nordrhein-Westfalen, 47179, Deutschland"
@@ -896,7 +896,7 @@
     "ort": "Duisburg",
     "schultyp": "Sekundarschule",
     "sozialindex": "5",
-    "anzahl": "355",
+    "anzahl": "795",
     "latitude": "51.3756636",
     "longitude": "6.7490908",
     "address": "Sekundarschule Am Biegerpark, 7, Am Ziegelkamp, Huckingen, Duisburg-Süd, Duisburg, Nordrhein-Westfalen, 47259, Deutschland"
@@ -907,7 +907,7 @@
     "ort": "Duisburg",
     "schultyp": "Sekundarschule",
     "sozialindex": "7",
-    "anzahl": "300",
+    "anzahl": "860",
     "latitude": "51.4980259",
     "longitude": "6.7702393",
     "address": "Justus-von-Liebig-Schule, Dependance, 43, August-Thyssen-Straße, Dichterviertel, Hamborn, Duisburg, Nordrhein-Westfalen, 47166, Deutschland"
@@ -918,7 +918,7 @@
     "ort": "Duisburg",
     "schultyp": "Gesamtschule",
     "sozialindex": "7",
-    "anzahl": "110",
+    "anzahl": "1155",
     "latitude": "51.4076293",
     "longitude": "6.7112377",
     "address": "106, Friedrich-Ebert-Straße, Rheinhausen, Duisburg, Nordrhein-Westfalen, 47226, Deutschland"
@@ -951,7 +951,7 @@
     "ort": "Duisburg",
     "schultyp": "Gesamtschule",
     "sozialindex": "5",
-    "anzahl": "550",
+    "anzahl": "1550",
     "latitude": "51.4886665",
     "longitude": "6.7655257",
     "address": "Leibniz-Gesamtschule, 274-278, Hamborner Straße, Hamborn, Duisburg, Nordrhein-Westfalen, 47166, Deutschland"
@@ -973,7 +973,7 @@
     "ort": "Duisburg",
     "schultyp": "Gesamtschule",
     "sozialindex": "5",
-    "anzahl": "545",
+    "anzahl": "1290",
     "latitude": "51.4362418",
     "longitude": "6.7780117",
     "address": "Gesamtschule Duisburg-Mitte (Zweigstelle), 44, Falkstraße, Duissern, Duisburg-Mitte, Duisburg, Nordrhein-Westfalen, 47058, Deutschland"
@@ -984,7 +984,7 @@
     "ort": "Duisburg",
     "schultyp": "Gesamtschule",
     "sozialindex": "9",
-    "anzahl": "340",
+    "anzahl": "1235",
     "latitude": "51.4704208",
     "longitude": "6.7858025",
     "address": "Gesamtschule Meiderich (Zweigstelle) Jahrgang 5 & 6, 65, Bahnhofstraße, Lösort-Emschertal, Mittelmeiderich, Meiderich/Beeck, Duisburg, Nordrhein-Westfalen, 47138, Deutschland"
@@ -1006,7 +1006,7 @@
     "ort": "Duisburg",
     "schultyp": "Gesamtschule",
     "sozialindex": "8",
-    "anzahl": "840",
+    "anzahl": "1110",
     "latitude": "51.4461319",
     "longitude": "6.6924111",
     "address": "Erich-Kästner-Gesamtschule, 87, Ehrenstraße, Hochheide, Homberg/Ruhrort/Baerl, Duisburg, Nordrhein-Westfalen, 47198, Deutschland"
@@ -1017,7 +1017,7 @@
     "ort": "Duisburg",
     "schultyp": "Gesamtschule",
     "sozialindex": "8",
-    "anzahl": "310",
+    "anzahl": "1130",
     "latitude": "51.4726811",
     "longitude": "6.762046",
     "address": "Theodor-König-Gesamtschule Klassen 5-6, 54, Gartsträucherstraße, Untermeiderich, Meiderich/Beeck, Duisburg, Nordrhein-Westfalen, 47137, Deutschland"
@@ -1028,7 +1028,7 @@
     "ort": "Duisburg",
     "schultyp": "Gesamtschule",
     "sozialindex": "6",
-    "anzahl": "555",
+    "anzahl": "1075",
     "latitude": "51.4989468",
     "longitude": "6.8091716",
     "address": "Gesamtschule Emschertal - Neumühl, 11, Albert-Einstein-Straße, Siedlung Bergmannsplatz, Neumühl, Hamborn, Duisburg, Nordrhein-Westfalen, 47167, Deutschland"
@@ -1039,7 +1039,7 @@
     "ort": "Duisburg",
     "schultyp": "Gesamtschule",
     "sozialindex": "5",
-    "anzahl": "735",
+    "anzahl": "1180",
     "latitude": "51.4004204",
     "longitude": "6.7046574",
     "address": "Lise-Meitner-Gesamtschule, 3, Lessingstraße, Rheinhausen, Duisburg, Nordrhein-Westfalen, 47226, Deutschland"
@@ -1050,7 +1050,7 @@
     "ort": "Duisburg",
     "schultyp": "Gesamtschule",
     "sozialindex": "6",
-    "anzahl": "355",
+    "anzahl": "850",
     "latitude": "51.4504326",
     "longitude": "6.7364869",
     "address": "Carpstraße, Ruhrort, Homberg/Ruhrort/Baerl, Duisburg, Nordrhein-Westfalen, 47119, Deutschland"
@@ -1072,7 +1072,7 @@
     "ort": "Duisburg",
     "schultyp": "Gesamtschule",
     "sozialindex": "9",
-    "anzahl": "405",
+    "anzahl": "1015",
     "latitude": "51.4151",
     "longitude": "6.7601205",
     "address": "Gesamtschule Globus am Dellplatz (Zweigstelle), 107, Gitschiner Straße, Hochfeld, Duisburg-Mitte, Duisburg, Nordrhein-Westfalen, 47053, Deutschland"
@@ -1083,7 +1083,7 @@
     "ort": "Duisburg",
     "schultyp": "Gymnasium",
     "sozialindex": "4",
-    "anzahl": "80",
+    "anzahl": "1300",
     "latitude": "51.4222878",
     "longitude": "6.7891591",
     "address": "251, Gneisenaustraße, Wabenquartier, Neudorf-Süd, Duisburg-Mitte, Duisburg, Nordrhein-Westfalen, 47057, Deutschland"
@@ -1149,7 +1149,7 @@
     "ort": "Duisburg",
     "schultyp": "Gymnasium",
     "sozialindex": "7",
-    "anzahl": "370",
+    "anzahl": "880",
     "latitude": "51.466625",
     "longitude": "6.7740264",
     "address": "Hollenbergstraße, Mittelmeiderich, Meiderich/Beeck, Duisburg, Nordrhein-Westfalen, 47137, Deutschland"

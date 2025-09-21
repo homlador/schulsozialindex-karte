@@ -40,7 +40,7 @@ def load_and_merge_school_data():
     try:
         # Dateipfade definieren
         hauptdatei = "AS_BS_Verzeichnis_2024_25_(gerundet)_0.xlsx"  # Excel-Datei
-        tabellenblatt = "AS_BS_Adressverzeichnis 2024_25"  # Spezifisches Tabellenblatt
+        tabellenblatt = "AS_BS_Schulverzeichnis 2024_25"  # Spezifisches Tabellenblatt
         sozialindex_datei = "sozialindex_schulliste_schuljahr_2025-26.csv"
         
         print(f"Lade Hauptdatei '{hauptdatei}', Tabellenblatt '{tabellenblatt}'...")

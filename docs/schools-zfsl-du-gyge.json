@@ -1,16 +1,5 @@
 [
   {
-    "name": "Erzbischöfliches Suitbertus-Gymnasium",
-    "schulnummer": "164306",
-    "ort": "Düsseldorf",
-    "schultyp": "Gymnasium",
-    "sozialindex": "",
-    "anzahl": "895",
-    "latitude": "51.2993853",
-    "longitude": "6.7332471",
-    "address": "Erzbischöfliches Suitbertus-Gymnasium, 53, An Sankt Swidbert, Kaiserswerth, Stadtbezirk 5, Düsseldorf, Nordrhein-Westfalen, 40489, Deutschland"
-  },
-  {
     "name": "Städt. Gesamtschule Süd",
     "schulnummer": "185267",
     "ort": "Duisburg",
@@ -27,7 +16,7 @@
     "ort": "Duisburg",
     "schultyp": "Gesamtschule",
     "sozialindex": "5",
-    "anzahl": "550",
+    "anzahl": "1550",
     "latitude": "51.4886665",
     "longitude": "6.7655257",
     "address": "Leibniz-Gesamtschule, 274-278, Hamborner Straße, Hamborn, Duisburg, Nordrhein-Westfalen, 47166, Deutschland"
@@ -49,7 +38,7 @@
     "ort": "Duisburg",
     "schultyp": "Gesamtschule",
     "sozialindex": "5",
-    "anzahl": "545",
+    "anzahl": "1290",
     "latitude": "51.4362418",
     "longitude": "6.7780117",
     "address": "Gesamtschule Duisburg-Mitte (Zweigstelle), 44, Falkstraße, Duissern, Duisburg-Mitte, Duisburg, Nordrhein-Westfalen, 47058, Deutschland"
@@ -60,7 +49,7 @@
     "ort": "Duisburg",
     "schultyp": "Gesamtschule",
     "sozialindex": "9",
-    "anzahl": "340",
+    "anzahl": "1235",
     "latitude": "51.4704208",
     "longitude": "6.7858025",
     "address": "Gesamtschule Meiderich (Zweigstelle) Jahrgang 5 & 6, 65, Bahnhofstraße, Lösort-Emschertal, Mittelmeiderich, Meiderich/Beeck, Duisburg, Nordrhein-Westfalen, 47138, Deutschland"
@@ -82,7 +71,7 @@
     "ort": "Duisburg",
     "schultyp": "Gesamtschule",
     "sozialindex": "8",
-    "anzahl": "840",
+    "anzahl": "1110",
     "latitude": "51.4461319",
     "longitude": "6.6924111",
     "address": "Erich-Kästner-Gesamtschule, 87, Ehrenstraße, Hochheide, Homberg/Ruhrort/Baerl, Duisburg, Nordrhein-Westfalen, 47198, Deutschland"
@@ -93,7 +82,7 @@
     "ort": "Duisburg",
     "schultyp": "Gesamtschule",
     "sozialindex": "8",
-    "anzahl": "310",
+    "anzahl": "1130",
     "latitude": "51.4726811",
     "longitude": "6.762046",
     "address": "Theodor-König-Gesamtschule Klassen 5-6, 54, Gartsträucherstraße, Untermeiderich, Meiderich/Beeck, Duisburg, Nordrhein-Westfalen, 47137, Deutschland"
@@ -104,7 +93,7 @@
     "ort": "Duisburg",
     "schultyp": "Gesamtschule",
     "sozialindex": "6",
-    "anzahl": "555",
+    "anzahl": "1075",
     "latitude": "51.4989468",
     "longitude": "6.8091716",
     "address": "Gesamtschule Emschertal - Neumühl, 11, Albert-Einstein-Straße, Siedlung Bergmannsplatz, Neumühl, Hamborn, Duisburg, Nordrhein-Westfalen, 47167, Deutschland"
@@ -115,7 +104,7 @@
     "ort": "Duisburg",
     "schultyp": "Gesamtschule",
     "sozialindex": "6",
-    "anzahl": "355",
+    "anzahl": "850",
     "latitude": "51.4504326",
     "longitude": "6.7364869",
     "address": "Carpstraße, Ruhrort, Homberg/Ruhrort/Baerl, Duisburg, Nordrhein-Westfalen, 47119, Deutschland"
@@ -126,10 +115,32 @@
     "ort": "Duisburg",
     "schultyp": "Gesamtschule",
     "sozialindex": "9",
-    "anzahl": "405",
+    "anzahl": "1015",
     "latitude": "51.4151",
     "longitude": "6.7601205",
     "address": "Gesamtschule Globus am Dellplatz (Zweigstelle), 107, Gitschiner Straße, Hochfeld, Duisburg-Mitte, Duisburg, Nordrhein-Westfalen, 47053, Deutschland"
+  },
+  {
+    "name": "Geschwister-Scholl-Gesamtschule",
+    "schulnummer": "188712",
+    "ort": "Moers",
+    "schultyp": "Gesamtschule",
+    "sozialindex": "6",
+    "anzahl": "1025",
+    "latitude": "51.4489807",
+    "longitude": "6.6601559",
+    "address": "Geschwister-Scholl-Gesamtschule Moers, 522, Römerstraße, Hochstraß, Moers, Kreis Wesel, Nordrhein-Westfalen, 47443, Deutschland"
+  },
+  {
+    "name": "Erzbischöfliches Suitbertus-Gymnasium",
+    "schulnummer": "164306",
+    "ort": "Düsseldorf",
+    "schultyp": "Gymnasium",
+    "sozialindex": "",
+    "anzahl": "895",
+    "latitude": "51.2993853",
+    "longitude": "6.7332471",
+    "address": "Erzbischöfliches Suitbertus-Gymnasium, 53, An Sankt Swidbert, Kaiserswerth, Stadtbezirk 5, Düsseldorf, Nordrhein-Westfalen, 40489, Deutschland"
   },
   {
     "name": "Städt. Landfermann-Gymnasium",
@@ -137,7 +148,7 @@
     "ort": "Duisburg",
     "schultyp": "Gymnasium",
     "sozialindex": "4",
-    "anzahl": "80",
+    "anzahl": "1300",
     "latitude": "51.4222878",
     "longitude": "6.7891591",
     "address": "251, Gneisenaustraße, Wabenquartier, Neudorf-Süd, Duisburg-Mitte, Duisburg, Nordrhein-Westfalen, 47057, Deutschland"
@@ -203,7 +214,7 @@
     "ort": "Duisburg",
     "schultyp": "Gymnasium",
     "sozialindex": "7",
-    "anzahl": "370",
+    "anzahl": "880",
     "latitude": "51.466625",
     "longitude": "6.7740264",
     "address": "Hollenbergstraße, Mittelmeiderich, Meiderich/Beeck, Duisburg, Nordrhein-Westfalen, 47137, Deutschland"
@@ -295,17 +306,6 @@
     "latitude": "51.343002",
     "longitude": "6.8286206",
     "address": "Kopernikus-Gymnasium, 112, Duisburger Straße, Lintorf, Lintorf/Breitscheid, Ratingen, Kreis Mettmann, Nordrhein-Westfalen, 40885, Deutschland"
-  },
-  {
-    "name": "Geschwister-Scholl-Gesamtschule",
-    "schulnummer": "188712",
-    "ort": "Moers",
-    "schultyp": "Gesamtschule",
-    "sozialindex": "6",
-    "anzahl": "1025",
-    "latitude": "51.4489807",
-    "longitude": "6.6601559",
-    "address": "Geschwister-Scholl-Gesamtschule Moers, 522, Römerstraße, Hochstraß, Moers, Kreis Wesel, Nordrhein-Westfalen, 47443, Deutschland"
   },
   {
     "name": "Grafschafter Gymnasium",
