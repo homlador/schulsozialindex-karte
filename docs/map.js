@@ -109,6 +109,7 @@ function updateMarkers(schools) {
                     <strong>${school.name} (${school.schultyp})</strong><br>
                     Sozialindex: ${school.sozialindex}<br>
                     Anzahl: ${school.anzahl}<br>
+                    Schulnummer: ${school.schulnummer}<br>
                     ${school.address}
                 `);
             markers.push(marker);
