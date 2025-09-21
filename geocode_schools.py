@@ -30,11 +30,14 @@ def geocode_school(geolocator, school_info):
         school_name = school_info['Amtliche Bezeichnung 1']
         school_type = school_info['Schulform']            
         school_name = school_name.replace('Städt.', '')
+        school_name = school_name.replace('Gem..', '')
         school_adress = school_info['Straße und Hausnummer']
+        postcode = school_info['Postleitzahl']
         
         # Baue verschiedene Queries für bessere Trefferchancen
         queries = [                 
             f"{school_name} {school_adress} {city}",                                      
+            f"{school_adress} {postcode}",    
             f"{school_adress} {city}",    
             f"{school_name} {city}",                        
             f"{school_name} {school_type} {city}"
@@ -123,7 +126,7 @@ def main():
                 #print(f"Koordinaten: {existing['latitude']}, {existing['longitude']}")
                 continue
         
-        print(f"\nSuche neue Koordinaten für: {school_name}")
+        print(f"\nSuche neue Koordinaten für: {school_name} ({school_number})")
         result = None
         result = geocode_school(geolocator, row)
         
