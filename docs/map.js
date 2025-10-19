@@ -91,7 +91,9 @@ function updateMarkers(schools) {
     // Nur Schulen des ausgewählten Typs anzeigen, die dem Suchbegriff entsprechen
     schools.forEach(school => {
         if (activeTypes.includes(school.schultyp) && 
-            (searchTerm === '' || school.name.toLowerCase().includes(searchTerm))) {
+            (searchTerm === '' || 
+             school.name.toLowerCase().includes(searchTerm) ||
+             school.schulnummer.toString().includes(searchTerm))) {
             const color = getColorForIndex(school.sozialindex);
             const marker = L.circleMarker([school.latitude, school.longitude], {
                 radius: getRadius(school.anzahl),
