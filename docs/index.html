@@ -39,12 +39,16 @@
             right: 10px;
             z-index: 1000;
             background: white;
-            padding: 10px;
+            padding: 15px;
             border-radius: 5px;
             box-shadow: 0 0 10px rgba(0,0,0,0.2);
+            max-width: 300px;
+            width: calc(100% - 40px);
+            box-sizing: border-box;
         }
         .control-panel h3 {
             margin: 0 0 10px 0;
+            font-size: 16px;
         }
         .school-search {
             margin-bottom: 15px;
@@ -83,6 +87,36 @@
             width: 100%;
             padding: 5px;
             box-sizing: border-box;
+        }
+        .section-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 10px;
+        }
+        .section-header h3 {
+            margin: 5px 0;
+        }
+        .toggle-button {
+            background: none;
+            border: none;
+            cursor: pointer;
+            font-size: 12px;
+            padding: 0 5px;
+            color: #333;
+        }
+        .toggle-button:hover {
+            color: #666;
+        }
+        .collapsible-content {
+            transition: max-height 0.3s ease-out;
+            max-height: 500px;
+            overflow: hidden;
+            margin-bottom: 15px;
+        }
+        .collapsible-content.hidden {
+            max-height: 0;
+            margin-bottom: 0;
         }
     </style>
 </head>
@@ -133,18 +167,31 @@
             <input type="checkbox" id="type-gym" value="Gymnasium" checked>
             <label for="type-gym">Gymnasium</label>
         </div>
-        <h3>Optionen</h3>
-        <div>
-            <input type="checkbox" id="dynamicRadius">
-            <label>Kreisgröße nach Schülerzahl</label>
+        <div class="section-header">
+            <h3>Optionen</h3>
+            <button class="toggle-button" id="toggleOptions">▲</button>
         </div>
-        <div>
-            <input type="checkbox" id="showGradients">
-            <label>Sozialindex-Gradienten anzeigen</label>
+        <div id="optionsContent" class="collapsible-content hidden">
+            <div>
+                <input type="checkbox" id="dynamicRadius">
+                <label>Kreisgröße nach Schülerzahl</label>
+            </div>
+            <div>
+                <input type="checkbox" id="showGradients">
+                <label>Sozialindex-Gradienten anzeigen</label>
+            </div>
+            <div>
+                <input type="checkbox" id="showOnlyGradientSchools">
+                <label>Nur Schulen mit Gradienten zeigen</label>
+            </div>
         </div>
-        <div>
-            <input type="checkbox" id="showOnlyGradientSchools">
-            <label>Nur Schulen mit Gradienten zeigen</label>
+        <div class="section-header">
+            <h3>Erklärung</h3>
+            <button class="toggle-button" id="toggleExplanation">▲</button>
+        </div>
+        <div id="explanationContent" class="collapsible-content hidden">
+            Die Gradienten zeigen die Sozialindex-Differenz pro km. Verglichen werden jeweils Schulpaare von Grundschulen und weiterführenden Schulen.
+            Davon werden die 1000 größten Gradienten angezeigt.        
         </div>
     </div>
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>

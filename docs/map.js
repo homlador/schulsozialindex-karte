@@ -269,3 +269,20 @@ document.querySelectorAll('.school-type-control input').forEach(checkbox => {
         updateMarkers(window.schools);
     });
 });
+
+// Toggle-Funktionalität für zusammenklappbare Bereiche
+function setupToggle(buttonId, contentId) {
+    const toggleButton = document.getElementById(buttonId);
+    const content = document.getElementById(contentId);
+    let isVisible = false;
+
+    toggleButton.addEventListener('click', () => {
+        isVisible = !isVisible;
+        content.classList.toggle('hidden');
+        toggleButton.textContent = isVisible ? '▼' : '▲';
+    });
+}
+
+// Toggle-Funktionalität für Optionen und Erklärung initialisieren
+setupToggle('toggleOptions', 'optionsContent');
+setupToggle('toggleExplanation', 'explanationContent');

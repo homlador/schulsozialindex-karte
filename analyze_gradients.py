@@ -23,46 +23,25 @@ def haversine_distance(lat1, lon1, lat2, lon2):
     
     return distance
 
-def main():
-    # 1. Daten laden
-    with open('docs/schools.json', 'r', encoding='utf-8') as f:
-        schools_data = json.load(f)
-    
-    # Konvertiere in DataFrame
-    schools_df = pd.DataFrame(schools_data)
-    
-    # Filtere nur Grundschulen und Schulen mit Sozialindex
-    schools_df = schools_df[
-        (schools_df['schultyp'] == 'Grundschule') & 
-        (schools_df['sozialindex'].str.strip() != '') & 
-        (schools_df['sozialindex'].notna())
-    ]
-    
-    print(f"Analysiere {len(schools_df)} Schulen...")
-    
-    # Konvertiere Koordinaten und Sozialindex zu float
-    schools_df['lat'] = schools_df['latitude'].astype(float)
-    schools_df['lon'] = schools_df['longitude'].astype(float)
-    schools_df['sozialindex'] = pd.to_numeric(schools_df['sozialindex'], errors='coerce')
-    
-    # 2. Paarvergleiche durchführen
+def prepare_dataframe(df):
+    df = df.copy()
+    df['lat'] = df['latitude'].astype(float)
+    df['lon'] = df['longitude'].astype(float)
+    df['sozialindex'] = pd.to_numeric(df['sozialindex'], errors='coerce')
+    df = df.reset_index(drop=True)
+    return df
+
+def analyze_schools(df):        
     results = []
-    
-    for i, school1 in schools_df.iterrows():
-        for j, school2 in schools_df.iloc[i+1:].iterrows():
-            # Berechne Entfernung
+    for i, school1 in df.iterrows():
+        for j, school2 in df.iloc[i+1:].iterrows():                
             distance = haversine_distance(
                 float(school1['lat']), float(school1['lon']),
                 float(school2['lat']), float(school2['lon'])
             )
-            
-            # Berechne Index-Differenz
-            index_diff = abs(school1['sozialindex'] - school2['sozialindex'])
-            
-            # Berechne Gradient
+            index_diff = abs(school1['sozialindex'] - school2['sozialindex'])            
             gradient = index_diff / distance if distance > 0 else 0
             
-            # Speichere Ergebnis
             if index_diff >= 3:  # Mindestdifferenz von 3 Stufen
                 results.append({
                     'schule_1': {
@@ -85,57 +64,118 @@ def main():
                     'entfernung_km': round(distance, 2),
                     'gradient': round(gradient, 2)
                 })
+    return results
+
+def calculate_statistics(results):
+    if not results:
+        return {
+            'distance': {'min': 0, 'max': 0, 'avg': 0},
+            'diff': {'min': 0, 'max': 0, 'avg': 0},
+            'gradient': {'min': 0, 'max': 0, 'avg': 0}
+        }
     
-    # 3. Top-100 Gradienten extrahieren
-    results.sort(key=lambda x: x['gradient'], reverse=True)
-    top_results = results[:500]
-    
-    # Statistiken berechnen
-    num_schools = len(schools_df)
-    num_pairs = len(results)
-    
-    # Abstand-Statistiken
     distances = [r['entfernung_km'] for r in results]
-    min_distance = min(distances) if distances else 0
-    max_distance = max(distances) if distances else 0
-    avg_distance = sum(distances) / len(distances) if distances else 0
-    
-    # Sozialindex-Differenz-Statistiken
     diffs = [r['differenz'] for r in results]
-    min_diff = min(diffs) if diffs else 0
-    max_diff = max(diffs) if diffs else 0
-    avg_diff = sum(diffs) / len(diffs) if diffs else 0
-    
-    # Gradient-Statistiken
     gradients = [r['gradient'] for r in results]
-    min_gradient = min(gradients) if gradients else 0
-    max_gradient = max(gradients) if gradients else 0
-    avg_gradient = sum(gradients) / len(gradients) if gradients else 0
+    
+    return {
+        'distance': {
+            'min': min(distances),
+            'max': max(distances),
+            'avg': sum(distances) / len(distances)
+        },
+        'diff': {
+            'min': min(diffs),
+            'max': max(diffs),
+            'avg': sum(diffs) / len(diffs)
+        },
+        'gradient': {
+            'min': min(gradients),
+            'max': max(gradients),
+            'avg': sum(gradients) / len(gradients)
+        }
+    }
+        
+def main():
+    # Daten laden
+    with open('docs/schools.json', 'r', encoding='utf-8') as f:
+        schools_data = json.load(f)
+    
+    schools_df = pd.DataFrame(schools_data)
+    
+    # Filtere Schulen mit Sozialindex
+    schools_df = schools_df[
+        (schools_df['sozialindex'].str.strip() != '') & 
+        (schools_df['sozialindex'].notna())
+    ]
+    
+    grundschulen_df = schools_df[schools_df['schultyp'] == 'Grundschule']
+    weiterfuehrende_df = schools_df[schools_df['schultyp'].isin([
+        'Hauptschule', 'Realschule', 'Sekundarschule', 'Gesamtschule', 'Gymnasium'
+    ])]
+    
+    print(f"Analysiere {len(grundschulen_df)} Grundschulen und {len(weiterfuehrende_df)} weiterführende Schulen...")
+    
+    # Daten aufbereiten
+    grundschulen_df = prepare_dataframe(grundschulen_df)
+    weiterfuehrende_df = prepare_dataframe(weiterfuehrende_df)
+    
+    # Analyse
+    grundschul_results = analyze_schools(grundschulen_df)
+    weiterfuehrende_results = analyze_schools(weiterfuehrende_df)
+
+    # Sortierung
+    grundschul_results.sort(key=lambda x: x['gradient'], reverse=True)
+    weiterfuehrende_results.sort(key=lambda x: x['gradient'], reverse=True)
+    
+    # Kombinieren und Top auswählen
+    all_results = grundschul_results + weiterfuehrende_results
+    all_results.sort(key=lambda x: x['gradient'], reverse=True)
+    top_results = all_results[:1000]
+
+    # Berechne Statistiken für beide Schultypen
+    gs_stats = calculate_statistics(grundschul_results)
+    ws_stats = calculate_statistics(weiterfuehrende_results)
     
     # Speichere Ergebnisse
     with open('docs/schools-gradients.json', 'w', encoding='utf-8') as f:
         json.dump(top_results, f, ensure_ascii=False, indent=2)
     
     # Ausgabe der Statistiken
-    print("\nAnalyse-Statistiken:")
-    print(f"Anzahl analysierter Grundschulen: {num_schools}")
-    print(f"Anzahl gefundener Schulpaare (mit Mindestdifferenz 3): {num_pairs}")
+    print("\nAnalyse-Statistiken für Grundschulen:")
+    print(f"Anzahl analysierter Schulen: {len(grundschulen_df)}")
+    print(f"Anzahl gefundener Schulpaare (mit Mindestdifferenz 3): {len(grundschul_results)}")
     print("\nEntfernungen zwischen Schulpaaren:")
-    print(f"  Minimum: {min_distance:.2f} km")
-    print(f"  Maximum: {max_distance:.2f} km")
-    print(f"  Durchschnitt: {avg_distance:.2f} km")
+    print(f"  Minimum: {gs_stats['distance']['min']:.2f} km")
+    print(f"  Maximum: {gs_stats['distance']['max']:.2f} km")
+    print(f"  Durchschnitt: {gs_stats['distance']['avg']:.2f} km")
     print("\nSozialindex-Differenzen:")
-    print(f"  Minimum: {min_diff}")
-    print(f"  Maximum: {max_diff}")
-    print(f"  Durchschnitt: {avg_diff:.1f}")
+    print(f"  Minimum: {gs_stats['diff']['min']}")
+    print(f"  Maximum: {gs_stats['diff']['max']}")
+    print(f"  Durchschnitt: {gs_stats['diff']['avg']:.1f}")
     print("\nGradienten (Sozialindex-Differenz pro km):")
-    print(f"  Minimum: {min_gradient:.2f}")
-    print(f"  Maximum: {max_gradient:.2f}")
-    print(f"  Durchschnitt: {avg_gradient:.2f}")
+    print(f"  Minimum: {gs_stats['gradient']['min']:.2f}")
+    print(f"  Maximum: {gs_stats['gradient']['max']:.2f}")
+    print(f"  Durchschnitt: {gs_stats['gradient']['avg']:.2f}")
     
-    print(f"\n{len(top_results)} Schulpaare wurden in schools-gradients.json gespeichert.")
+    print("\nAnalyse-Statistiken für weiterführende Schulen:")
+    print(f"Anzahl analysierter Schulen: {len(weiterfuehrende_df)}")
+    print(f"Anzahl gefundener Schulpaare (mit Mindestdifferenz 3): {len(weiterfuehrende_results) }")
+    print("\nEntfernungen zwischen Schulpaaren:")
+    print(f"  Minimum: {ws_stats['distance']['min']:.2f} km")
+    print(f"  Maximum: {ws_stats['distance']['max']:.2f} km")
+    print(f"  Durchschnitt: {ws_stats['distance']['avg']:.2f} km")
+    print("\nSozialindex-Differenzen:")
+    print(f"  Minimum: {ws_stats['diff']['min']}")
+    print(f"  Maximum: {ws_stats['diff']['max']}")
+    print(f"  Durchschnitt: {ws_stats['diff']['avg']:.1f}")
+    print("\nGradienten (Sozialindex-Differenz pro km):")
+    print(f"  Minimum: {ws_stats['gradient']['min']:.2f}")
+    print(f"  Maximum: {ws_stats['gradient']['max']:.2f}")
+    print(f"  Durchschnitt: {ws_stats['gradient']['avg']:.2f}")
     
-
+    print(f"\nDie {len(top_results)} Ergebnisse wurden in schools-gradients.json gespeichert:")
+    
 if __name__ == "__main__":
     start_time = time.time()
     main()
