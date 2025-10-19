@@ -119,6 +119,7 @@ function updateMarkers(schools) {
             markers.push(marker);
         }
     });
+    updateGradients();
 }
 
 // Funktion zum Laden und Aktualisieren der Schulen
@@ -172,15 +173,30 @@ function updateGradients() {
         return;
     }
 
+    // Aktive Schultypen ermitteln
+    const activeTypes = Array.from(document.querySelectorAll('.school-type-control input:checked:not(#type-all)'))
+        .map(checkbox => checkbox.value);
+
     gradientsData.forEach(gradient => {
+        // Prüfen ob beide Schulen zu den aktiven Schultypen gehören
+        if (!activeTypes.includes(gradient.schule_1.schultyp) || 
+            !activeTypes.includes(gradient.schule_2.schultyp)) {
+            return; // Gradient überspringen wenn eine der Schulen nicht aktiv ist
+        }
+
         // Koordinaten mit Sozialindex als z-Wert für den Farbverlauf
         const coordinates = [
             [gradient.schule_1.lat, gradient.schule_1.lon, gradient.schule_1.sozialindex],
             [gradient.schule_2.lat, gradient.schule_2.lon, gradient.schule_2.sozialindex]
         ];
         
+        // Berechne die Liniendicke basierend auf dem Gradientenwert
+        const minWeight = 1;    // Minimale Liniendicke
+        const maxWeight = 10;    // Maximale Liniendicke
+        const weight = Math.min(maxWeight, minWeight + Math.abs(gradient.gradient) * 1.5);
+
         const line = L.hotline(coordinates, {
-            weight: 4,
+            weight: weight,
             outlineWidth: 0,
             palette: {
                 0.0: '#00ff00',  // Sozialindex 1 (grün)
