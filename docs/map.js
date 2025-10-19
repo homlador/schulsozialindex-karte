@@ -23,9 +23,12 @@ function getColorForIndex(index) {
     return colors[index - 1] || '#808080'; // Grau als Fallback
 }
 
-// Globale Variable für alle Marker
+// Globale Variablen für Marker und Gradienten
 let markers = [];
+let gradientLines = [];
 let searchTerm = '';
+let gradientsData = [];
+let schoolsWithGradients = new Set();
 
 // Funktion zum Aktualisieren der Statistik
 function updateStatistics(schools) {
@@ -68,10 +71,10 @@ function updateStatistics(schools) {
 function getRadius(anzahl) {    
     const dynamic = document.getElementById('dynamicRadius').checked;
     if (dynamic) {
-        const base = Math.sqrt(anzahl) * 0.6;   // Skalierung
-        return Math.min(base, 15);              // Maximale Grösse
+        const base = Math.sqrt(anzahl) * 0.3;   // Skalierung
+        return Math.min(base, 12);              // Maximale Grösse
     } else {
-        return 8;
+        return 5;
     }
 }
 
@@ -90,10 +93,12 @@ function updateMarkers(schools) {
 
     // Nur Schulen des ausgewählten Typs anzeigen, die dem Suchbegriff entsprechen
     schools.forEach(school => {
+        const showOnlyGradientSchools = document.getElementById('showOnlyGradientSchools')?.checked;
         if (activeTypes.includes(school.schultyp) && 
             (searchTerm === '' || 
              school.name.toLowerCase().includes(searchTerm) ||
-             school.schulnummer.toString().includes(searchTerm))) {
+             school.schulnummer.toString().includes(searchTerm)) &&
+            (!showOnlyGradientSchools || schoolsWithGradients.has(school.schulnummer))) {
             const color = getColorForIndex(school.sozialindex);
             const marker = L.circleMarker([school.latitude, school.longitude], {
                 radius: getRadius(school.anzahl),
@@ -117,6 +122,7 @@ function updateMarkers(schools) {
 }
 
 // Funktion zum Laden und Aktualisieren der Schulen
+// Funktion zum Laden der Schuldaten
 function loadSchoolData(jsonFile) {
     fetch(jsonFile)
         .then(response => response.json())
@@ -125,10 +131,77 @@ function loadSchoolData(jsonFile) {
             window.schools = schools;
             // Marker aktualisieren
             updateMarkers(schools);
+            // Gradienten laden
+            loadGradients();
         })
         .catch(error => {
             console.error('Fehler beim Laden der Schuldaten:', error);
         });
+}
+
+// Funktion zum Laden der Gradienten
+function loadGradients() {
+    fetch('schools-gradients.json')
+        .then(response => response.json())
+        .then(data => {
+            gradientsData = data;
+            // Set der Schulen mit Gradienten aktualisieren
+            schoolsWithGradients.clear();
+            data.forEach(gradient => {
+                schoolsWithGradients.add(gradient.schule_1.schulnummer);
+                schoolsWithGradients.add(gradient.schule_2.schulnummer);
+            });
+            if (document.getElementById('showGradients').checked) {
+                updateGradients();
+            }
+            // Marker aktualisieren um ggf. nicht verbundene Schulen auszublenden
+            updateMarkers(window.schools);
+        })
+        .catch(error => {
+            console.error('Fehler beim Laden der Gradienten:', error);
+        });
+}
+
+// Funktion zum Aktualisieren der Gradienten
+function updateGradients() {
+    // Bestehende Gradient-Linien entfernen
+    gradientLines.forEach(line => line.remove());
+    gradientLines = [];
+    
+    if (!document.getElementById('showGradients').checked) {
+        return;
+    }
+
+    gradientsData.forEach(gradient => {
+        // Koordinaten mit Sozialindex als z-Wert für den Farbverlauf
+        const coordinates = [
+            [gradient.schule_1.lat, gradient.schule_1.lon, gradient.schule_1.sozialindex],
+            [gradient.schule_2.lat, gradient.schule_2.lon, gradient.schule_2.sozialindex]
+        ];
+        
+        const line = L.hotline(coordinates, {
+            weight: 4,
+            outlineWidth: 0,
+            palette: {
+                0.0: '#00ff00',  // Sozialindex 1 (grün)
+                0.5: '#ffff00',  // Sozialindex 5 (gelb)
+                1.0: '#ff0000'   // Sozialindex 9 (rot)
+            },
+            min: 1,  // Minimaler Sozialindex
+            max: 9   // Maximaler Sozialindex
+        }).addTo(map);
+
+        // Popup mit Gradient-Informationen
+        line.bindPopup(`
+            Gradient: ${gradient.gradient.toFixed(2)}<br>
+            Entfernung: ${(gradient.entfernung_km * 1000).toFixed(0)}m<br>
+            Sozialindex-Differenz: ${gradient.differenz}<br>
+            Schule 1: ${gradient.schule_1.name} (SI: ${gradient.schule_1.sozialindex})<br>
+            Schule 2: ${gradient.schule_2.name} (SI: ${gradient.schule_2.sozialindex})
+        `);
+
+        gradientLines.push(line);
+    });
 }
 
 // Initial Schulen laden und Event-Listener einrichten
@@ -165,6 +238,16 @@ document.getElementById('datasetSelect').addEventListener('change', function(e) 
 
 // Event-Listener für Options-Änderungen
 document.getElementById('dynamicRadius').addEventListener('change', function(e) {
+    updateMarkers(window.schools);
+});
+
+// Event-Listener für die Gradienten-Checkbox
+document.getElementById('showGradients').addEventListener('change', function(e) {
+    updateGradients();
+});
+
+// Event-Listener für die "Nur Schulen mit Gradienten"-Checkbox
+document.getElementById('showOnlyGradientSchools').addEventListener('change', function(e) {
     updateMarkers(window.schools);
 });
 

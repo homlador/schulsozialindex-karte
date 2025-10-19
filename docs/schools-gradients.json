@@ -1,0 +1,1902 @@
+[
+  {
+    "schule_1": {
+      "name": "Städt. Kath. Grundschule",
+      "schulnummer": "101291",
+      "sozialindex": 3,
+      "lat": 51.4239911,
+      "lon": 6.7836342
+    },
+    "schule_2": {
+      "name": "Städt. Gem. Grundschule",
+      "schulnummer": "101606",
+      "sozialindex": 7,
+      "lat": 51.4241644,
+      "lon": 6.7836888
+    },
+    "differenz": 4,
+    "entfernung_km": 0.02,
+    "gradient": 203.68
+  },
+  {
+    "schule_1": {
+      "name": "Cosmas u. Damian Schule",
+      "schulnummer": "102179",
+      "sozialindex": 2,
+      "lat": 51.4463346,
+      "lon": 6.9730012
+    },
+    "schule_2": {
+      "name": "Berliner Schule",
+      "schulnummer": "102830",
+      "sozialindex": 9,
+      "lat": 51.4460176,
+      "lon": 6.9730124
+    },
+    "differenz": 7,
+    "entfernung_km": 0.04,
+    "gradient": 198.54
+  },
+  {
+    "schule_1": {
+      "name": "Friedrich-von-Bodelschwingh Schule",
+      "schulnummer": "100687",
+      "sozialindex": 1,
+      "lat": 51.2288089,
+      "lon": 6.7568679
+    },
+    "schule_2": {
+      "name": "Don-Bosco-Montessori-Schule",
+      "schulnummer": "100821",
+      "sozialindex": 5,
+      "lat": 51.2294823,
+      "lon": 6.7574625
+    },
+    "differenz": 4,
+    "entfernung_km": 0.09,
+    "gradient": 46.75
+  },
+  {
+    "schule_1": {
+      "name": "Städt. Kath. Grundschule",
+      "schulnummer": "100020",
+      "sozialindex": 5,
+      "lat": 51.2751293,
+      "lon": 6.7829699
+    },
+    "schule_2": {
+      "name": "Städt. Gem. Grundschule Unterrath",
+      "schulnummer": "100663",
+      "sozialindex": 8,
+      "lat": 51.2757114,
+      "lon": 6.7832619
+    },
+    "differenz": 3,
+    "entfernung_km": 0.07,
+    "gradient": 44.22
+  },
+  {
+    "schule_1": {
+      "name": "Erich-Ohser-Schule",
+      "schulnummer": "114110",
+      "sozialindex": 2,
+      "lat": 50.9379294,
+      "lon": 7.0215945
+    },
+    "schule_2": {
+      "name": "Clarenhofschule",
+      "schulnummer": "184184",
+      "sozialindex": 6,
+      "lat": 50.9385661,
+      "lon": 7.0201536
+    },
+    "differenz": 4,
+    "entfernung_km": 0.12,
+    "gradient": 32.44
+  },
+  {
+    "schule_1": {
+      "name": "Städt. Kath. Grundschule",
+      "schulnummer": "111491",
+      "sozialindex": 5,
+      "lat": 50.9698738,
+      "lon": 7.0407783
+    },
+    "schule_2": {
+      "name": "Berthold-Otto-Schule",
+      "schulnummer": "111983",
+      "sozialindex": 8,
+      "lat": 50.9708216,
+      "lon": 7.0405213
+    },
+    "differenz": 3,
+    "entfernung_km": 0.11,
+    "gradient": 28.06
+  },
+  {
+    "schule_1": {
+      "name": "St. Franziskus Schule",
+      "schulnummer": "100523",
+      "sozialindex": 3,
+      "lat": 51.2499658,
+      "lon": 6.8091293
+    },
+    "schule_2": {
+      "name": "Städt. Gem. Grundschule",
+      "schulnummer": "100894",
+      "sozialindex": 8,
+      "lat": 51.2519778,
+      "lon": 6.8087005
+    },
+    "differenz": 5,
+    "entfernung_km": 0.23,
+    "gradient": 22.15
+  },
+  {
+    "schule_1": {
+      "name": "Christophorus-Schule",
+      "schulnummer": "100183",
+      "sozialindex": 3,
+      "lat": 51.1856713,
+      "lon": 6.8262179
+    },
+    "schule_2": {
+      "name": "Theodor-Heuss-Schule",
+      "schulnummer": "100900",
+      "sozialindex": 8,
+      "lat": 51.1862791,
+      "lon": 6.822857
+    },
+    "differenz": 5,
+    "entfernung_km": 0.24,
+    "gradient": 20.51
+  },
+  {
+    "schule_1": {
+      "name": "Cornelius-Schule",
+      "schulnummer": "105533",
+      "sozialindex": 3,
+      "lat": 51.2254487,
+      "lon": 7.0661343
+    },
+    "schule_2": {
+      "name": "Städt. Gem. Grundschule",
+      "schulnummer": "105661",
+      "sozialindex": 8,
+      "lat": 51.2277402,
+      "lon": 7.0666731
+    },
+    "differenz": 5,
+    "entfernung_km": 0.26,
+    "gradient": 19.41
+  },
+  {
+    "schule_1": {
+      "name": "Städt. Kath. Grundschule",
+      "schulnummer": "111806",
+      "sozialindex": 8,
+      "lat": 50.9278647,
+      "lon": 6.9466888
+    },
+    "schule_2": {
+      "name": "Städt. Gem. Grundschule",
+      "schulnummer": "112586",
+      "sozialindex": 2,
+      "lat": 50.9259593,
+      "lon": 6.9432027
+    },
+    "differenz": 6,
+    "entfernung_km": 0.32,
+    "gradient": 18.55
+  },
+  {
+    "schule_1": {
+      "name": "Städt. Kath. Grundschule",
+      "schulnummer": "111880",
+      "sozialindex": 8,
+      "lat": 50.9181198,
+      "lon": 6.9569194
+    },
+    "schule_2": {
+      "name": "Städt. Gem. Grundschule",
+      "schulnummer": "112320",
+      "sozialindex": 1,
+      "lat": 50.91947,
+      "lon": 6.9516721
+    },
+    "differenz": 7,
+    "entfernung_km": 0.4,
+    "gradient": 17.62
+  },
+  {
+    "schule_1": {
+      "name": "Carl-Sonnenschein-Schule",
+      "schulnummer": "103573",
+      "sozialindex": 9,
+      "lat": 51.1908728,
+      "lon": 6.4250214
+    },
+    "schule_2": {
+      "name": "Städt. Montessori-Grundschule",
+      "schulnummer": "186259",
+      "sozialindex": 4,
+      "lat": 51.1931261,
+      "lon": 6.4272873
+    },
+    "differenz": 5,
+    "entfernung_km": 0.3,
+    "gradient": 16.88
+  },
+  {
+    "schule_1": {
+      "name": "Paul-Klee-Schule",
+      "schulnummer": "100444",
+      "sozialindex": 9,
+      "lat": 51.225685,
+      "lon": 6.8064275
+    },
+    "schule_2": {
+      "name": "Städt. Montessori-Grundschule",
+      "schulnummer": "150850",
+      "sozialindex": 4,
+      "lat": 51.2283231,
+      "lon": 6.8050167
+    },
+    "differenz": 5,
+    "entfernung_km": 0.31,
+    "gradient": 16.16
+  },
+  {
+    "schule_1": {
+      "name": "Städtische Grundschule Augustastraße",
+      "schulnummer": "100204",
+      "sozialindex": 8,
+      "lat": 51.1629336,
+      "lon": 7.1077153
+    },
+    "schule_2": {
+      "name": "Städtische Gemeinschaftsgrundschule",
+      "schulnummer": "105399",
+      "sozialindex": 5,
+      "lat": 51.1613388,
+      "lon": 7.1091103
+    },
+    "differenz": 3,
+    "entfernung_km": 0.2,
+    "gradient": 14.83
+  },
+  {
+    "schule_1": {
+      "name": "St. Michael Schule",
+      "schulnummer": "102957",
+      "sozialindex": 2,
+      "lat": 51.320357,
+      "lon": 6.5360653
+    },
+    "schule_2": {
+      "name": "Lindenschule",
+      "schulnummer": "103159",
+      "sozialindex": 6,
+      "lat": 51.3198762,
+      "lon": 6.5319509
+    },
+    "differenz": 4,
+    "entfernung_km": 0.29,
+    "gradient": 13.75
+  },
+  {
+    "schule_1": {
+      "name": "Städt. Gem. Grundschule",
+      "schulnummer": "112410",
+      "sozialindex": 7,
+      "lat": 50.9361928,
+      "lon": 7.026509
+    },
+    "schule_2": {
+      "name": "Erich-Ohser-Schule",
+      "schulnummer": "114110",
+      "sozialindex": 2,
+      "lat": 50.9379294,
+      "lon": 7.0215945
+    },
+    "differenz": 5,
+    "entfernung_km": 0.39,
+    "gradient": 12.66
+  },
+  {
+    "schule_1": {
+      "name": "Zollvereinschule",
+      "schulnummer": "102088",
+      "sozialindex": 6,
+      "lat": 51.4994031,
+      "lon": 7.0415628
+    },
+    "schule_2": {
+      "name": "Schule an der Viktoriastraße",
+      "schulnummer": "102507",
+      "sozialindex": 9,
+      "lat": 51.4985779,
+      "lon": 7.0454878
+    },
+    "differenz": 3,
+    "entfernung_km": 0.29,
+    "gradient": 10.46
+  },
+  {
+    "schule_1": {
+      "name": "Städt. Gem. Grundschule",
+      "schulnummer": "100470",
+      "sozialindex": 7,
+      "lat": 51.2285593,
+      "lon": 6.816495
+    },
+    "schule_2": {
+      "name": "Brehm Schule",
+      "schulnummer": "100705",
+      "sozialindex": 1,
+      "lat": 51.234302,
+      "lon": 6.81407
+    },
+    "differenz": 6,
+    "entfernung_km": 0.66,
+    "gradient": 9.08
+  },
+  {
+    "schule_1": {
+      "name": "Bardelebenschule",
+      "schulnummer": "102180",
+      "sozialindex": 4,
+      "lat": 51.4397544,
+      "lon": 6.9958577
+    },
+    "schule_2": {
+      "name": "Cranachschule",
+      "schulnummer": "102544",
+      "sozialindex": 8,
+      "lat": 51.4398377,
+      "lon": 6.9893972
+    },
+    "differenz": 4,
+    "entfernung_km": 0.45,
+    "gradient": 8.93
+  },
+  {
+    "schule_1": {
+      "name": "Städt. Gem. Grundschule",
+      "schulnummer": "109060",
+      "sozialindex": 9,
+      "lat": 51.4538668,
+      "lon": 6.6886999
+    },
+    "schule_2": {
+      "name": "Schule Am Lutherpark",
+      "schulnummer": "109101",
+      "sozialindex": 2,
+      "lat": 51.4565218,
+      "lon": 6.6994952
+    },
+    "differenz": 7,
+    "entfernung_km": 0.8,
+    "gradient": 8.7
+  },
+  {
+    "schule_1": {
+      "name": "Marienschule",
+      "schulnummer": "100109",
+      "sozialindex": 2,
+      "lat": 51.1899399,
+      "lon": 6.8144315
+    },
+    "schule_2": {
+      "name": "Theodor-Heuss-Schule",
+      "schulnummer": "100900",
+      "sozialindex": 8,
+      "lat": 51.1862791,
+      "lon": 6.822857
+    },
+    "differenz": 6,
+    "entfernung_km": 0.71,
+    "gradient": 8.4
+  },
+  {
+    "schule_1": {
+      "name": "Henri-Dunant-Schule",
+      "schulnummer": "100213",
+      "sozialindex": 2,
+      "lat": 51.1902116,
+      "lon": 6.8144787
+    },
+    "schule_2": {
+      "name": "Theodor-Heuss-Schule",
+      "schulnummer": "100900",
+      "sozialindex": 8,
+      "lat": 51.1862791,
+      "lon": 6.822857
+    },
+    "differenz": 6,
+    "entfernung_km": 0.73,
+    "gradient": 8.22
+  },
+  {
+    "schule_1": {
+      "name": "Fährmann-Schule",
+      "schulnummer": "101138",
+      "sozialindex": 4,
+      "lat": 51.4755474,
+      "lon": 6.739508
+    },
+    "schule_2": {
+      "name": "Städt. Gem. Grundschule",
+      "schulnummer": "101448",
+      "sozialindex": 9,
+      "lat": 51.48048,
+      "lon": 6.7356562
+    },
+    "differenz": 5,
+    "entfernung_km": 0.61,
+    "gradient": 8.2
+  },
+  {
+    "schule_1": {
+      "name": "Städt. Kath. Grundschule Ohler",
+      "schulnummer": "103500",
+      "sozialindex": 3,
+      "lat": 51.1797787,
+      "lon": 6.4364386
+    },
+    "schule_2": {
+      "name": "Franz-Wamich-Schule",
+      "schulnummer": "103639",
+      "sozialindex": 9,
+      "lat": 51.1852603,
+      "lon": 6.4425094
+    },
+    "differenz": 6,
+    "entfernung_km": 0.74,
+    "gradient": 8.09
+  },
+  {
+    "schule_1": {
+      "name": "Antoniusschule",
+      "schulnummer": "101771",
+      "sozialindex": 2,
+      "lat": 51.4559117,
+      "lon": 7.1065481
+    },
+    "schule_2": {
+      "name": "Schule im Bergmannsfeld",
+      "schulnummer": "102866",
+      "sozialindex": 9,
+      "lat": 51.4477715,
+      "lon": 7.1077041
+    },
+    "differenz": 7,
+    "entfernung_km": 0.91,
+    "gradient": 7.7
+  },
+  {
+    "schule_1": {
+      "name": "Städtische Grundschule Augustastraße",
+      "schulnummer": "100204",
+      "sozialindex": 8,
+      "lat": 51.1629336,
+      "lon": 7.1077153
+    },
+    "schule_2": {
+      "name": "Städt. Gem. Grundschule Meigen",
+      "schulnummer": "105417",
+      "sozialindex": 3,
+      "lat": 51.1689018,
+      "lon": 7.1080358
+    },
+    "differenz": 5,
+    "entfernung_km": 0.66,
+    "gradient": 7.53
+  },
+  {
+    "schule_1": {
+      "name": "Herderschule",
+      "schulnummer": "102570",
+      "sozialindex": 4,
+      "lat": 51.4462096,
+      "lon": 6.9632744
+    },
+    "schule_2": {
+      "name": "Berliner Schule",
+      "schulnummer": "102830",
+      "sozialindex": 9,
+      "lat": 51.4460176,
+      "lon": 6.9730124
+    },
+    "differenz": 5,
+    "entfernung_km": 0.68,
+    "gradient": 7.41
+  },
+  {
+    "schule_1": {
+      "name": "St. Rochus-Schule",
+      "schulnummer": "100596",
+      "sozialindex": 2,
+      "lat": 51.2399227,
+      "lon": 6.7830491
+    },
+    "schule_2": {
+      "name": "Städt. Gem. Grundschule",
+      "schulnummer": "100936",
+      "sozialindex": 6,
+      "lat": 51.2390167,
+      "lon": 6.7906851
+    },
+    "differenz": 4,
+    "entfernung_km": 0.54,
+    "gradient": 7.39
+  },
+  {
+    "schule_1": {
+      "name": "Städt. Gem. Grundschule",
+      "schulnummer": "112367",
+      "sozialindex": 8,
+      "lat": 50.9452308,
+      "lon": 7.0220104
+    },
+    "schule_2": {
+      "name": "Erich-Ohser-Schule",
+      "schulnummer": "114110",
+      "sozialindex": 2,
+      "lat": 50.9379294,
+      "lon": 7.0215945
+    },
+    "differenz": 6,
+    "entfernung_km": 0.81,
+    "gradient": 7.39
+  },
+  {
+    "schule_1": {
+      "name": "Anna-Langohr-Schule",
+      "schulnummer": "112318",
+      "sozialindex": 6,
+      "lat": 51.0199272,
+      "lon": 6.8852965
+    },
+    "schule_2": {
+      "name": "Städt. Gem. Grundschule",
+      "schulnummer": "185413",
+      "sozialindex": 9,
+      "lat": 51.0233237,
+      "lon": 6.8875751
+    },
+    "differenz": 3,
+    "entfernung_km": 0.41,
+    "gradient": 7.32
+  },
+  {
+    "schule_1": {
+      "name": "Paul-Klee-Schule",
+      "schulnummer": "100444",
+      "sozialindex": 9,
+      "lat": 51.225685,
+      "lon": 6.8064275
+    },
+    "schule_2": {
+      "name": "Brehm Schule",
+      "schulnummer": "100705",
+      "sozialindex": 1,
+      "lat": 51.234302,
+      "lon": 6.81407
+    },
+    "differenz": 8,
+    "entfernung_km": 1.1,
+    "gradient": 7.3
+  },
+  {
+    "schule_1": {
+      "name": "Städt. Gem. Grundschule",
+      "schulnummer": "100390",
+      "sozialindex": 9,
+      "lat": 51.1801457,
+      "lon": 6.8662711
+    },
+    "schule_2": {
+      "name": "Selma-Lagerlöf-Schule",
+      "schulnummer": "100675",
+      "sozialindex": 4,
+      "lat": 51.1780045,
+      "lon": 6.8756514
+    },
+    "differenz": 5,
+    "entfernung_km": 0.7,
+    "gradient": 7.19
+  },
+  {
+    "schule_1": {
+      "name": "Städt. Kath. Grundschule",
+      "schulnummer": "111806",
+      "sozialindex": 8,
+      "lat": 50.9278647,
+      "lon": 6.9466888
+    },
+    "schule_2": {
+      "name": "Städt. Gem. Grundschule",
+      "schulnummer": "112320",
+      "sozialindex": 1,
+      "lat": 50.91947,
+      "lon": 6.9516721
+    },
+    "differenz": 7,
+    "entfernung_km": 1.0,
+    "gradient": 7.02
+  },
+  {
+    "schule_1": {
+      "name": "Städt. Gem. Grundschule",
+      "schulnummer": "105788",
+      "sozialindex": 7,
+      "lat": 51.2671242,
+      "lon": 7.2007837
+    },
+    "schule_2": {
+      "name": "Städt. Gem. Grundschule",
+      "schulnummer": "105983",
+      "sozialindex": 4,
+      "lat": 51.2643733,
+      "lon": 7.1963609
+    },
+    "differenz": 3,
+    "entfernung_km": 0.43,
+    "gradient": 6.91
+  },
+  {
+    "schule_1": {
+      "name": "Bonifaciusschule",
+      "schulnummer": "102283",
+      "sozialindex": 4,
+      "lat": 51.4728644,
+      "lon": 7.0764954
+    },
+    "schule_2": {
+      "name": "Joachimschule",
+      "schulnummer": "102738",
+      "sozialindex": 9,
+      "lat": 51.4664514,
+      "lon": 7.0793881
+    },
+    "differenz": 5,
+    "entfernung_km": 0.74,
+    "gradient": 6.75
+  },
+  {
+    "schule_1": {
+      "name": "Kompass-Grundschule",
+      "schulnummer": "100137",
+      "sozialindex": 9,
+      "lat": 51.3360954,
+      "lon": 6.5682187
+    },
+    "schule_2": {
+      "name": "Bismarckschule",
+      "schulnummer": "103196",
+      "sozialindex": 4,
+      "lat": 51.3417943,
+      "lon": 6.5738356
+    },
+    "differenz": 5,
+    "entfernung_km": 0.74,
+    "gradient": 6.72
+  },
+  {
+    "schule_1": {
+      "name": "Städt. Gem. Grundschule",
+      "schulnummer": "111790",
+      "sozialindex": 9,
+      "lat": 50.9692766,
+      "lon": 7.0087332
+    },
+    "schule_2": {
+      "name": "Rheinschule",
+      "schulnummer": "112495",
+      "sozialindex": 6,
+      "lat": 50.9681858,
+      "lon": 7.0025662
+    },
+    "differenz": 3,
+    "entfernung_km": 0.45,
+    "gradient": 6.69
+  },
+  {
+    "schule_1": {
+      "name": "Astrid Lindgren-Schule",
+      "schulnummer": "101916",
+      "sozialindex": 8,
+      "lat": 51.4329127,
+      "lon": 7.1089331
+    },
+    "schule_2": {
+      "name": "Josefschule/ Horst",
+      "schulnummer": "102120",
+      "sozialindex": 3,
+      "lat": 51.4370982,
+      "lon": 7.1004717
+    },
+    "differenz": 5,
+    "entfernung_km": 0.75,
+    "gradient": 6.68
+  },
+  {
+    "schule_1": {
+      "name": "Städtische Katholische Grundschule",
+      "schulnummer": "100304",
+      "sozialindex": 8,
+      "lat": 51.2230137,
+      "lon": 6.8067195
+    },
+    "schule_2": {
+      "name": "Städt. Montessori-Grundschule",
+      "schulnummer": "150850",
+      "sozialindex": 4,
+      "lat": 51.2283231,
+      "lon": 6.8050167
+    },
+    "differenz": 4,
+    "entfernung_km": 0.6,
+    "gradient": 6.64
+  },
+  {
+    "schule_1": {
+      "name": "Brüder-Grimm-Schule",
+      "schulnummer": "104413",
+      "sozialindex": 9,
+      "lat": 51.4675881,
+      "lon": 6.8535727
+    },
+    "schule_2": {
+      "name": "Luisenschule",
+      "schulnummer": "104656",
+      "sozialindex": 4,
+      "lat": 51.4609702,
+      "lon": 6.8559201
+    },
+    "differenz": 5,
+    "entfernung_km": 0.75,
+    "gradient": 6.63
+  },
+  {
+    "schule_1": {
+      "name": "Städtische Katholische Grundschule",
+      "schulnummer": "100158",
+      "sozialindex": 6,
+      "lat": 51.1449631,
+      "lon": 6.8890246
+    },
+    "schule_2": {
+      "name": "Städt. Montessori-Grundschule",
+      "schulnummer": "183635",
+      "sozialindex": 3,
+      "lat": 51.1421631,
+      "lon": 6.8938041
+    },
+    "differenz": 3,
+    "entfernung_km": 0.46,
+    "gradient": 6.58
+  },
+  {
+    "schule_1": {
+      "name": "Städt. Gem. Grundschule",
+      "schulnummer": "101059",
+      "sozialindex": 8,
+      "lat": 51.142672,
+      "lon": 6.9046794
+    },
+    "schule_2": {
+      "name": "Städt. Montessori-Grundschule",
+      "schulnummer": "183635",
+      "sozialindex": 3,
+      "lat": 51.1421631,
+      "lon": 6.8938041
+    },
+    "differenz": 5,
+    "entfernung_km": 0.76,
+    "gradient": 6.57
+  },
+  {
+    "schule_1": {
+      "name": "Städt. Gem. Grundschule",
+      "schulnummer": "100961",
+      "sozialindex": 1,
+      "lat": 51.2100247,
+      "lon": 6.7690514
+    },
+    "schule_2": {
+      "name": "Regenbogenschule",
+      "schulnummer": "100973",
+      "sozialindex": 6,
+      "lat": 51.2126679,
+      "lon": 6.7793695
+    },
+    "differenz": 5,
+    "entfernung_km": 0.78,
+    "gradient": 6.44
+  },
+  {
+    "schule_1": {
+      "name": "St. -Peter-Schule",
+      "schulnummer": "100250",
+      "sozialindex": 6,
+      "lat": 51.211853,
+      "lon": 6.7799322
+    },
+    "schule_2": {
+      "name": "Städt. Gem. Grundschule",
+      "schulnummer": "100961",
+      "sozialindex": 1,
+      "lat": 51.2100247,
+      "lon": 6.7690514
+    },
+    "differenz": 5,
+    "entfernung_km": 0.78,
+    "gradient": 6.37
+  },
+  {
+    "schule_1": {
+      "name": "Städt. Gem. Grundschule",
+      "schulnummer": "112586",
+      "sozialindex": 2,
+      "lat": 50.9259593,
+      "lon": 6.9432027
+    },
+    "schule_2": {
+      "name": "Don-Bosco-Schule",
+      "schulnummer": "114819",
+      "sozialindex": 6,
+      "lat": 50.9316035,
+      "lon": 6.9432815
+    },
+    "differenz": 4,
+    "entfernung_km": 0.63,
+    "gradient": 6.37
+  },
+  {
+    "schule_1": {
+      "name": "Städt. Kath. Grundschule",
+      "schulnummer": "100535",
+      "sozialindex": 5,
+      "lat": 51.2441227,
+      "lon": 6.7845271
+    },
+    "schule_2": {
+      "name": "St. Rochus-Schule",
+      "schulnummer": "100596",
+      "sozialindex": 2,
+      "lat": 51.2399227,
+      "lon": 6.7830491
+    },
+    "differenz": 3,
+    "entfernung_km": 0.48,
+    "gradient": 6.27
+  },
+  {
+    "schule_1": {
+      "name": "Städt. Kath. Grundschule",
+      "schulnummer": "111569",
+      "sozialindex": 7,
+      "lat": 50.9308569,
+      "lon": 7.0239721
+    },
+    "schule_2": {
+      "name": "Erich-Ohser-Schule",
+      "schulnummer": "114110",
+      "sozialindex": 2,
+      "lat": 50.9379294,
+      "lon": 7.0215945
+    },
+    "differenz": 5,
+    "entfernung_km": 0.8,
+    "gradient": 6.22
+  },
+  {
+    "schule_1": {
+      "name": "Falkensteinschule",
+      "schulnummer": "104425",
+      "sozialindex": 8,
+      "lat": 51.4795941,
+      "lon": 6.8720168
+    },
+    "schule_2": {
+      "name": "Marienschule",
+      "schulnummer": "104632",
+      "sozialindex": 4,
+      "lat": 51.4785376,
+      "lon": 6.8625731
+    },
+    "differenz": 4,
+    "entfernung_km": 0.66,
+    "gradient": 6.02
+  },
+  {
+    "schule_1": {
+      "name": "Eichendorffschule Schönebeck",
+      "schulnummer": "102003",
+      "sozialindex": 2,
+      "lat": 51.4621193,
+      "lon": 6.9438806
+    },
+    "schule_2": {
+      "name": "Dürerschule",
+      "schulnummer": "102404",
+      "sozialindex": 8,
+      "lat": 51.470283,
+      "lon": 6.9498568
+    },
+    "differenz": 6,
+    "entfernung_km": 1.0,
+    "gradient": 6.01
+  },
+  {
+    "schule_1": {
+      "name": "St. Franziskus Schule",
+      "schulnummer": "100523",
+      "sozialindex": 3,
+      "lat": 51.2499658,
+      "lon": 6.8091293
+    },
+    "schule_2": {
+      "name": "Städtische Gemeinschaftsgrundschule",
+      "schulnummer": "100869",
+      "sozialindex": 7,
+      "lat": 51.2560535,
+      "lon": 6.8095493
+    },
+    "differenz": 4,
+    "entfernung_km": 0.68,
+    "gradient": 5.9
+  },
+  {
+    "schule_1": {
+      "name": "Städtische Gemeinschaftsgrundschule",
+      "schulnummer": "103860",
+      "sozialindex": 9,
+      "lat": 51.4539882,
+      "lon": 6.8608104
+    },
+    "schule_2": {
+      "name": "Luisenschule",
+      "schulnummer": "104656",
+      "sozialindex": 4,
+      "lat": 51.4609702,
+      "lon": 6.8559201
+    },
+    "differenz": 5,
+    "entfernung_km": 0.85,
+    "gradient": 5.9
+  },
+  {
+    "schule_1": {
+      "name": "Städt. Kath. Grundschule",
+      "schulnummer": "111880",
+      "sozialindex": 8,
+      "lat": 50.9181198,
+      "lon": 6.9569194
+    },
+    "schule_2": {
+      "name": "Städt. Gem. Grundschule",
+      "schulnummer": "189169",
+      "sozialindex": 3,
+      "lat": 50.9251019,
+      "lon": 6.9620803
+    },
+    "differenz": 5,
+    "entfernung_km": 0.86,
+    "gradient": 5.84
+  },
+  {
+    "schule_1": {
+      "name": "Städt. Gem. Grundschule",
+      "schulnummer": "112446",
+      "sozialindex": 9,
+      "lat": 50.9860765,
+      "lon": 7.0250465
+    },
+    "schule_2": {
+      "name": "Rosenmaarschule",
+      "schulnummer": "150897",
+      "sozialindex": 2,
+      "lat": 50.9934954,
+      "lon": 7.0376042
+    },
+    "differenz": 7,
+    "entfernung_km": 1.21,
+    "gradient": 5.81
+  },
+  {
+    "schule_1": {
+      "name": "Anton-Heinen-Schule",
+      "schulnummer": "103561",
+      "sozialindex": 7,
+      "lat": 51.1908285,
+      "lon": 6.4337563
+    },
+    "schule_2": {
+      "name": "Städt. Montessori-Grundschule",
+      "schulnummer": "186259",
+      "sozialindex": 4,
+      "lat": 51.1931261,
+      "lon": 6.4272873
+    },
+    "differenz": 3,
+    "entfernung_km": 0.52,
+    "gradient": 5.79
+  },
+  {
+    "schule_1": {
+      "name": "Städt. Kath. Grundschule",
+      "schulnummer": "105454",
+      "sozialindex": 6,
+      "lat": 51.273528,
+      "lon": 7.247341
+    },
+    "schule_2": {
+      "name": "Städt. Ev. Grundschule",
+      "schulnummer": "105582",
+      "sozialindex": 3,
+      "lat": 51.2709961,
+      "lon": 7.2410805
+    },
+    "differenz": 3,
+    "entfernung_km": 0.52,
+    "gradient": 5.78
+  },
+  {
+    "schule_1": {
+      "name": "Städt. Gem. Grundschule",
+      "schulnummer": "101618",
+      "sozialindex": 5,
+      "lat": 51.4000101,
+      "lon": 6.7641688
+    },
+    "schule_2": {
+      "name": "Städt. Gem. Grundschule",
+      "schulnummer": "101679",
+      "sozialindex": 9,
+      "lat": 51.4030922,
+      "lon": 6.7553429
+    },
+    "differenz": 4,
+    "entfernung_km": 0.7,
+    "gradient": 5.7
+  },
+  {
+    "schule_1": {
+      "name": "Städt. Gem. Grundschule",
+      "schulnummer": "100237",
+      "sozialindex": 8,
+      "lat": 51.2001112,
+      "lon": 6.8441671
+    },
+    "schule_2": {
+      "name": "Städt. Kath. Grundschule",
+      "schulnummer": "100468",
+      "sozialindex": 2,
+      "lat": 51.1917629,
+      "lon": 6.836897
+    },
+    "differenz": 6,
+    "entfernung_km": 1.06,
+    "gradient": 5.67
+  },
+  {
+    "schule_1": {
+      "name": "Käthe-Kollwitz-Schule",
+      "schulnummer": "102416",
+      "sozialindex": 2,
+      "lat": 51.4328438,
+      "lon": 7.0062634
+    },
+    "schule_2": {
+      "name": "Sternschule",
+      "schulnummer": "195467",
+      "sozialindex": 6,
+      "lat": 51.4385617,
+      "lon": 7.0107253
+    },
+    "differenz": 4,
+    "entfernung_km": 0.71,
+    "gradient": 5.66
+  },
+  {
+    "schule_1": {
+      "name": "Herderschule",
+      "schulnummer": "129203",
+      "sozialindex": 4,
+      "lat": 51.5568655,
+      "lon": 7.4855407
+    },
+    "schule_2": {
+      "name": "Mosaik-Grundschule Eving",
+      "schulnummer": "130096",
+      "sozialindex": 9,
+      "lat": 51.5517059,
+      "lon": 7.4757074
+    },
+    "differenz": 5,
+    "entfernung_km": 0.89,
+    "gradient": 5.62
+  },
+  {
+    "schule_1": {
+      "name": "Schule am Bergmannsplatz",
+      "schulnummer": "101126",
+      "sozialindex": 3,
+      "lat": 51.5007916,
+      "lon": 6.8005568
+    },
+    "schule_2": {
+      "name": "Salzmannschule",
+      "schulnummer": "101436",
+      "sozialindex": 7,
+      "lat": 51.4989556,
+      "lon": 6.8105811
+    },
+    "differenz": 4,
+    "entfernung_km": 0.72,
+    "gradient": 5.53
+  },
+  {
+    "schule_1": {
+      "name": "Maria-Kunigunda-Schule",
+      "schulnummer": "102635",
+      "sozialindex": 8,
+      "lat": 51.5221657,
+      "lon": 7.0085016
+    },
+    "schule_2": {
+      "name": "Grundschule an der Sandstraße",
+      "schulnummer": "119106",
+      "sozialindex": 2,
+      "lat": 51.526009,
+      "lon": 7.0230373
+    },
+    "differenz": 6,
+    "entfernung_km": 1.09,
+    "gradient": 5.49
+  },
+  {
+    "schule_1": {
+      "name": "Städt. Gem. Grundschule",
+      "schulnummer": "105697",
+      "sozialindex": 8,
+      "lat": 51.2693526,
+      "lon": 7.1817812
+    },
+    "schule_2": {
+      "name": "Städt. Gem. Grundschule Rudolfstraße",
+      "schulnummer": "105820",
+      "sozialindex": 5,
+      "lat": 51.2683725,
+      "lon": 7.1739929
+    },
+    "differenz": 3,
+    "entfernung_km": 0.55,
+    "gradient": 5.43
+  },
+  {
+    "schule_1": {
+      "name": "Städt. Gem. Grundschule",
+      "schulnummer": "101151",
+      "sozialindex": 9,
+      "lat": 51.4252649,
+      "lon": 6.7562665
+    },
+    "schule_2": {
+      "name": "Städt. Kath. Grundschule",
+      "schulnummer": "101242",
+      "sozialindex": 5,
+      "lat": 51.4311566,
+      "lon": 6.7611575
+    },
+    "differenz": 4,
+    "entfernung_km": 0.74,
+    "gradient": 5.42
+  },
+  {
+    "schule_1": {
+      "name": "Sankt-Antonius-Schule",
+      "schulnummer": "105545",
+      "sozialindex": 8,
+      "lat": 51.2707853,
+      "lon": 7.1936472
+    },
+    "schule_2": {
+      "name": "Städt. Gem. Grundschule",
+      "schulnummer": "105983",
+      "sozialindex": 4,
+      "lat": 51.2643733,
+      "lon": 7.1963609
+    },
+    "differenz": 4,
+    "entfernung_km": 0.74,
+    "gradient": 5.42
+  },
+  {
+    "schule_1": {
+      "name": "Städt. Kath. Grundschule",
+      "schulnummer": "111557",
+      "sozialindex": 3,
+      "lat": 51.009438,
+      "lon": 6.90243
+    },
+    "schule_2": {
+      "name": "Städt. Gem. Grundschule",
+      "schulnummer": "183349",
+      "sozialindex": 9,
+      "lat": 51.0193968,
+      "lon": 6.9019279
+    },
+    "differenz": 6,
+    "entfernung_km": 1.11,
+    "gradient": 5.42
+  },
+  {
+    "schule_1": {
+      "name": "Städt. Gemeinschaftsgrundschule",
+      "schulnummer": "101904",
+      "sozialindex": 2,
+      "lat": 51.4704796,
+      "lon": 6.9267982
+    },
+    "schule_2": {
+      "name": "Schlossschule",
+      "schulnummer": "102234",
+      "sozialindex": 5,
+      "lat": 51.4701106,
+      "lon": 6.9347959
+    },
+    "differenz": 3,
+    "entfernung_km": 0.56,
+    "gradient": 5.4
+  },
+  {
+    "schule_1": {
+      "name": "Städt. Gem. Grundschule Driescher Hof",
+      "schulnummer": "116180",
+      "sozialindex": 8,
+      "lat": 50.7530812,
+      "lon": 6.1437898
+    },
+    "schule_2": {
+      "name": "Städt. Gem. Grundschule",
+      "schulnummer": "193975",
+      "sozialindex": 4,
+      "lat": 50.7490464,
+      "lon": 6.1522245
+    },
+    "differenz": 4,
+    "entfernung_km": 0.74,
+    "gradient": 5.38
+  },
+  {
+    "schule_1": {
+      "name": "Schule Gerschede",
+      "schulnummer": "102106",
+      "sozialindex": 2,
+      "lat": 51.4790786,
+      "lon": 6.9368915
+    },
+    "schule_2": {
+      "name": "Schule am Reuenberg",
+      "schulnummer": "102556",
+      "sozialindex": 7,
+      "lat": 51.4869411,
+      "lon": 6.9321863
+    },
+    "differenz": 5,
+    "entfernung_km": 0.93,
+    "gradient": 5.36
+  },
+  {
+    "schule_1": {
+      "name": "Städt. Gem. Grundschule",
+      "schulnummer": "100961",
+      "sozialindex": 1,
+      "lat": 51.2100247,
+      "lon": 6.7690514
+    },
+    "schule_2": {
+      "name": "Städt. Gem. Grundschule",
+      "schulnummer": "101047",
+      "sozialindex": 9,
+      "lat": 51.2154351,
+      "lon": 6.7887788
+    },
+    "differenz": 8,
+    "entfernung_km": 1.5,
+    "gradient": 5.33
+  },
+  {
+    "schule_1": {
+      "name": "Schule am Bergmannsplatz",
+      "schulnummer": "101126",
+      "sozialindex": 3,
+      "lat": 51.5007916,
+      "lon": 6.8005568
+    },
+    "schule_2": {
+      "name": "Städt. Gem. Grundschule",
+      "schulnummer": "101655",
+      "sozialindex": 9,
+      "lat": 51.4922743,
+      "lon": 6.7917425
+    },
+    "differenz": 6,
+    "entfernung_km": 1.13,
+    "gradient": 5.33
+  },
+  {
+    "schule_1": {
+      "name": "Bischof-von-Ketteler-Schule",
+      "schulnummer": "101801",
+      "sozialindex": 4,
+      "lat": 51.465348,
+      "lon": 6.9573219
+    },
+    "schule_2": {
+      "name": "Schule an der Heinrich-Strunk-Straße",
+      "schulnummer": "102015",
+      "sozialindex": 9,
+      "lat": 51.4588152,
+      "lon": 6.9659028
+    },
+    "differenz": 5,
+    "entfernung_km": 0.94,
+    "gradient": 5.33
+  },
+  {
+    "schule_1": {
+      "name": "Bischof-von-Ketteler-Schule",
+      "schulnummer": "101801",
+      "sozialindex": 4,
+      "lat": 51.465348,
+      "lon": 6.9573219
+    },
+    "schule_2": {
+      "name": "Dürerschule",
+      "schulnummer": "102404",
+      "sozialindex": 8,
+      "lat": 51.470283,
+      "lon": 6.9498568
+    },
+    "differenz": 4,
+    "entfernung_km": 0.75,
+    "gradient": 5.31
+  },
+  {
+    "schule_1": {
+      "name": "Fleher Schule",
+      "schulnummer": "100493",
+      "sozialindex": 2,
+      "lat": 51.193702,
+      "lon": 6.7689353
+    },
+    "schule_2": {
+      "name": "Martin-Luther-Schule",
+      "schulnummer": "100730",
+      "sozialindex": 6,
+      "lat": 51.1962308,
+      "lon": 6.7790469
+    },
+    "differenz": 4,
+    "entfernung_km": 0.76,
+    "gradient": 5.27
+  },
+  {
+    "schule_1": {
+      "name": "Grüneberg-Schule",
+      "schulnummer": "112203",
+      "sozialindex": 9,
+      "lat": 50.9403034,
+      "lon": 7.0029809
+    },
+    "schule_2": {
+      "name": "Erich-Ohser-Schule",
+      "schulnummer": "114110",
+      "sozialindex": 2,
+      "lat": 50.9379294,
+      "lon": 7.0215945
+    },
+    "differenz": 7,
+    "entfernung_km": 1.33,
+    "gradient": 5.26
+  },
+  {
+    "schule_1": {
+      "name": "Paulus Schule",
+      "schulnummer": "100079",
+      "sozialindex": 3,
+      "lat": 51.2359173,
+      "lon": 6.8045487
+    },
+    "schule_2": {
+      "name": "Paul-Klee-Schule",
+      "schulnummer": "100444",
+      "sozialindex": 9,
+      "lat": 51.225685,
+      "lon": 6.8064275
+    },
+    "differenz": 6,
+    "entfernung_km": 1.15,
+    "gradient": 5.24
+  },
+  {
+    "schule_1": {
+      "name": "Stephan-Lochner-Schule",
+      "schulnummer": "111648",
+      "sozialindex": 3,
+      "lat": 50.930003,
+      "lon": 6.9355173
+    },
+    "schule_2": {
+      "name": "Don-Bosco-Schule",
+      "schulnummer": "114819",
+      "sozialindex": 6,
+      "lat": 50.9316035,
+      "lon": 6.9432815
+    },
+    "differenz": 3,
+    "entfernung_km": 0.57,
+    "gradient": 5.24
+  },
+  {
+    "schule_1": {
+      "name": "Sankt-Michael-Schule",
+      "schulnummer": "105480",
+      "sozialindex": 4,
+      "lat": 51.276246,
+      "lon": 7.1485803
+    },
+    "schule_2": {
+      "name": "Städt. Gem. Grundschule",
+      "schulnummer": "105624",
+      "sozialindex": 9,
+      "lat": 51.2681149,
+      "lon": 7.1530603
+    },
+    "differenz": 5,
+    "entfernung_km": 0.96,
+    "gradient": 5.23
+  },
+  {
+    "schule_1": {
+      "name": "Städt. Kath. Grundschule",
+      "schulnummer": "100468",
+      "sozialindex": 2,
+      "lat": 51.1917629,
+      "lon": 6.836897
+    },
+    "schule_2": {
+      "name": "Theodor-Heuss-Schule",
+      "schulnummer": "100900",
+      "sozialindex": 8,
+      "lat": 51.1862791,
+      "lon": 6.822857
+    },
+    "differenz": 6,
+    "entfernung_km": 1.15,
+    "gradient": 5.2
+  },
+  {
+    "schule_1": {
+      "name": "Städtische Katholische Grundschule",
+      "schulnummer": "100304",
+      "sozialindex": 8,
+      "lat": 51.2230137,
+      "lon": 6.8067195
+    },
+    "schule_2": {
+      "name": "Brehm Schule",
+      "schulnummer": "100705",
+      "sozialindex": 1,
+      "lat": 51.234302,
+      "lon": 6.81407
+    },
+    "differenz": 7,
+    "entfernung_km": 1.36,
+    "gradient": 5.16
+  },
+  {
+    "schule_1": {
+      "name": "Martin-von-Tours-Schule",
+      "schulnummer": "103913",
+      "sozialindex": 8,
+      "lat": 51.4278282,
+      "lon": 6.890532
+    },
+    "schule_2": {
+      "name": "Hölterschule",
+      "schulnummer": "104085",
+      "sozialindex": 2,
+      "lat": 51.4237416,
+      "lon": 6.9062137
+    },
+    "differenz": 6,
+    "entfernung_km": 1.18,
+    "gradient": 5.09
+  },
+  {
+    "schule_1": {
+      "name": "Leither Schule",
+      "schulnummer": "102696",
+      "sozialindex": 3,
+      "lat": 51.465148,
+      "lon": 7.0963181
+    },
+    "schule_2": {
+      "name": "Joachimschule",
+      "schulnummer": "102738",
+      "sozialindex": 9,
+      "lat": 51.4664514,
+      "lon": 7.0793881
+    },
+    "differenz": 6,
+    "entfernung_km": 1.18,
+    "gradient": 5.08
+  },
+  {
+    "schule_1": {
+      "name": "St. Elisabeth Schule",
+      "schulnummer": "100584",
+      "sozialindex": 9,
+      "lat": 51.1786998,
+      "lon": 6.8615154
+    },
+    "schule_2": {
+      "name": "Selma-Lagerlöf-Schule",
+      "schulnummer": "100675",
+      "sozialindex": 4,
+      "lat": 51.1780045,
+      "lon": 6.8756514
+    },
+    "differenz": 5,
+    "entfernung_km": 0.99,
+    "gradient": 5.06
+  },
+  {
+    "schule_1": {
+      "name": "Laurentiusschule",
+      "schulnummer": "101850",
+      "sozialindex": 2,
+      "lat": 51.4480953,
+      "lon": 7.0730216
+    },
+    "schule_2": {
+      "name": "Schule Im Steeler Rott",
+      "schulnummer": "102740",
+      "sozialindex": 5,
+      "lat": 51.453164,
+      "lon": 7.0757875
+    },
+    "differenz": 3,
+    "entfernung_km": 0.6,
+    "gradient": 5.04
+  },
+  {
+    "schule_1": {
+      "name": "Städt. Gem. Grundschule",
+      "schulnummer": "118953",
+      "sozialindex": 3,
+      "lat": 51.5493469,
+      "lon": 7.0336548
+    },
+    "schule_2": {
+      "name": "Südparkschule",
+      "schulnummer": "199874",
+      "sozialindex": 9,
+      "lat": 51.5480116,
+      "lon": 7.0164657
+    },
+    "differenz": 6,
+    "entfernung_km": 1.2,
+    "gradient": 5.01
+  },
+  {
+    "schule_1": {
+      "name": "Cosmas u. Damian Schule",
+      "schulnummer": "102179",
+      "sozialindex": 2,
+      "lat": 51.4463346,
+      "lon": 6.9730012
+    },
+    "schule_2": {
+      "name": "Bodelschwinghschule",
+      "schulnummer": "102362",
+      "sozialindex": 9,
+      "lat": 51.4587897,
+      "lon": 6.9762712
+    },
+    "differenz": 7,
+    "entfernung_km": 1.4,
+    "gradient": 4.99
+  },
+  {
+    "schule_1": {
+      "name": "Schule an der Schwanenbuschstraße",
+      "schulnummer": "102520",
+      "sozialindex": 9,
+      "lat": 51.4532237,
+      "lon": 7.0417602
+    },
+    "schule_2": {
+      "name": "Montessorischule am Lönsberg",
+      "schulnummer": "102647",
+      "sozialindex": 1,
+      "lat": 51.4417222,
+      "lon": 7.0556876
+    },
+    "differenz": 8,
+    "entfernung_km": 1.6,
+    "gradient": 4.99
+  },
+  {
+    "schule_1": {
+      "name": "Heinzelmännchen-Schule",
+      "schulnummer": "112549",
+      "sozialindex": 6,
+      "lat": 50.9308569,
+      "lon": 7.0239721
+    },
+    "schule_2": {
+      "name": "Erich-Ohser-Schule",
+      "schulnummer": "114110",
+      "sozialindex": 2,
+      "lat": 50.9379294,
+      "lon": 7.0215945
+    },
+    "differenz": 4,
+    "entfernung_km": 0.8,
+    "gradient": 4.98
+  },
+  {
+    "schule_1": {
+      "name": "Bischof-von-Ketteler-Schule",
+      "schulnummer": "101801",
+      "sozialindex": 4,
+      "lat": 51.465348,
+      "lon": 6.9573219
+    },
+    "schule_2": {
+      "name": "Hüttmannschule",
+      "schulnummer": "102751",
+      "sozialindex": 9,
+      "lat": 51.464405,
+      "lon": 6.9721795
+    },
+    "differenz": 5,
+    "entfernung_km": 1.03,
+    "gradient": 4.83
+  },
+  {
+    "schule_1": {
+      "name": "Sankt-Antonius-Schule",
+      "schulnummer": "105545",
+      "sozialindex": 8,
+      "lat": 51.2707853,
+      "lon": 7.1936472
+    },
+    "schule_2": {
+      "name": "Städt. Gem. Grundschule",
+      "schulnummer": "105740",
+      "sozialindex": 4,
+      "lat": 51.2753901,
+      "lon": 7.1842054
+    },
+    "differenz": 4,
+    "entfernung_km": 0.83,
+    "gradient": 4.8
+  },
+  {
+    "schule_1": {
+      "name": "Cosmas u. Damian Schule",
+      "schulnummer": "102179",
+      "sozialindex": 2,
+      "lat": 51.4463346,
+      "lon": 6.9730012
+    },
+    "schule_2": {
+      "name": "Gervinusschule",
+      "schulnummer": "102805",
+      "sozialindex": 7,
+      "lat": 51.4511945,
+      "lon": 6.9859298
+    },
+    "differenz": 5,
+    "entfernung_km": 1.05,
+    "gradient": 4.78
+  },
+  {
+    "schule_1": {
+      "name": "Schule an der Heinrich-Strunk-Straße",
+      "schulnummer": "102015",
+      "sozialindex": 9,
+      "lat": 51.4588152,
+      "lon": 6.9659028
+    },
+    "schule_2": {
+      "name": "Cosmas u. Damian Schule",
+      "schulnummer": "102179",
+      "sozialindex": 2,
+      "lat": 51.4463346,
+      "lon": 6.9730012
+    },
+    "differenz": 7,
+    "entfernung_km": 1.47,
+    "gradient": 4.75
+  },
+  {
+    "schule_1": {
+      "name": "Städt. Kath. Grundschule Ohler",
+      "schulnummer": "103500",
+      "sozialindex": 3,
+      "lat": 51.1797787,
+      "lon": 6.4364386
+    },
+    "schule_2": {
+      "name": "Städt. Ev. Grundschule",
+      "schulnummer": "105120",
+      "sozialindex": 8,
+      "lat": 51.1720715,
+      "lon": 6.4452821
+    },
+    "differenz": 5,
+    "entfernung_km": 1.06,
+    "gradient": 4.74
+  },
+  {
+    "schule_1": {
+      "name": "Ottoschule",
+      "schulnummer": "109046",
+      "sozialindex": 8,
+      "lat": 51.4485679,
+      "lon": 6.6863182
+    },
+    "schule_2": {
+      "name": "Schule Am Lutherpark",
+      "schulnummer": "109101",
+      "sozialindex": 2,
+      "lat": 51.4565218,
+      "lon": 6.6994952
+    },
+    "differenz": 6,
+    "entfernung_km": 1.27,
+    "gradient": 4.72
+  },
+  {
+    "schule_1": {
+      "name": "Städt. Kath. Grundschule",
+      "schulnummer": "100171",
+      "sozialindex": 3,
+      "lat": 51.2326381,
+      "lon": 6.857054
+    },
+    "schule_2": {
+      "name": "Ferdinand-Heye-Schule",
+      "schulnummer": "101000",
+      "sozialindex": 6,
+      "lat": 51.2276662,
+      "lon": 6.8616904
+    },
+    "differenz": 3,
+    "entfernung_km": 0.64,
+    "gradient": 4.69
+  },
+  {
+    "schule_1": {
+      "name": "Josefschule/ Horst",
+      "schulnummer": "102120",
+      "sozialindex": 3,
+      "lat": 51.4370982,
+      "lon": 7.1004717
+    },
+    "schule_2": {
+      "name": "Schule im Bergmannsfeld",
+      "schulnummer": "102866",
+      "sozialindex": 9,
+      "lat": 51.4477715,
+      "lon": 7.1077041
+    },
+    "differenz": 6,
+    "entfernung_km": 1.29,
+    "gradient": 4.66
+  },
+  {
+    "schule_1": {
+      "name": "Städt. Gem. Grundschule",
+      "schulnummer": "100237",
+      "sozialindex": 8,
+      "lat": 51.2001112,
+      "lon": 6.8441671
+    },
+    "schule_2": {
+      "name": "Städt. Gem. Grundschule",
+      "schulnummer": "100780",
+      "sozialindex": 3,
+      "lat": 51.206361,
+      "lon": 6.8559242
+    },
+    "differenz": 5,
+    "entfernung_km": 1.07,
+    "gradient": 4.65
+  },
+  {
+    "schule_1": {
+      "name": "Städt. Kath. Grundschule",
+      "schulnummer": "111880",
+      "sozialindex": 8,
+      "lat": 50.9181198,
+      "lon": 6.9569194
+    },
+    "schule_2": {
+      "name": "Städt. Gem. Grundschule",
+      "schulnummer": "112586",
+      "sozialindex": 2,
+      "lat": 50.9259593,
+      "lon": 6.9432027
+    },
+    "differenz": 6,
+    "entfernung_km": 1.3,
+    "gradient": 4.62
+  },
+  {
+    "schule_1": {
+      "name": "Elisabethschule",
+      "schulnummer": "102040",
+      "sozialindex": 4,
+      "lat": 51.4474227,
+      "lon": 6.9575398
+    },
+    "schule_2": {
+      "name": "Berliner Schule",
+      "schulnummer": "102830",
+      "sozialindex": 9,
+      "lat": 51.4460176,
+      "lon": 6.9730124
+    },
+    "differenz": 5,
+    "entfernung_km": 1.08,
+    "gradient": 4.61
+  },
+  {
+    "schule_1": {
+      "name": "Concordiaschule",
+      "schulnummer": "104346",
+      "sozialindex": 9,
+      "lat": 51.4706304,
+      "lon": 6.8290813
+    },
+    "schule_2": {
+      "name": "Ruhrschule",
+      "schulnummer": "104700",
+      "sozialindex": 4,
+      "lat": 51.4616522,
+      "lon": 6.8353017
+    },
+    "differenz": 5,
+    "entfernung_km": 1.09,
+    "gradient": 4.6
+  },
+  {
+    "schule_1": {
+      "name": "Städt. Gem. Grundschule",
+      "schulnummer": "100810",
+      "sozialindex": 3,
+      "lat": 51.214933,
+      "lon": 6.7699089
+    },
+    "schule_2": {
+      "name": "Städt. Gem. Grundschule",
+      "schulnummer": "101047",
+      "sozialindex": 9,
+      "lat": 51.2154351,
+      "lon": 6.7887788
+    },
+    "differenz": 6,
+    "entfernung_km": 1.32,
+    "gradient": 4.56
+  }
+]
