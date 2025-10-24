@@ -78,6 +78,42 @@ function getRadius(anzahl) {
     }
 }
 
+// Funktion zum Überprüfen der Nähe zu existierenden Markern
+function isNearOtherMarker(lat, lng, markers) {
+    if (!lat || !lng || !markers.length) return false;
+    
+    const minDistance = 0.0002; // ca. 20-30 Meter
+    return markers.some(marker => {
+        try {
+            const pos = marker.getLatLng();
+            const dx = pos.lat - lat;
+            const dy = pos.lng - lng;
+            return Math.sqrt(dx * dx + dy * dy) < minDistance;
+        } catch (e) {
+            console.error('Fehler beim Prüfen der Marker-Position:', e);
+            return false;
+        }
+    });
+}
+
+// Funktion zum Finden einer freie Position
+function findFreePosition(lat, lng, markers) {
+    const offset = 0.0002;
+    const angles = [0, 45, 90, 135, 180, 225, 270, 315]; // 8 Richtungen
+    
+    for (let angle of angles) {
+        const radian = angle * Math.PI / 180;
+        const newLat = lat + Math.cos(radian) * offset;
+        const newLng = lng + Math.sin(radian) * offset;
+        
+        if (!isNearOtherMarker(newLat, newLng, markers)) {
+            return [newLat, newLng];
+        }
+    }
+    
+    return [lat, lng]; // Fallback zur ursprünglichen Position
+}
+
 // Funktion zum Aktualisieren der Marker basierend auf den Filtereinstellungen und der Suche
 function updateMarkers(schools) {
     // Alle aktuellen Marker entfernen
@@ -100,7 +136,23 @@ function updateMarkers(schools) {
              school.schulnummer.toString().includes(searchTerm)) &&
             (!showOnlyGradientSchools || schoolsWithGradients.has(school.schulnummer))) {
             const color = getColorForIndex(school.sozialindex);
-            const marker = L.circleMarker([school.latitude, school.longitude], {
+            const lat = parseFloat(school.latitude);
+            const lng = parseFloat(school.longitude);
+            
+            // Nur fortfahren, wenn gültige Koordinaten vorhanden sind
+            if (isNaN(lat) || isNaN(lng)) {
+                console.warn(`Ungültige Koordinaten für Schule: ${school.name}`);
+                return;
+            }
+
+            let [finalLat, finalLng] = [lat, lng];
+            
+            // Prüfe und verschiebe nur, wenn es andere Marker gibt
+            if (markers.length > 0 && isNearOtherMarker(lat, lng, markers)) {
+                [finalLat, finalLng] = findFreePosition(lat, lng, markers);
+            }
+            
+            const marker = L.circleMarker([finalLat, finalLng], {
                 radius: getRadius(school.anzahl),
                 fillColor: color,
                 color: '#000',
@@ -163,6 +215,35 @@ function loadGradients() {
         });
 }
 
+// Funktion zum Finden der korrigierten Position einer Schule
+function getAdjustedSchoolPosition(school) {
+    const lat = parseFloat(school.lat || school.latitude);
+    const lng = parseFloat(school.lon || school.longitude);
+    
+    if (isNaN(lat) || isNaN(lng)) {
+        console.warn(`Ungültige Koordinaten für Schule: ${school.name || school.schulnummer}`);
+        return null;
+    }
+
+    // Suche nach einem existierenden Marker für diese Schule
+    const existingMarker = markers.find(m => {
+        const popupContent = m.getPopup().getContent();
+        return popupContent.includes(school.schulnummer.toString());
+    });
+
+    if (existingMarker) {
+        const pos = existingMarker.getLatLng();
+        return [pos.lat, pos.lng];
+    }
+
+    // Falls kein Marker gefunden wurde, prüfe ob eine neue Position nötig ist
+    if (markers.length > 0 && isNearOtherMarker(lat, lng, markers)) {
+        return findFreePosition(lat, lng, markers);
+    }
+
+    return [lat, lng];
+}
+
 // Funktion zum Aktualisieren der Gradienten
 function updateGradients() {
     // Bestehende Gradient-Linien entfernen
@@ -184,10 +265,16 @@ function updateGradients() {
             return; // Gradient überspringen wenn eine der Schulen nicht aktiv ist
         }
 
+        // Korrigierte Positionen für beide Schulen holen
+        const pos1 = getAdjustedSchoolPosition(gradient.schule_1);
+        const pos2 = getAdjustedSchoolPosition(gradient.schule_2);
+
+        if (!pos1 || !pos2) return; // Überspringen wenn eine Position ungültig ist
+
         // Koordinaten mit Sozialindex als z-Wert für den Farbverlauf
         const coordinates = [
-            [gradient.schule_1.lat, gradient.schule_1.lon, gradient.schule_1.sozialindex],
-            [gradient.schule_2.lat, gradient.schule_2.lon, gradient.schule_2.sozialindex]
+            [...pos1, gradient.schule_1.sozialindex],
+            [...pos2, gradient.schule_2.sozialindex]
         ];
         
         // Berechne die Liniendicke basierend auf dem Gradientenwert
