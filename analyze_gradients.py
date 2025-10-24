@@ -40,7 +40,10 @@ def analyze_schools(df):
                 float(school2['lat']), float(school2['lon'])
             )
             index_diff = abs(school1['sozialindex'] - school2['sozialindex'])            
-            gradient = index_diff / distance if distance > 0 else 0
+            if distance == 0:
+                print (f"Warnung: Entfernung zwischen Schule {school1['schulnummer']} und {school2['schulnummer']} ist 0 km. Verwende 0.1 km.")
+                distance = 0.1  # 100 Meter
+            gradient = index_diff / distance
             
             if index_diff >= 3:  # Mindestdifferenz von 3 Stufen
                 results.append({

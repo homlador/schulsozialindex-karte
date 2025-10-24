@@ -316,6 +316,48 @@
   },
   {
     "schule_1": {
+      "name": "Gem. Hauptschule",
+      "schulnummer": "142025",
+      "schultyp": "Hauptschule",
+      "sozialindex": 7,
+      "lat": 50.7773966,
+      "lon": 7.2126444
+    },
+    "schule_2": {
+      "name": "Albert-Einstein-Gymnasium",
+      "schulnummer": "183740",
+      "schultyp": "Gymnasium",
+      "sozialindex": 2,
+      "lat": 50.7773966,
+      "lon": 7.2126444
+    },
+    "differenz": 5,
+    "entfernung_km": 0.1,
+    "gradient": 50.0
+  },
+  {
+    "schule_1": {
+      "name": "Albert-Schweitzer-Schule",
+      "schulnummer": "160192",
+      "schultyp": "Realschule",
+      "sozialindex": 9,
+      "lat": 50.9269217,
+      "lon": 7.04788
+    },
+    "schule_2": {
+      "name": "Städt. Heinrich-Heine-Gymnasium",
+      "schulnummer": "184858",
+      "schultyp": "Gymnasium",
+      "sozialindex": 4,
+      "lat": 50.9269217,
+      "lon": 7.04788
+    },
+    "differenz": 5,
+    "entfernung_km": 0.1,
+    "gradient": 50.0
+  },
+  {
+    "schule_1": {
       "name": "Elly-Heuss-Knapp-Realschule",
       "schulnummer": "160106",
       "schultyp": "Realschule",
@@ -481,6 +523,153 @@
     "differenz": 4,
     "entfernung_km": 0.1,
     "gradient": 40.27
+  },
+  {
+    "schule_1": {
+      "name": "Barbaraschule",
+      "schulnummer": "101266",
+      "schultyp": "Grundschule",
+      "sozialindex": 5,
+      "lat": 51.4922743,
+      "lon": 6.7917425
+    },
+    "schule_2": {
+      "name": "Städt. Gem. Grundschule",
+      "schulnummer": "101655",
+      "schultyp": "Grundschule",
+      "sozialindex": 9,
+      "lat": 51.4922743,
+      "lon": 6.7917425
+    },
+    "differenz": 4,
+    "entfernung_km": 0.1,
+    "gradient": 40.0
+  },
+  {
+    "schule_1": {
+      "name": "Johann-Michael-Sailer-Schule",
+      "schulnummer": "101898",
+      "schultyp": "Grundschule",
+      "sozialindex": 3,
+      "lat": 51.4813338,
+      "lon": 7.060719
+    },
+    "schule_2": {
+      "name": "Schillerschule",
+      "schulnummer": "102246",
+      "schultyp": "Grundschule",
+      "sozialindex": 7,
+      "lat": 51.4813338,
+      "lon": 7.060719
+    },
+    "differenz": 4,
+    "entfernung_km": 0.1,
+    "gradient": 40.0
+  },
+  {
+    "schule_1": {
+      "name": "Martin-Luther-Schule",
+      "schulnummer": "104206",
+      "schultyp": "Grundschule",
+      "sozialindex": 4,
+      "lat": 51.1985289,
+      "lon": 6.680226
+    },
+    "schule_2": {
+      "name": "Kreuzschule",
+      "schulnummer": "104231",
+      "schultyp": "Grundschule",
+      "sozialindex": 8,
+      "lat": 51.1985289,
+      "lon": 6.680226
+    },
+    "differenz": 4,
+    "entfernung_km": 0.1,
+    "gradient": 40.0
+  },
+  {
+    "schule_1": {
+      "name": "Vincenz-Statz-Schule",
+      "schulnummer": "111624",
+      "schultyp": "Grundschule",
+      "sozialindex": 6,
+      "lat": 50.9457123,
+      "lon": 6.9145095
+    },
+    "schule_2": {
+      "name": "Lindenbornschule",
+      "schulnummer": "112343",
+      "schultyp": "Grundschule",
+      "sozialindex": 2,
+      "lat": 50.9457123,
+      "lon": 6.9145095
+    },
+    "differenz": 4,
+    "entfernung_km": 0.1,
+    "gradient": 40.0
+  },
+  {
+    "schule_1": {
+      "name": "Städt. Gem. Hauptschule Im Kleefeld",
+      "schulnummer": "141847",
+      "schultyp": "Hauptschule",
+      "sozialindex": 7,
+      "lat": 51.0015865,
+      "lon": 7.1229221
+    },
+    "schule_2": {
+      "name": "Städt. Realschule im Kleefeld",
+      "schulnummer": "160556",
+      "schultyp": "Realschule",
+      "sozialindex": 3,
+      "lat": 51.0015865,
+      "lon": 7.1229221
+    },
+    "differenz": 4,
+    "entfernung_km": 0.1,
+    "gradient": 40.0
+  },
+  {
+    "schule_1": {
+      "name": "Städt. Gem. Hauptschule",
+      "schulnummer": "146584",
+      "schultyp": "Hauptschule",
+      "sozialindex": 9,
+      "lat": 52.0777557,
+      "lon": 8.7649849
+    },
+    "schule_2": {
+      "name": "Eduard-Hoffmann-Realschule",
+      "schulnummer": "162334",
+      "schultyp": "Realschule",
+      "sozialindex": 5,
+      "lat": 52.0777557,
+      "lon": 8.7649849
+    },
+    "differenz": 4,
+    "entfernung_km": 0.1,
+    "gradient": 40.0
+  },
+  {
+    "schule_1": {
+      "name": "Heinrich-Heine-Schule",
+      "schulnummer": "189110",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 6,
+      "lat": 50.804875,
+      "lon": 6.0514797
+    },
+    "schule_2": {
+      "name": "Anne-Frank-Gymnasium",
+      "schulnummer": "167320",
+      "schultyp": "Gymnasium",
+      "sozialindex": 2,
+      "lat": 50.804875,
+      "lon": 6.0514797
+    },
+    "differenz": 4,
+    "entfernung_km": 0.1,
+    "gradient": 40.0
   },
   {
     "schule_1": {
@@ -691,6 +880,279 @@
     "differenz": 4,
     "entfernung_km": 0.13,
     "gradient": 31.84
+  },
+  {
+    "schule_1": {
+      "name": "Hermann Gmeiner Schule",
+      "schulnummer": "100122",
+      "schultyp": "Grundschule",
+      "sozialindex": 7,
+      "lat": 51.1780045,
+      "lon": 6.8756514
+    },
+    "schule_2": {
+      "name": "Selma-Lagerlöf-Schule",
+      "schulnummer": "100675",
+      "schultyp": "Grundschule",
+      "sozialindex": 4,
+      "lat": 51.1780045,
+      "lon": 6.8756514
+    },
+    "differenz": 3,
+    "entfernung_km": 0.1,
+    "gradient": 30.0
+  },
+  {
+    "schule_1": {
+      "name": "St. Cäcilia Schule",
+      "schulnummer": "100547",
+      "schultyp": "Grundschule",
+      "sozialindex": 3,
+      "lat": 51.1671055,
+      "lon": 6.8690886
+    },
+    "schule_2": {
+      "name": "Grundschule Schloss Benrath",
+      "schulnummer": "100882",
+      "schultyp": "Grundschule",
+      "sozialindex": 6,
+      "lat": 51.1671055,
+      "lon": 6.8690886
+    },
+    "differenz": 3,
+    "entfernung_km": 0.1,
+    "gradient": 30.0
+  },
+  {
+    "schule_1": {
+      "name": "Paulusschule",
+      "schulnummer": "110851",
+      "schultyp": "Grundschule",
+      "sozialindex": 6,
+      "lat": 50.7416946,
+      "lon": 7.0616106
+    },
+    "schule_2": {
+      "name": "Elsa-Brändström-Schule",
+      "schulnummer": "110991",
+      "schultyp": "Grundschule",
+      "sozialindex": 9,
+      "lat": 50.7416946,
+      "lon": 7.0616106
+    },
+    "differenz": 3,
+    "entfernung_km": 0.1,
+    "gradient": 30.0
+  },
+  {
+    "schule_1": {
+      "name": "Städt. Kath. Grundschule",
+      "schulnummer": "111776",
+      "schultyp": "Grundschule",
+      "sozialindex": 6,
+      "lat": 50.9304317,
+      "lon": 7.0426226
+    },
+    "schule_2": {
+      "name": "James-Krüss-Grundschule",
+      "schulnummer": "112252",
+      "schultyp": "Grundschule",
+      "sozialindex": 9,
+      "lat": 50.9304317,
+      "lon": 7.0426226
+    },
+    "differenz": 3,
+    "entfernung_km": 0.1,
+    "gradient": 30.0
+  },
+  {
+    "schule_1": {
+      "name": "KGS Möwenschule, Städt. katholische",
+      "schulnummer": "103287",
+      "schultyp": "Grundschule",
+      "sozialindex": 6,
+      "lat": 51.0307087,
+      "lon": 6.9808928
+    },
+    "schule_2": {
+      "name": "Städt. Gem. Grundschule",
+      "schulnummer": "103354",
+      "schultyp": "Grundschule",
+      "sozialindex": 9,
+      "lat": 51.0307087,
+      "lon": 6.9808928
+    },
+    "differenz": 3,
+    "entfernung_km": 0.1,
+    "gradient": 30.0
+  },
+  {
+    "schule_1": {
+      "name": "Josefschule",
+      "schulnummer": "129264",
+      "schultyp": "Grundschule",
+      "sozialindex": 4,
+      "lat": 51.5343654,
+      "lon": 7.6195069
+    },
+    "schule_2": {
+      "name": "Bachschule",
+      "schulnummer": "129616",
+      "schultyp": "Grundschule",
+      "sozialindex": 7,
+      "lat": 51.5343654,
+      "lon": 7.6195069
+    },
+    "differenz": 3,
+    "entfernung_km": 0.1,
+    "gradient": 30.0
+  },
+  {
+    "schule_1": {
+      "name": "Geschwister-Scholl-Schule",
+      "schulnummer": "142177",
+      "schultyp": "Hauptschule",
+      "sozialindex": 6,
+      "lat": 50.6224682,
+      "lon": 7.0415242
+    },
+    "schule_2": {
+      "name": "Theodor-Heuss-Schule",
+      "schulnummer": "185802",
+      "schultyp": "Realschule",
+      "sozialindex": 3,
+      "lat": 50.6224682,
+      "lon": 7.0415242
+    },
+    "differenz": 3,
+    "entfernung_km": 0.1,
+    "gradient": 30.0
+  },
+  {
+    "schule_1": {
+      "name": "Städt. Gem. Hauptschule",
+      "schulnummer": "145403",
+      "schultyp": "Hauptschule",
+      "sozialindex": 5,
+      "lat": 52.2069384,
+      "lon": 7.1984613
+    },
+    "schule_2": {
+      "name": "Städtische Realschule",
+      "schulnummer": "161846",
+      "schultyp": "Realschule",
+      "sozialindex": 2,
+      "lat": 52.2069384,
+      "lon": 7.1984613
+    },
+    "differenz": 3,
+    "entfernung_km": 0.1,
+    "gradient": 30.0
+  },
+  {
+    "schule_1": {
+      "name": "Städt. Gem. Hauptschule",
+      "schulnummer": "145403",
+      "schultyp": "Hauptschule",
+      "sozialindex": 5,
+      "lat": 52.2069384,
+      "lon": 7.1984613
+    },
+    "schule_2": {
+      "name": "Städtisches Gymnasium Ochtrup",
+      "schulnummer": "168415",
+      "schultyp": "Gymnasium",
+      "sozialindex": 2,
+      "lat": 52.2069384,
+      "lon": 7.1984613
+    },
+    "differenz": 3,
+    "entfernung_km": 0.1,
+    "gradient": 30.0
+  },
+  {
+    "schule_1": {
+      "name": "Josef-Reding-Schule",
+      "schulnummer": "150733",
+      "schultyp": "Hauptschule",
+      "sozialindex": 5,
+      "lat": 51.4975718,
+      "lon": 7.6249233
+    },
+    "schule_2": {
+      "name": "Clara-Schumann-Gymnasium",
+      "schulnummer": "192168",
+      "schultyp": "Gymnasium",
+      "sozialindex": 2,
+      "lat": 51.4975718,
+      "lon": 7.6249233
+    },
+    "differenz": 3,
+    "entfernung_km": 0.1,
+    "gradient": 30.0
+  },
+  {
+    "schule_1": {
+      "name": "Städt. Carl-Benz-Realschule Oberkassel",
+      "schulnummer": "183088",
+      "schultyp": "Realschule",
+      "sozialindex": 5,
+      "lat": 51.2379193,
+      "lon": 6.7512189
+    },
+    "schule_2": {
+      "name": "Städtisches Cecilien-Gymnasium",
+      "schulnummer": "164392",
+      "schultyp": "Gymnasium",
+      "sozialindex": 2,
+      "lat": 51.2379193,
+      "lon": 6.7512189
+    },
+    "differenz": 3,
+    "entfernung_km": 0.1,
+    "gradient": 30.0
+  },
+  {
+    "schule_1": {
+      "name": "Max-Planck-Realschule i.Schulzentrum Ost",
+      "schulnummer": "185218",
+      "schultyp": "Realschule",
+      "sozialindex": 8,
+      "lat": 51.2776422,
+      "lon": 7.2208434
+    },
+    "schule_2": {
+      "name": "Carl-Duisberg-Gymnasium",
+      "schulnummer": "165402",
+      "schultyp": "Gymnasium",
+      "sozialindex": 5,
+      "lat": 51.2776422,
+      "lon": 7.2208434
+    },
+    "differenz": 3,
+    "entfernung_km": 0.1,
+    "gradient": 30.0
+  },
+  {
+    "schule_1": {
+      "name": "Städtische Gesamtschule Kevelaer",
+      "schulnummer": "198997",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 5,
+      "lat": 51.5806875,
+      "lon": 6.2347707
+    },
+    "schule_2": {
+      "name": "Städt. Kardinal-von-Galen-Gymnasium",
+      "schulnummer": "165700",
+      "schultyp": "Gymnasium",
+      "sozialindex": 2,
+      "lat": 51.5806875,
+      "lon": 6.2347707
+    },
+    "differenz": 3,
+    "entfernung_km": 0.1,
+    "gradient": 30.0
   },
   {
     "schule_1": {
@@ -20536,467 +20998,5 @@
     "differenz": 6,
     "entfernung_km": 2.02,
     "gradient": 2.97
-  },
-  {
-    "schule_1": {
-      "name": "Stadt Köln",
-      "schulnummer": "141021",
-      "schultyp": "Hauptschule",
-      "sozialindex": 7,
-      "lat": 50.9483162,
-      "lon": 6.9628987
-    },
-    "schule_2": {
-      "name": "Realschule am Rhein",
-      "schulnummer": "160260",
-      "schultyp": "Realschule",
-      "sozialindex": 4,
-      "lat": 50.9457088,
-      "lon": 6.9490756
-    },
-    "differenz": 3,
-    "entfernung_km": 1.01,
-    "gradient": 2.97
-  },
-  {
-    "schule_1": {
-      "name": "Eichendorff-Schule",
-      "schulnummer": "160222",
-      "schultyp": "Realschule",
-      "sozialindex": 6,
-      "lat": 50.958576,
-      "lon": 6.9162904
-    },
-    "schule_2": {
-      "name": "Montessori-Gymnasium",
-      "schulnummer": "166480",
-      "schultyp": "Gymnasium",
-      "sozialindex": 3,
-      "lat": 50.9631745,
-      "lon": 6.9038748
-    },
-    "differenz": 3,
-    "entfernung_km": 1.01,
-    "gradient": 2.97
-  },
-  {
-    "schule_1": {
-      "name": "Katharina-Henoth-Schule",
-      "schulnummer": "188165",
-      "schultyp": "Gesamtschule",
-      "sozialindex": 9,
-      "lat": 50.9375579,
-      "lon": 7.0285533
-    },
-    "schule_2": {
-      "name": "Städt. Johann-Gottfried-Herder Gymnasium",
-      "schulnummer": "166686",
-      "schultyp": "Gymnasium",
-      "sozialindex": 4,
-      "lat": 50.9519763,
-      "lon": 7.0212853
-    },
-    "differenz": 5,
-    "entfernung_km": 1.68,
-    "gradient": 2.97
-  },
-  {
-    "schule_1": {
-      "name": "Schule Am Mattlerbusch",
-      "schulnummer": "101370",
-      "schultyp": "Grundschule",
-      "sozialindex": 3,
-      "lat": 51.5210763,
-      "lon": 6.7733489
-    },
-    "schule_2": {
-      "name": "Städtische Gemeinschaftsgrundschule",
-      "schulnummer": "101424",
-      "schultyp": "Grundschule",
-      "sozialindex": 9,
-      "lat": 51.5067099,
-      "lon": 6.7553108
-    },
-    "differenz": 6,
-    "entfernung_km": 2.03,
-    "gradient": 2.96
-  },
-  {
-    "schule_1": {
-      "name": "Franziskusschule",
-      "schulnummer": "129458",
-      "schultyp": "Grundschule",
-      "sozialindex": 3,
-      "lat": 51.5121724,
-      "lon": 7.4931573
-    },
-    "schule_2": {
-      "name": "Diesterwegschule",
-      "schulnummer": "129884",
-      "schultyp": "Grundschule",
-      "sozialindex": 9,
-      "lat": 51.5224508,
-      "lon": 7.4690115
-    },
-    "differenz": 6,
-    "entfernung_km": 2.02,
-    "gradient": 2.96
-  },
-  {
-    "schule_1": {
-      "name": "Elisabethschule",
-      "schulnummer": "130886",
-      "schultyp": "Grundschule",
-      "sozialindex": 3,
-      "lat": 51.6050161,
-      "lon": 7.4476205
-    },
-    "schule_2": {
-      "name": "Schule Auf dem Kelm",
-      "schulnummer": "186119",
-      "schultyp": "Grundschule",
-      "sozialindex": 6,
-      "lat": 51.5987956,
-      "lon": 7.458333
-    },
-    "differenz": 3,
-    "entfernung_km": 1.01,
-    "gradient": 2.96
-  },
-  {
-    "schule_1": {
-      "name": "Maria-Wächtler-Gymnasium - Sek. I u. II-",
-      "schulnummer": "164811",
-      "schultyp": "Gymnasium",
-      "sozialindex": 3,
-      "lat": 51.4369269,
-      "lon": 7.0182704
-    },
-    "schule_2": {
-      "name": "UNESCO-Schule Essen",
-      "schulnummer": "164835",
-      "schultyp": "Gymnasium",
-      "sozialindex": 9,
-      "lat": 51.4540542,
-      "lon": 7.0281866
-    },
-    "differenz": 6,
-    "entfernung_km": 2.02,
-    "gradient": 2.96
-  },
-  {
-    "schule_1": {
-      "name": "Ottoschule",
-      "schulnummer": "109046",
-      "schultyp": "Grundschule",
-      "sozialindex": 8,
-      "lat": 51.4485679,
-      "lon": 6.6863182
-    },
-    "schule_2": {
-      "name": "Eichendorffschule",
-      "schulnummer": "109277",
-      "schultyp": "Grundschule",
-      "sozialindex": 2,
-      "lat": 51.4613371,
-      "lon": 6.6653405
-    },
-    "differenz": 6,
-    "entfernung_km": 2.03,
-    "gradient": 2.95
-  },
-  {
-    "schule_1": {
-      "name": "Johann-Michael-Sailer-Schule",
-      "schulnummer": "101898",
-      "schultyp": "Grundschule",
-      "sozialindex": 3,
-      "lat": 51.4813338,
-      "lon": 7.060719
-    },
-    "schule_2": {
-      "name": "Turmschule",
-      "schulnummer": "119039",
-      "schultyp": "Grundschule",
-      "sozialindex": 8,
-      "lat": 51.4912023,
-      "lon": 7.0793467
-    },
-    "differenz": 5,
-    "entfernung_km": 1.69,
-    "gradient": 2.95
-  },
-  {
-    "schule_1": {
-      "name": "Stadt Köln",
-      "schulnummer": "111429",
-      "schultyp": "Grundschule",
-      "sozialindex": 3,
-      "lat": 50.9698831,
-      "lon": 6.9565799
-    },
-    "schule_2": {
-      "name": "Städt. Gem. Grundschule",
-      "schulnummer": "111715",
-      "schultyp": "Grundschule",
-      "sozialindex": 6,
-      "lat": 50.977666,
-      "lon": 6.9642222
-    },
-    "differenz": 3,
-    "entfernung_km": 1.02,
-    "gradient": 2.95
-  },
-  {
-    "schule_1": {
-      "name": "Städt. Gem. Grundschule",
-      "schulnummer": "103330",
-      "schultyp": "Grundschule",
-      "sozialindex": 9,
-      "lat": 51.0511251,
-      "lon": 7.0565769
-    },
-    "schule_2": {
-      "name": "Städt. Gem. Grundschule",
-      "schulnummer": "110590",
-      "schultyp": "Grundschule",
-      "sozialindex": 5,
-      "lat": 51.0632983,
-      "lon": 7.0568912
-    },
-    "differenz": 4,
-    "entfernung_km": 1.35,
-    "gradient": 2.95
-  },
-  {
-    "schule_1": {
-      "name": "Spandauerschule",
-      "schulnummer": "134971",
-      "schultyp": "Grundschule",
-      "sozialindex": 6,
-      "lat": 50.8700833,
-      "lon": 8.0225031
-    },
-    "schule_2": {
-      "name": "Nordschule",
-      "schulnummer": "135008",
-      "schultyp": "Grundschule",
-      "sozialindex": 9,
-      "lat": 50.8785814,
-      "lon": 8.0279182
-    },
-    "differenz": 3,
-    "entfernung_km": 1.02,
-    "gradient": 2.95
-  },
-  {
-    "schule_1": {
-      "name": "Geschwister-Scholl-Schule",
-      "schulnummer": "148258",
-      "schultyp": "Hauptschule",
-      "sozialindex": 8,
-      "lat": 51.3835494,
-      "lon": 7.4685849
-    },
-    "schule_2": {
-      "name": "Friedrich-Harkort-Schule",
-      "schulnummer": "169997",
-      "schultyp": "Gymnasium",
-      "sozialindex": 1,
-      "lat": 51.3962298,
-      "lon": 7.4410252
-    },
-    "differenz": 7,
-    "entfernung_km": 2.38,
-    "gradient": 2.95
-  },
-  {
-    "schule_1": {
-      "name": "Erlenbachschule",
-      "schulnummer": "150782",
-      "schultyp": "Hauptschule",
-      "sozialindex": 5,
-      "lat": 51.6740872,
-      "lon": 7.8779079
-    },
-    "schule_2": {
-      "name": "Freiherr-vom-Stein-Gymnasium",
-      "schulnummer": "169596",
-      "schultyp": "Gymnasium",
-      "sozialindex": 1,
-      "lat": 51.6853121,
-      "lon": 7.8856332
-    },
-    "differenz": 4,
-    "entfernung_km": 1.36,
-    "gradient": 2.95
-  },
-  {
-    "schule_1": {
-      "name": "Hinseler Schule",
-      "schulnummer": "102210",
-      "schultyp": "Grundschule",
-      "sozialindex": 1,
-      "lat": 51.4301477,
-      "lon": 7.0804265
-    },
-    "schule_2": {
-      "name": "Schule im Bergmannsfeld",
-      "schulnummer": "102866",
-      "schultyp": "Grundschule",
-      "sozialindex": 9,
-      "lat": 51.4477715,
-      "lon": 7.1077041
-    },
-    "differenz": 8,
-    "entfernung_km": 2.72,
-    "gradient": 2.94
-  },
-  {
-    "schule_1": {
-      "name": "Agnes-van-Brakel-Schule",
-      "schulnummer": "108546",
-      "schultyp": "Grundschule",
-      "sozialindex": 1,
-      "lat": 51.2303197,
-      "lon": 6.4181976
-    },
-    "schule_2": {
-      "name": "Albert-Schweitzer-Schule",
-      "schulnummer": "108649",
-      "schultyp": "Grundschule",
-      "sozialindex": 6,
-      "lat": 51.2453296,
-      "lon": 6.4134576
-    },
-    "differenz": 5,
-    "entfernung_km": 1.7,
-    "gradient": 2.94
-  },
-  {
-    "schule_1": {
-      "name": "Gartenschule",
-      "schulnummer": "106100",
-      "schultyp": "Grundschule",
-      "sozialindex": 7,
-      "lat": 51.5600527,
-      "lon": 6.7328359
-    },
-    "schule_2": {
-      "name": "Bruchschule",
-      "schulnummer": "106203",
-      "schultyp": "Grundschule",
-      "sozialindex": 3,
-      "lat": 51.5722179,
-      "lon": 6.7308474
-    },
-    "differenz": 4,
-    "entfernung_km": 1.36,
-    "gradient": 2.94
-  },
-  {
-    "schule_1": {
-      "name": "Jahnschule",
-      "schulnummer": "110796",
-      "schultyp": "Grundschule",
-      "sozialindex": 8,
-      "lat": 50.7561187,
-      "lon": 7.0843086
-    },
-    "schule_2": {
-      "name": "Grundschulverbund",
-      "schulnummer": "110802",
-      "schultyp": "Grundschule",
-      "sozialindex": 4,
-      "lat": 50.7462574,
-      "lon": 7.0957191
-    },
-    "differenz": 4,
-    "entfernung_km": 1.36,
-    "gradient": 2.94
-  },
-  {
-    "schule_1": {
-      "name": "Städt. Gem. Grundschule",
-      "schulnummer": "111399",
-      "schultyp": "Grundschule",
-      "sozialindex": 2,
-      "lat": 50.9110914,
-      "lon": 6.9299752
-    },
-    "schule_2": {
-      "name": "Städt. Kath. Grundschule",
-      "schulnummer": "111880",
-      "schultyp": "Grundschule",
-      "sozialindex": 8,
-      "lat": 50.9181198,
-      "lon": 6.9569194
-    },
-    "differenz": 6,
-    "entfernung_km": 2.04,
-    "gradient": 2.94
-  },
-  {
-    "schule_1": {
-      "name": "Lukas-Schule",
-      "schulnummer": "112150",
-      "schultyp": "Grundschule",
-      "sozialindex": 7,
-      "lat": 50.9703813,
-      "lon": 6.9290628
-    },
-    "schule_2": {
-      "name": "Mathilde-von-Mevissen-Grundschule",
-      "schulnummer": "112379",
-      "schultyp": "Grundschule",
-      "sozialindex": 1,
-      "lat": 50.9627058,
-      "lon": 6.9555877
-    },
-    "differenz": 6,
-    "entfernung_km": 2.04,
-    "gradient": 2.94
-  },
-  {
-    "schule_1": {
-      "name": "Grundschule Im Reitwinkel Schulverbund",
-      "schulnummer": "120029",
-      "schultyp": "Grundschule",
-      "sozialindex": 8,
-      "lat": 51.5684015,
-      "lon": 7.209514
-    },
-    "schule_2": {
-      "name": "Schule Pantrings Hof",
-      "schulnummer": "130680",
-      "schultyp": "Grundschule",
-      "sozialindex": 3,
-      "lat": 51.5688679,
-      "lon": 7.2340693
-    },
-    "differenz": 5,
-    "entfernung_km": 1.7,
-    "gradient": 2.94
-  },
-  {
-    "schule_1": {
-      "name": "Erlenschule",
-      "schulnummer": "131271",
-      "schultyp": "Grundschule",
-      "sozialindex": 6,
-      "lat": 51.4439349,
-      "lon": 7.3689463
-    },
-    "schule_2": {
-      "name": "Borbachschule",
-      "schulnummer": "131301",
-      "schultyp": "Grundschule",
-      "sozialindex": 1,
-      "lat": 51.4288617,
-      "lon": 7.3730124
-    },
-    "differenz": 5,
-    "entfernung_km": 1.7,
-    "gradient": 2.94
   }
 ]
