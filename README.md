@@ -4,7 +4,7 @@ Eine Visualisierung der Schulen in NRW mit ihrem [Schulsozialindex](https://www.
 
 Dieses Projekt generiert mit Python eine [Webseite](https://homlador.github.io/schulsozialindex-karte/), auf der eine interaktive Karte unter Verwendung von [OpenStreetMap](https://www.openstreetmap.org) und [leaflet](https://leafletjs.com/) von Schulen und ihrem Schulsozialindex dargestellt wird.
 
-Die Adressdaten basierend auf Daten von "IT.NRW, Statistisches Landesamt, Düsseldorf, 2025"  unter der Datenlizenz Deutschland - Namensnennung - Version 2.0 
+Die Adressdaten basierend auf Daten von "IT.NRW, Statistisches Landesamt, Düsseldorf, 2025" unter der Datenlizenz Deutschland - Namensnennung - Version 2.0 
 
 ## HOWTO
 
@@ -18,12 +18,15 @@ Manuell aufbereiten
 * Spalten umbenennen zu: Schulnnummer, Anzahl, Verwaltungsbezirk.
 
 3. Geokoordinaten mit [Nominatim](https://nominatim.org/) ergänzen: `$ uv run geocode_schools.py`
-(Ggf die ausgewählten Schulen in geocode_schools.py anpassen)
+(Ggf die ausgewählten Schulen in geocode_schools.py anpassen, um einen anderen Datensatz wie z.B. schools-duisburg.json zu erzeugen)
 
 4. Daten nach JSON konvertieren: `$ uv run convert_to_json.py`
 
+5. Gradienten berechnen: `$ uv run analyze_gradients.py`
+
 5. `index.html` öffnen
 
-## TODO
+## TODO/Ideen
 
-* Auswahl nach Bezirken o.ä per Javascript
+* Auswahl nach Bezirken o.ä dynamisch
+* Gradienten per Javascript für ausgewählte Schulen berechnen und maximale Entfernung definierbar machen
