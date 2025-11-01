@@ -8,7 +8,7 @@
     "anzahl": "1315",
     "latitude": "51.3756782",
     "longitude": "6.78218",
-    "address": "Gesamtschule Duisburg Süd, 168-174, Großenbaumer Allee, Großenbaum, Duisburg-Süd, Duisburg, Nordrhein-Westfalen, 47269, Deutschland"
+    "adresse": "Großenbaumer Allee 168-174, 47269 Duisburg"
   },
   {
     "name": "Gottfried-Wilhelm-Leibniz-Schule",
@@ -19,7 +19,7 @@
     "anzahl": "1550",
     "latitude": "51.4886665",
     "longitude": "6.7655257",
-    "address": "Leibniz-Gesamtschule, 274-278, Hamborner Straße, Hamborn, Duisburg, Nordrhein-Westfalen, 47166, Deutschland"
+    "adresse": "Hamborner Str. 274-278, 47166 Duisburg"
   },
   {
     "name": "Heinrich-Heine-Schule",
@@ -30,7 +30,7 @@
     "anzahl": "1155",
     "latitude": "51.4087926",
     "longitude": "6.698586",
-    "address": "56, Flutweg, Bergheim, Rheinhausen, Duisburg, Nordrhein-Westfalen, 47228, Deutschland"
+    "adresse": "Flutweg 56, 47228 Duisburg"
   },
   {
     "name": "Gesamtschule Duisburg-Mitte",
@@ -39,9 +39,9 @@
     "schultyp": "Gesamtschule",
     "sozialindex": "5",
     "anzahl": "1290",
-    "latitude": "51.4362418",
-    "longitude": "6.7780117",
-    "address": "Gesamtschule Duisburg-Mitte (Zweigstelle), 44, Falkstraße, Duissern, Duisburg-Mitte, Duisburg, Nordrhein-Westfalen, 47058, Deutschland"
+    "latitude": "51.4316312",
+    "longitude": "6.7882849",
+    "adresse": "Pappenstr. 49-51, 47057 Duisburg"
   },
   {
     "name": "Städt. Gesamtschule Meiderich",
@@ -50,9 +50,9 @@
     "schultyp": "Gesamtschule",
     "sozialindex": "9",
     "anzahl": "1235",
-    "latitude": "51.4704208",
-    "longitude": "6.7858025",
-    "address": "Gesamtschule Meiderich (Zweigstelle) Jahrgang 5 & 6, 65, Bahnhofstraße, Lösort-Emschertal, Mittelmeiderich, Meiderich/Beeck, Duisburg, Nordrhein-Westfalen, 47138, Deutschland"
+    "latitude": "51.4666438",
+    "longitude": "6.7852411",
+    "adresse": "Westender Str. 30-32, 47138 Duisburg"
   },
   {
     "name": "Gesamtschule Walsum",
@@ -63,7 +63,7 @@
     "anzahl": "1395",
     "latitude": "51.53188",
     "longitude": "6.74011",
-    "address": "Gesamtschule Walsum, 51, Kurze Straße, Walsum, Duisburg, Nordrhein-Westfalen, 47179, Deutschland"
+    "adresse": "Kurze Str. 51, 47179 Duisburg"
   },
   {
     "name": "Erich Kästner- Gesamtschule Homberg",
@@ -74,7 +74,7 @@
     "anzahl": "1110",
     "latitude": "51.4461319",
     "longitude": "6.6924111",
-    "address": "Erich-Kästner-Gesamtschule, 87, Ehrenstraße, Hochheide, Homberg/Ruhrort/Baerl, Duisburg, Nordrhein-Westfalen, 47198, Deutschland"
+    "adresse": "Ehrenstr. 87, 47198 Duisburg"
   },
   {
     "name": "Theodor-König-Gesamtschule",
@@ -83,9 +83,9 @@
     "schultyp": "Gesamtschule",
     "sozialindex": "8",
     "anzahl": "1130",
-    "latitude": "51.4726811",
-    "longitude": "6.762046",
-    "address": "Theodor-König-Gesamtschule Klassen 5-6, 54, Gartsträucherstraße, Untermeiderich, Meiderich/Beeck, Duisburg, Nordrhein-Westfalen, 47137, Deutschland"
+    "latitude": "51.4798921",
+    "longitude": "6.7438044",
+    "adresse": "Möhlenkampstr. 10, 47139 Duisburg"
   },
   {
     "name": "Gesamtschule Emschertal",
@@ -96,7 +96,7 @@
     "anzahl": "1075",
     "latitude": "51.4989468",
     "longitude": "6.8091716",
-    "address": "Gesamtschule Emschertal - Neumühl, 11, Albert-Einstein-Straße, Siedlung Bergmannsplatz, Neumühl, Hamborn, Duisburg, Nordrhein-Westfalen, 47167, Deutschland"
+    "adresse": "Albert-Einstein-Str. 11, 47167 Duisburg"
   },
   {
     "name": "Aletta-Haniel-Gesamtschule",
@@ -105,9 +105,9 @@
     "schultyp": "Gesamtschule",
     "sozialindex": "6",
     "anzahl": "850",
-    "latitude": "51.4504326",
-    "longitude": "6.7364869",
-    "address": "Carpstraße, Ruhrort, Homberg/Ruhrort/Baerl, Duisburg, Nordrhein-Westfalen, 47119, Deutschland"
+    "latitude": "51.4531273",
+    "longitude": "6.7363209",
+    "adresse": "Karlstr. 25, 47119 Duisburg"
   },
   {
     "name": "Globus am Dellplatz",
@@ -116,9 +116,9 @@
     "schultyp": "Gesamtschule",
     "sozialindex": "9",
     "anzahl": "1015",
-    "latitude": "51.4151",
-    "longitude": "6.7601205",
-    "address": "Gesamtschule Globus am Dellplatz (Zweigstelle), 107, Gitschiner Straße, Hochfeld, Duisburg-Mitte, Duisburg, Nordrhein-Westfalen, 47053, Deutschland"
+    "latitude": "51.4291486",
+    "longitude": "6.7598832",
+    "adresse": "Gottfried-Könzgen-Str. 3, 47051 Duisburg"
   },
   {
     "name": "Geschwister-Scholl-Gesamtschule",
@@ -129,7 +129,7 @@
     "anzahl": "1025",
     "latitude": "51.4489807",
     "longitude": "6.6601559",
-    "address": "Geschwister-Scholl-Gesamtschule Moers, 522, Römerstraße, Hochstraß, Moers, Kreis Wesel, Nordrhein-Westfalen, 47443, Deutschland"
+    "adresse": "Römerstr. 522, 47443 Moers"
   },
   {
     "name": "Erzbischöfliches Suitbertus-Gymnasium",
@@ -140,7 +140,7 @@
     "anzahl": "895",
     "latitude": "51.2993853",
     "longitude": "6.7332471",
-    "address": "Erzbischöfliches Suitbertus-Gymnasium, 53, An Sankt Swidbert, Kaiserswerth, Stadtbezirk 5, Düsseldorf, Nordrhein-Westfalen, 40489, Deutschland"
+    "adresse": "An St. Swidbert 53, 40489 Düsseldorf"
   },
   {
     "name": "Städt. Landfermann-Gymnasium",
@@ -151,7 +151,7 @@
     "anzahl": "1300",
     "latitude": "51.4342765",
     "longitude": "6.7740959",
-    "address": "Landfermann-Gymnasium, 10, Mainstraße, Altstadt, Duisburg-Mitte, Duisburg, Nordrhein-Westfalen, 47051, Deutschland"
+    "adresse": "Mainstr. 10, 47051 Duisburg"
   },
   {
     "name": "Städt. Steinbart-Gymnasium",
@@ -162,7 +162,7 @@
     "anzahl": "905",
     "latitude": "51.4277758",
     "longitude": "6.7661341",
-    "address": "Steinbart-Gymnasium, 45, Realschulstraße, City Wohnpark, Dellviertel, Duisburg-Mitte, Duisburg, Nordrhein-Westfalen, 47051, Deutschland"
+    "adresse": "Realschulstr. 45, 47051 Duisburg"
   },
   {
     "name": "Bischöfl. St. Hildegardis-Gym Duisburg",
@@ -173,7 +173,7 @@
     "anzahl": "785",
     "latitude": "51.4284677",
     "longitude": "6.7619113",
-    "address": "St. Hildegardis-Gymnasium, 11, Realschulstraße, City Wohnpark, Dellviertel, Duisburg-Mitte, Duisburg, Nordrhein-Westfalen, 47051, Deutschland"
+    "adresse": "Realschulstr. 11, 47051 Duisburg"
   },
   {
     "name": "Mercator-Gymnasium Duisburg",
@@ -184,7 +184,7 @@
     "anzahl": "760",
     "latitude": "51.4228033",
     "longitude": "6.7580476",
-    "address": "Mercator-Gymnasium, 152, Musfeldstraße, City Wohnpark, Dellviertel, Duisburg-Mitte, Duisburg, Nordrhein-Westfalen, 47053, Deutschland"
+    "adresse": "Musfeldstr. 152, 47053 Duisburg"
   },
   {
     "name": "Städt. Reinhard-und-Max-",
@@ -195,7 +195,7 @@
     "anzahl": "1290",
     "latitude": "51.3762042",
     "longitude": "6.7512301",
-    "address": "Gebäude A, Reinhard-und-Max-Mannesmann-Gymnasium, 13-15, Am Ziegelkamp, Huckingen, Duisburg-Süd, Duisburg, Nordrhein-Westfalen, 47259, Deutschland"
+    "adresse": "Am Ziegelkamp 13-15, 47259 Duisburg"
   },
   {
     "name": "Bischöfliches Abtei-Gymnasium",
@@ -206,7 +206,7 @@
     "anzahl": "690",
     "latitude": "51.4913577",
     "longitude": "6.7633368",
-    "address": "Abtei-Gymnasium, 10, An der Abtei, Hamborn, Duisburg, Nordrhein-Westfalen, 47166, Deutschland"
+    "adresse": "An der Abtei 10, 47166 Duisburg"
   },
   {
     "name": "Städt. Max-Planck-Gymnasium",
@@ -215,9 +215,9 @@
     "schultyp": "Gymnasium",
     "sozialindex": "7",
     "anzahl": "880",
-    "latitude": "51.466625",
-    "longitude": "6.7740264",
-    "address": "Hollenbergstraße, Mittelmeiderich, Meiderich/Beeck, Duisburg, Nordrhein-Westfalen, 47137, Deutschland"
+    "latitude": "51.4661941",
+    "longitude": "6.7767543",
+    "adresse": "Werner-Wild-Str. 12, 47137 Duisburg"
   },
   {
     "name": "Städt. Elly-Heuss-Knapp-Gymnasium",
@@ -228,7 +228,7 @@
     "anzahl": "745",
     "latitude": "51.5003061",
     "longitude": "6.7564899",
-    "address": "24, Am Grillopark, Marxloh, Hamborn, Duisburg, Nordrhein-Westfalen, 47169, Deutschland"
+    "adresse": "Am Grillopark 24, 47169 Duisburg"
   },
   {
     "name": "Städt. Kopernikus-Gymnasium",
@@ -239,7 +239,7 @@
     "anzahl": "755",
     "latitude": "51.5336178",
     "longitude": "6.7382168",
-    "address": "Kopernikus-Gymnasium, 81, Beckersloh, Walsum, Duisburg, Nordrhein-Westfalen, 47179, Deutschland"
+    "adresse": "Beckersloh 81, 47179 Duisburg"
   },
   {
     "name": "Städt. Franz-Haniel-Gymnasium",
@@ -250,7 +250,7 @@
     "anzahl": "985",
     "latitude": "51.4521593",
     "longitude": "6.7042173",
-    "address": "Franz-Haniel-Gymnasium, 25, Wilhelmstraße, Alt-Homberg, Homberg, Homberg/Ruhrort/Baerl, Duisburg, Nordrhein-Westfalen, 47198, Deutschland"
+    "adresse": "Wilhelmstr. 25, 47198 Duisburg"
   },
   {
     "name": "Städt. Krupp-Gymnasium",
@@ -261,7 +261,7 @@
     "anzahl": "815",
     "latitude": "51.4098494",
     "longitude": "6.6961341",
-    "address": "62, Flutweg, Bergheim, Rheinhausen, Duisburg, Nordrhein-Westfalen, 47228, Deutschland"
+    "adresse": "Flutweg 62, 47228 Duisburg"
   },
   {
     "name": "Städt. Albert-Einstein-Gymnasium",
@@ -272,7 +272,7 @@
     "anzahl": "990",
     "latitude": "51.3976892",
     "longitude": "6.65559",
-    "address": "Bienenmuseum, 11, Schulallee, Kaldenhausen, Rheinhausen, Duisburg, Nordrhein-Westfalen, 47239, Deutschland"
+    "adresse": "Schulallee 11, 47239 Duisburg"
   },
   {
     "name": "Gymnasium Essen Nord-Ost",
@@ -281,9 +281,9 @@
     "schultyp": "Gymnasium",
     "sozialindex": "7",
     "anzahl": "915",
-    "latitude": "51.4704119",
+    "latitude": "51.470412",
     "longitude": "7.0224415",
-    "address": "Gymnasium Essen Nord-Ost, 77, 79, Katzenbruchstraße, Eltingviertel, Nordviertel, Stadtbezirk I, Essen, Nordrhein-Westfalen, 45141, Deutschland"
+    "adresse": "Katzenbruchstr. 79, 45141 Essen"
   },
   {
     "name": "Städt. Gymnasium Broich",
@@ -294,7 +294,7 @@
     "anzahl": "1085",
     "latitude": "51.4210236",
     "longitude": "6.8626902",
-    "address": "Gymnasium Broich, 21, Ritterstraße, Broicher Mitte, Broich, Linksruhr, Mülheim an der Ruhr, Nordrhein-Westfalen, 45479, Deutschland"
+    "adresse": "Ritterstr. 21, 45479 Mülheim an der Ruhr"
   },
   {
     "name": "Kopernikus-Gymnasium",
@@ -303,9 +303,9 @@
     "schultyp": "Gymnasium",
     "sozialindex": "2",
     "anzahl": "710",
-    "latitude": "51.343002",
-    "longitude": "6.8286206",
-    "address": "Kopernikus-Gymnasium, 112, Duisburger Straße, Lintorf, Lintorf/Breitscheid, Ratingen, Kreis Mettmann, Nordrhein-Westfalen, 40885, Deutschland"
+    "latitude": "51.34318",
+    "longitude": "6.8283429",
+    "adresse": "Duisburger Str. 112, 40885 Ratingen"
   },
   {
     "name": "Grafschafter Gymnasium",
@@ -316,7 +316,7 @@
     "anzahl": "570",
     "latitude": "51.4509952",
     "longitude": "6.6331572",
-    "address": "20, Bankstraße, Altstadt Moers, Moers-Mitte, Moers, Kreis Wesel, Nordrhein-Westfalen, 47441, Deutschland"
+    "adresse": "Bankstr. 20, 47441 Moers"
   },
   {
     "name": "Städt. Adolfinum",
@@ -327,7 +327,7 @@
     "anzahl": "1115",
     "latitude": "51.4533988",
     "longitude": "6.6296741",
-    "address": "4, Wilhelm-Schroeder-Straße, Altstadt Moers, Moers-Mitte, Moers, Kreis Wesel, Nordrhein-Westfalen, 47441, Deutschland"
+    "adresse": "Wilhelm-Schroeder-Str. 4, 47441 Moers"
   },
   {
     "name": "Gymnasium in den Filder Benden",
@@ -338,6 +338,6 @@
     "anzahl": "955",
     "latitude": "51.4423565",
     "longitude": "6.6201818",
-    "address": "Gymnasium in den Filder Benden, 43, Zahnstraße, Vinn, Moers, Kreis Wesel, Nordrhein-Westfalen, 47447, Deutschland"
+    "adresse": "Zahnstr. 43, 47447 Moers"
   }
 ]

@@ -8,7 +8,7 @@
     "anzahl": "420",
     "latitude": "51.5146979",
     "longitude": "6.7819964",
-    "address": "Schule am Röttgersbach, 10, Bilsestraße, Röttgersbach, Hamborn, Duisburg, Nordrhein-Westfalen, 47169, Deutschland"
+    "adresse": "Bilsestr. 10, 47169 Duisburg"
   },
   {
     "name": "Hans-Christian-Andersen-Schule",
@@ -19,7 +19,7 @@
     "anzahl": "275",
     "latitude": "51.4826956",
     "longitude": "6.8024121",
-    "address": "76-78, Wiesbadener Straße, Hagenshof, Obermeiderich, Meiderich/Beeck, Duisburg, Nordrhein-Westfalen, 47138, Deutschland"
+    "adresse": "Wiesbadener Str. 76-78, 47138 Duisburg"
   },
   {
     "name": "Schule am Bergmannsplatz",
@@ -30,7 +30,7 @@
     "anzahl": "300",
     "latitude": "51.5007916",
     "longitude": "6.8005568",
-    "address": "Schule am Bergmannsplatz, 2, Rolandstraße, Siedlung Bergmannsplatz, Neumühl, Hamborn, Duisburg, Nordrhein-Westfalen, 47167, Deutschland"
+    "adresse": "Rolandstr. 2, 47167 Duisburg"
   },
   {
     "name": "Fährmann-Schule",
@@ -41,7 +41,7 @@
     "anzahl": "225",
     "latitude": "51.4755474",
     "longitude": "6.739508",
-    "address": "Fährmann-Schule, 121, Neanderstraße, Beeck, Meiderich/Beeck, Duisburg, Nordrhein-Westfalen, 47139, Deutschland"
+    "adresse": "Neanderstr. 121, 47139 Duisburg"
   },
   {
     "name": "Städt. Kath. Grundschule",
@@ -52,7 +52,7 @@
     "anzahl": "205",
     "latitude": "51.4703058",
     "longitude": "6.7555783",
-    "address": "Kath. GS Nombericher Straße, 74, Nombericher Straße, Meiderich-Berg, Untermeiderich, Meiderich/Beeck, Duisburg, Nordrhein-Westfalen, 47137, Deutschland"
+    "adresse": "Nombericher Str. 74, 47137 Duisburg"
   },
   {
     "name": "Städt. Gem. Grundschule",
@@ -63,7 +63,7 @@
     "anzahl": "365",
     "latitude": "51.4252649",
     "longitude": "6.7562665",
-    "address": "GGS Friedenstraße, 5-7, Friedenstraße, City Wohnpark, Dellviertel, Duisburg-Mitte, Duisburg, Nordrhein-Westfalen, 47053, Deutschland"
+    "adresse": "Friedenstr. 5-7, 47053 Duisburg"
   },
   {
     "name": "Städt. Kath. Grundschule",
@@ -74,7 +74,7 @@
     "anzahl": "215",
     "latitude": "51.3854571",
     "longitude": "6.7639872",
-    "address": "Böhmer Straße, Österreicher Viertel, Buchholz, Duisburg-Süd, Duisburg, Nordrhein-Westfalen, 47249, Deutschland"
+    "adresse": "Böhmer Str. 10-14, 47249 Duisburg"
   },
   {
     "name": "Schule im Dichterviertel",
@@ -85,7 +85,7 @@
     "anzahl": "220",
     "latitude": "51.4999851",
     "longitude": "6.7799704",
-    "address": "121, Kampstraße, Dichterviertel, Obermarxloh, Hamborn, Duisburg, Nordrhein-Westfalen, 47166, Deutschland"
+    "adresse": "Kampstr. 121, 47166 Duisburg"
   },
   {
     "name": "Abteischule",
@@ -96,7 +96,7 @@
     "anzahl": "370",
     "latitude": "51.4902697",
     "longitude": "6.7659032",
-    "address": "Abteischule, 23a, Jägerstraße, Hamborn, Duisburg, Nordrhein-Westfalen, 47166, Deutschland"
+    "adresse": "Jägerstr. 23a, 47166 Duisburg"
   },
   {
     "name": "Städt. Kath. Grundschule",
@@ -105,9 +105,9 @@
     "schultyp": "Grundschule",
     "sozialindex": "5",
     "anzahl": "210",
-    "latitude": "51.4311566",
-    "longitude": "6.7611575",
-    "address": "Goldstraße, City Wohnpark, Dellviertel, Duisburg-Mitte, Duisburg, Nordrhein-Westfalen, 47051, Deutschland"
+    "latitude": "51.4305406",
+    "longitude": "6.7606876",
+    "adresse": "Goldstr. 7-9, 47051 Duisburg"
   },
   {
     "name": "Städt. Kath. Grundschule",
@@ -118,7 +118,7 @@
     "anzahl": "245",
     "latitude": "51.5019776",
     "longitude": "6.7528254",
-    "address": "25, Henriettenstraße, Marxloh, Hamborn, Duisburg, Nordrhein-Westfalen, 47169, Deutschland"
+    "adresse": "Henriettenstr. 25, 47169 Duisburg"
   },
   {
     "name": "Barbaraschule",
@@ -129,7 +129,7 @@
     "anzahl": "215",
     "latitude": "51.4922743",
     "longitude": "6.7917425",
-    "address": "110, Gartenstraße, Neumühl, Hamborn, Duisburg, Nordrhein-Westfalen, 47167, Deutschland"
+    "adresse": "Gartenstr. 110, 47167 Duisburg"
   },
   {
     "name": "Städt. Kath. Grundschule",
@@ -140,7 +140,7 @@
     "anzahl": "190",
     "latitude": "51.4239911",
     "longitude": "6.7836342",
-    "address": "kath. Grundschule Grabenstraße, 150, Grabenstraße, Wabenquartier, Neudorf-Süd, Duisburg-Mitte, Duisburg, Nordrhein-Westfalen, 47057, Deutschland"
+    "adresse": "Grabenstr. 150, 47057 Duisburg"
   },
   {
     "name": "Grundschule Rahm",
@@ -151,7 +151,7 @@
     "anzahl": "205",
     "latitude": "51.3509215",
     "longitude": "6.7867847",
-    "address": "Grundschule Rahm (GGS), 20, Am Knappert, Rahm, Duisburg-Süd, Duisburg, Nordrhein-Westfalen, 47269, Deutschland"
+    "adresse": "Am Knappert 20, 47269 Duisburg"
   },
   {
     "name": "Städt. Gem. Grundschule",
@@ -162,7 +162,7 @@
     "anzahl": "400",
     "latitude": "51.4369051",
     "longitude": "6.7939637",
-    "address": "16, Tonstraße, Duissern, Duisburg-Mitte, Duisburg, Nordrhein-Westfalen, 47058, Deutschland"
+    "adresse": "Tonstr. 16, 47058 Duisburg"
   },
   {
     "name": "Städt. Gem. Grundschule",
@@ -173,7 +173,7 @@
     "anzahl": "190",
     "latitude": "51.4621698",
     "longitude": "6.7925387",
-    "address": "Zoppenbrückstraße, Ratingsee, Obermeiderich, Meiderich/Beeck, Duisburg, Nordrhein-Westfalen, 47138, Deutschland"
+    "adresse": "Zoppenbrückstr. 43-45, 47138 Duisburg"
   },
   {
     "name": "Städt. Gem. Grundschule",
@@ -184,7 +184,7 @@
     "anzahl": "160",
     "latitude": "51.4408096",
     "longitude": "6.7471428",
-    "address": "Gemeinschaftsgrundschule Wrangel Straße, 17, Wrangelstraße, Kaßlerfeld, Duisburg-Mitte, Duisburg, Nordrhein-Westfalen, 47059, Deutschland"
+    "adresse": "Wrangelstr. 17, 47059 Duisburg"
   },
   {
     "name": "Schule Am Mattlerbusch",
@@ -195,7 +195,7 @@
     "anzahl": "215",
     "latitude": "51.5210763",
     "longitude": "6.7733489",
-    "address": "45, Wehofer Straße, Röttgersbach, Hamborn, Duisburg, Nordrhein-Westfalen, 47169, Deutschland"
+    "adresse": "Wehofer Str. 45, 47169 Duisburg"
   },
   {
     "name": "Schule am Park",
@@ -204,9 +204,9 @@
     "schultyp": "Grundschule",
     "sozialindex": "6",
     "anzahl": "265",
-    "latitude": "51.5125257",
-    "longitude": "6.7669106",
-    "address": "GGS Schule am Park, Warbruckstraße, Jubiläumshainviertel, Marxloh, Hamborn, Duisburg, Nordrhein-Westfalen, 47169, Deutschland"
+    "latitude": "51.5124161",
+    "longitude": "6.7667013",
+    "adresse": "Warbruckstr. 217, 47169 Duisburg"
   },
   {
     "name": "Städt. Gem. Grundschule",
@@ -217,7 +217,7 @@
     "anzahl": "345",
     "latitude": "51.4626569",
     "longitude": "6.7726647",
-    "address": "Heinrich-Bongers-Grundschule, 12, Heinrich-Bongers-Straße, Mittelmeiderich, Meiderich/Beeck, Duisburg, Nordrhein-Westfalen, 47137, Deutschland"
+    "adresse": "Heinrich-Bongers-Str. 12, 47137 Duisburg"
   },
   {
     "name": "Städt. Gem. Grundschule",
@@ -228,7 +228,7 @@
     "anzahl": "470",
     "latitude": "51.4164098",
     "longitude": "6.7558295",
-    "address": "GGS Hochfelder Markt, 37, St.-Johann-Straße, RheinOrt, Hochfeld, Duisburg-Mitte, Duisburg, Nordrhein-Westfalen, 47053, Deutschland"
+    "adresse": "St.-Johann-Str. 37, 47053 Duisburg"
   },
   {
     "name": "Grundschule Bruckhausen",
@@ -239,7 +239,7 @@
     "anzahl": "280",
     "latitude": "51.4885412",
     "longitude": "6.7435853",
-    "address": "Gemeinschaftsgrundschule Bruckhausen, 31-35, Schulstraße, Bruckhausen, Meiderich/Beeck, Duisburg, Nordrhein-Westfalen, 47166, Deutschland"
+    "adresse": "Schulstr. 31-35, 47166 Duisburg"
   },
   {
     "name": "Städtische Gemeinschaftsgrundschule",
@@ -250,7 +250,7 @@
     "anzahl": "380",
     "latitude": "51.5067099",
     "longitude": "6.7553108",
-    "address": "GGS Sandstraße, 46, Sandstraße, Jubiläumshainviertel, Marxloh, Hamborn, Duisburg, Nordrhein-Westfalen, 47169, Deutschland"
+    "adresse": "Sandstr. 46, 47169 Duisburg"
   },
   {
     "name": "Salzmannschule",
@@ -261,7 +261,7 @@
     "anzahl": "320",
     "latitude": "51.4989556",
     "longitude": "6.8105811",
-    "address": "Salzmannschule, 71-73, Max-Planck-Straße, Siedlung Bergmannsplatz, Neumühl, Hamborn, Duisburg, Nordrhein-Westfalen, 47167, Deutschland"
+    "adresse": "Max-Planck-Str. 71-73, 47167 Duisburg"
   },
   {
     "name": "Städt. Gem. Grundschule",
@@ -272,7 +272,7 @@
     "anzahl": "340",
     "latitude": "51.48048",
     "longitude": "6.7356562",
-    "address": "Gemeinschaftsgrundschule Lange Kamp, 17, Lange Kamp, Beeck, Meiderich/Beeck, Duisburg, Nordrhein-Westfalen, 47139, Deutschland"
+    "adresse": "Lange Kamp 17, 47139 Duisburg"
   },
   {
     "name": "Städt. Gem. Grundschule",
@@ -281,9 +281,9 @@
     "schultyp": "Grundschule",
     "sozialindex": "3",
     "anzahl": "325",
-    "latitude": "51.3848603",
-    "longitude": "6.7627473",
-    "address": "Böhmer Straße, Österreicher Viertel, Buchholz, Duisburg-Süd, Duisburg, Nordrhein-Westfalen, 47249, Deutschland"
+    "latitude": "51.3854571",
+    "longitude": "6.7639872",
+    "adresse": "Böhmer Str. 10-14, 47249 Duisburg"
   },
   {
     "name": "Städt. Gem. Grundschule",
@@ -294,7 +294,7 @@
     "anzahl": "355",
     "latitude": "51.4178628",
     "longitude": "6.793019",
-    "address": "GGS Mozartstraße, 30, Mozartstraße, Einschornsteinsiedlung, Neudorf-Süd, Duisburg-Mitte, Duisburg, Nordrhein-Westfalen, 47057, Deutschland"
+    "adresse": "Mozartstr. 30, 47057 Duisburg"
   },
   {
     "name": "Städt. Gem. Grundschule",
@@ -305,7 +305,18 @@
     "anzahl": "200",
     "latitude": "51.4362178",
     "longitude": "6.7229591",
-    "address": "Gemeinschaftsgrundschule Lilienthalstraße, 28, Lilienthalstraße, Diergardt-Siedlung, Neuenkamp, Duisburg-Mitte, Duisburg, Nordrhein-Westfalen, 47059, Deutschland\"\n2024/25,Grundschule,5112000,Krfr. Stadt Duisburg,101515,Städt. Gem. Grundschule,,,Klosterstr. 18,47051,Duisburg,Öffentlich,203.0,2982344.0,203.0,24851.0,101515@schule.nrw.de,205,6,51.4335325,6.7580466,Städtische Gemeinschaftsgrundschule Klosterstraße"
+    "adresse": "Lilienthalstr. 28, 47059 Duisburg"
+  },
+  {
+    "name": "Städt. Gem. Grundschule",
+    "schulnummer": "101515",
+    "ort": "Duisburg",
+    "schultyp": "Grundschule",
+    "sozialindex": "6",
+    "anzahl": "205",
+    "latitude": "51.4335325",
+    "longitude": "6.7580466",
+    "adresse": "Klosterstr. 18, 47051 Duisburg"
   },
   {
     "name": "Hundertwasser-Schule",
@@ -316,7 +327,7 @@
     "anzahl": "315",
     "latitude": "51.4724827",
     "longitude": "6.7848767",
-    "address": "Hundertwasserschule (Gemeinschaftsgrundschule), 10, Karolinenstraße, Lösort-Emschertal, Obermeiderich, Meiderich/Beeck, Duisburg, Nordrhein-Westfalen, 47137, Deutschland"
+    "adresse": "Karolinenstr. 10, 47137 Duisburg"
   },
   {
     "name": "Städt. Gem. Grundschule",
@@ -327,7 +338,7 @@
     "anzahl": "340",
     "latitude": "51.4886185",
     "longitude": "6.777849",
-    "address": "8, Humboldtstraße, Hamborn, Duisburg, Nordrhein-Westfalen, 47166, Deutschland"
+    "adresse": "Humboldtstr. 8, 47166 Duisburg"
   },
   {
     "name": "Grundschule Ruhrort",
@@ -338,7 +349,7 @@
     "anzahl": "195",
     "latitude": "51.4556877",
     "longitude": "6.7311679",
-    "address": "Fürst-Bismarck-Straße, Ruhrort, Homberg/Ruhrort/Baerl, Duisburg, Nordrhein-Westfalen, 47119, Deutschland"
+    "adresse": "Fürst-Bismarck-Str. 26, 47119 Duisburg"
   },
   {
     "name": "Städt. Gem. Grundschule",
@@ -349,7 +360,7 @@
     "anzahl": "350",
     "latitude": "51.418123",
     "longitude": "6.7502805",
-    "address": "Gemeinschaftsgrundschule Brückenstraße, 96-98, Brückenstraße, RheinOrt, Hochfeld, Duisburg-Mitte, Duisburg, Nordrhein-Westfalen, 47053, Deutschland"
+    "adresse": "Brückenstr. 96-98, 47053 Duisburg"
   },
   {
     "name": "Städt. Gem. Grundschule",
@@ -360,7 +371,7 @@
     "anzahl": "140",
     "latitude": "51.3923063",
     "longitude": "6.8127174",
-    "address": "Gemeinschaftsgrundschule Hermann-Grothe-Straße, 99, Hermann-Grothe-Straße, Bissingheim, Duisburg-Süd, Duisburg, Nordrhein-Westfalen, 47279, Deutschland"
+    "adresse": "Hermann-Grothe-Str. 99, 47279 Duisburg"
   },
   {
     "name": "Grundschule Beeckerwerth",
@@ -371,7 +382,7 @@
     "anzahl": "205",
     "latitude": "51.4742847",
     "longitude": "6.6976767",
-    "address": "9, Heisterbacher Straße, Beeckerwerth, Meiderich/Beeck, Duisburg, Nordrhein-Westfalen, 47139, Deutschland"
+    "adresse": "Heisterbacher Str. 9, 47139 Duisburg"
   },
   {
     "name": "Städt. Gem. Grundschule",
@@ -382,7 +393,7 @@
     "anzahl": "330",
     "latitude": "51.4241644",
     "longitude": "6.7836888",
-    "address": "Gemeinschaftsgrundschule Hebbelstraße, 1, Hebbelstraße, Einschornsteinsiedlung, Neudorf-Süd, Duisburg-Mitte, Duisburg, Nordrhein-Westfalen, 47057, Deutschland"
+    "adresse": "Hebbelstr. 1, 47057 Duisburg"
   },
   {
     "name": "Städt. Gem. Grundschule",
@@ -393,7 +404,7 @@
     "anzahl": "270",
     "latitude": "51.4000101",
     "longitude": "6.7641688",
-    "address": "Gemeinschaftsgrundschule Habichtstraße, 1, Habichtstraße, Hitzblecksiedlung, Wanheimerort, Duisburg-Mitte, Duisburg, Nordrhein-Westfalen, 47055, Deutschland"
+    "adresse": "Habichtstr. 1, 47055 Duisburg"
   },
   {
     "name": "Städt. Gem. Grundschule",
@@ -404,7 +415,7 @@
     "anzahl": "205",
     "latitude": "51.3675418",
     "longitude": "6.7795546",
-    "address": "Städtische Gemeinschaftsgrundschule Großenbaumer Allee, 34a, Großenbaumer Allee, Großenbaum, Duisburg-Süd, Duisburg, Nordrhein-Westfalen, 47269, Deutschland"
+    "adresse": "Großenbaumer Allee 34 a, 47269 Duisburg"
   },
   {
     "name": "Schule Kunterbunt",
@@ -413,9 +424,9 @@
     "schultyp": "Grundschule",
     "sozialindex": "7",
     "anzahl": "285",
-    "latitude": "51.5001692",
-    "longitude": "6.77452",
-    "address": "GGS Kunterbunt, 80, Kantstraße, Dichterviertel, Hamborn, Duisburg, Nordrhein-Westfalen, 47166, Deutschland"
+    "latitude": "51.5002434",
+    "longitude": "6.7738953",
+    "adresse": "Kantstr. 80, 47166 Duisburg"
   },
   {
     "name": "Regenbogenschule",
@@ -426,7 +437,7 @@
     "anzahl": "410",
     "latitude": "51.5072567",
     "longitude": "6.7590123",
-    "address": "GGS Regenbogenschule, 65, Ottostraße, Jubiläumshainviertel, Marxloh, Hamborn, Duisburg, Nordrhein-Westfalen, 47169, Deutschland"
+    "adresse": "Ottostr. 65, 47169 Duisburg"
   },
   {
     "name": "Städt. Gem. Grundschule",
@@ -437,7 +448,7 @@
     "anzahl": "210",
     "latitude": "51.4922743",
     "longitude": "6.7917425",
-    "address": "110, Gartenstraße, Neumühl, Hamborn, Duisburg, Nordrhein-Westfalen, 47167, Deutschland"
+    "adresse": "Gartenstr. 110, 47167 Duisburg"
   },
   {
     "name": "Grundschule Laar",
@@ -448,7 +459,7 @@
     "anzahl": "300",
     "latitude": "51.4652311",
     "longitude": "6.7274533",
-    "address": "Gemeinschaftsgrundschule Laar, 10, Erzstraße, Laar, Meiderich/Beeck, Duisburg, Nordrhein-Westfalen, 47119, Deutschland"
+    "adresse": "Erzstr. 10, 47119 Duisburg"
   },
   {
     "name": "Städt. Gem. Grundschule",
@@ -459,7 +470,7 @@
     "anzahl": "315",
     "latitude": "51.4030922",
     "longitude": "6.7553429",
-    "address": "Gemeinschaftsgrundschule Eschenstraße, 53, Eschenstraße, Hitzblecksiedlung, Wanheimerort, Duisburg-Mitte, Duisburg, Nordrhein-Westfalen, 47055, Deutschland"
+    "adresse": "Eschenstr. 53, 47055 Duisburg"
   },
   {
     "name": "Otfried-Preußler-Schule",
@@ -470,7 +481,7 @@
     "anzahl": "365",
     "latitude": "51.4696954",
     "longitude": "6.7803621",
-    "address": "Otfried-Preußler-Schule GGS, 5, Brückelstraße, Lösort-Emschertal, Mittelmeiderich, Meiderich/Beeck, Duisburg, Nordrhein-Westfalen, 47137, Deutschland"
+    "adresse": "Brückelstr. 5, 47137 Duisburg"
   },
   {
     "name": "Städt. Gem. Grundschule",
@@ -481,7 +492,7 @@
     "anzahl": "265",
     "latitude": "51.515271",
     "longitude": "6.75378",
-    "address": "GGS Breite Straße, 58, Breite Straße, Wehofen, Walsum, Duisburg, Nordrhein-Westfalen, 47169, Deutschland"
+    "adresse": "Breite Str. 58, 47169 Duisburg"
   },
   {
     "name": "Bergschule",
@@ -492,7 +503,7 @@
     "anzahl": "345",
     "latitude": "51.4674398",
     "longitude": "6.7532472",
-    "address": "GGS Bergschule, 48, Bergstraße, Meiderich-Berg, Untermeiderich, Meiderich/Beeck, Duisburg, Nordrhein-Westfalen, 47137, Deutschland"
+    "adresse": "Bergstr. 48, 47137 Duisburg"
   },
   {
     "name": "Städt. Gem. Grundschule",
@@ -503,7 +514,7 @@
     "anzahl": "215",
     "latitude": "51.3897507",
     "longitude": "6.7973396",
-    "address": "GGS Am See, 22, Am See, Wedau, Duisburg-Süd, Duisburg, Nordrhein-Westfalen, 47279, Deutschland"
+    "adresse": "Am See 22, 47279 Duisburg"
   },
   {
     "name": "Städtische Gemeinschaftsgrundschule",
@@ -514,7 +525,7 @@
     "anzahl": "250",
     "latitude": "51.3804259",
     "longitude": "6.742401",
-    "address": "Grundschule Wanheim, 50, Am Tollberg, Angerhausen, Wanheim-Angerhausen, Duisburg-Süd, Duisburg, Nordrhein-Westfalen, 47249, Deutschland"
+    "adresse": "Am Tollberg 50, 47249 Duisburg"
   },
   {
     "name": "Städt. Gem. Grundschule",
@@ -525,7 +536,7 @@
     "anzahl": "480",
     "latitude": "51.3630335",
     "longitude": "6.7402132",
-    "address": "Grundschule Albert-Schweitzer-Straße, 64, Albert-Schweitzer-Straße, Am alten Angerbach, Huckingen, Duisburg-Süd, Duisburg, Nordrhein-Westfalen, 47259, Deutschland"
+    "adresse": "Albert-Schweitzer-Str. 64, 47259 Duisburg"
   },
   {
     "name": "Städt. Gem. Grundschule",
@@ -534,9 +545,9 @@
     "schultyp": "Grundschule",
     "sozialindex": "7",
     "anzahl": "215",
-    "latitude": "51.4080885",
-    "longitude": "6.716389",
-    "address": "7, Schulstraße, Atrop, Hochemmerich, Rheinhausen, Duisburg, Nordrhein-Westfalen, 47226, Deutschland"
+    "latitude": "51.5229114",
+    "longitude": "6.7416363",
+    "adresse": "Schulstr. 7, 47179 Duisburg"
   },
   {
     "name": "Städt. Gem. Grundschule",
@@ -547,7 +558,7 @@
     "anzahl": "315",
     "latitude": "51.5248573",
     "longitude": "6.7485506",
-    "address": "Grundschule Sternstraße, 76, Sternstraße, Aldenrade, Walsum, Duisburg, Nordrhein-Westfalen, 47179, Deutschland"
+    "adresse": "Sternstr. 76, 47179 Duisburg"
   },
   {
     "name": "Vennbruchschule",
@@ -558,7 +569,7 @@
     "anzahl": "295",
     "latitude": "51.5369113",
     "longitude": "6.7339367",
-    "address": "GGS Vennbruchstraße, 1, Vennbruchstraße, Vierlinden, Walsum, Duisburg, Nordrhein-Westfalen, 47178, Deutschland"
+    "adresse": "Vennbruchstr. 1, 47178 Duisburg"
   },
   {
     "name": "Städt. Gem. Grundschule",
@@ -569,7 +580,7 @@
     "anzahl": "180",
     "latitude": "51.5301276",
     "longitude": "6.7674531",
-    "address": "Gemeinschaftsgrundschule Unter den Kastanien, 28, Unter den Kastanien, Wehofen, Walsum, Duisburg, Nordrhein-Westfalen, 47179, Deutschland"
+    "adresse": "Unter den Kastanien 28, 47179 Duisburg"
   },
   {
     "name": "Don-Bosco-Schule",
@@ -580,7 +591,7 @@
     "anzahl": "360",
     "latitude": "51.5425239",
     "longitude": "6.7226325",
-    "address": "Grundschule Don-Bosco-Schule, 35, Karlstraße, Overbruch, Walsum, Duisburg, Nordrhein-Westfalen, 47178, Deutschland"
+    "adresse": "Karlstr. 35, 47178 Duisburg"
   },
   {
     "name": "Theißelmannschule",
@@ -591,7 +602,7 @@
     "anzahl": "205",
     "latitude": "51.5319658",
     "longitude": "6.7108038",
-    "address": "GGS Theißelmannschule, 33, Theißelmannstraße, Alt-Walsum, Walsum, Duisburg, Nordrhein-Westfalen, 47178, Deutschland"
+    "adresse": "Theißelmannstr. 33, 47178 Duisburg"
   },
   {
     "name": "Ottoschule",
@@ -602,7 +613,7 @@
     "anzahl": "330",
     "latitude": "51.4485679",
     "longitude": "6.6863182",
-    "address": "Gemeinschaftsgrundschule Ottostraße (Haus 1), 84, 86, Ottostraße, Hochheide, Homberg/Ruhrort/Baerl, Duisburg, Nordrhein-Westfalen, 47198, Deutschland"
+    "adresse": "Ottostr. 86, 47198 Duisburg"
   },
   {
     "name": "Städt. Gem. Grundschule",
@@ -613,7 +624,7 @@
     "anzahl": "340",
     "latitude": "51.4538668",
     "longitude": "6.6886999",
-    "address": "Gemeinschaftsgrundschule Kirchstraße, 185, Kirchstraße, Hochheide, Homberg/Ruhrort/Baerl, Duisburg, Nordrhein-Westfalen, 47198, Deutschland"
+    "adresse": "Kirchstr. 185, 47198 Duisburg"
   },
   {
     "name": "Städt. Gem. Grundschule",
@@ -622,9 +633,9 @@
     "schultyp": "Grundschule",
     "sozialindex": "4",
     "anzahl": "290",
-    "latitude": "51.4549019",
+    "latitude": "51.454902",
     "longitude": "6.7073146",
-    "address": "Gemeinschaftsgrundschule Marienstraße, 28, Marienstraße, Alt-Homberg, Homberg, Homberg/Ruhrort/Baerl, Duisburg, Nordrhein-Westfalen, 47198, Deutschland"
+    "adresse": "Marienstr. 28, 47198 Duisburg"
   },
   {
     "name": "Schule Am Lutherpark",
@@ -635,7 +646,7 @@
     "anzahl": "240",
     "latitude": "51.4565218",
     "longitude": "6.6994952",
-    "address": "Gemeinschaftsgrundschule am Lutherpark, 124, Schillerstraße, Siedlung Johannenhof, Homberg, Homberg/Ruhrort/Baerl, Duisburg, Nordrhein-Westfalen, 47198, Deutschland"
+    "adresse": "Schillerstr. 124, 47198 Duisburg"
   },
   {
     "name": "Städt. Gem. Grundschule",
@@ -646,7 +657,7 @@
     "anzahl": "315",
     "latitude": "51.3885547",
     "longitude": "6.7115587",
-    "address": "25, Marktstraße, Friemersheim, Rheinhausen, Duisburg, Nordrhein-Westfalen, 47229, Deutschland"
+    "adresse": "Marktstr. 25, 47229 Duisburg"
   },
   {
     "name": "Städt. Gem. Grundschule",
@@ -657,7 +668,7 @@
     "anzahl": "430",
     "latitude": "51.4148137",
     "longitude": "6.68731",
-    "address": "Gemeinschaftsgrundschule Mevissenstraße, 19, Mevissenstraße, Bergheim, Rheinhausen, Duisburg, Nordrhein-Westfalen, 47228, Deutschland"
+    "adresse": "Mevissenstr. 19, 47228 Duisburg"
   },
   {
     "name": "Städt. Gem. Grundschule",
@@ -668,7 +679,7 @@
     "anzahl": "275",
     "latitude": "51.4142812",
     "longitude": "6.6646294",
-    "address": "60, Van-Gogh-Straße, Trompet, Rheinhausen, Duisburg, Nordrhein-Westfalen, 47228, Deutschland"
+    "adresse": "Van-Gogh-Str. 60, 47228 Duisburg"
   },
   {
     "name": "Städt. Gem. Grundschule",
@@ -679,7 +690,7 @@
     "anzahl": "205",
     "latitude": "51.4049192",
     "longitude": "6.7043261",
-    "address": "8, Pestalozzistraße, Rheinhausen, Duisburg, Nordrhein-Westfalen, 47226, Deutschland"
+    "adresse": "Pestalozzistr. 8, 47226 Duisburg"
   },
   {
     "name": "Städt. Gem. Grundschule",
@@ -690,7 +701,7 @@
     "anzahl": "265",
     "latitude": "51.3954595",
     "longitude": "6.6944531",
-    "address": "Gemeinschaftsgrundschule Am Borgschenhof 7, 7, Am Borgschenhof, Friemersheim, Rheinhausen, Duisburg, Nordrhein-Westfalen, 47229, Deutschland"
+    "adresse": "Am Borgschenhof 7, 47229 Duisburg"
   },
   {
     "name": "Städt. Gem. Grundschule",
@@ -701,7 +712,7 @@
     "anzahl": "385",
     "latitude": "51.4052126",
     "longitude": "6.7168906",
-    "address": "16, Beethovenstraße, Atrop, Rheinhausen, Duisburg, Nordrhein-Westfalen, 47226, Deutschland"
+    "adresse": "Beethovenstr. 16, 47226 Duisburg"
   },
   {
     "name": "Städt. Gem. Grundschule",
@@ -712,7 +723,7 @@
     "anzahl": "220",
     "latitude": "51.4060338",
     "longitude": "6.6948772",
-    "address": "15, Auf dem Berg, Bergheim, Rheinhausen, Duisburg, Nordrhein-Westfalen, 47228, Deutschland"
+    "adresse": "Auf dem Berg 15, 47228 Duisburg"
   },
   {
     "name": "Städt. Gem. Grundschule",
@@ -723,7 +734,7 @@
     "anzahl": "295",
     "latitude": "51.4220409",
     "longitude": "6.6972036",
-    "address": "167, Bergheimer Straße, Asterlagen, Rheinhausen, Duisburg, Nordrhein-Westfalen, 47228, Deutschland"
+    "adresse": "Bergheimer Str. 167, 47228 Duisburg"
   },
   {
     "name": "Städt. Gem. Grundschule",
@@ -734,7 +745,7 @@
     "anzahl": "420",
     "latitude": "51.4080476",
     "longitude": "6.7151413",
-    "address": "47, Krefelder Straße, Atrop, Hochemmerich, Rheinhausen, Duisburg, Nordrhein-Westfalen, 47226, Deutschland"
+    "adresse": "Krefelder Str. 47, 47226 Duisburg"
   },
   {
     "name": "Baerler Waldschule",
@@ -745,7 +756,7 @@
     "anzahl": "225",
     "latitude": "51.4891417",
     "longitude": "6.669354",
-    "address": "Baerler Waldschule, 3h, Waldstraße, Baerl, Homberg/Ruhrort/Baerl, Duisburg, Nordrhein-Westfalen, 47199, Deutschland"
+    "adresse": "Waldstr. 3h, 47199 Duisburg"
   },
   {
     "name": "Gerhart-Hauptmann-Schule",
@@ -754,9 +765,9 @@
     "schultyp": "Grundschule",
     "sozialindex": "5",
     "anzahl": "210",
-    "latitude": "51.4640059",
-    "longitude": "6.6932841",
-    "address": "1, Breslauer Straße, In den Haesen, Homberg, Homberg/Ruhrort/Baerl, Duisburg, Nordrhein-Westfalen, 47198, Deutschland"
+    "latitude": "51.3944815",
+    "longitude": "6.6784489",
+    "adresse": "Breslauer Str. 1, 47239 Duisburg"
   },
   {
     "name": "Marienfeldschule",
@@ -765,9 +776,9 @@
     "schultyp": "Grundschule",
     "sozialindex": "2",
     "anzahl": "195",
-    "latitude": "51.4018064",
+    "latitude": "51.4018065",
     "longitude": "6.6621008",
-    "address": "Marienfeld Grundschule, 12, Kirchstraße, Rumeln, Rheinhausen, Duisburg, Nordrhein-Westfalen, 47239, Deutschland"
+    "adresse": "Kirchstr. 12, 47239 Duisburg"
   },
   {
     "name": "Donkschule",
@@ -778,7 +789,7 @@
     "anzahl": "195",
     "latitude": "51.3939053",
     "longitude": "6.6519159",
-    "address": "Ggs Donkschule, 13, Gartenstraße, Kaldenhausen, Rheinhausen, Duisburg, Nordrhein-Westfalen, 47239, Deutschland"
+    "adresse": "Gartenstr. 13, 47239 Duisburg"
   },
   {
     "name": "Städt. Gem. Grundschule",
@@ -789,7 +800,7 @@
     "anzahl": "325",
     "latitude": "51.3640195",
     "longitude": "6.7817265",
-    "address": "Schulverbund GGS Lauenburger Allee, 17, Lauenburger Allee, Großenbaum, Duisburg-Süd, Duisburg, Nordrhein-Westfalen, 47269, Deutschland"
+    "adresse": "Lauenburger Allee 17, 47269 Duisburg"
   },
   {
     "name": "Städt. Gemeinschaftsgrundschule",
@@ -798,9 +809,9 @@
     "schultyp": "Grundschule",
     "sozialindex": "2",
     "anzahl": "215",
-    "latitude": "51.3504943",
-    "longitude": "6.7111505",
-    "address": "Schulverbund GGS Im Reimel (Teilstandort), 50, Am Lindentor, Mündelheim, Duisburg-Süd, Duisburg, Nordrhein-Westfalen, 47259, Deutschland"
+    "latitude": "51.3593404",
+    "longitude": "6.6878512",
+    "adresse": "Im Reimel 9, 47259 Duisburg"
   },
   {
     "name": "Astrid-Lindgren-Schule",
@@ -811,7 +822,7 @@
     "anzahl": "335",
     "latitude": "51.4413021",
     "longitude": "6.7836959",
-    "address": "Astrid-Lindgren-Schule, 80, Aakerfährstraße, Duissern, Duisburg-Mitte, Duisburg, Nordrhein-Westfalen, 47058, Deutschland"
+    "adresse": "Aakerfährstr. 80, 47058 Duisburg"
   },
   {
     "name": "Private Sternenschule, staatl.genehmigte",
@@ -822,7 +833,7 @@
     "anzahl": "150",
     "latitude": "51.3709713",
     "longitude": "6.7391905",
-    "address": "Sternenschule, 50, Schulz-Knaudt-Straße, Hüttenheim, Duisburg-Süd, Duisburg, Nordrhein-Westfalen, 47259, Deutschland"
+    "adresse": "Schulz-Knaudt-Str. 50, 47259 Duisburg"
   },
   {
     "name": "Städt. Gem. Hauptschule",
@@ -833,7 +844,150 @@
     "anzahl": "280",
     "latitude": "51.5283574",
     "longitude": "6.7480138",
-    "address": "Hauptschule St. Ludgerus, 1, Ludgerusstraße, Aldenrade, Walsum, Duisburg, Nordrhein-Westfalen, 47179, Deutschland"
+    "adresse": "Ludgerusstr. 1, 47179 Duisburg"
+  },
+  {
+    "name": "Christian-Zeller-Schule",
+    "schulnummer": "151956",
+    "ort": "Duisburg",
+    "schultyp": "Förderschule Grund-/Hauptschule",
+    "sozialindex": "",
+    "anzahl": "155",
+    "latitude": "51.3587278",
+    "longitude": "6.7832456",
+    "adresse": "Vorm Grindsbruch 30-32, 47269 Duisburg"
+  },
+  {
+    "name": "Buchholzer Waldschule",
+    "schulnummer": "151981",
+    "ort": "Duisburg",
+    "schultyp": "Förderschule Grund-/Hauptschule",
+    "sozialindex": "",
+    "anzahl": "200",
+    "latitude": "51.3875319",
+    "longitude": "6.7809865",
+    "adresse": "Sittardsberger Allee 263, 47249 Duisburg"
+  },
+  {
+    "name": "LVR-Förderschule Duisburg",
+    "schulnummer": "151993",
+    "ort": "Duisburg",
+    "schultyp": "Förderschule Grund-/Hauptschule",
+    "sozialindex": "",
+    "anzahl": "250",
+    "latitude": "51.4981001",
+    "longitude": "6.7902297",
+    "adresse": "Kalthoffstr. 20, 47166 Duisburg"
+  },
+  {
+    "name": "LVR-Förderschule Duisburg",
+    "schulnummer": "152006",
+    "ort": "Duisburg",
+    "schultyp": "Förderschule Grund-/Hauptschule",
+    "sozialindex": "",
+    "anzahl": "260",
+    "latitude": "51.4186893",
+    "longitude": "6.7646392",
+    "adresse": "Johanniterstr. 103-105, 47053 Duisburg"
+  },
+  {
+    "name": "Städt. Förderschule",
+    "schulnummer": "152020",
+    "ort": "Duisburg",
+    "schultyp": "Förderschule Grund-/Hauptschule",
+    "sozialindex": "",
+    "anzahl": "290",
+    "latitude": "51.4016799",
+    "longitude": "6.7547364",
+    "adresse": "Eschenstr. 65a, 47055 Duisburg"
+  },
+  {
+    "name": "James-Rizzi-Schule, Städt. Förderschule",
+    "schulnummer": "152031",
+    "ort": "Duisburg",
+    "schultyp": "Förderschule Grund-/Hauptschule",
+    "sozialindex": "",
+    "anzahl": "420",
+    "latitude": "51.4666775",
+    "longitude": "6.7627091",
+    "adresse": "Hoher Weg 15-17, 47137 Duisburg"
+  },
+  {
+    "name": "Förderschule Duisburg-Nord, FöS LERNEN/",
+    "schulnummer": "152109",
+    "ort": "Duisburg",
+    "schultyp": "Förderschule Grund-/Hauptschule",
+    "sozialindex": "",
+    "anzahl": "330",
+    "latitude": "51.5050895",
+    "longitude": "6.7914415",
+    "adresse": "Kopernikusstr. 38, 47167 Duisburg"
+  },
+  {
+    "name": "Dahlingschule, Städt. Förderschule im",
+    "schulnummer": "153710",
+    "ort": "Duisburg",
+    "schultyp": "Förderschule Grund-/Hauptschule",
+    "sozialindex": "",
+    "anzahl": "175",
+    "latitude": "51.3831404",
+    "longitude": "6.7015188",
+    "adresse": "Dahlingstr. 40, 47229 Duisburg"
+  },
+  {
+    "name": "Alfred-Adler-Schule, Städt. Förderschule",
+    "schulnummer": "183210",
+    "ort": "Duisburg",
+    "schultyp": "Förderschule Grund-/Hauptschule",
+    "sozialindex": "",
+    "anzahl": "235",
+    "latitude": "51.5419643",
+    "longitude": "6.7194118",
+    "adresse": "Franz-Lenze-Str. 97, 47178 Duisburg"
+  },
+  {
+    "name": "Schule Am Rönsbergshof",
+    "schulnummer": "184627",
+    "ort": "Duisburg",
+    "schultyp": "Förderschule Grund-/Hauptschule",
+    "sozialindex": "",
+    "anzahl": "330",
+    "latitude": "51.4746875",
+    "longitude": "6.746593",
+    "adresse": "Am Rönsbergshof 13-15, 47139 Duisburg"
+  },
+  {
+    "name": "Friedrich-Fröbel-Schule",
+    "schulnummer": "186971",
+    "ort": "Duisburg",
+    "schultyp": "Förderschule Grund-/Hauptschule",
+    "sozialindex": "",
+    "anzahl": "205",
+    "latitude": "51.4172926",
+    "longitude": "6.6858282",
+    "adresse": "Paschacker 11, 47228 Duisburg"
+  },
+  {
+    "name": "Sonnenschule",
+    "schulnummer": "187057",
+    "ort": "Duisburg",
+    "schultyp": "Förderschule Grund-/Hauptschule",
+    "sozialindex": "",
+    "anzahl": "35",
+    "latitude": "51.3979616",
+    "longitude": "6.7010668",
+    "adresse": "Krefelder Str. 311a, 47229 Duisburg"
+  },
+  {
+    "name": "Kranichschule",
+    "schulnummer": "187665",
+    "ort": "Duisburg",
+    "schultyp": "Förderschule Grund-/Hauptschule",
+    "sozialindex": "",
+    "anzahl": "110",
+    "latitude": "51.4025813",
+    "longitude": "6.7667925",
+    "adresse": "Kranichstr. 21-25, 47055 Duisburg"
   },
   {
     "name": "Städt. Karl-Lehr-Realschule",
@@ -842,9 +996,9 @@
     "schultyp": "Realschule",
     "sozialindex": "6",
     "anzahl": "570",
-    "latitude": "51.4025813",
-    "longitude": "6.7667925",
-    "address": "Kranischschule (Förderschule), 21-25, Kranichstraße, Hitzblecksiedlung, Wanheimerort, Duisburg-Mitte, Duisburg, Nordrhein-Westfalen, 47055, Deutschland"
+    "latitude": "51.4048586",
+    "longitude": "6.7668592",
+    "adresse": "Wacholderstr. 12, 47055 Duisburg"
   },
   {
     "name": "Gustav-Stresemann-Realschule",
@@ -855,7 +1009,7 @@
     "anzahl": "605",
     "latitude": "51.477309",
     "longitude": "6.7309444",
-    "address": "Gustav-Stresemann-Realschule, 40-42, Weststraße, Beeck, Meiderich/Beeck, Duisburg, Nordrhein-Westfalen, 47139, Deutschland"
+    "adresse": "Weststr. 40-42, 47139 Duisburg"
   },
   {
     "name": "Gustav-Heinemann-Schule",
@@ -866,7 +1020,7 @@
     "anzahl": "575",
     "latitude": "51.4344303",
     "longitude": "6.7686302",
-    "address": "Gustav-Heinemann-Realschule, 17, Landgerichtsstraße, Altstadt, Duisburg-Mitte, Duisburg, Nordrhein-Westfalen, 47051, Deutschland"
+    "adresse": "Landgerichtsstr. 17, 47051 Duisburg"
   },
   {
     "name": "Realschule Fahrn",
@@ -875,9 +1029,9 @@
     "schultyp": "Realschule",
     "sozialindex": "5",
     "anzahl": "835",
-    "latitude": "51.5220133",
-    "longitude": "6.7371988",
-    "address": "Dittfeldstraße, Fahrn, Walsum, Duisburg, Nordrhein-Westfalen, 47179, Deutschland"
+    "latitude": "51.5156647",
+    "longitude": "6.7506555",
+    "adresse": "Netzestr. 1, 47169 Duisburg"
   },
   {
     "name": "Sekundarschule Am Biegerpark",
@@ -888,7 +1042,7 @@
     "anzahl": "795",
     "latitude": "51.3756636",
     "longitude": "6.7490908",
-    "address": "Sekundarschule Am Biegerpark, 7, Am Ziegelkamp, Huckingen, Duisburg-Süd, Duisburg, Nordrhein-Westfalen, 47259, Deutschland"
+    "adresse": "Am Ziegelkamp 7, 47259 Duisburg"
   },
   {
     "name": "Justus-von-Liebig-Schule",
@@ -897,9 +1051,9 @@
     "schultyp": "Sekundarschule",
     "sozialindex": "7",
     "anzahl": "860",
-    "latitude": "51.4980259",
-    "longitude": "6.7702393",
-    "address": "Justus-von-Liebig-Schule, Dependance, 43, August-Thyssen-Straße, Dichterviertel, Hamborn, Duisburg, Nordrhein-Westfalen, 47166, Deutschland"
+    "latitude": "51.4986482",
+    "longitude": "6.7880348",
+    "adresse": "Kalthoffstr. 50, 47166 Duisburg"
   },
   {
     "name": "Green-Gesamtschule",
@@ -908,9 +1062,9 @@
     "schultyp": "Gesamtschule",
     "sozialindex": "7",
     "anzahl": "1155",
-    "latitude": "51.4076293",
-    "longitude": "6.7112377",
-    "address": "106, Friedrich-Ebert-Straße, Rheinhausen, Duisburg, Nordrhein-Westfalen, 47226, Deutschland"
+    "latitude": "51.4036683",
+    "longitude": "6.7099293",
+    "adresse": "Körnerplatz 2, 47226 Duisburg"
   },
   {
     "name": "Städtische Anne-Frank-Gesamtschule",
@@ -919,9 +1073,9 @@
     "schultyp": "Gesamtschule",
     "sozialindex": "5",
     "anzahl": "115",
-    "latitude": "51.488574",
-    "longitude": "6.769216",
-    "address": "Reichenberger Straße, Hamborn, Duisburg, Nordrhein-Westfalen, 47166, Deutschland"
+    "latitude": "51.5428819",
+    "longitude": "7.0225808",
+    "adresse": "Reichenberger Str. 19a, 47166 Duisburg"
   },
   {
     "name": "Städt. Gesamtschule Süd",
@@ -932,7 +1086,7 @@
     "anzahl": "1315",
     "latitude": "51.3756782",
     "longitude": "6.78218",
-    "address": "Gesamtschule Duisburg Süd, 168-174, Großenbaumer Allee, Großenbaum, Duisburg-Süd, Duisburg, Nordrhein-Westfalen, 47269, Deutschland"
+    "adresse": "Großenbaumer Allee 168-174, 47269 Duisburg"
   },
   {
     "name": "Gottfried-Wilhelm-Leibniz-Schule",
@@ -943,7 +1097,7 @@
     "anzahl": "1550",
     "latitude": "51.4886665",
     "longitude": "6.7655257",
-    "address": "Leibniz-Gesamtschule, 274-278, Hamborner Straße, Hamborn, Duisburg, Nordrhein-Westfalen, 47166, Deutschland"
+    "adresse": "Hamborner Str. 274-278, 47166 Duisburg"
   },
   {
     "name": "Heinrich-Heine-Schule",
@@ -954,7 +1108,7 @@
     "anzahl": "1155",
     "latitude": "51.4087926",
     "longitude": "6.698586",
-    "address": "56, Flutweg, Bergheim, Rheinhausen, Duisburg, Nordrhein-Westfalen, 47228, Deutschland"
+    "adresse": "Flutweg 56, 47228 Duisburg"
   },
   {
     "name": "Gesamtschule Duisburg-Mitte",
@@ -963,9 +1117,9 @@
     "schultyp": "Gesamtschule",
     "sozialindex": "5",
     "anzahl": "1290",
-    "latitude": "51.4362418",
-    "longitude": "6.7780117",
-    "address": "Gesamtschule Duisburg-Mitte (Zweigstelle), 44, Falkstraße, Duissern, Duisburg-Mitte, Duisburg, Nordrhein-Westfalen, 47058, Deutschland"
+    "latitude": "51.4316312",
+    "longitude": "6.7882849",
+    "adresse": "Pappenstr. 49-51, 47057 Duisburg"
   },
   {
     "name": "Städt. Gesamtschule Meiderich",
@@ -974,9 +1128,9 @@
     "schultyp": "Gesamtschule",
     "sozialindex": "9",
     "anzahl": "1235",
-    "latitude": "51.4704208",
-    "longitude": "6.7858025",
-    "address": "Gesamtschule Meiderich (Zweigstelle) Jahrgang 5 & 6, 65, Bahnhofstraße, Lösort-Emschertal, Mittelmeiderich, Meiderich/Beeck, Duisburg, Nordrhein-Westfalen, 47138, Deutschland"
+    "latitude": "51.4666438",
+    "longitude": "6.7852411",
+    "adresse": "Westender Str. 30-32, 47138 Duisburg"
   },
   {
     "name": "Gesamtschule Walsum",
@@ -987,7 +1141,7 @@
     "anzahl": "1395",
     "latitude": "51.53188",
     "longitude": "6.74011",
-    "address": "Gesamtschule Walsum, 51, Kurze Straße, Walsum, Duisburg, Nordrhein-Westfalen, 47179, Deutschland"
+    "adresse": "Kurze Str. 51, 47179 Duisburg"
   },
   {
     "name": "Erich Kästner- Gesamtschule Homberg",
@@ -998,7 +1152,7 @@
     "anzahl": "1110",
     "latitude": "51.4461319",
     "longitude": "6.6924111",
-    "address": "Erich-Kästner-Gesamtschule, 87, Ehrenstraße, Hochheide, Homberg/Ruhrort/Baerl, Duisburg, Nordrhein-Westfalen, 47198, Deutschland"
+    "adresse": "Ehrenstr. 87, 47198 Duisburg"
   },
   {
     "name": "Theodor-König-Gesamtschule",
@@ -1007,9 +1161,9 @@
     "schultyp": "Gesamtschule",
     "sozialindex": "8",
     "anzahl": "1130",
-    "latitude": "51.4726811",
-    "longitude": "6.762046",
-    "address": "Theodor-König-Gesamtschule Klassen 5-6, 54, Gartsträucherstraße, Untermeiderich, Meiderich/Beeck, Duisburg, Nordrhein-Westfalen, 47137, Deutschland"
+    "latitude": "51.4798921",
+    "longitude": "6.7438044",
+    "adresse": "Möhlenkampstr. 10, 47139 Duisburg"
   },
   {
     "name": "Gesamtschule Emschertal",
@@ -1020,7 +1174,7 @@
     "anzahl": "1075",
     "latitude": "51.4989468",
     "longitude": "6.8091716",
-    "address": "Gesamtschule Emschertal - Neumühl, 11, Albert-Einstein-Straße, Siedlung Bergmannsplatz, Neumühl, Hamborn, Duisburg, Nordrhein-Westfalen, 47167, Deutschland"
+    "adresse": "Albert-Einstein-Str. 11, 47167 Duisburg"
   },
   {
     "name": "Lise-Meitner-Gesamtschule",
@@ -1031,7 +1185,7 @@
     "anzahl": "1180",
     "latitude": "51.4004204",
     "longitude": "6.7046574",
-    "address": "Lise-Meitner-Gesamtschule, 3, Lessingstraße, Rheinhausen, Duisburg, Nordrhein-Westfalen, 47226, Deutschland"
+    "adresse": "Lessingstr. 3, 47226 Duisburg"
   },
   {
     "name": "Aletta-Haniel-Gesamtschule",
@@ -1040,9 +1194,9 @@
     "schultyp": "Gesamtschule",
     "sozialindex": "6",
     "anzahl": "850",
-    "latitude": "51.4504326",
-    "longitude": "6.7364869",
-    "address": "Carpstraße, Ruhrort, Homberg/Ruhrort/Baerl, Duisburg, Nordrhein-Westfalen, 47119, Deutschland"
+    "latitude": "51.4531273",
+    "longitude": "6.7363209",
+    "adresse": "Karlstr. 25, 47119 Duisburg"
   },
   {
     "name": "Herbert-Grillo-Gesamtschule",
@@ -1053,7 +1207,7 @@
     "anzahl": "755",
     "latitude": "51.5025551",
     "longitude": "6.7482959",
-    "address": "6, Diesterwegstraße, Marxloh, Hamborn, Duisburg, Nordrhein-Westfalen, 47169, Deutschland"
+    "adresse": "Diesterwegstr. 6, 47169 Duisburg"
   },
   {
     "name": "Globus am Dellplatz",
@@ -1062,9 +1216,9 @@
     "schultyp": "Gesamtschule",
     "sozialindex": "9",
     "anzahl": "1015",
-    "latitude": "51.4151",
-    "longitude": "6.7601205",
-    "address": "Gesamtschule Globus am Dellplatz (Zweigstelle), 107, Gitschiner Straße, Hochfeld, Duisburg-Mitte, Duisburg, Nordrhein-Westfalen, 47053, Deutschland"
+    "latitude": "51.4291486",
+    "longitude": "6.7598832",
+    "adresse": "Gottfried-Könzgen-Str. 3, 47051 Duisburg"
   },
   {
     "name": "Städt. Landfermann-Gymnasium",
@@ -1075,7 +1229,7 @@
     "anzahl": "1300",
     "latitude": "51.4342765",
     "longitude": "6.7740959",
-    "address": "Landfermann-Gymnasium, 10, Mainstraße, Altstadt, Duisburg-Mitte, Duisburg, Nordrhein-Westfalen, 47051, Deutschland"
+    "adresse": "Mainstr. 10, 47051 Duisburg"
   },
   {
     "name": "Städt. Steinbart-Gymnasium",
@@ -1086,7 +1240,7 @@
     "anzahl": "905",
     "latitude": "51.4277758",
     "longitude": "6.7661341",
-    "address": "Steinbart-Gymnasium, 45, Realschulstraße, City Wohnpark, Dellviertel, Duisburg-Mitte, Duisburg, Nordrhein-Westfalen, 47051, Deutschland"
+    "adresse": "Realschulstr. 45, 47051 Duisburg"
   },
   {
     "name": "Bischöfl. St. Hildegardis-Gym Duisburg",
@@ -1097,7 +1251,7 @@
     "anzahl": "785",
     "latitude": "51.4284677",
     "longitude": "6.7619113",
-    "address": "St. Hildegardis-Gymnasium, 11, Realschulstraße, City Wohnpark, Dellviertel, Duisburg-Mitte, Duisburg, Nordrhein-Westfalen, 47051, Deutschland"
+    "adresse": "Realschulstr. 11, 47051 Duisburg"
   },
   {
     "name": "Mercator-Gymnasium Duisburg",
@@ -1108,7 +1262,7 @@
     "anzahl": "760",
     "latitude": "51.4228033",
     "longitude": "6.7580476",
-    "address": "Mercator-Gymnasium, 152, Musfeldstraße, City Wohnpark, Dellviertel, Duisburg-Mitte, Duisburg, Nordrhein-Westfalen, 47053, Deutschland"
+    "adresse": "Musfeldstr. 152, 47053 Duisburg"
   },
   {
     "name": "Städt. Reinhard-und-Max-",
@@ -1119,7 +1273,7 @@
     "anzahl": "1290",
     "latitude": "51.3762042",
     "longitude": "6.7512301",
-    "address": "Gebäude A, Reinhard-und-Max-Mannesmann-Gymnasium, 13-15, Am Ziegelkamp, Huckingen, Duisburg-Süd, Duisburg, Nordrhein-Westfalen, 47259, Deutschland"
+    "adresse": "Am Ziegelkamp 13-15, 47259 Duisburg"
   },
   {
     "name": "Bischöfliches Abtei-Gymnasium",
@@ -1130,7 +1284,7 @@
     "anzahl": "690",
     "latitude": "51.4913577",
     "longitude": "6.7633368",
-    "address": "Abtei-Gymnasium, 10, An der Abtei, Hamborn, Duisburg, Nordrhein-Westfalen, 47166, Deutschland"
+    "adresse": "An der Abtei 10, 47166 Duisburg"
   },
   {
     "name": "Städt. Max-Planck-Gymnasium",
@@ -1139,9 +1293,9 @@
     "schultyp": "Gymnasium",
     "sozialindex": "7",
     "anzahl": "880",
-    "latitude": "51.466625",
-    "longitude": "6.7740264",
-    "address": "Hollenbergstraße, Mittelmeiderich, Meiderich/Beeck, Duisburg, Nordrhein-Westfalen, 47137, Deutschland"
+    "latitude": "51.4661941",
+    "longitude": "6.7767543",
+    "adresse": "Werner-Wild-Str. 12, 47137 Duisburg"
   },
   {
     "name": "Städt. Elly-Heuss-Knapp-Gymnasium",
@@ -1152,7 +1306,7 @@
     "anzahl": "745",
     "latitude": "51.5003061",
     "longitude": "6.7564899",
-    "address": "24, Am Grillopark, Marxloh, Hamborn, Duisburg, Nordrhein-Westfalen, 47169, Deutschland"
+    "adresse": "Am Grillopark 24, 47169 Duisburg"
   },
   {
     "name": "Städt. Kopernikus-Gymnasium",
@@ -1163,7 +1317,7 @@
     "anzahl": "755",
     "latitude": "51.5336178",
     "longitude": "6.7382168",
-    "address": "Kopernikus-Gymnasium, 81, Beckersloh, Walsum, Duisburg, Nordrhein-Westfalen, 47179, Deutschland"
+    "adresse": "Beckersloh 81, 47179 Duisburg"
   },
   {
     "name": "Städt. Franz-Haniel-Gymnasium",
@@ -1174,7 +1328,7 @@
     "anzahl": "985",
     "latitude": "51.4521593",
     "longitude": "6.7042173",
-    "address": "Franz-Haniel-Gymnasium, 25, Wilhelmstraße, Alt-Homberg, Homberg, Homberg/Ruhrort/Baerl, Duisburg, Nordrhein-Westfalen, 47198, Deutschland"
+    "adresse": "Wilhelmstr. 25, 47198 Duisburg"
   },
   {
     "name": "Städt. Krupp-Gymnasium",
@@ -1185,7 +1339,7 @@
     "anzahl": "815",
     "latitude": "51.4098494",
     "longitude": "6.6961341",
-    "address": "62, Flutweg, Bergheim, Rheinhausen, Duisburg, Nordrhein-Westfalen, 47228, Deutschland"
+    "adresse": "Flutweg 62, 47228 Duisburg"
   },
   {
     "name": "Städt. Albert-Einstein-Gymnasium",
@@ -1196,6 +1350,127 @@
     "anzahl": "990",
     "latitude": "51.3976892",
     "longitude": "6.65559",
-    "address": "Bienenmuseum, 11, Schulallee, Kaldenhausen, Rheinhausen, Duisburg, Nordrhein-Westfalen, 47239, Deutschland"
+    "adresse": "Schulallee 11, 47239 Duisburg"
+  },
+  {
+    "name": "Weiterbildungskolleg der Stadt Duisburg",
+    "schulnummer": "163820",
+    "ort": "Duisburg",
+    "schultyp": "Weiterbildungskolleg",
+    "sozialindex": "",
+    "anzahl": "290",
+    "latitude": "51.4310683",
+    "longitude": "6.7874088",
+    "adresse": "Carstanjenstr. 10, 47057 Duisburg"
+  },
+  {
+    "name": "Kaufmännisches Berufskolleg DU-Mitte",
+    "schulnummer": "171529",
+    "ort": "Duisburg",
+    "schultyp": "Berufskolleg",
+    "sozialindex": "",
+    "anzahl": "2530",
+    "latitude": "51.4310683",
+    "longitude": "6.7874088",
+    "adresse": "Carstanjenstr. 10, 47057 Duisburg"
+  },
+  {
+    "name": "Schiffer-Berufskolleg RHEIN",
+    "schulnummer": "174002",
+    "ort": "Duisburg",
+    "schultyp": "Berufskolleg",
+    "sozialindex": "",
+    "anzahl": "470",
+    "latitude": "51.4532394",
+    "longitude": "6.702397",
+    "adresse": "Bürgermeister-Wendel-Platz 1, 47198 Duisburg"
+  },
+  {
+    "name": "Robert-Bosch-Berufskolleg",
+    "schulnummer": "187707",
+    "ort": "Duisburg",
+    "schultyp": "Berufskolleg",
+    "sozialindex": "",
+    "anzahl": "1990",
+    "latitude": "51.4987629",
+    "longitude": "6.7689183",
+    "adresse": "August-Thyssen-Str. 45, 47166 Duisburg"
+  },
+  {
+    "name": "Sophie-Scholl-Berufskolleg",
+    "schulnummer": "188104",
+    "ort": "Duisburg",
+    "schultyp": "Berufskolleg",
+    "sozialindex": "",
+    "anzahl": "1490",
+    "latitude": "51.5012909",
+    "longitude": "6.7615676",
+    "adresse": "Dahlmannstr. 26, 47169 Duisburg"
+  },
+  {
+    "name": "Bertolt-Brecht-Berufskolleg",
+    "schulnummer": "189420",
+    "ort": "Duisburg",
+    "schultyp": "Berufskolleg",
+    "sozialindex": "",
+    "anzahl": "1805",
+    "latitude": "51.3743662",
+    "longitude": "6.749484",
+    "adresse": "Am Ziegelkamp 28-30, 47259 Duisburg"
+  },
+  {
+    "name": "Willy-Brandt-Berufskolleg",
+    "schulnummer": "190779",
+    "ort": "Duisburg",
+    "schultyp": "Berufskolleg",
+    "sozialindex": "",
+    "anzahl": "1075",
+    "latitude": "51.4073745",
+    "longitude": "6.7086096",
+    "adresse": "Krefelder Str. 92, 47226 Duisburg"
+  },
+  {
+    "name": "Gertrud-Bäumer-Berufskolleg",
+    "schulnummer": "191280",
+    "ort": "Duisburg",
+    "schultyp": "Berufskolleg",
+    "sozialindex": "",
+    "anzahl": "1420",
+    "latitude": "51.4296721",
+    "longitude": "6.7810122",
+    "adresse": "Klöcknerstr. 48, 47057 Duisburg"
+  },
+  {
+    "name": "Kaufmännisches Berufskolleg",
+    "schulnummer": "191784",
+    "ort": "Duisburg",
+    "schultyp": "Berufskolleg",
+    "sozialindex": "",
+    "anzahl": "1965",
+    "latitude": "51.4983091",
+    "longitude": "6.7679346",
+    "adresse": "Walther-Rathenau-Str. 10, 47166 Duisburg"
+  },
+  {
+    "name": "Friedrich-Albert-Lange-Berufskolleg",
+    "schulnummer": "192235",
+    "ort": "Duisburg",
+    "schultyp": "Berufskolleg",
+    "sozialindex": "",
+    "anzahl": "2135",
+    "latitude": "51.4310683",
+    "longitude": "6.7874088",
+    "adresse": "Carstanjenstr. 10, 47057 Duisburg"
+  },
+  {
+    "name": "Kant Berufskolleg,staatl.gen.priv.",
+    "schulnummer": "197853",
+    "ort": "Duisburg",
+    "schultyp": "Berufskolleg",
+    "sozialindex": "",
+    "anzahl": "125",
+    "latitude": "51.4957445",
+    "longitude": "6.7758037",
+    "adresse": "Kantstr. 30, 47166 Duisburg"
   }
 ]
