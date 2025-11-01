@@ -4,7 +4,7 @@ Eine Visualisierung der Schulen in NRW mit ihrem [Schulsozialindex](https://www.
 
 Dieses Projekt generiert mit Python eine [Webseite](https://homlador.github.io/schulsozialindex-karte/), auf der eine interaktive Karte unter Verwendung von [OpenStreetMap](https://www.openstreetmap.org) und [leaflet](https://leafletjs.com/) von Schulen und ihrem Schulsozialindex dargestellt wird.
 
-Die Adressdaten basierend auf Daten von "IT.NRW, Statistisches Landesamt, Düsseldorf, 2025" unter der Datenlizenz Deutschland - Namensnennung - Version 2.0 
+Die Adressdaten basieren auf Daten von "IT.NRW, Statistisches Landesamt, Düsseldorf, 2025" unter der Datenlizenz Deutschland - Namensnennung - Version 2.0 
 
 ## HOWTO
 

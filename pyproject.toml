@@ -4,4 +4,4 @@ version = "0.1.0"
 description = "Visualisierung des Schulsozialindex NRW"
 readme = "README.md"
 requires-python = ">=3.11"
-dependencies = ["geopy", "pandas", "pdfplumber", "openpyxl"]
+dependencies = ["geopy", "pandas", "openpyxl"]
