@@ -28,7 +28,7 @@ let markers = [];
 let gradientLines = [];
 let searchTerm = '';
 let gradientsData = [];
-let schoolsWithGradients = new Set();
+let schoolsWithGradients = new Map();
 
 // Funktion zum Aktualisieren der Statistik
 function updateStatistics(schools) {
@@ -150,6 +150,24 @@ function updateMarkers(schools) {
             const lat = parseFloat(school.latitude);
             const lng = parseFloat(school.longitude);
             
+            // Nur fortfahren, wenn die andere Schule des Gradienten auch angezeigt wird
+            if (showOnlyGradientSchools) {     
+                others = schoolsWithGradients.get(school.schulnummer)
+
+                // Alle Schultypen der verbundenen Schulen prüfen
+                let otherHasActiveType = false;
+                for (const otherSchool of others) {
+                    if (activeTypes.includes(otherSchool.schultyp)) {
+                        otherHasActiveType = true;
+                        break;
+                    }
+                }
+
+                if (!otherHasActiveType ) {
+                    return;
+                }
+            }
+
             // Nur fortfahren, wenn gültige Koordinaten vorhanden sind
             if (isNaN(lat) || isNaN(lng)) {
                 console.warn(`Ungültige Koordinaten für Schule: ${school.name}`);
@@ -208,12 +226,20 @@ function loadGradients() {
         .then(response => response.json())
         .then(data => {
             gradientsData = data;
-            // Set der Schulen mit Gradienten aktualisieren
+            // Map der Schulen mit Gradienten aktualisieren
             schoolsWithGradients.clear();
+            // In dem Map sollen zu jeder Schulnummer alle per Gradienten verbundenen Schulen stehen
             data.forEach(gradient => {
-                schoolsWithGradients.add(gradient.schule_1.schulnummer);
-                schoolsWithGradients.add(gradient.schule_2.schulnummer);
+                if (!schoolsWithGradients.has(gradient.schule_1.schulnummer)) {
+                    schoolsWithGradients.set(gradient.schule_1.schulnummer, []);
+                }
+                schoolsWithGradients.get(gradient.schule_1.schulnummer).push(gradient.schule_2);
+                if (!schoolsWithGradients.has(gradient.schule_2.schulnummer)) {
+                    schoolsWithGradients.set(gradient.schule_2.schulnummer, []);
+                }
+                schoolsWithGradients.get(gradient.schule_2.schulnummer).push(gradient.schule_1);
             });
+
             if (document.getElementById('showGradients').checked) {
                 updateGradients();
             }
