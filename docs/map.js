@@ -130,11 +130,15 @@ function updateMarkers(schools) {
     // Nur Schulen des ausgewählten Typs anzeigen, die dem Suchbegriff entsprechen
     schools.forEach(school => {
         const showOnlyGradientSchools = document.getElementById('showOnlyGradientSchools')?.checked;
+        const showOnlyWithSozialindex = document.getElementById('showOnlyWithSozialindex')?.checked;
+        const hasSozialindex = school.sozialindex && school.sozialindex !== '';
+        
         if (activeTypes.includes(school.schultyp) && 
             (searchTerm === '' || 
              school.name.toLowerCase().includes(searchTerm) ||
              school.schulnummer.toString().includes(searchTerm)) &&
-            (!showOnlyGradientSchools || schoolsWithGradients.has(school.schulnummer))) {
+            (!showOnlyGradientSchools || schoolsWithGradients.has(school.schulnummer)) &&
+            (!showOnlyWithSozialindex || hasSozialindex)) {
             const color = getColorForIndex(school.sozialindex);
             const lat = parseFloat(school.latitude);
             const lng = parseFloat(school.longitude);
@@ -350,6 +354,11 @@ document.getElementById('showGradients').addEventListener('change', function(e) 
 
 // Event-Listener für die "Nur Schulen mit Gradienten"-Checkbox
 document.getElementById('showOnlyGradientSchools').addEventListener('change', function(e) {
+    updateMarkers(window.schools);
+});
+
+// Event-Listener für die "Nur Schulen mit Sozialindex"-Checkbox
+document.getElementById('showOnlyWithSozialindex').addEventListener('change', function(e) {
     updateMarkers(window.schools);
 });
 

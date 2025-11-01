@@ -30,7 +30,6 @@ Manuell aufbereiten:
 
 ## TODO/Ideen
 
-* Schulen ohne Sozialindex ausblenden
 * Auswahl nach Bezirken o.ä dynamisch
 * Gradienten per Javascript für ausgewählte Schulen berechnen und maximale Entfernung definierbar machen
 * Schultyp PRIMUS-Schule ergänzen
