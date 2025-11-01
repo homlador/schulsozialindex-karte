@@ -19,14 +19,15 @@ Manuell aufbereiten:
 
 3. Schul- und Adressverzeichnis mit Sozialindex zusammenführen: `$ uv run merge_data.py`
 
-3. Geokoordinaten mit [Nominatim](https://nominatim.org/) ergänzen: `$ uv run geocode_schools.py`
+4. Geokoordinaten mit [Nominatim](https://nominatim.org/) ergänzen: `$ uv run geocode_schools.py`
 
-4. Daten nach JSON konvertieren: `$ uv run convert_to_json.py`
-(Hier ggf. eine Auswahl treffen, um einen eigenen Datensatz zu erstellen)
+Um einen eigenen Datensatz zu erstellen den Code in `convert_to_json.py` modifizeren.
 
-5. Gradienten berechnen: `$ uv run analyze_gradients.py`
+5. Daten nach JSON konvertieren: `$ uv run convert_to_json.py`
 
-5. `index.html` öffnen
+6. Gradienten berechnen: `$ uv run analyze_gradients.py`
+
+7. `index.html` öffnen
 
 ## TODO/Ideen
 
