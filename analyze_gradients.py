@@ -25,8 +25,16 @@ def haversine_distance(lat1, lon1, lat2, lon2):
 
 def prepare_dataframe(df):
     df = df.copy()
-    df['lat'] = df['latitude'].astype(float)
-    df['lon'] = df['longitude'].astype(float)
+        
+    df['lat'] = pd.to_numeric(df['latitude'], errors='coerce')
+    df['lon'] = pd.to_numeric(df['longitude'], errors='coerce')
+
+    # Schulen ohne Koordinaten entfernen
+    missing_schools = df[df['lat'].isnull() | df['lon'].isnull()]['schulnummer'].tolist()
+    if missing_schools:
+        print(f"Schulen ohne Koordinaten (werden entfernt): {missing_schools}")
+    df = df[df['lat'].notnull() & df['lon'].notnull()]
+    
     df['sozialindex'] = pd.to_numeric(df['sozialindex'], errors='coerce')
     df = df.reset_index(drop=True)
     return df
@@ -107,24 +115,22 @@ def main():
     schools_df = pd.DataFrame(schools_data)
     
     # Filtere Schulen mit Sozialindex
-    schools_df = schools_df[
-        (schools_df['sozialindex'].str.strip() != '') & 
-        (schools_df['sozialindex'].notna())
-    ]
+    schools_df = schools_df[schools_df['sozialindex'].notna()]
     
     grundschulen_df = schools_df[schools_df['schultyp'] == 'Grundschule']
     weiterfuehrende_df = schools_df[schools_df['schultyp'].isin([
         'Hauptschule', 'Realschule', 'Sekundarschule', 'Gesamtschule', 'Gymnasium'
     ])]
-    
-    print(f"Analysiere {len(grundschulen_df)} Grundschulen und {len(weiterfuehrende_df)} weiterführende Schulen...")
-    
+       
     # Daten aufbereiten
     grundschulen_df = prepare_dataframe(grundschulen_df)
     weiterfuehrende_df = prepare_dataframe(weiterfuehrende_df)
     
     # Analyse
+    print(f"Analysiere {len(grundschulen_df)} Grundschulen")
     grundschul_results = analyze_schools(grundschulen_df)
+
+    print(f"Analysiere {len(weiterfuehrende_df)} weiterführende Schulen")
     weiterfuehrende_results = analyze_schools(weiterfuehrende_df)
 
     # Sortierung
