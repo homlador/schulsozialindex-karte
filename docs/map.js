@@ -166,7 +166,7 @@ function updateMarkers(schools) {
                     Sozialindex: ${school.sozialindex}<br>
                     Anzahl: ${school.anzahl}<br>
                     Schulnummer: ${school.schulnummer}<br>
-                    ${school.address}
+                    ${school.adresse}
                 `);
             markers.push(marker);
         }
@@ -174,7 +174,6 @@ function updateMarkers(schools) {
     updateGradients();
 }
 
-// Funktion zum Laden und Aktualisieren der Schulen
 // Funktion zum Laden der Schuldaten
 function loadSchoolData(jsonFile) {
     fetch(jsonFile)
