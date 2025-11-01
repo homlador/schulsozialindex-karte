@@ -32,13 +32,20 @@ let schoolsWithGradients = new Set();
 
 // Funktion zum Aktualisieren der Statistik
 function updateStatistics(schools) {
-    // Zähle Schulen pro Typ
+    // Ermittle verfügbare Schultypen aus den Checkboxen
+    const availableTypes = Array.from(document.querySelectorAll('.school-type-control input:not(#type-all)'))
+        .map(checkbox => checkbox.value);
+    
+    // Zähle Schulen pro Typ (nur für verfügbare Typen)
     const stats = {};
+    availableTypes.forEach(type => {
+        stats[type] = 0;
+    });
+    
     schools.forEach(school => {
-        if (!stats[school.schultyp]) {
-            stats[school.schultyp] = 0;
-        }
-        if (searchTerm === '' || school.name.toLowerCase().includes(searchTerm)) {
+        // Nur zählen, wenn der Schultyp in der Liste der verfügbaren Typen ist
+        if (availableTypes.includes(school.schultyp) && 
+            (searchTerm === '' || school.name.toLowerCase().includes(searchTerm))) {
             stats[school.schultyp]++;
         }
     });
