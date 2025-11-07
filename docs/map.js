@@ -30,7 +30,7 @@ let searchTerm = '';
 let gradientsData = [];
 let schoolsWithGradients = new Map();
 
-// Funktion zum Aktualisieren der Statistik
+// Aktualisieren der Statistik in den Optionen (Anzahl der Schulen in aktueller Auswahl)
 function updateStatistics(schools) {
     // Ermittle verfügbare Schultypen aus den Checkboxen
     const availableTypes = Array.from(document.querySelectorAll('.school-type-control input:not(#type-all)'))
@@ -74,7 +74,8 @@ function updateStatistics(schools) {
         }
     });
 }
-// Radius anhand der Anzahl berechnen
+
+// Radius der Marker anhand der Anzahl der Schülerinnen und Schüler berechnen
 function getRadius(anzahl) {    
     const dynamic = document.getElementById('dynamicRadius').checked;
     if (dynamic) {
@@ -85,7 +86,7 @@ function getRadius(anzahl) {
     }
 }
 
-// Funktion zum Überprüfen der Nähe zu existierenden Markern
+// Überprüfen der Nähe zu existierenden Markern: Marker sollen nicht übereinander platziert werden
 function isNearOtherMarker(lat, lng, markers) {
     if (!lat || !lng || !markers.length) return false;
     
@@ -103,7 +104,7 @@ function isNearOtherMarker(lat, lng, markers) {
     });
 }
 
-// Funktion zum Finden einer freie Position
+// Finden einer freien Position
 function findFreePosition(lat, lng, markers) {
     const offset = 0.0002;
     const angles = [0, 45, 90, 135, 180, 225, 270, 315]; // 8 Richtungen
@@ -121,7 +122,7 @@ function findFreePosition(lat, lng, markers) {
     return [lat, lng]; // Fallback zur ursprünglichen Position
 }
 
-// Funktion zum Aktualisieren der Marker basierend auf den Filtereinstellungen und der Suche
+// Aktualisieren der Marker basierend auf den Filtereinstellungen und der Suche
 function updateMarkers(schools) {
     // Alle aktuellen Marker entfernen
     markers.forEach(marker => marker.remove());
@@ -203,7 +204,7 @@ function updateMarkers(schools) {
     updateGradients();
 }
 
-// Funktion zum Laden der Schuldaten
+// Laden der Schuldaten
 function loadSchoolData(jsonFile) {
     fetch(jsonFile)
         .then(response => response.json())
@@ -220,7 +221,7 @@ function loadSchoolData(jsonFile) {
         });
 }
 
-// Funktion zum Laden der Gradienten
+// Laden der Gradienten
 function loadGradients() {
     fetch('schools-gradients.json')
         .then(response => response.json())
@@ -251,7 +252,7 @@ function loadGradients() {
         });
 }
 
-// Funktion zum Finden der korrigierten Position einer Schule
+// Finden der korrigierten Position einer Schule
 function getAdjustedSchoolPosition(school) {
     const lat = parseFloat(school.lat || school.latitude);
     const lng = parseFloat(school.lon || school.longitude);
@@ -280,7 +281,7 @@ function getAdjustedSchoolPosition(school) {
     return [lat, lng];
 }
 
-// Funktion zum Aktualisieren der Gradienten
+// ktualisieren der Gradienten
 function updateGradients() {
     // Bestehende Gradient-Linien entfernen
     gradientLines.forEach(line => line.remove());
