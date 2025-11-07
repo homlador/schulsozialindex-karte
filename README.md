@@ -13,7 +13,7 @@ Die Schritte 1 bis 4 sind nur nötig, wenn sich die Datengrundlage ändert.
 1. [Schul- und Adressverzeichnis](https://statistik.nrw/sites/default/files/2025-03/AS_BS_Verzeichnis_2024_25_%28gerundet%29_0.xlsx) von der Seite der [Schulkarte und Umkreissuche von Statistik.NRW](https://statistik.nrw/service/veroeffentlichungen/schulen-in-nordrhein-westfalen-und-ihre-erreichbarkeiten/schulkarte-und-umkreissuche) laden.
 Manuell aufbereiten:
 * Leere Zeilen und Zeilen mit Anmerkungen oben und unten löschen.
-* Zeilenumbrüche und Fuoten aus Spaltenüberschriften entfernen. Insbesondere: Spalten B -> Schulform, E -> Schulnnummer, R -> Anzahl, 
+* Zeilenumbrüche und Fußnoten aus Spaltenüberschriften entfernen. Insbesondere: Spalten B -> Schulform, E -> Schulnnummer, R -> Anzahl, 
 
 2. [Schulsozialindex-Daten](https://www.schulministerium.nrw/system/files/media/document/file/schulliste_sj_25_26_open_data.csv) von der [Open Data Seite des Ministeriums für Schule und Bildung NRW](https://www.schulministerium.nrw/open-data) laden.
 
