@@ -27,9 +27,9 @@ Die kombinierten Daten der Schulen inkl. Geokoordinaten liegen in der Datei `AS_
 
 6. Daten nach JSON konvertieren: `$ uv run convert_to_json.py`
 
-7. Gradienten berechnen: `$ uv run analyze_gradients.py`
+7. `index.html` öffnen
 
-8. `index.html` öffnen
+**Hinweis für Branch "js":** In diesem Branch werden die Gradienten nicht vorab berechnet, sondern dynamisch im Browser mit JavaScript. Schritt 7 (Gradienten-Berechnung mit Python) entfällt hier. Die Berechnung erfolgt clientseitig mit optimierter räumlicher Suche und die maximale Entfernung kann über einen Schieberegler in der UI eingestellt werden (1-20 km).
 
 ## Datengrundlage und Lizenzen
 
@@ -40,4 +40,3 @@ Die [Daten des Schulsozialindex](https://www.schulministerium.nrw/system/files/m
 ## TODO/Ideen
 
 * Auswahl nach Bezirken o.ä dynamisch
-* Gradienten per Javascript für ausgewählte Schulen berechnen und maximale Entfernung definierbar machen
