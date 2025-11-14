@@ -23,12 +23,172 @@ function getColorForIndex(index) {
     return colors[index - 1] || '#808080'; // Grau als Fallback
 }
 
+// Haversine-Distanz zwischen zwei Punkten berechnen (in km)
+function haversineDistance(lat1, lon1, lat2, lon2) {
+    const R = 6371; // Erdradius in km
+    const toRad = (deg) => deg * Math.PI / 180;
+    
+    const dLat = toRad(lat2 - lat1);
+    const dLon = toRad(lon2 - lon1);
+    
+    const a = Math.sin(dLat / 2) * Math.sin(dLat / 2) +
+              Math.cos(toRad(lat1)) * Math.cos(toRad(lat2)) *
+              Math.sin(dLon / 2) * Math.sin(dLon / 2);
+    
+    const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
+    return R * c;
+}
+
+// Erstelle ein räumliches Gitter für schnellere Nachbarschaftssuche
+class SpatialGrid {
+    constructor(cellSize = 0.1) { // ~10km Zellengröße
+        this.cellSize = cellSize;
+        this.grid = new Map();
+    }
+    
+    getKey(lat, lon) {
+        const x = Math.floor(lat / this.cellSize);
+        const y = Math.floor(lon / this.cellSize);
+        return `${x},${y}`;
+    }
+    
+    add(school) {
+        const lat = parseFloat(school.latitude);
+        const lon = parseFloat(school.longitude);
+        if (isNaN(lat) || isNaN(lon)) return;
+        
+        const key = this.getKey(lat, lon);
+        if (!this.grid.has(key)) {
+            this.grid.set(key, []);
+        }
+        this.grid.get(key).push(school);
+    }
+    
+    getNearby(lat, lon, maxDist) {
+        const nearby = [];
+        // Berechne die Anzahl der Zellen, die wir prüfen müssen
+        const cellRange = Math.ceil(maxDist / (this.cellSize * 111)); // ~111km pro Grad
+        
+        const centerX = Math.floor(lat / this.cellSize);
+        const centerY = Math.floor(lon / this.cellSize);
+        
+        for (let dx = -cellRange; dx <= cellRange; dx++) {
+            for (let dy = -cellRange; dy <= cellRange; dy++) {
+                const key = `${centerX + dx},${centerY + dy}`;
+                if (this.grid.has(key)) {
+                    nearby.push(...this.grid.get(key));
+                }
+            }
+        }
+        
+        return nearby;
+    }
+    
+    clear() {
+        this.grid.clear();
+    }
+}
+
+// Globales Gitter für Schulen
+let schoolGrid = new SpatialGrid();
+
+// Gradienten dynamisch berechnen
+function calculateGradients(schools, maxDist) {
+    const results = [];
+    
+    // Schulen nach Typ gruppieren
+    const grundschulen = schools.filter(s => 
+        s.schultyp === 'Grundschule' && 
+        s.sozialindex && 
+        !isNaN(parseFloat(s.sozialindex)) &&
+        !isNaN(parseFloat(s.latitude)) &&
+        !isNaN(parseFloat(s.longitude))
+    );
+    
+    const weiterfuehrende = schools.filter(s => 
+        ['Hauptschule', 'Realschule', 'Sekundarschule', 'Gesamtschule', 'Gymnasium'].includes(s.schultyp) &&
+        s.sozialindex && 
+        !isNaN(parseFloat(s.sozialindex)) &&
+        !isNaN(parseFloat(s.latitude)) &&
+        !isNaN(parseFloat(s.longitude))
+    );
+    
+    // Funktion zum Analysieren einer Schulgruppe
+    const analyzeSchoolGroup = (schoolList) => {
+        // Gitter für diese Gruppe erstellen
+        const grid = new SpatialGrid();
+        schoolList.forEach(s => grid.add(s));
+        
+        schoolList.forEach((school1, i) => {
+            const lat1 = parseFloat(school1.latitude);
+            const lon1 = parseFloat(school1.longitude);
+            const si1 = parseFloat(school1.sozialindex);
+            
+            // Hole nur nahe Schulen aus dem Gitter
+            const nearbySchools = grid.getNearby(lat1, lon1, maxDist);
+            
+            nearbySchools.forEach(school2 => {
+                // Vermeide Duplikate
+                if (school1.schulnummer >= school2.schulnummer) return;
+                
+                const lat2 = parseFloat(school2.latitude);
+                const lon2 = parseFloat(school2.longitude);
+                const si2 = parseFloat(school2.sozialindex);
+                
+                const distance = haversineDistance(lat1, lon1, lat2, lon2);
+                
+                // Nur Schulpaare innerhalb der max. Distanz und mit Mindestdifferenz
+                if (distance <= maxDist && distance > 0) {
+                    const indexDiff = Math.abs(si1 - si2);
+                    
+                    if (indexDiff >= 3) {
+                        const gradient = indexDiff / distance;
+                        
+                        results.push({
+                            schule_1: {
+                                name: school1.name,
+                                schulnummer: school1.schulnummer,
+                                schultyp: school1.schultyp,
+                                sozialindex: Math.round(si1),
+                                lat: lat1,
+                                lon: lon1
+                            },
+                            schule_2: {
+                                name: school2.name,
+                                schulnummer: school2.schulnummer,
+                                schultyp: school2.schultyp,
+                                sozialindex: Math.round(si2),
+                                lat: lat2,
+                                lon: lon2
+                            },
+                            differenz: Math.round(indexDiff),
+                            entfernung_km: Math.round(distance * 100) / 100,
+                            gradient: Math.round(gradient * 100) / 100
+                        });
+                    }
+                }
+            });
+        });
+    };
+    
+    // Analysiere beide Schultypen
+    analyzeSchoolGroup(grundschulen);
+    analyzeSchoolGroup(weiterfuehrende);
+    
+    // Sortiere nach Gradient (höchste zuerst)
+    results.sort((a, b) => b.gradient - a.gradient);
+    
+    // Begrenze auf die Top 1000 für Performance
+    return results.slice(0, 1000);
+}
+
 // Globale Variablen für Marker und Gradienten
 let markers = [];
 let gradientLines = [];
 let searchTerm = '';
 let gradientsData = [];
 let schoolsWithGradients = new Map();
+let maxDistance = 5; // Default max distance in km
 
 // Aktualisieren der Statistik in den Optionen (Anzahl der Schulen in aktueller Auswahl)
 function updateStatistics(schools) {
@@ -238,35 +398,40 @@ function loadSchoolData(jsonFile) {
         });
 }
 
-// Laden der Gradienten
+// Laden der Gradienten - jetzt dynamisch berechnet
 function loadGradients() {
-    fetch('schools-gradients.json')
-        .then(response => response.json())
-        .then(data => {
-            gradientsData = data;
-            // Map der Schulen mit Gradienten aktualisieren
-            schoolsWithGradients.clear();
-            // In dem Map sollen zu jeder Schulnummer alle per Gradienten verbundenen Schulen stehen
-            data.forEach(gradient => {
-                if (!schoolsWithGradients.has(gradient.schule_1.schulnummer)) {
-                    schoolsWithGradients.set(gradient.schule_1.schulnummer, []);
-                }
-                schoolsWithGradients.get(gradient.schule_1.schulnummer).push(gradient.schule_2);
-                if (!schoolsWithGradients.has(gradient.schule_2.schulnummer)) {
-                    schoolsWithGradients.set(gradient.schule_2.schulnummer, []);
-                }
-                schoolsWithGradients.get(gradient.schule_2.schulnummer).push(gradient.schule_1);
-            });
+    if (!window.schools || window.schools.length === 0) {
+        console.warn('Keine Schulen geladen');
+        return;
+    }
+    
+    console.log('Berechne Gradienten dynamisch...');
+    const startTime = performance.now();
+    
+    gradientsData = calculateGradients(window.schools, maxDistance);
+    
+    const endTime = performance.now();
+    console.log(`Gradienten berechnet: ${gradientsData.length} in ${Math.round(endTime - startTime)}ms`);
+    
+    // Map der Schulen mit Gradienten aktualisieren
+    schoolsWithGradients.clear();
+    // In dem Map sollen zu jeder Schulnummer alle per Gradienten verbundenen Schulen stehen
+    gradientsData.forEach(gradient => {
+        if (!schoolsWithGradients.has(gradient.schule_1.schulnummer)) {
+            schoolsWithGradients.set(gradient.schule_1.schulnummer, []);
+        }
+        schoolsWithGradients.get(gradient.schule_1.schulnummer).push(gradient.schule_2);
+        if (!schoolsWithGradients.has(gradient.schule_2.schulnummer)) {
+            schoolsWithGradients.set(gradient.schule_2.schulnummer, []);
+        }
+        schoolsWithGradients.get(gradient.schule_2.schulnummer).push(gradient.schule_1);
+    });
 
-            if (document.getElementById('showGradients').checked) {
-                updateGradients();
-            }
-            // Marker aktualisieren um ggf. nicht verbundene Schulen auszublenden
-            updateMarkers(window.schools);
-        })
-        .catch(error => {
-            console.error('Fehler beim Laden der Gradienten:', error);
-        });
+    if (document.getElementById('showGradients').checked) {
+        updateGradients();
+    }
+    // Marker aktualisieren um ggf. nicht verbundene Schulen auszublenden
+    updateMarkers(window.schools);
 }
 
 // Finden der korrigierten Position einer Schule
@@ -453,3 +618,14 @@ function setupToggle(buttonId, contentId) {
 // Toggle-Funktionalität für Optionen und Erklärung initialisieren
 setupToggle('toggleOptions', 'optionsContent');
 setupToggle('toggleExplanation', 'explanationContent');
+
+// Event-Listener für den Distanz-Slider
+document.getElementById('maxDistance').addEventListener('input', function(e) {
+    maxDistance = parseFloat(e.target.value);
+    document.getElementById('distanceValue').textContent = maxDistance;
+    
+    // Gradienten neu berechnen wenn sie sichtbar sind
+    if (document.getElementById('showGradients').checked) {
+        loadGradients();
+    }
+});

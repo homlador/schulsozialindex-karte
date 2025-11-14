@@ -188,6 +188,10 @@
                 <input type="checkbox" id="showGradients">
                 <label>Sozialindex-Gradienten anzeigen</label>
             </div>
+            <div style="margin-top: 10px;">
+                <label for="maxDistance">Max. Entfernung für Gradienten: <span id="distanceValue">5</span> km</label>
+                <input type="range" id="maxDistance" min="1" max="20" value="5" step="0.5" style="width: 100%;">
+            </div>
             <div>
                 <input type="checkbox" id="showOnlyGradientSchools">
                 <label>Nur Schulen mit Gradienten zeigen</label>
@@ -202,8 +206,9 @@
             <button class="toggle-button" id="toggleExplanation">▲</button>
         </div>
         <div id="explanationContent" class="collapsible-content hidden">
-            Die Gradienten zeigen die Sozialindex-Differenz pro km. Verglichen werden jeweils Schulpaare von Grundschulen und weiterführenden Schulen.
-            Davon werden die 1000 größten Gradienten angezeigt. Die Dicke der Linien zeigt die Stärke des Gradienten an.
+            Die Gradienten zeigen die Sozialindex-Differenz pro km. Verglichen werden jeweils Schulpaare von Grundschulen und weiterführenden Schulen
+            innerhalb der eingestellten maximalen Entfernung. Es werden nur Schulpaare mit einer Mindest-Sozialindex-Differenz von 3 angezeigt.
+            Die Dicke der Linien zeigt die Stärke des Gradienten an. Die Berechnung erfolgt dynamisch im Browser.
         </div>
     </div>
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
