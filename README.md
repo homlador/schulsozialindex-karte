@@ -21,13 +21,15 @@ Manuell aufbereiten:
 
 4. Geokoordinaten mit [Nominatim](https://nominatim.org/) ergänzen: `$ uv run geocode_schools.py`
 
-Die kombinierten Daten der Schulen inkl. Geokoordinaten liegen in der Datei `AS_BS_Verzeichnis_2024_25_mit_Sozialindex_und_Koordinaten.csv`. Daraus werden die JSON-Daten unter `docs/` erzeugt. Per Default werden alle Schulen in `docs/schools.json` gespeichert. Um einen eigenen Datensatz (z.B. eine Auswahl von bestimmten Schulen) zu erstellen, muss der Code in `convert_to_json.py` modifizert werden und diese Datei dann in der `index.html` unter `datasetSelect` hinzugefügt werden.
+5. Angaben zu Startchancen-Schulen aus [PDF](https://www.schulministerium.nrw/system/files/media/document/file/startchancen-programm_bestaetigte_teilnehmerliste_schuljahr_25_26_stand_250521.pdf) extrahieren und in CSV ergänzen `$ uv run extract_startchancen.py --pdf startchancen-programm_bestaetigte_teilnehmerliste_gesamt_stand_250521.pdf --csv AS_BS_Verzeichnis_2024_25_mit_Sozialindex_und_Koordinaten.csv`
 
-5. Daten nach JSON konvertieren: `$ uv run convert_to_json.py`
+Die kombinierten Daten der Schulen inkl. Geokoordinaten liegen in der Datei `AS_BS_Verzeichnis_2024_25_mit_Sozialindex_und_Koordinaten_und_Startchancen.csv`. Daraus werden die JSON-Daten unter `docs/` erzeugt. Per Default werden alle Schulen in `docs/schools.json` gespeichert. Um einen eigenen Datensatz (z.B. eine Auswahl von bestimmten Schulen) zu erstellen, muss der Code in `convert_to_json.py` modifizert werden und diese Datei dann in der `index.html` unter `datasetSelect` hinzugefügt werden.
 
-6. Gradienten berechnen: `$ uv run analyze_gradients.py`
+6. Daten nach JSON konvertieren: `$ uv run convert_to_json.py`
 
-7. `index.html` öffnen
+7. Gradienten berechnen: `$ uv run analyze_gradients.py`
+
+8. `index.html` öffnen
 
 ## Datengrundlage und Lizenzen
 

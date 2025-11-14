@@ -182,6 +182,22 @@ function updateMarkers(schools) {
                 [finalLat, finalLng] = findFreePosition(lat, lng, markers);
             }
             
+            // Startchancen-Ring nur erstellen, wenn die Option aktiviert ist und die Schule sichtbar ist
+            let startchancenRing = null;
+            if (school['startchancen'] === "1" && document.getElementById('showStartchancenHighlight').checked) {
+                startchancenRing = L.circleMarker([finalLat, finalLng], {
+                    radius: getRadius(school.anzahl) + 2,
+                    fillColor: 'transparent',
+                    color: '#0066FF',
+                    weight: 3,
+                    opacity: 1
+                });
+                startchancenRing.addTo(map);
+                // Ring zum Marker-Array hinzufügen, damit er später entfernt werden kann
+                markers.push(startchancenRing);
+            }
+            
+            // Erstelle den eigentlichen Marker
             const marker = L.circleMarker([finalLat, finalLng], {
                 radius: getRadius(school.anzahl),
                 fillColor: color,
@@ -194,6 +210,7 @@ function updateMarkers(schools) {
                 .bindPopup(`
                     <strong>${school.name} (${school.schultyp})</strong><br>
                     Sozialindex: ${school.sozialindex}<br>
+                    Startchancen-Schule: ${school.startchancen == '1'?  'Ja' : 'Nein'}<br>
                     Anzahl: ${school.anzahl}<br>
                     Schulnummer: ${school.schulnummer}<br>
                     ${school.adresse}
@@ -393,6 +410,11 @@ document.getElementById('showOnlyGradientSchools').addEventListener('change', fu
 
 // Event-Listener für die "Nur Schulen mit Sozialindex"-Checkbox
 document.getElementById('showOnlyWithSozialindex').addEventListener('change', function(e) {
+    updateMarkers(window.schools);
+});
+
+// Event-Listener für die "Startchancen-Schulen markieren"-Checkbox
+document.getElementById('showStartchancenHighlight').addEventListener('change', function(e) {
     updateMarkers(window.schools);
 });
 
