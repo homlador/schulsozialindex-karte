@@ -135,7 +135,7 @@
             </select>
         </div>
         <div class="school-search">
-            <input type="text" id="schoolSearch" placeholder="Schule suchen..." />
+            <input type="text" id="schoolSearch" placeholder="Schule nach Namen oder Nummer suchen..." />
             <button id="resetSearch">×</button>
         </div>
         <h3>Schultypen</h3>
@@ -185,25 +185,22 @@
                 <label>Kreisgröße nach Schülerzahl</label>
             </div>
             <div>
+                <input type="checkbox" id="showStartchancenHighlight">
+                <label>Startchancen-Schulen markieren</label>
+            </div>            
+            <div>
                 <input type="checkbox" id="showGradients">
-                <label>Sozialindex-Gradienten anzeigen</label>
+                <label for="showGradients">Sozialindex-Gradienten anzeigen <span style="cursor: help; color: #0078A8;" title="Die Gradienten zeigen die Sozialindex-Differenz pro km. Verglichen werden jeweils Schulpaare von Grundschulen und Schulpaare von weiterführenden Schulen bei denen der Sozialindex eine Differenz von mindestens drei aufweist.">ⓘ</span></label>
             </div>
             <div>
                 <input type="checkbox" id="showOnlyGradientSchools">
                 <label>Nur Schulen mit Gradienten zeigen</label>
             </div>
-            <div>
-                <input type="checkbox" id="showStartchancenHighlight">
-                <label>Startchancen-Schulen markieren</label>
+            <div style="margin-top: 10px;">
+                <label for="maxGradientDistance">Max. Entfernung: <span id="maxDistanceValue">1.5</span> km</label>
+                <input type="range" id="maxGradientDistance" min="0" max="5" value="1.5" step="0.5" style="width: 100%;">
+                <span style="font-size: 0.9em; color: #666; margin-top: 5px;">Gradienten: <span id="gradientCount">?</span></span>
             </div>
-        </div>
-        <div class="section-header">
-            <h3>Erklärung</h3>
-            <button class="toggle-button" id="toggleExplanation">▲</button>
-        </div>
-        <div id="explanationContent" class="collapsible-content hidden">
-            Die Gradienten zeigen die Sozialindex-Differenz pro km. Verglichen werden jeweils Schulpaare von Grundschulen und weiterführenden Schulen.
-            Davon werden die 1000 größten Gradienten angezeigt. Die Dicke der Linien zeigt die Stärke des Gradienten an.
         </div>
     </div>
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>

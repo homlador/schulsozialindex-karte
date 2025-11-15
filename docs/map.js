@@ -29,6 +29,14 @@ let gradientLines = [];
 let searchTerm = '';
 let gradientsData = [];
 let schoolsWithGradients = new Map();
+// Schulen, die unter aktuellen Filtern (Schultyp & Entfernung) wirklich eine angezeigte Linie haben
+let filteredGradientSchoolNumbers = new Set();
+// Gecachte Gradient-Daten nach Schultyp und Distanzbereich
+let gradientCache = {
+    'gs': { '0-1': null, '1-2': null, '2-3': null, '3-4': null, '4-5': null },
+    'wf': { '0-1': null, '1-2': null, '2-3': null, '3-4': null, '4-5': null }
+};
+let sliderTimeout = null;
 
 // Aktualisieren der Statistik in den Optionen (Anzahl der Schulen in aktueller Auswahl)
 function updateStatistics(schools) {
@@ -141,33 +149,18 @@ function updateMarkers(schools) {
         const showOnlyWithSozialindex = document.getElementById('showOnlyWithSozialindex')?.checked;
         const hasSozialindex = school.sozialindex && school.sozialindex !== '';
         
+        const hasCurrentGradient = filteredGradientSchoolNumbers.has(school.schulnummer);
         if (activeTypes.includes(school.schultyp) && 
             (searchTerm === '' || 
              school.name.toLowerCase().includes(searchTerm) ||
              school.schulnummer.toString().includes(searchTerm)) &&
-            (!showOnlyGradientSchools || schoolsWithGradients.has(school.schulnummer)) &&
+            (!showOnlyGradientSchools || hasCurrentGradient) &&
             (!showOnlyWithSozialindex || hasSozialindex)) {
             const color = getColorForIndex(school.sozialindex);
             const lat = parseFloat(school.latitude);
             const lng = parseFloat(school.longitude);
             
-            // Nur fortfahren, wenn die andere Schule des Gradienten auch angezeigt wird
-            if (showOnlyGradientSchools) {     
-                others = schoolsWithGradients.get(school.schulnummer)
-
-                // Alle Schultypen der verbundenen Schulen prüfen
-                let otherHasActiveType = false;
-                for (const otherSchool of others) {
-                    if (activeTypes.includes(otherSchool.schultyp)) {
-                        otherHasActiveType = true;
-                        break;
-                    }
-                }
-
-                if (!otherHasActiveType ) {
-                    return;
-                }
-            }
+            // Zusätzliche Prüfung entfällt: wir nutzen nur aktuell angezeigte Gradienten
 
             // Nur fortfahren, wenn gültige Koordinaten vorhanden sind
             if (isNaN(lat) || isNaN(lng)) {
@@ -230,43 +223,107 @@ function loadSchoolData(jsonFile) {
             window.schools = schools;
             // Marker aktualisieren
             updateMarkers(schools);
-            // Gradienten laden
-            loadGradients();
+            // Gradienten für initiale Distanz laden
+            const initialDistance = parseFloat(document.getElementById('maxGradientDistance').value);
+            loadGradientsForDistance(initialDistance).then(() => {
+                if (document.getElementById('showGradients').checked) {
+                    updateGradients();
+                }
+                updateMarkers(window.schools);
+            });
         })
         .catch(error => {
             console.error('Fehler beim Laden der Schuldaten:', error);
         });
 }
 
-// Laden der Gradienten
-function loadGradients() {
-    fetch('schools-gradients.json')
-        .then(response => response.json())
-        .then(data => {
-            gradientsData = data;
-            // Map der Schulen mit Gradienten aktualisieren
-            schoolsWithGradients.clear();
-            // In dem Map sollen zu jeder Schulnummer alle per Gradienten verbundenen Schulen stehen
-            data.forEach(gradient => {
-                if (!schoolsWithGradients.has(gradient.schule_1.schulnummer)) {
-                    schoolsWithGradients.set(gradient.schule_1.schulnummer, []);
-                }
-                schoolsWithGradients.get(gradient.schule_1.schulnummer).push(gradient.schule_2);
-                if (!schoolsWithGradients.has(gradient.schule_2.schulnummer)) {
-                    schoolsWithGradients.set(gradient.schule_2.schulnummer, []);
-                }
-                schoolsWithGradients.get(gradient.schule_2.schulnummer).push(gradient.schule_1);
-            });
+// Laden der Gradienten basierend auf der gewählten Distanz und aktiven Schultypen
+async function loadGradientsForDistance(maxDistance) {    
+    const ranges = [];
+    
+    // Bestimme welche Bereiche geladen werden müssen
+    if (maxDistance > 0) ranges.push('0-1');
+    if (maxDistance > 1) ranges.push('1-2');
+    if (maxDistance > 2) ranges.push('2-3');
+    if (maxDistance > 3) ranges.push('3-4');
+    if (maxDistance > 4) ranges.push('4-5');
 
-            if (document.getElementById('showGradients').checked) {
-                updateGradients();
+    
+    // Ermittle aktive Schultypen
+    const activeTypes = Array.from(document.querySelectorAll('.school-type-control input:checked:not(#type-all)'))
+        .map(checkbox => checkbox.value);
+    
+    const hasGrundschule = activeTypes.includes('Grundschule');
+    const hasWeiterfuehrende = activeTypes.some(type => 
+        ['Hauptschule', 'Realschule', 'Sekundarschule', 'Gesamtschule', 'Gymnasium', 'PRIMUS-Schule'].includes(type)
+    );
+    
+    // Lade fehlende Bereiche für relevante Schultypen
+    const loadPromises = [];
+    
+    if (hasGrundschule) {
+        ranges.forEach(range => {
+            if (!gradientCache.gs[range]) {
+                loadPromises.push(
+                    fetch(`schools-gradients-gs-${range}km.json`)
+                        .then(response => response.json())
+                        .then(data => {
+                            gradientCache.gs[range] = data;
+                            console.log(`Geladen: GS ${range}km (${data.length} Gradienten)`);
+                        })
+                        .catch(error => {
+                            console.error(`Fehler beim Laden von GS ${range}km:`, error);
+                            gradientCache.gs[range] = [];
+                        })
+                );
             }
-            // Marker aktualisieren um ggf. nicht verbundene Schulen auszublenden
-            updateMarkers(window.schools);
-        })
-        .catch(error => {
-            console.error('Fehler beim Laden der Gradienten:', error);
         });
+    }
+    
+    if (hasWeiterfuehrende) {
+        ranges.forEach(range => {
+            if (!gradientCache.wf[range]) {
+                loadPromises.push(
+                    fetch(`schools-gradients-wf-${range}km.json`)
+                        .then(response => response.json())
+                        .then(data => {
+                            gradientCache.wf[range] = data;
+                            console.log(`Geladen: WF ${range}km (${data.length} Gradienten)`);
+                        })
+                        .catch(error => {
+                            console.error(`Fehler beim Laden von WF ${range}km:`, error);
+                            gradientCache.wf[range] = [];
+                        })
+                );
+            }
+        });
+    }
+    
+    await Promise.all(loadPromises);
+    
+    // Kombiniere alle relevanten Daten
+    gradientsData = [];
+    ranges.forEach(range => {
+        if (hasGrundschule && gradientCache.gs[range]) {
+            gradientsData.push(...gradientCache.gs[range]);
+        }
+        if (hasWeiterfuehrende && gradientCache.wf[range]) {
+            gradientsData.push(...gradientCache.wf[range]);
+        }
+    });
+    
+    // Map der Schulen mit Gradienten aktualisieren
+    schoolsWithGradients.clear();
+    gradientsData.forEach(gradient => {
+        if (!schoolsWithGradients.has(gradient.schule_1.schulnummer)) {
+            schoolsWithGradients.set(gradient.schule_1.schulnummer, []);
+        }
+        schoolsWithGradients.get(gradient.schule_1.schulnummer).push(gradient.schule_2);
+        if (!schoolsWithGradients.has(gradient.schule_2.schulnummer)) {
+            schoolsWithGradients.set(gradient.schule_2.schulnummer, []);
+        }
+        schoolsWithGradients.get(gradient.schule_2.schulnummer).push(gradient.schule_1);
+    });
 }
 
 // Finden der korrigierten Position einer Schule
@@ -281,6 +338,7 @@ function getAdjustedSchoolPosition(school) {
 
     // Suche nach einem existierenden Marker für diese Schule
     const existingMarker = markers.find(m => {
+        if (!m.getPopup()) return false;
         const popupContent = m.getPopup().getContent();
         return popupContent.includes(school.schulnummer.toString());
     });
@@ -298,13 +356,15 @@ function getAdjustedSchoolPosition(school) {
     return [lat, lng];
 }
 
-// ktualisieren der Gradienten
+// Aktualisieren der Gradienten
 function updateGradients() {
     // Bestehende Gradient-Linien entfernen
     gradientLines.forEach(line => line.remove());
     gradientLines = [];
+    filteredGradientSchoolNumbers.clear();
     
     if (!document.getElementById('showGradients').checked) {
+        document.getElementById('gradientCount').textContent = '0';
         return;
     }
 
@@ -312,11 +372,28 @@ function updateGradients() {
     const activeTypes = Array.from(document.querySelectorAll('.school-type-control input:checked:not(#type-all)'))
         .map(checkbox => checkbox.value);
 
+    // Maximale Entfernung ermitteln
+    const maxDistance = parseFloat(document.getElementById('maxGradientDistance').value);
+
+    const schoolNumbersInData = new Set(window.schools.map(s => s.schulnummer));
+
+    let gradientCount = 0;
     gradientsData.forEach(gradient => {
+        // Prüfe ob beide Schulnummern im aktuell angezeigten Datensatz der Schulen in window.schools sind        
+        if (!schoolNumbersInData.has(gradient.schule_1.schulnummer) || 
+            !schoolNumbersInData.has(gradient.schule_2.schulnummer)) {
+            return; // Gradient überspringen wenn eine der Schulen nicht im Datensatz ist
+        }
+        
         // Prüfen ob beide Schulen zu den aktiven Schultypen gehören
         if (!activeTypes.includes(gradient.schule_1.schultyp) || 
             !activeTypes.includes(gradient.schule_2.schultyp)) {
             return; // Gradient überspringen wenn eine der Schulen nicht aktiv ist
+        }
+
+        // Prüfen ob die Entfernung innerhalb des eingestellten Bereichs liegt
+        if (gradient.entfernung_km > maxDistance) {
+            return; // Gradient überspringen wenn die Entfernung zu groß ist
         }
 
         // Korrigierte Positionen für beide Schulen holen
@@ -348,17 +425,27 @@ function updateGradients() {
             max: 9   // Maximaler Sozialindex
         }).addTo(map);
 
+        // Namen der Schulen aus window.schools holen
+        const school1 = window.schools.find(s => s.schulnummer === gradient.schule_1.schulnummer);
+        const school2 = window.schools.find(s => s.schulnummer === gradient.schule_2.schulnummer);
+ 
         // Popup mit Gradient-Informationen
         line.bindPopup(`
             Gradient: ${gradient.gradient.toFixed(2)}<br>
             Entfernung: ${(gradient.entfernung_km * 1000).toFixed(0)}m<br>
             Sozialindex-Differenz: ${gradient.differenz}<br>
-            Schule 1: ${gradient.schule_1.name} (SI: ${gradient.schule_1.sozialindex})<br>
-            Schule 2: ${gradient.schule_2.name} (SI: ${gradient.schule_2.sozialindex})
+            Schule 1: ${school1.name} (SI: ${school1.sozialindex})<br>
+            Schule 2: ${school2.name} (SI: ${school2.sozialindex})
         `);
 
         gradientLines.push(line);
+        filteredGradientSchoolNumbers.add(gradient.schule_1.schulnummer);
+        filteredGradientSchoolNumbers.add(gradient.schule_2.schulnummer);
+        gradientCount++;
     });
+    
+    // Aktualisiere die Anzeige der Gradientenzahl
+    document.getElementById('gradientCount').textContent = gradientCount;
 }
 
 // Initial Schulen laden und Event-Listener einrichten
@@ -400,6 +487,8 @@ document.getElementById('dynamicRadius').addEventListener('change', function(e) 
 
 // Event-Listener für die Gradienten-Checkbox
 document.getElementById('showGradients').addEventListener('change', function(e) {
+    document.getElementById('gradientCount').innerHTML = '<span class="spinner">⏳</span>';         
+    (async () => await loadGradientsForDistance(document.getElementById('maxGradientDistance').value))();
     updateGradients();
 });
 
@@ -416,6 +505,22 @@ document.getElementById('showOnlyWithSozialindex').addEventListener('change', fu
 // Event-Listener für die "Startchancen-Schulen markieren"-Checkbox
 document.getElementById('showStartchancenHighlight').addEventListener('change', function(e) {
     updateMarkers(window.schools);
+});
+
+// Event-Listener für den Entfernungs-Slider mit Debouncing
+document.getElementById('maxGradientDistance').addEventListener('input', function(e) {
+    document.getElementById('gradientCount').innerHTML = '<span class="spinner">⏳</span>';
+    const newDistance = parseFloat(e.target.value);
+    document.getElementById('maxDistanceValue').textContent = newDistance;
+    
+    // Debounce: Nur alle 300ms aktualisieren
+    clearTimeout(sliderTimeout);
+    sliderTimeout = setTimeout(async () => {
+        // Lade Daten für neue Distanz falls nötig
+        await loadGradientsForDistance(newDistance);
+        updateGradients();
+        updateMarkers(window.schools);
+    }, 300);
 });
 
 // Event-Listener für Checkbox-Änderungen
@@ -450,6 +555,5 @@ function setupToggle(buttonId, contentId) {
     });
 }
 
-// Toggle-Funktionalität für Optionen und Erklärung initialisieren
+// Toggle-Funktionalität für Optionen initialisieren
 setupToggle('toggleOptions', 'optionsContent');
-setupToggle('toggleExplanation', 'explanationContent');

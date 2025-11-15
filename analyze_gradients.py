@@ -1,9 +1,8 @@
 import pandas as pd
 import json
 import time
+import gzip
 from math import radians, sin, cos, sqrt, atan2
-
-# FIXME: Optimierungspotential: Nachbarschafts-Suche mit BallTree oder ein Räumliches Gitter verwenden, um die Anzahl der Paarvergleiche zu reduzieren.
 
 def haversine_distance(lat1, lon1, lat2, lon2):
     """
@@ -41,22 +40,30 @@ def prepare_dataframe(df):
 
 def analyze_schools(df):        
     results = []
-    for i, school1 in df.iterrows():
-        for j, school2 in df.iloc[i+1:].iterrows():                
+    for i, school1 in df.iterrows():    
+        for j, school2 in df.iloc[i+1:].iterrows():  
+            # Status ausgabe alle 1000 Iterationen
+            if (i * len(df) + j) % 100000 == 0:
+                print(f"Analysiere Schule {i+1}/{len(df)} mit Schule {j+1}/{len(df)}")              
+                
             distance = haversine_distance(
                 float(school1['lat']), float(school1['lon']),
                 float(school2['lat']), float(school2['lon'])
             )
-            index_diff = abs(school1['sozialindex'] - school2['sozialindex'])            
-            if distance == 0:
-                print (f"Warnung: Entfernung zwischen Schule {school1['schulnummer']} und {school2['schulnummer']} ist 0 km. Verwende 0.1 km.")
-                distance = 0.1  # 100 Meter
-            gradient = index_diff / distance
             
-            if index_diff >= 3:  # Mindestdifferenz von 3 Stufen
+            # Minimale Entfernung von 0 km und maximale Entfernung von 5 km
+            if distance > 5:
+                continue     
+            if distance == 0:
+                #print (f"Entfernung zwischen Schule {school1['schulnummer']} und {school2['schulnummer']} ist 0 km. Verwende 0.05 km.")
+                distance = 0.05  # Vermeide Division durch Null            
+            
+            # Mindestdifferenz von 3 Stufen
+            index_diff = abs(school1['sozialindex'] - school2['sozialindex'])       
+            if index_diff >= 3:  
+                gradient = index_diff / distance
                 results.append({
                     'schule_1': {
-                        'name': school1['name'],
                         'schulnummer': school1['schulnummer'],
                         'schultyp': school1['schultyp'],
                         'sozialindex': int(school1['sozialindex']),
@@ -64,7 +71,6 @@ def analyze_schools(df):
                         'lon': school1['lon']
                     },
                     'schule_2': {
-                        'name': school2['name'],
                         'schulnummer': school2['schulnummer'],
                         'schultyp': school2['schultyp'],
                         'sozialindex': int(school2['sozialindex']),
@@ -136,19 +142,35 @@ def main():
     # Sortierung
     grundschul_results.sort(key=lambda x: x['gradient'], reverse=True)
     weiterfuehrende_results.sort(key=lambda x: x['gradient'], reverse=True)
-    
-    # Kombinieren und Top auswählen
-    all_results = grundschul_results + weiterfuehrende_results
-    all_results.sort(key=lambda x: x['gradient'], reverse=True)
-    top_results = all_results[:1000]
 
+    # Speichere Ergebnisse aufgeteilt nach Schultyp und Distanz-Bereichen
+    distanz_bereiche = {
+        '0-1': lambda d: d <= 1,
+        '1-2': lambda d: 1 < d <= 2,
+        '2-3': lambda d: 2 < d <= 3,
+        '3-4': lambda d: 3 < d <= 4,
+        '4-5': lambda d: 4 < d <= 5
+    }
+    
+    # Gruppiere Grundschul-Gradienten nach Distanz
+    for range_key, range_func in distanz_bereiche.items():
+        filtered = [g for g in grundschul_results if range_func(g['entfernung_km'])]
+        filename = f'docs/schools-gradients-gs-{range_key}km.json'
+        with open(filename, 'w', encoding='utf-8') as f:
+            json.dump(filtered, f, ensure_ascii=False, indent=2)
+        print(f"Gespeichert: {filename} ({len(filtered)} Gradienten)")
+    
+    # Gruppiere Weiterführende-Gradienten nach Distanz
+    for range_key, range_func in distanz_bereiche.items():
+        filtered = [g for g in weiterfuehrende_results if range_func(g['entfernung_km'])]
+        filename = f'docs/schools-gradients-wf-{range_key}km.json'
+        with open(filename, 'w', encoding='utf-8') as f:
+            json.dump(filtered, f, ensure_ascii=False, indent=2)
+        print(f"Gespeichert: {filename} ({len(filtered)} Gradienten)")
+        
     # Berechne Statistiken für beide Schultypen
     gs_stats = calculate_statistics(grundschul_results)
     ws_stats = calculate_statistics(weiterfuehrende_results)
-    
-    # Speichere Ergebnisse
-    with open('docs/schools-gradients.json', 'w', encoding='utf-8') as f:
-        json.dump(top_results, f, ensure_ascii=False, indent=2)
     
     # Ausgabe der Statistiken
     print("\nAnalyse-Statistiken für Grundschulen:")
@@ -182,9 +204,9 @@ def main():
     print(f"  Minimum: {ws_stats['gradient']['min']:.2f}")
     print(f"  Maximum: {ws_stats['gradient']['max']:.2f}")
     print(f"  Durchschnitt: {ws_stats['gradient']['avg']:.2f}")
-    
-    print(f"\nDie {len(top_results)} Ergebnisse wurden in schools-gradients.json gespeichert:")
-    
+
+    print(f"\n{len(grundschul_results) + len(weiterfuehrende_results)} Ergebnisse gespeichert")
+
 if __name__ == "__main__":
     start_time = time.time()
     main()

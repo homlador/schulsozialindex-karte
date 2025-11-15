@@ -1,0 +1,6899 @@
+[
+  {
+    "schule_1": {
+      "schulnummer": "186740",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 9,
+      "lat": 51.5305079,
+      "lon": 7.1548001
+    },
+    "schule_2": {
+      "schulnummer": "169687",
+      "schultyp": "Gymnasium",
+      "sozialindex": 3,
+      "lat": 51.522398,
+      "lon": 7.161441
+    },
+    "differenz": 6,
+    "entfernung_km": 1.01,
+    "gradient": 5.93
+  },
+  {
+    "schule_1": {
+      "schulnummer": "148349",
+      "schultyp": "Hauptschule",
+      "sozialindex": 9,
+      "lat": 51.6939124,
+      "lon": 7.8094071
+    },
+    "schule_2": {
+      "schulnummer": "169572",
+      "schultyp": "Gymnasium",
+      "sozialindex": 2,
+      "lat": 51.6849149,
+      "lon": 7.8186743
+    },
+    "differenz": 7,
+    "entfernung_km": 1.19,
+    "gradient": 5.9
+  },
+  {
+    "schule_1": {
+      "schulnummer": "136505",
+      "schultyp": "Hauptschule",
+      "sozialindex": 9,
+      "lat": 51.1670914,
+      "lon": 6.8672682
+    },
+    "schule_2": {
+      "schulnummer": "164355",
+      "schultyp": "Gymnasium",
+      "sozialindex": 2,
+      "lat": 51.1587076,
+      "lon": 6.8779628
+    },
+    "differenz": 7,
+    "entfernung_km": 1.19,
+    "gradient": 5.86
+  },
+  {
+    "schule_1": {
+      "schulnummer": "194566",
+      "schultyp": "Hauptschule",
+      "sozialindex": 8,
+      "lat": 51.5883192,
+      "lon": 7.6574147
+    },
+    "schule_2": {
+      "schulnummer": "170434",
+      "schultyp": "Gymnasium",
+      "sozialindex": 2,
+      "lat": 51.5955735,
+      "lon": 7.6670089
+    },
+    "differenz": 6,
+    "entfernung_km": 1.04,
+    "gradient": 5.75
+  },
+  {
+    "schule_1": {
+      "schulnummer": "164940",
+      "schultyp": "Gymnasium",
+      "sozialindex": 9,
+      "lat": 51.332021,
+      "lon": 6.5557182
+    },
+    "schule_2": {
+      "schulnummer": "164999",
+      "schultyp": "Gymnasium",
+      "sozialindex": 3,
+      "lat": 51.3394662,
+      "lon": 6.5656673
+    },
+    "differenz": 6,
+    "entfernung_km": 1.08,
+    "gradient": 5.56
+  },
+  {
+    "schule_1": {
+      "schulnummer": "137674",
+      "schultyp": "Hauptschule",
+      "sozialindex": 9,
+      "lat": 51.0322141,
+      "lon": 7.018566
+    },
+    "schule_2": {
+      "schulnummer": "165001",
+      "schultyp": "Gymnasium",
+      "sozialindex": 2,
+      "lat": 51.0341394,
+      "lon": 7.038199
+    },
+    "differenz": 7,
+    "entfernung_km": 1.39,
+    "gradient": 5.04
+  },
+  {
+    "schule_1": {
+      "schulnummer": "198791",
+      "schultyp": "Sekundarschule",
+      "sozialindex": 9,
+      "lat": 51.3680145,
+      "lon": 7.4660741
+    },
+    "schule_2": {
+      "schulnummer": "169470",
+      "schultyp": "Gymnasium",
+      "sozialindex": 3,
+      "lat": 51.3677987,
+      "lon": 7.4836743
+    },
+    "differenz": 6,
+    "entfernung_km": 1.22,
+    "gradient": 4.91
+  },
+  {
+    "schule_1": {
+      "schulnummer": "189522",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 8,
+      "lat": 50.8066942,
+      "lon": 6.5037404
+    },
+    "schule_2": {
+      "schulnummer": "167526",
+      "schultyp": "Gymnasium",
+      "sozialindex": 3,
+      "lat": 50.8070445,
+      "lon": 6.4891963
+    },
+    "differenz": 5,
+    "entfernung_km": 1.02,
+    "gradient": 4.89
+  },
+  {
+    "schule_1": {
+      "schulnummer": "187770",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 8,
+      "lat": 51.4826714,
+      "lon": 7.2136974
+    },
+    "schule_2": {
+      "schulnummer": "169158",
+      "schultyp": "Gymnasium",
+      "sozialindex": 3,
+      "lat": 51.4864586,
+      "lon": 7.2273864
+    },
+    "differenz": 5,
+    "entfernung_km": 1.04,
+    "gradient": 4.82
+  },
+  {
+    "schule_1": {
+      "schulnummer": "161974",
+      "schultyp": "Realschule",
+      "sozialindex": 7,
+      "lat": 52.0268789,
+      "lon": 8.5366298
+    },
+    "schule_2": {
+      "schulnummer": "168555",
+      "schultyp": "Gymnasium",
+      "sozialindex": 2,
+      "lat": 52.0186597,
+      "lon": 8.5289951
+    },
+    "differenz": 5,
+    "entfernung_km": 1.05,
+    "gradient": 4.75
+  },
+  {
+    "schule_1": {
+      "schulnummer": "136359",
+      "schultyp": "Hauptschule",
+      "sozialindex": 8,
+      "lat": 51.2097083,
+      "lon": 6.7788758
+    },
+    "schule_2": {
+      "schulnummer": "164458",
+      "schultyp": "Gymnasium",
+      "sozialindex": 3,
+      "lat": 51.204884,
+      "lon": 6.7919515
+    },
+    "differenz": 5,
+    "entfernung_km": 1.06,
+    "gradient": 4.73
+  },
+  {
+    "schule_1": {
+      "schulnummer": "138344",
+      "schultyp": "Hauptschule",
+      "sozialindex": 9,
+      "lat": 51.1766631,
+      "lon": 6.4626409
+    },
+    "schule_2": {
+      "schulnummer": "165300",
+      "schultyp": "Gymnasium",
+      "sozialindex": 4,
+      "lat": 51.1742555,
+      "lon": 6.4477968
+    },
+    "differenz": 5,
+    "entfernung_km": 1.07,
+    "gradient": 4.68
+  },
+  {
+    "schule_1": {
+      "schulnummer": "160106",
+      "schultyp": "Realschule",
+      "sozialindex": 8,
+      "lat": 51.1731549,
+      "lon": 7.2136475
+    },
+    "schule_2": {
+      "schulnummer": "191012",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 3,
+      "lat": 51.182055,
+      "lon": 7.2194042
+    },
+    "differenz": 5,
+    "entfernung_km": 1.07,
+    "gradient": 4.68
+  },
+  {
+    "schule_1": {
+      "schulnummer": "161100",
+      "schultyp": "Realschule",
+      "sozialindex": 7,
+      "lat": 51.5228822,
+      "lon": 6.9302908
+    },
+    "schule_2": {
+      "schulnummer": "167708",
+      "schultyp": "Gymnasium",
+      "sozialindex": 2,
+      "lat": 51.5248739,
+      "lon": 6.915004
+    },
+    "differenz": 5,
+    "entfernung_km": 1.08,
+    "gradient": 4.63
+  },
+  {
+    "schule_1": {
+      "schulnummer": "189509",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 7,
+      "lat": 52.1064746,
+      "lon": 8.6936563
+    },
+    "schule_2": {
+      "schulnummer": "168786",
+      "schultyp": "Gymnasium",
+      "sozialindex": 2,
+      "lat": 52.1159465,
+      "lon": 8.6890938
+    },
+    "differenz": 5,
+    "entfernung_km": 1.1,
+    "gradient": 4.55
+  },
+  {
+    "schule_1": {
+      "schulnummer": "138680",
+      "schultyp": "Hauptschule",
+      "sozialindex": 9,
+      "lat": 51.1752833,
+      "lon": 7.2020088
+    },
+    "schule_2": {
+      "schulnummer": "165270",
+      "schultyp": "Gymnasium",
+      "sozialindex": 4,
+      "lat": 51.1825454,
+      "lon": 7.1910056
+    },
+    "differenz": 5,
+    "entfernung_km": 1.11,
+    "gradient": 4.49
+  },
+  {
+    "schule_1": {
+      "schulnummer": "161974",
+      "schultyp": "Realschule",
+      "sozialindex": 7,
+      "lat": 52.0268789,
+      "lon": 8.5366298
+    },
+    "schule_2": {
+      "schulnummer": "168531",
+      "schultyp": "Gymnasium",
+      "sozialindex": 2,
+      "lat": 52.0185875,
+      "lon": 8.527525
+    },
+    "differenz": 5,
+    "entfernung_km": 1.11,
+    "gradient": 4.49
+  },
+  {
+    "schule_1": {
+      "schulnummer": "193252",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 9,
+      "lat": 51.4291486,
+      "lon": 6.7598832
+    },
+    "schule_2": {
+      "schulnummer": "164549",
+      "schultyp": "Gymnasium",
+      "sozialindex": 4,
+      "lat": 51.4342765,
+      "lon": 6.7740959
+    },
+    "differenz": 5,
+    "entfernung_km": 1.14,
+    "gradient": 4.39
+  },
+  {
+    "schule_1": {
+      "schulnummer": "159270",
+      "schultyp": "Realschule",
+      "sozialindex": 9,
+      "lat": 51.2641253,
+      "lon": 7.1464399
+    },
+    "schule_2": {
+      "schulnummer": "165438",
+      "schultyp": "Gymnasium",
+      "sozialindex": 4,
+      "lat": 51.253863,
+      "lon": 7.1439482
+    },
+    "differenz": 5,
+    "entfernung_km": 1.15,
+    "gradient": 4.33
+  },
+  {
+    "schule_1": {
+      "schulnummer": "148350",
+      "schultyp": "Hauptschule",
+      "sozialindex": 9,
+      "lat": 51.6698043,
+      "lon": 7.7781156
+    },
+    "schule_2": {
+      "schulnummer": "169584",
+      "schultyp": "Gymnasium",
+      "sozialindex": 4,
+      "lat": 51.6635971,
+      "lon": 7.7916036
+    },
+    "differenz": 5,
+    "entfernung_km": 1.16,
+    "gradient": 4.32
+  },
+  {
+    "schule_1": {
+      "schulnummer": "140843",
+      "schultyp": "Hauptschule",
+      "sozialindex": 9,
+      "lat": 50.9349508,
+      "lon": 7.0585099
+    },
+    "schule_2": {
+      "schulnummer": "184858",
+      "schultyp": "Gymnasium",
+      "sozialindex": 4,
+      "lat": 50.9269217,
+      "lon": 7.04788
+    },
+    "differenz": 5,
+    "entfernung_km": 1.16,
+    "gradient": 4.3
+  },
+  {
+    "schule_1": {
+      "schulnummer": "190524",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 7,
+      "lat": 51.6243512,
+      "lon": 7.1890622
+    },
+    "schule_2": {
+      "schulnummer": "167952",
+      "schultyp": "Gymnasium",
+      "sozialindex": 2,
+      "lat": 51.6143197,
+      "lon": 7.193804
+    },
+    "differenz": 5,
+    "entfernung_km": 1.16,
+    "gradient": 4.3
+  },
+  {
+    "schule_1": {
+      "schulnummer": "136384",
+      "schultyp": "Hauptschule",
+      "sozialindex": 8,
+      "lat": 51.2061884,
+      "lon": 6.858051
+    },
+    "schule_2": {
+      "schulnummer": "193770",
+      "schultyp": "Realschule",
+      "sozialindex": 3,
+      "lat": 51.2163633,
+      "lon": 6.8623843
+    },
+    "differenz": 5,
+    "entfernung_km": 1.17,
+    "gradient": 4.27
+  },
+  {
+    "schule_1": {
+      "schulnummer": "160179",
+      "schultyp": "Realschule",
+      "sozialindex": 6,
+      "lat": 50.9179704,
+      "lon": 6.9155354
+    },
+    "schule_2": {
+      "schulnummer": "166728",
+      "schultyp": "Gymnasium",
+      "sozialindex": 1,
+      "lat": 50.9234437,
+      "lon": 6.9299244
+    },
+    "differenz": 5,
+    "entfernung_km": 1.18,
+    "gradient": 4.24
+  },
+  {
+    "schule_1": {
+      "schulnummer": "142426",
+      "schultyp": "Hauptschule",
+      "sozialindex": 9,
+      "lat": 50.7757792,
+      "lon": 6.1033289
+    },
+    "schule_2": {
+      "schulnummer": "167368",
+      "schultyp": "Gymnasium",
+      "sozialindex": 3,
+      "lat": 50.7730203,
+      "lon": 6.083587
+    },
+    "differenz": 6,
+    "entfernung_km": 1.42,
+    "gradient": 4.22
+  },
+  {
+    "schule_1": {
+      "schulnummer": "138680",
+      "schultyp": "Hauptschule",
+      "sozialindex": 9,
+      "lat": 51.1752833,
+      "lon": 7.2020088
+    },
+    "schule_2": {
+      "schulnummer": "191012",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 3,
+      "lat": 51.182055,
+      "lon": 7.2194042
+    },
+    "differenz": 6,
+    "entfernung_km": 1.43,
+    "gradient": 4.2
+  },
+  {
+    "schule_1": {
+      "schulnummer": "139993",
+      "schultyp": "Hauptschule",
+      "sozialindex": 9,
+      "lat": 51.4545092,
+      "lon": 6.6537988
+    },
+    "schule_2": {
+      "schulnummer": "166005",
+      "schultyp": "Gymnasium",
+      "sozialindex": 2,
+      "lat": 51.4533988,
+      "lon": 6.6296741
+    },
+    "differenz": 7,
+    "entfernung_km": 1.68,
+    "gradient": 4.18
+  },
+  {
+    "schule_1": {
+      "schulnummer": "141082",
+      "schultyp": "Hauptschule",
+      "sozialindex": 9,
+      "lat": 50.9604358,
+      "lon": 7.0229138
+    },
+    "schule_2": {
+      "schulnummer": "166625",
+      "schultyp": "Gymnasium",
+      "sozialindex": 4,
+      "lat": 50.95712,
+      "lon": 7.006487
+    },
+    "differenz": 5,
+    "entfernung_km": 1.21,
+    "gradient": 4.14
+  },
+  {
+    "schule_1": {
+      "schulnummer": "159270",
+      "schultyp": "Realschule",
+      "sozialindex": 9,
+      "lat": 51.2641253,
+      "lon": 7.1464399
+    },
+    "schule_2": {
+      "schulnummer": "165372",
+      "schultyp": "Gymnasium",
+      "sozialindex": 4,
+      "lat": 51.2616456,
+      "lon": 7.1293282
+    },
+    "differenz": 5,
+    "entfernung_km": 1.22,
+    "gradient": 4.09
+  },
+  {
+    "schule_1": {
+      "schulnummer": "136967",
+      "schultyp": "Hauptschule",
+      "sozialindex": 8,
+      "lat": 51.4454889,
+      "lon": 7.0879454
+    },
+    "schule_2": {
+      "schulnummer": "164872",
+      "schultyp": "Gymnasium",
+      "sozialindex": 3,
+      "lat": 51.448059,
+      "lon": 7.0707507
+    },
+    "differenz": 5,
+    "entfernung_km": 1.23,
+    "gradient": 4.08
+  },
+  {
+    "schule_1": {
+      "schulnummer": "140867",
+      "schultyp": "Hauptschule",
+      "sozialindex": 8,
+      "lat": 50.9686815,
+      "lon": 6.9321135
+    },
+    "schule_2": {
+      "schulnummer": "166662",
+      "schultyp": "Gymnasium",
+      "sozialindex": 3,
+      "lat": 50.9579785,
+      "lon": 6.9273257
+    },
+    "differenz": 5,
+    "entfernung_km": 1.24,
+    "gradient": 4.04
+  },
+  {
+    "schule_1": {
+      "schulnummer": "137674",
+      "schultyp": "Hauptschule",
+      "sozialindex": 9,
+      "lat": 51.0322141,
+      "lon": 7.018566
+    },
+    "schule_2": {
+      "schulnummer": "165013",
+      "schultyp": "Gymnasium",
+      "sozialindex": 4,
+      "lat": 51.0339321,
+      "lon": 7.0010841
+    },
+    "differenz": 5,
+    "entfernung_km": 1.24,
+    "gradient": 4.04
+  },
+  {
+    "schule_1": {
+      "schulnummer": "139993",
+      "schultyp": "Hauptschule",
+      "sozialindex": 9,
+      "lat": 51.4545092,
+      "lon": 6.6537988
+    },
+    "schule_2": {
+      "schulnummer": "193033",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 3,
+      "lat": 51.4539566,
+      "lon": 6.6322158
+    },
+    "differenz": 6,
+    "entfernung_km": 1.5,
+    "gradient": 4.01
+  },
+  {
+    "schule_1": {
+      "schulnummer": "142426",
+      "schultyp": "Hauptschule",
+      "sozialindex": 9,
+      "lat": 50.7757792,
+      "lon": 6.1033289
+    },
+    "schule_2": {
+      "schulnummer": "167290",
+      "schultyp": "Gymnasium",
+      "sozialindex": 3,
+      "lat": 50.7770369,
+      "lon": 6.0821235
+    },
+    "differenz": 6,
+    "entfernung_km": 1.5,
+    "gradient": 4.01
+  },
+  {
+    "schule_1": {
+      "schulnummer": "148519",
+      "schultyp": "Hauptschule",
+      "sozialindex": 9,
+      "lat": 51.3756367,
+      "lon": 7.6881668
+    },
+    "schule_2": {
+      "schulnummer": "169638",
+      "schultyp": "Gymnasium",
+      "sozialindex": 2,
+      "lat": 51.3893373,
+      "lon": 7.7004452
+    },
+    "differenz": 7,
+    "entfernung_km": 1.75,
+    "gradient": 4.01
+  },
+  {
+    "schule_1": {
+      "schulnummer": "164100",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 8,
+      "lat": 51.1973222,
+      "lon": 6.8522531
+    },
+    "schule_2": {
+      "schulnummer": "100187",
+      "schultyp": "Gymnasium",
+      "sozialindex": 3,
+      "lat": 51.1997252,
+      "lon": 6.8346662
+    },
+    "differenz": 5,
+    "entfernung_km": 1.25,
+    "gradient": 3.99
+  },
+  {
+    "schule_1": {
+      "schulnummer": "189017",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 8,
+      "lat": 51.5268742,
+      "lon": 6.9364768
+    },
+    "schule_2": {
+      "schulnummer": "167708",
+      "schultyp": "Gymnasium",
+      "sozialindex": 2,
+      "lat": 51.5248739,
+      "lon": 6.915004
+    },
+    "differenz": 6,
+    "entfernung_km": 1.5,
+    "gradient": 3.99
+  },
+  {
+    "schule_1": {
+      "schulnummer": "160090",
+      "schultyp": "Realschule",
+      "sozialindex": 8,
+      "lat": 50.9583957,
+      "lon": 7.0074416
+    },
+    "schule_2": {
+      "schulnummer": "166455",
+      "schultyp": "Gymnasium",
+      "sozialindex": 3,
+      "lat": 50.9692412,
+      "lon": 7.0020592
+    },
+    "differenz": 5,
+    "entfernung_km": 1.26,
+    "gradient": 3.96
+  },
+  {
+    "schule_1": {
+      "schulnummer": "100048",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 8,
+      "lat": 51.4945855,
+      "lon": 7.2070245
+    },
+    "schule_2": {
+      "schulnummer": "169213",
+      "schultyp": "Gymnasium",
+      "sozialindex": 3,
+      "lat": 51.4862233,
+      "lon": 7.2193347
+    },
+    "differenz": 5,
+    "entfernung_km": 1.26,
+    "gradient": 3.96
+  },
+  {
+    "schule_1": {
+      "schulnummer": "160027",
+      "schultyp": "Realschule",
+      "sozialindex": 7,
+      "lat": 50.6793107,
+      "lon": 7.1636215
+    },
+    "schule_2": {
+      "schulnummer": "166420",
+      "schultyp": "Gymnasium",
+      "sozialindex": 3,
+      "lat": 50.6706236,
+      "lon": 7.1680101
+    },
+    "differenz": 4,
+    "entfernung_km": 1.01,
+    "gradient": 3.94
+  },
+  {
+    "schule_1": {
+      "schulnummer": "148740",
+      "schultyp": "Hauptschule",
+      "sozialindex": 8,
+      "lat": 51.4817656,
+      "lon": 7.1406941
+    },
+    "schule_2": {
+      "schulnummer": "169705",
+      "schultyp": "Gymnasium",
+      "sozialindex": 3,
+      "lat": 51.4716084,
+      "lon": 7.1491693
+    },
+    "differenz": 5,
+    "entfernung_km": 1.27,
+    "gradient": 3.93
+  },
+  {
+    "schule_1": {
+      "schulnummer": "139701",
+      "schultyp": "Hauptschule",
+      "sozialindex": 7,
+      "lat": 51.2836879,
+      "lon": 6.3583609
+    },
+    "schule_2": {
+      "schulnummer": "159669",
+      "schultyp": "Realschule",
+      "sozialindex": 2,
+      "lat": 51.2879507,
+      "lon": 6.3754579
+    },
+    "differenz": 5,
+    "entfernung_km": 1.28,
+    "gradient": 3.91
+  },
+  {
+    "schule_1": {
+      "schulnummer": "136359",
+      "schultyp": "Hauptschule",
+      "sozialindex": 8,
+      "lat": 51.2097083,
+      "lon": 6.7788758
+    },
+    "schule_2": {
+      "schulnummer": "164446",
+      "schultyp": "Gymnasium",
+      "sozialindex": 3,
+      "lat": 51.2212184,
+      "lon": 6.7777021
+    },
+    "differenz": 5,
+    "entfernung_km": 1.28,
+    "gradient": 3.9
+  },
+  {
+    "schule_1": {
+      "schulnummer": "160118",
+      "schultyp": "Realschule",
+      "sozialindex": 8,
+      "lat": 50.9292156,
+      "lon": 6.9799026
+    },
+    "schule_2": {
+      "schulnummer": "166595",
+      "schultyp": "Gymnasium",
+      "sozialindex": 2,
+      "lat": 50.9316754,
+      "lon": 6.9582884
+    },
+    "differenz": 6,
+    "entfernung_km": 1.54,
+    "gradient": 3.9
+  },
+  {
+    "schule_1": {
+      "schulnummer": "148076",
+      "schultyp": "Hauptschule",
+      "sozialindex": 9,
+      "lat": 51.4793416,
+      "lon": 7.4918158
+    },
+    "schule_2": {
+      "schulnummer": "169456",
+      "schultyp": "Gymnasium",
+      "sozialindex": 3,
+      "lat": 51.4923414,
+      "lon": 7.4995058
+    },
+    "differenz": 6,
+    "entfernung_km": 1.54,
+    "gradient": 3.89
+  },
+  {
+    "schule_1": {
+      "schulnummer": "142426",
+      "schultyp": "Hauptschule",
+      "sozialindex": 9,
+      "lat": 50.7757792,
+      "lon": 6.1033289
+    },
+    "schule_2": {
+      "schulnummer": "160805",
+      "schultyp": "Realschule",
+      "sozialindex": 4,
+      "lat": 50.7642264,
+      "lon": 6.102204
+    },
+    "differenz": 5,
+    "entfernung_km": 1.29,
+    "gradient": 3.88
+  },
+  {
+    "schule_1": {
+      "schulnummer": "198808",
+      "schultyp": "Sekundarschule",
+      "sozialindex": 7,
+      "lat": 51.3586184,
+      "lon": 7.481505
+    },
+    "schule_2": {
+      "schulnummer": "169470",
+      "schultyp": "Gymnasium",
+      "sozialindex": 3,
+      "lat": 51.3677987,
+      "lon": 7.4836743
+    },
+    "differenz": 4,
+    "entfernung_km": 1.03,
+    "gradient": 3.88
+  },
+  {
+    "schule_1": {
+      "schulnummer": "137364",
+      "schultyp": "Hauptschule",
+      "sozialindex": 9,
+      "lat": 51.4743873,
+      "lon": 6.9668622
+    },
+    "schule_2": {
+      "schulnummer": "164859",
+      "schultyp": "Gymnasium",
+      "sozialindex": 5,
+      "lat": 51.4780477,
+      "lon": 6.953105
+    },
+    "differenz": 4,
+    "entfernung_km": 1.04,
+    "gradient": 3.86
+  },
+  {
+    "schule_1": {
+      "schulnummer": "159293",
+      "schultyp": "Realschule",
+      "sozialindex": 8,
+      "lat": 51.2656886,
+      "lon": 7.142729
+    },
+    "schule_2": {
+      "schulnummer": "165372",
+      "schultyp": "Gymnasium",
+      "sozialindex": 4,
+      "lat": 51.2616456,
+      "lon": 7.1293282
+    },
+    "differenz": 4,
+    "entfernung_km": 1.04,
+    "gradient": 3.86
+  },
+  {
+    "schule_1": {
+      "schulnummer": "138680",
+      "schultyp": "Hauptschule",
+      "sozialindex": 9,
+      "lat": 51.1752833,
+      "lon": 7.2020088
+    },
+    "schule_2": {
+      "schulnummer": "165268",
+      "schultyp": "Gymnasium",
+      "sozialindex": 2,
+      "lat": 51.1841747,
+      "lon": 7.1800364
+    },
+    "differenz": 7,
+    "entfernung_km": 1.82,
+    "gradient": 3.84
+  },
+  {
+    "schule_1": {
+      "schulnummer": "136440",
+      "schultyp": "Hauptschule",
+      "sozialindex": 8,
+      "lat": 51.2238785,
+      "lon": 6.789964
+    },
+    "schule_2": {
+      "schulnummer": "158550",
+      "schultyp": "Realschule",
+      "sozialindex": 4,
+      "lat": 51.2312819,
+      "lon": 6.7992966
+    },
+    "differenz": 4,
+    "entfernung_km": 1.05,
+    "gradient": 3.81
+  },
+  {
+    "schule_1": {
+      "schulnummer": "189595",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 8,
+      "lat": 51.4461319,
+      "lon": 6.6924111
+    },
+    "schule_2": {
+      "schulnummer": "165979",
+      "schultyp": "Gymnasium",
+      "sozialindex": 4,
+      "lat": 51.4521593,
+      "lon": 6.7042173
+    },
+    "differenz": 4,
+    "entfernung_km": 1.06,
+    "gradient": 3.78
+  },
+  {
+    "schule_1": {
+      "schulnummer": "136980",
+      "schultyp": "Hauptschule",
+      "sozialindex": 9,
+      "lat": 51.4518073,
+      "lon": 7.0262943
+    },
+    "schule_2": {
+      "schulnummer": "158823",
+      "schultyp": "Realschule",
+      "sozialindex": 4,
+      "lat": 51.443111,
+      "lon": 7.0394418
+    },
+    "differenz": 5,
+    "entfernung_km": 1.33,
+    "gradient": 3.76
+  },
+  {
+    "schule_1": {
+      "schulnummer": "140892",
+      "schultyp": "Hauptschule",
+      "sozialindex": 9,
+      "lat": 50.9442842,
+      "lon": 7.0064563
+    },
+    "schule_2": {
+      "schulnummer": "166686",
+      "schultyp": "Gymnasium",
+      "sozialindex": 4,
+      "lat": 50.9519763,
+      "lon": 7.0212853
+    },
+    "differenz": 5,
+    "entfernung_km": 1.35,
+    "gradient": 3.72
+  },
+  {
+    "schule_1": {
+      "schulnummer": "143212",
+      "schultyp": "Hauptschule",
+      "sozialindex": 6,
+      "lat": 51.8480201,
+      "lon": 6.6324574
+    },
+    "schule_2": {
+      "schulnummer": "161081",
+      "schultyp": "Realschule",
+      "sozialindex": 2,
+      "lat": 51.8383685,
+      "lon": 6.6316796
+    },
+    "differenz": 4,
+    "entfernung_km": 1.07,
+    "gradient": 3.72
+  },
+  {
+    "schule_1": {
+      "schulnummer": "158641",
+      "schultyp": "Realschule",
+      "sozialindex": 7,
+      "lat": 51.1671982,
+      "lon": 6.8641483
+    },
+    "schule_2": {
+      "schulnummer": "164355",
+      "schultyp": "Gymnasium",
+      "sozialindex": 2,
+      "lat": 51.1587076,
+      "lon": 6.8779628
+    },
+    "differenz": 5,
+    "entfernung_km": 1.35,
+    "gradient": 3.71
+  },
+  {
+    "schule_1": {
+      "schulnummer": "140960",
+      "schultyp": "Hauptschule",
+      "sozialindex": 8,
+      "lat": 50.9603534,
+      "lon": 6.9227162
+    },
+    "schule_2": {
+      "schulnummer": "166480",
+      "schultyp": "Gymnasium",
+      "sozialindex": 3,
+      "lat": 50.9631746,
+      "lon": 6.9038748
+    },
+    "differenz": 5,
+    "entfernung_km": 1.36,
+    "gradient": 3.69
+  },
+  {
+    "schule_1": {
+      "schulnummer": "142426",
+      "schultyp": "Hauptschule",
+      "sozialindex": 9,
+      "lat": 50.7757792,
+      "lon": 6.1033289
+    },
+    "schule_2": {
+      "schulnummer": "196290",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 5,
+      "lat": 50.779828,
+      "lon": 6.0893225
+    },
+    "differenz": 4,
+    "entfernung_km": 1.08,
+    "gradient": 3.69
+  },
+  {
+    "schule_1": {
+      "schulnummer": "161986",
+      "schultyp": "Realschule",
+      "sozialindex": 7,
+      "lat": 52.0293725,
+      "lon": 8.5181791
+    },
+    "schule_2": {
+      "schulnummer": "168531",
+      "schultyp": "Gymnasium",
+      "sozialindex": 2,
+      "lat": 52.0185875,
+      "lon": 8.527525
+    },
+    "differenz": 5,
+    "entfernung_km": 1.36,
+    "gradient": 3.68
+  },
+  {
+    "schule_1": {
+      "schulnummer": "198791",
+      "schultyp": "Sekundarschule",
+      "sozialindex": 9,
+      "lat": 51.3680145,
+      "lon": 7.4660741
+    },
+    "schule_2": {
+      "schulnummer": "169468",
+      "schultyp": "Gymnasium",
+      "sozialindex": 4,
+      "lat": 51.35598,
+      "lon": 7.4694359
+    },
+    "differenz": 5,
+    "entfernung_km": 1.36,
+    "gradient": 3.68
+  },
+  {
+    "schule_1": {
+      "schulnummer": "136359",
+      "schultyp": "Hauptschule",
+      "sozialindex": 8,
+      "lat": 51.2097083,
+      "lon": 6.7788758
+    },
+    "schule_2": {
+      "schulnummer": "189819",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 4,
+      "lat": 51.2036037,
+      "lon": 6.7912136
+    },
+    "differenz": 4,
+    "entfernung_km": 1.1,
+    "gradient": 3.65
+  },
+  {
+    "schule_1": {
+      "schulnummer": "160118",
+      "schultyp": "Realschule",
+      "sozialindex": 8,
+      "lat": 50.9292156,
+      "lon": 6.9799026
+    },
+    "schule_2": {
+      "schulnummer": "166613",
+      "schultyp": "Gymnasium",
+      "sozialindex": 2,
+      "lat": 50.9305449,
+      "lon": 6.9565117
+    },
+    "differenz": 6,
+    "entfernung_km": 1.65,
+    "gradient": 3.65
+  },
+  {
+    "schule_1": {
+      "schulnummer": "184380",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 8,
+      "lat": 51.5828494,
+      "lon": 6.9616732
+    },
+    "schule_2": {
+      "schulnummer": "167824",
+      "schultyp": "Gymnasium",
+      "sozialindex": 3,
+      "lat": 51.5774278,
+      "lon": 6.9794967
+    },
+    "differenz": 5,
+    "entfernung_km": 1.37,
+    "gradient": 3.65
+  },
+  {
+    "schule_1": {
+      "schulnummer": "159001",
+      "schultyp": "Realschule",
+      "sozialindex": 9,
+      "lat": 51.3255188,
+      "lon": 6.5573123
+    },
+    "schule_2": {
+      "schulnummer": "164999",
+      "schultyp": "Gymnasium",
+      "sozialindex": 3,
+      "lat": 51.3394662,
+      "lon": 6.5656673
+    },
+    "differenz": 6,
+    "entfernung_km": 1.66,
+    "gradient": 3.62
+  },
+  {
+    "schule_1": {
+      "schulnummer": "189820",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 8,
+      "lat": 51.4516034,
+      "lon": 7.0898259
+    },
+    "schule_2": {
+      "schulnummer": "164872",
+      "schultyp": "Gymnasium",
+      "sozialindex": 3,
+      "lat": 51.448059,
+      "lon": 7.0707507
+    },
+    "differenz": 5,
+    "entfernung_km": 1.38,
+    "gradient": 3.62
+  },
+  {
+    "schule_1": {
+      "schulnummer": "148805",
+      "schultyp": "Hauptschule",
+      "sozialindex": 9,
+      "lat": 51.4504429,
+      "lon": 7.3753099
+    },
+    "schule_2": {
+      "schulnummer": "188141",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 4,
+      "lat": 51.4380217,
+      "lon": 7.3735305
+    },
+    "differenz": 5,
+    "entfernung_km": 1.39,
+    "gradient": 3.61
+  },
+  {
+    "schule_1": {
+      "schulnummer": "148519",
+      "schultyp": "Hauptschule",
+      "sozialindex": 9,
+      "lat": 51.3756367,
+      "lon": 7.6881668
+    },
+    "schule_2": {
+      "schulnummer": "189571",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 5,
+      "lat": 51.3856262,
+      "lon": 7.6894601
+    },
+    "differenz": 4,
+    "entfernung_km": 1.11,
+    "gradient": 3.59
+  },
+  {
+    "schule_1": {
+      "schulnummer": "159207",
+      "schultyp": "Realschule",
+      "sozialindex": 9,
+      "lat": 51.1515694,
+      "lon": 6.4559205
+    },
+    "schule_2": {
+      "schulnummer": "165311",
+      "schultyp": "Gymnasium",
+      "sozialindex": 4,
+      "lat": 51.139042,
+      "lon": 6.4564389
+    },
+    "differenz": 5,
+    "entfernung_km": 1.39,
+    "gradient": 3.59
+  },
+  {
+    "schule_1": {
+      "schulnummer": "160957",
+      "schultyp": "Realschule",
+      "sozialindex": 4,
+      "lat": 50.8023372,
+      "lon": 6.4894055
+    },
+    "schule_2": {
+      "schulnummer": "189522",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 8,
+      "lat": 50.8066942,
+      "lon": 6.5037404
+    },
+    "differenz": 4,
+    "entfernung_km": 1.12,
+    "gradient": 3.58
+  },
+  {
+    "schule_1": {
+      "schulnummer": "100175",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 6,
+      "lat": 50.8617825,
+      "lon": 8.0192891
+    },
+    "schule_2": {
+      "schulnummer": "170331",
+      "schultyp": "Gymnasium",
+      "sozialindex": 2,
+      "lat": 50.87178,
+      "lon": 8.0209917
+    },
+    "differenz": 4,
+    "entfernung_km": 1.12,
+    "gradient": 3.58
+  },
+  {
+    "schule_1": {
+      "schulnummer": "170331",
+      "schultyp": "Gymnasium",
+      "sozialindex": 2,
+      "lat": 50.87178,
+      "lon": 8.0209917
+    },
+    "schule_2": {
+      "schulnummer": "170343",
+      "schultyp": "Gymnasium",
+      "sozialindex": 6,
+      "lat": 50.8617825,
+      "lon": 8.0192891
+    },
+    "differenz": 4,
+    "entfernung_km": 1.12,
+    "gradient": 3.58
+  },
+  {
+    "schule_1": {
+      "schulnummer": "161986",
+      "schultyp": "Realschule",
+      "sozialindex": 7,
+      "lat": 52.0293725,
+      "lon": 8.5181791
+    },
+    "schule_2": {
+      "schulnummer": "168555",
+      "schultyp": "Gymnasium",
+      "sozialindex": 2,
+      "lat": 52.0186597,
+      "lon": 8.5289951
+    },
+    "differenz": 5,
+    "entfernung_km": 1.4,
+    "gradient": 3.57
+  },
+  {
+    "schule_1": {
+      "schulnummer": "162190",
+      "schultyp": "Realschule",
+      "sozialindex": 3,
+      "lat": 52.1119794,
+      "lon": 8.6799404
+    },
+    "schule_2": {
+      "schulnummer": "189509",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 7,
+      "lat": 52.1064746,
+      "lon": 8.6936563
+    },
+    "differenz": 4,
+    "entfernung_km": 1.12,
+    "gradient": 3.57
+  },
+  {
+    "schule_1": {
+      "schulnummer": "148076",
+      "schultyp": "Hauptschule",
+      "sozialindex": 9,
+      "lat": 51.4793416,
+      "lon": 7.4918158
+    },
+    "schule_2": {
+      "schulnummer": "100177",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 4,
+      "lat": 51.4666636,
+      "lon": 7.4900046
+    },
+    "differenz": 5,
+    "entfernung_km": 1.42,
+    "gradient": 3.53
+  },
+  {
+    "schule_1": {
+      "schulnummer": "142359",
+      "schultyp": "Hauptschule",
+      "sozialindex": 8,
+      "lat": 50.7630961,
+      "lon": 6.1182392
+    },
+    "schule_2": {
+      "schulnummer": "160805",
+      "schultyp": "Realschule",
+      "sozialindex": 4,
+      "lat": 50.7642264,
+      "lon": 6.102204
+    },
+    "differenz": 4,
+    "entfernung_km": 1.13,
+    "gradient": 3.52
+  },
+  {
+    "schule_1": {
+      "schulnummer": "138393",
+      "schultyp": "Hauptschule",
+      "sozialindex": 8,
+      "lat": 51.1534393,
+      "lon": 6.4623906
+    },
+    "schule_2": {
+      "schulnummer": "184688",
+      "schultyp": "Gymnasium",
+      "sozialindex": 2,
+      "lat": 51.1572774,
+      "lon": 6.4862256
+    },
+    "differenz": 6,
+    "entfernung_km": 1.72,
+    "gradient": 3.5
+  },
+  {
+    "schule_1": {
+      "schulnummer": "140892",
+      "schultyp": "Hauptschule",
+      "sozialindex": 9,
+      "lat": 50.9442842,
+      "lon": 7.0064563
+    },
+    "schule_2": {
+      "schulnummer": "166625",
+      "schultyp": "Gymnasium",
+      "sozialindex": 4,
+      "lat": 50.95712,
+      "lon": 7.006487
+    },
+    "differenz": 5,
+    "entfernung_km": 1.43,
+    "gradient": 3.5
+  },
+  {
+    "schule_1": {
+      "schulnummer": "160180",
+      "schultyp": "Realschule",
+      "sozialindex": 7,
+      "lat": 50.9589519,
+      "lon": 7.0012852
+    },
+    "schule_2": {
+      "schulnummer": "166455",
+      "schultyp": "Gymnasium",
+      "sozialindex": 3,
+      "lat": 50.9692412,
+      "lon": 7.0020592
+    },
+    "differenz": 4,
+    "entfernung_km": 1.15,
+    "gradient": 3.49
+  },
+  {
+    "schule_1": {
+      "schulnummer": "140867",
+      "schultyp": "Hauptschule",
+      "sozialindex": 8,
+      "lat": 50.9686815,
+      "lon": 6.9321135
+    },
+    "schule_2": {
+      "schulnummer": "166443",
+      "schultyp": "Gymnasium",
+      "sozialindex": 2,
+      "lat": 50.9665995,
+      "lon": 6.9564871
+    },
+    "differenz": 6,
+    "entfernung_km": 1.72,
+    "gradient": 3.48
+  },
+  {
+    "schule_1": {
+      "schulnummer": "158823",
+      "schultyp": "Realschule",
+      "sozialindex": 4,
+      "lat": 51.443111,
+      "lon": 7.0394418
+    },
+    "schule_2": {
+      "schulnummer": "164835",
+      "schultyp": "Gymnasium",
+      "sozialindex": 9,
+      "lat": 51.4540542,
+      "lon": 7.0281866
+    },
+    "differenz": 5,
+    "entfernung_km": 1.45,
+    "gradient": 3.46
+  },
+  {
+    "schule_1": {
+      "schulnummer": "162206",
+      "schultyp": "Realschule",
+      "sozialindex": 6,
+      "lat": 52.121432,
+      "lon": 8.6606585
+    },
+    "schule_2": {
+      "schulnummer": "168774",
+      "schultyp": "Gymnasium",
+      "sozialindex": 2,
+      "lat": 52.1203898,
+      "lon": 8.6776096
+    },
+    "differenz": 4,
+    "entfernung_km": 1.16,
+    "gradient": 3.44
+  },
+  {
+    "schule_1": {
+      "schulnummer": "140909",
+      "schultyp": "Hauptschule",
+      "sozialindex": 7,
+      "lat": 50.9323471,
+      "lon": 6.9506045
+    },
+    "schule_2": {
+      "schulnummer": "166728",
+      "schultyp": "Gymnasium",
+      "sozialindex": 1,
+      "lat": 50.9234437,
+      "lon": 6.9299244
+    },
+    "differenz": 6,
+    "entfernung_km": 1.76,
+    "gradient": 3.42
+  },
+  {
+    "schule_1": {
+      "schulnummer": "188165",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 9,
+      "lat": 50.937558,
+      "lon": 7.0285533
+    },
+    "schule_2": {
+      "schulnummer": "166650",
+      "schultyp": "Gymnasium",
+      "sozialindex": 4,
+      "lat": 50.9371751,
+      "lon": 7.0076857
+    },
+    "differenz": 5,
+    "entfernung_km": 1.46,
+    "gradient": 3.42
+  },
+  {
+    "schule_1": {
+      "schulnummer": "141082",
+      "schultyp": "Hauptschule",
+      "sozialindex": 9,
+      "lat": 50.9604358,
+      "lon": 7.0229138
+    },
+    "schule_2": {
+      "schulnummer": "166455",
+      "schultyp": "Gymnasium",
+      "sozialindex": 3,
+      "lat": 50.9692412,
+      "lon": 7.0020592
+    },
+    "differenz": 6,
+    "entfernung_km": 1.76,
+    "gradient": 3.41
+  },
+  {
+    "schule_1": {
+      "schulnummer": "158598",
+      "schultyp": "Realschule",
+      "sozialindex": 7,
+      "lat": 51.2305961,
+      "lon": 6.8088512
+    },
+    "schule_2": {
+      "schulnummer": "164320",
+      "schultyp": "Gymnasium",
+      "sozialindex": 3,
+      "lat": 51.2302126,
+      "lon": 6.7920364
+    },
+    "differenz": 4,
+    "entfernung_km": 1.17,
+    "gradient": 3.41
+  },
+  {
+    "schule_1": {
+      "schulnummer": "136980",
+      "schultyp": "Hauptschule",
+      "sozialindex": 9,
+      "lat": 51.4518073,
+      "lon": 7.0262943
+    },
+    "schule_2": {
+      "schulnummer": "164800",
+      "schultyp": "Gymnasium",
+      "sozialindex": 3,
+      "lat": 51.4370634,
+      "lon": 7.0164182
+    },
+    "differenz": 6,
+    "entfernung_km": 1.78,
+    "gradient": 3.38
+  },
+  {
+    "schule_1": {
+      "schulnummer": "163776",
+      "schultyp": "Realschule",
+      "sozialindex": 1,
+      "lat": 50.8889364,
+      "lon": 8.0428728
+    },
+    "schule_2": {
+      "schulnummer": "163600",
+      "schultyp": "Realschule",
+      "sozialindex": 7,
+      "lat": 50.8755098,
+      "lon": 8.0291155
+    },
+    "differenz": 6,
+    "entfernung_km": 1.78,
+    "gradient": 3.38
+  },
+  {
+    "schule_1": {
+      "schulnummer": "139993",
+      "schultyp": "Hauptschule",
+      "sozialindex": 9,
+      "lat": 51.4545092,
+      "lon": 6.6537988
+    },
+    "schule_2": {
+      "schulnummer": "165992",
+      "schultyp": "Gymnasium",
+      "sozialindex": 4,
+      "lat": 51.4509952,
+      "lon": 6.6331572
+    },
+    "differenz": 5,
+    "entfernung_km": 1.48,
+    "gradient": 3.37
+  },
+  {
+    "schule_1": {
+      "schulnummer": "161974",
+      "schultyp": "Realschule",
+      "sozialindex": 7,
+      "lat": 52.0268789,
+      "lon": 8.5366298
+    },
+    "schule_2": {
+      "schulnummer": "168543",
+      "schultyp": "Gymnasium",
+      "sozialindex": 3,
+      "lat": 52.0184477,
+      "lon": 8.5473673
+    },
+    "differenz": 4,
+    "entfernung_km": 1.19,
+    "gradient": 3.36
+  },
+  {
+    "schule_1": {
+      "schulnummer": "160090",
+      "schultyp": "Realschule",
+      "sozialindex": 8,
+      "lat": 50.9583957,
+      "lon": 7.0074416
+    },
+    "schule_2": {
+      "schulnummer": "166686",
+      "schultyp": "Gymnasium",
+      "sozialindex": 4,
+      "lat": 50.9519763,
+      "lon": 7.0212853
+    },
+    "differenz": 4,
+    "entfernung_km": 1.2,
+    "gradient": 3.32
+  },
+  {
+    "schule_1": {
+      "schulnummer": "164940",
+      "schultyp": "Gymnasium",
+      "sozialindex": 9,
+      "lat": 51.332021,
+      "lon": 6.5557182
+    },
+    "schule_2": {
+      "schulnummer": "164987",
+      "schultyp": "Gymnasium",
+      "sozialindex": 3,
+      "lat": 51.3392614,
+      "lon": 6.5789911
+    },
+    "differenz": 6,
+    "entfernung_km": 1.81,
+    "gradient": 3.32
+  },
+  {
+    "schule_1": {
+      "schulnummer": "191863",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 8,
+      "lat": 51.1988234,
+      "lon": 6.8114207
+    },
+    "schule_2": {
+      "schulnummer": "164458",
+      "schultyp": "Gymnasium",
+      "sozialindex": 3,
+      "lat": 51.204884,
+      "lon": 6.7919515
+    },
+    "differenz": 5,
+    "entfernung_km": 1.51,
+    "gradient": 3.3
+  },
+  {
+    "schule_1": {
+      "schulnummer": "162826",
+      "schultyp": "Realschule",
+      "sozialindex": 3,
+      "lat": 51.4873699,
+      "lon": 7.4922296
+    },
+    "schule_2": {
+      "schulnummer": "188700",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 8,
+      "lat": 51.4991883,
+      "lon": 7.5032363
+    },
+    "differenz": 5,
+    "entfernung_km": 1.52,
+    "gradient": 3.29
+  },
+  {
+    "schule_1": {
+      "schulnummer": "148015",
+      "schultyp": "Hauptschule",
+      "sozialindex": 9,
+      "lat": 51.5715445,
+      "lon": 7.382117
+    },
+    "schule_2": {
+      "schulnummer": "183167",
+      "schultyp": "Gymnasium",
+      "sozialindex": 4,
+      "lat": 51.5588554,
+      "lon": 7.3903767
+    },
+    "differenz": 5,
+    "entfernung_km": 1.52,
+    "gradient": 3.28
+  },
+  {
+    "schule_1": {
+      "schulnummer": "136980",
+      "schultyp": "Hauptschule",
+      "sozialindex": 9,
+      "lat": 51.4518073,
+      "lon": 7.0262943
+    },
+    "schule_2": {
+      "schulnummer": "164811",
+      "schultyp": "Gymnasium",
+      "sozialindex": 3,
+      "lat": 51.4367509,
+      "lon": 7.0150516
+    },
+    "differenz": 6,
+    "entfernung_km": 1.85,
+    "gradient": 3.25
+  },
+  {
+    "schule_1": {
+      "schulnummer": "159773",
+      "schultyp": "Realschule",
+      "sozialindex": 6,
+      "lat": 51.4463898,
+      "lon": 6.6367276
+    },
+    "schule_2": {
+      "schulnummer": "166017",
+      "schultyp": "Gymnasium",
+      "sozialindex": 2,
+      "lat": 51.4423565,
+      "lon": 6.6201818
+    },
+    "differenz": 4,
+    "entfernung_km": 1.23,
+    "gradient": 3.25
+  },
+  {
+    "schule_1": {
+      "schulnummer": "160179",
+      "schultyp": "Realschule",
+      "sozialindex": 6,
+      "lat": 50.9179704,
+      "lon": 6.9155354
+    },
+    "schule_2": {
+      "schulnummer": "166716",
+      "schultyp": "Gymnasium",
+      "sozialindex": 2,
+      "lat": 50.9173762,
+      "lon": 6.9330551
+    },
+    "differenz": 4,
+    "entfernung_km": 1.23,
+    "gradient": 3.25
+  },
+  {
+    "schule_1": {
+      "schulnummer": "197968",
+      "schultyp": "Sekundarschule",
+      "sozialindex": 7,
+      "lat": 51.1906671,
+      "lon": 7.0787207
+    },
+    "schule_2": {
+      "schulnummer": "165360",
+      "schultyp": "Gymnasium",
+      "sozialindex": 3,
+      "lat": 51.1860497,
+      "lon": 7.0625726
+    },
+    "differenz": 4,
+    "entfernung_km": 1.24,
+    "gradient": 3.23
+  },
+  {
+    "schule_1": {
+      "schulnummer": "189522",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 8,
+      "lat": 50.8066942,
+      "lon": 6.5037404
+    },
+    "schule_2": {
+      "schulnummer": "167540",
+      "schultyp": "Gymnasium",
+      "sozialindex": 4,
+      "lat": 50.8071832,
+      "lon": 6.4861227
+    },
+    "differenz": 4,
+    "entfernung_km": 1.24,
+    "gradient": 3.23
+  },
+  {
+    "schule_1": {
+      "schulnummer": "159256",
+      "schultyp": "Realschule",
+      "sozialindex": 9,
+      "lat": 51.2709858,
+      "lon": 7.1914642
+    },
+    "schule_2": {
+      "schulnummer": "165451",
+      "schultyp": "Gymnasium",
+      "sozialindex": 4,
+      "lat": 51.2579937,
+      "lon": 7.1831254
+    },
+    "differenz": 5,
+    "entfernung_km": 1.56,
+    "gradient": 3.21
+  },
+  {
+    "schule_1": {
+      "schulnummer": "187770",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 8,
+      "lat": 51.4826714,
+      "lon": 7.2136974
+    },
+    "schule_2": {
+      "schulnummer": "169160",
+      "schultyp": "Gymnasium",
+      "sozialindex": 2,
+      "lat": 51.4662929,
+      "lon": 7.2202622
+    },
+    "differenz": 6,
+    "entfernung_km": 1.88,
+    "gradient": 3.2
+  },
+  {
+    "schule_1": {
+      "schulnummer": "189017",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 8,
+      "lat": 51.5268742,
+      "lon": 6.9364768
+    },
+    "schule_2": {
+      "schulnummer": "167691",
+      "schultyp": "Gymnasium",
+      "sozialindex": 3,
+      "lat": 51.5184361,
+      "lon": 6.9184578
+    },
+    "differenz": 5,
+    "entfernung_km": 1.56,
+    "gradient": 3.2
+  },
+  {
+    "schule_1": {
+      "schulnummer": "198808",
+      "schultyp": "Sekundarschule",
+      "sozialindex": 7,
+      "lat": 51.3586184,
+      "lon": 7.481505
+    },
+    "schule_2": {
+      "schulnummer": "169481",
+      "schultyp": "Gymnasium",
+      "sozialindex": 3,
+      "lat": 51.3697097,
+      "lon": 7.4782651
+    },
+    "differenz": 4,
+    "entfernung_km": 1.25,
+    "gradient": 3.19
+  },
+  {
+    "schule_1": {
+      "schulnummer": "165451",
+      "schultyp": "Gymnasium",
+      "sozialindex": 4,
+      "lat": 51.2579937,
+      "lon": 7.1831254
+    },
+    "schule_2": {
+      "schulnummer": "165463",
+      "schultyp": "Gymnasium",
+      "sozialindex": 8,
+      "lat": 51.2639713,
+      "lon": 7.1675109
+    },
+    "differenz": 4,
+    "entfernung_km": 1.27,
+    "gradient": 3.14
+  },
+  {
+    "schule_1": {
+      "schulnummer": "197877",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 6,
+      "lat": 50.979302,
+      "lon": 7.1264328
+    },
+    "schule_2": {
+      "schulnummer": "167034",
+      "schultyp": "Gymnasium",
+      "sozialindex": 2,
+      "lat": 50.977813,
+      "lon": 7.1445725
+    },
+    "differenz": 4,
+    "entfernung_km": 1.28,
+    "gradient": 3.12
+  },
+  {
+    "schule_1": {
+      "schulnummer": "143212",
+      "schultyp": "Hauptschule",
+      "sozialindex": 6,
+      "lat": 51.8480201,
+      "lon": 6.6324574
+    },
+    "schule_2": {
+      "schulnummer": "167678",
+      "schultyp": "Gymnasium",
+      "sozialindex": 2,
+      "lat": 51.8430671,
+      "lon": 6.6154764
+    },
+    "differenz": 4,
+    "entfernung_km": 1.29,
+    "gradient": 3.1
+  },
+  {
+    "schule_1": {
+      "schulnummer": "160179",
+      "schultyp": "Realschule",
+      "sozialindex": 6,
+      "lat": 50.9179704,
+      "lon": 6.9155354
+    },
+    "schule_2": {
+      "schulnummer": "166479",
+      "schultyp": "Gymnasium",
+      "sozialindex": 1,
+      "lat": 50.9324883,
+      "lon": 6.9160346
+    },
+    "differenz": 5,
+    "entfernung_km": 1.61,
+    "gradient": 3.1
+  },
+  {
+    "schule_1": {
+      "schulnummer": "191863",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 8,
+      "lat": 51.1988234,
+      "lon": 6.8114207
+    },
+    "schule_2": {
+      "schulnummer": "100187",
+      "schultyp": "Gymnasium",
+      "sozialindex": 3,
+      "lat": 51.1997252,
+      "lon": 6.8346662
+    },
+    "differenz": 5,
+    "entfernung_km": 1.62,
+    "gradient": 3.08
+  },
+  {
+    "schule_1": {
+      "schulnummer": "189080",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 9,
+      "lat": 51.4545585,
+      "lon": 7.017827
+    },
+    "schule_2": {
+      "schulnummer": "164800",
+      "schultyp": "Gymnasium",
+      "sozialindex": 3,
+      "lat": 51.4370634,
+      "lon": 7.0164182
+    },
+    "differenz": 6,
+    "entfernung_km": 1.95,
+    "gradient": 3.08
+  },
+  {
+    "schule_1": {
+      "schulnummer": "139828",
+      "schultyp": "Hauptschule",
+      "sozialindex": 6,
+      "lat": 51.6837779,
+      "lon": 6.1528368
+    },
+    "schule_2": {
+      "schulnummer": "193586",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 2,
+      "lat": 51.6723855,
+      "lon": 6.1572783
+    },
+    "differenz": 4,
+    "entfernung_km": 1.3,
+    "gradient": 3.07
+  },
+  {
+    "schule_1": {
+      "schulnummer": "159293",
+      "schultyp": "Realschule",
+      "sozialindex": 8,
+      "lat": 51.2656886,
+      "lon": 7.142729
+    },
+    "schule_2": {
+      "schulnummer": "165438",
+      "schultyp": "Gymnasium",
+      "sozialindex": 4,
+      "lat": 51.253863,
+      "lon": 7.1439482
+    },
+    "differenz": 4,
+    "entfernung_km": 1.32,
+    "gradient": 3.04
+  },
+  {
+    "schule_1": {
+      "schulnummer": "149408",
+      "schultyp": "Hauptschule",
+      "sozialindex": 8,
+      "lat": 51.3243884,
+      "lon": 7.3151197
+    },
+    "schule_2": {
+      "schulnummer": "163314",
+      "schultyp": "Realschule",
+      "sozialindex": 3,
+      "lat": 51.3249987,
+      "lon": 7.3389557
+    },
+    "differenz": 5,
+    "entfernung_km": 1.66,
+    "gradient": 3.02
+  },
+  {
+    "schule_1": {
+      "schulnummer": "189080",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 9,
+      "lat": 51.4545585,
+      "lon": 7.017827
+    },
+    "schule_2": {
+      "schulnummer": "164811",
+      "schultyp": "Gymnasium",
+      "sozialindex": 3,
+      "lat": 51.4367509,
+      "lon": 7.0150516
+    },
+    "differenz": 6,
+    "entfernung_km": 1.99,
+    "gradient": 3.02
+  },
+  {
+    "schule_1": {
+      "schulnummer": "162012",
+      "schultyp": "Realschule",
+      "sozialindex": 8,
+      "lat": 51.9845406,
+      "lon": 8.501668
+    },
+    "schule_2": {
+      "schulnummer": "189996",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 3,
+      "lat": 51.9915248,
+      "lon": 8.4802397
+    },
+    "differenz": 5,
+    "entfernung_km": 1.66,
+    "gradient": 3.01
+  },
+  {
+    "schule_1": {
+      "schulnummer": "140594",
+      "schultyp": "Hauptschule",
+      "sozialindex": 7,
+      "lat": 50.7016843,
+      "lon": 7.0538989
+    },
+    "schule_2": {
+      "schulnummer": "166315",
+      "schultyp": "Gymnasium",
+      "sozialindex": 2,
+      "lat": 50.6903211,
+      "lon": 7.0694146
+    },
+    "differenz": 5,
+    "entfernung_km": 1.67,
+    "gradient": 2.99
+  },
+  {
+    "schule_1": {
+      "schulnummer": "100048",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 8,
+      "lat": 51.4945855,
+      "lon": 7.2070245
+    },
+    "schule_2": {
+      "schulnummer": "169158",
+      "schultyp": "Gymnasium",
+      "sozialindex": 3,
+      "lat": 51.4864586,
+      "lon": 7.2273864
+    },
+    "differenz": 5,
+    "entfernung_km": 1.67,
+    "gradient": 2.99
+  },
+  {
+    "schule_1": {
+      "schulnummer": "148258",
+      "schultyp": "Hauptschule",
+      "sozialindex": 8,
+      "lat": 51.3835494,
+      "lon": 7.4685849
+    },
+    "schule_2": {
+      "schulnummer": "169481",
+      "schultyp": "Gymnasium",
+      "sozialindex": 3,
+      "lat": 51.3697097,
+      "lon": 7.4782651
+    },
+    "differenz": 5,
+    "entfernung_km": 1.68,
+    "gradient": 2.98
+  },
+  {
+    "schule_1": {
+      "schulnummer": "160222",
+      "schultyp": "Realschule",
+      "sozialindex": 6,
+      "lat": 50.958576,
+      "lon": 6.9162904
+    },
+    "schule_2": {
+      "schulnummer": "166480",
+      "schultyp": "Gymnasium",
+      "sozialindex": 3,
+      "lat": 50.9631746,
+      "lon": 6.9038748
+    },
+    "differenz": 3,
+    "entfernung_km": 1.01,
+    "gradient": 2.97
+  },
+  {
+    "schule_1": {
+      "schulnummer": "188165",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 9,
+      "lat": 50.937558,
+      "lon": 7.0285533
+    },
+    "schule_2": {
+      "schulnummer": "166686",
+      "schultyp": "Gymnasium",
+      "sozialindex": 4,
+      "lat": 50.9519763,
+      "lon": 7.0212853
+    },
+    "differenz": 5,
+    "entfernung_km": 1.68,
+    "gradient": 2.97
+  },
+  {
+    "schule_1": {
+      "schulnummer": "198717",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 7,
+      "lat": 51.1593568,
+      "lon": 7.0775529
+    },
+    "schule_2": {
+      "schulnummer": "165347",
+      "schultyp": "Gymnasium",
+      "sozialindex": 3,
+      "lat": 51.1687268,
+      "lon": 7.0899143
+    },
+    "differenz": 4,
+    "entfernung_km": 1.35,
+    "gradient": 2.96
+  },
+  {
+    "schule_1": {
+      "schulnummer": "141021",
+      "schultyp": "Hauptschule",
+      "sozialindex": 7,
+      "lat": 50.948176,
+      "lon": 6.9628236
+    },
+    "schule_2": {
+      "schulnummer": "166492",
+      "schultyp": "Gymnasium",
+      "sozialindex": 2,
+      "lat": 50.9391565,
+      "lon": 6.9433409
+    },
+    "differenz": 5,
+    "entfernung_km": 1.69,
+    "gradient": 2.95
+  },
+  {
+    "schule_1": {
+      "schulnummer": "150782",
+      "schultyp": "Hauptschule",
+      "sozialindex": 5,
+      "lat": 51.6740872,
+      "lon": 7.8779079
+    },
+    "schule_2": {
+      "schulnummer": "169596",
+      "schultyp": "Gymnasium",
+      "sozialindex": 1,
+      "lat": 51.6853121,
+      "lon": 7.8856332
+    },
+    "differenz": 4,
+    "entfernung_km": 1.36,
+    "gradient": 2.95
+  },
+  {
+    "schule_1": {
+      "schulnummer": "139099",
+      "schultyp": "Hauptschule",
+      "sozialindex": 9,
+      "lat": 51.3404796,
+      "lon": 7.0518133
+    },
+    "schule_2": {
+      "schulnummer": "189297",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 6,
+      "lat": 51.3380008,
+      "lon": 7.0376846
+    },
+    "differenz": 3,
+    "entfernung_km": 1.02,
+    "gradient": 2.94
+  },
+  {
+    "schule_1": {
+      "schulnummer": "158872",
+      "schultyp": "Realschule",
+      "sozialindex": 9,
+      "lat": 51.4435759,
+      "lon": 6.9690792
+    },
+    "schule_2": {
+      "schulnummer": "193501",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 5,
+      "lat": 51.4395543,
+      "lon": 6.9875875
+    },
+    "differenz": 4,
+    "entfernung_km": 1.36,
+    "gradient": 2.94
+  },
+  {
+    "schule_1": {
+      "schulnummer": "160787",
+      "schultyp": "Realschule",
+      "sozialindex": 8,
+      "lat": 50.7780084,
+      "lon": 6.1064791
+    },
+    "schule_2": {
+      "schulnummer": "167368",
+      "schultyp": "Gymnasium",
+      "sozialindex": 3,
+      "lat": 50.7730203,
+      "lon": 6.083587
+    },
+    "differenz": 5,
+    "entfernung_km": 1.7,
+    "gradient": 2.94
+  },
+  {
+    "schule_1": {
+      "schulnummer": "142529",
+      "schultyp": "Hauptschule",
+      "sozialindex": 7,
+      "lat": 50.8199295,
+      "lon": 6.2580204
+    },
+    "schule_2": {
+      "schulnummer": "167435",
+      "schultyp": "Gymnasium",
+      "sozialindex": 4,
+      "lat": 50.8209665,
+      "lon": 6.2725239
+    },
+    "differenz": 3,
+    "entfernung_km": 1.03,
+    "gradient": 2.93
+  },
+  {
+    "schule_1": {
+      "schulnummer": "185188",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 8,
+      "lat": 51.6085835,
+      "lon": 7.138205
+    },
+    "schule_2": {
+      "schulnummer": "168269",
+      "schultyp": "Gymnasium",
+      "sozialindex": 4,
+      "lat": 51.596289,
+      "lon": 7.1395447
+    },
+    "differenz": 4,
+    "entfernung_km": 1.37,
+    "gradient": 2.92
+  },
+  {
+    "schule_1": {
+      "schulnummer": "160787",
+      "schultyp": "Realschule",
+      "sozialindex": 8,
+      "lat": 50.7780084,
+      "lon": 6.1064791
+    },
+    "schule_2": {
+      "schulnummer": "167290",
+      "schultyp": "Gymnasium",
+      "sozialindex": 3,
+      "lat": 50.7770369,
+      "lon": 6.0821235
+    },
+    "differenz": 5,
+    "entfernung_km": 1.72,
+    "gradient": 2.91
+  },
+  {
+    "schule_1": {
+      "schulnummer": "136359",
+      "schultyp": "Hauptschule",
+      "sozialindex": 8,
+      "lat": 51.2097083,
+      "lon": 6.7788758
+    },
+    "schule_2": {
+      "schulnummer": "164501",
+      "schultyp": "Gymnasium",
+      "sozialindex": 4,
+      "lat": 51.2219758,
+      "lon": 6.7759802
+    },
+    "differenz": 4,
+    "entfernung_km": 1.38,
+    "gradient": 2.9
+  },
+  {
+    "schule_1": {
+      "schulnummer": "143054",
+      "schultyp": "Hauptschule",
+      "sozialindex": 5,
+      "lat": 51.0644838,
+      "lon": 6.2249448
+    },
+    "schule_2": {
+      "schulnummer": "167642",
+      "schultyp": "Gymnasium",
+      "sozialindex": 2,
+      "lat": 51.0551888,
+      "lon": 6.2254788
+    },
+    "differenz": 3,
+    "entfernung_km": 1.03,
+    "gradient": 2.9
+  },
+  {
+    "schule_1": {
+      "schulnummer": "194566",
+      "schultyp": "Hauptschule",
+      "sozialindex": 8,
+      "lat": 51.5883192,
+      "lon": 7.6574147
+    },
+    "schule_2": {
+      "schulnummer": "194578",
+      "schultyp": "Realschule",
+      "sozialindex": 4,
+      "lat": 51.5882074,
+      "lon": 7.6773861
+    },
+    "differenz": 4,
+    "entfernung_km": 1.38,
+    "gradient": 2.9
+  },
+  {
+    "schule_1": {
+      "schulnummer": "194566",
+      "schultyp": "Hauptschule",
+      "sozialindex": 8,
+      "lat": 51.5883192,
+      "lon": 7.6574147
+    },
+    "schule_2": {
+      "schulnummer": "194487",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 4,
+      "lat": 51.5882074,
+      "lon": 7.6773861
+    },
+    "differenz": 4,
+    "entfernung_km": 1.38,
+    "gradient": 2.9
+  },
+  {
+    "schule_1": {
+      "schulnummer": "140909",
+      "schultyp": "Hauptschule",
+      "sozialindex": 7,
+      "lat": 50.9323471,
+      "lon": 6.9506045
+    },
+    "schule_2": {
+      "schulnummer": "166637",
+      "schultyp": "Gymnasium",
+      "sozialindex": 2,
+      "lat": 50.9478869,
+      "lon": 6.9509572
+    },
+    "differenz": 5,
+    "entfernung_km": 1.73,
+    "gradient": 2.89
+  },
+  {
+    "schule_1": {
+      "schulnummer": "163065",
+      "schultyp": "Realschule",
+      "sozialindex": 6,
+      "lat": 51.5143663,
+      "lon": 7.1691139
+    },
+    "schule_2": {
+      "schulnummer": "169687",
+      "schultyp": "Gymnasium",
+      "sozialindex": 3,
+      "lat": 51.522398,
+      "lon": 7.161441
+    },
+    "differenz": 3,
+    "entfernung_km": 1.04,
+    "gradient": 2.89
+  },
+  {
+    "schule_1": {
+      "schulnummer": "199606",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 6,
+      "lat": 51.2288267,
+      "lon": 6.8067781
+    },
+    "schule_2": {
+      "schulnummer": "164320",
+      "schultyp": "Gymnasium",
+      "sozialindex": 3,
+      "lat": 51.2302126,
+      "lon": 6.7920364
+    },
+    "differenz": 3,
+    "entfernung_km": 1.04,
+    "gradient": 2.89
+  },
+  {
+    "schule_1": {
+      "schulnummer": "138344",
+      "schultyp": "Hauptschule",
+      "sozialindex": 9,
+      "lat": 51.1766631,
+      "lon": 6.4626409
+    },
+    "schule_2": {
+      "schulnummer": "165293",
+      "schultyp": "Gymnasium",
+      "sozialindex": 5,
+      "lat": 51.1752499,
+      "lon": 6.4428205
+    },
+    "differenz": 4,
+    "entfernung_km": 1.39,
+    "gradient": 2.88
+  },
+  {
+    "schule_1": {
+      "schulnummer": "140545",
+      "schultyp": "Hauptschule",
+      "sozialindex": 6,
+      "lat": 50.7243057,
+      "lon": 7.0714723
+    },
+    "schule_2": {
+      "schulnummer": "166250",
+      "schultyp": "Gymnasium",
+      "sozialindex": 2,
+      "lat": 50.7292681,
+      "lon": 7.0896171
+    },
+    "differenz": 4,
+    "entfernung_km": 1.39,
+    "gradient": 2.88
+  },
+  {
+    "schule_1": {
+      "schulnummer": "140867",
+      "schultyp": "Hauptschule",
+      "sozialindex": 8,
+      "lat": 50.9686815,
+      "lon": 6.9321135
+    },
+    "schule_2": {
+      "schulnummer": "100036",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 3,
+      "lat": 50.9535844,
+      "lon": 6.9257265
+    },
+    "differenz": 5,
+    "entfernung_km": 1.74,
+    "gradient": 2.88
+  },
+  {
+    "schule_1": {
+      "schulnummer": "161226",
+      "schultyp": "Realschule",
+      "sozialindex": 6,
+      "lat": 51.9351064,
+      "lon": 7.6240685
+    },
+    "schule_2": {
+      "schulnummer": "167897",
+      "schultyp": "Gymnasium",
+      "sozialindex": 2,
+      "lat": 51.947192,
+      "lon": 7.6188123
+    },
+    "differenz": 4,
+    "entfernung_km": 1.39,
+    "gradient": 2.87
+  },
+  {
+    "schule_1": {
+      "schulnummer": "189250",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 5,
+      "lat": 51.6811058,
+      "lon": 7.8284967
+    },
+    "schule_2": {
+      "schulnummer": "169560",
+      "schultyp": "Gymnasium",
+      "sozialindex": 2,
+      "lat": 51.671796,
+      "lon": 7.8308051
+    },
+    "differenz": 3,
+    "entfernung_km": 1.05,
+    "gradient": 2.86
+  },
+  {
+    "schule_1": {
+      "schulnummer": "150800",
+      "schultyp": "Hauptschule",
+      "sozialindex": 2,
+      "lat": 50.8887867,
+      "lon": 8.0425979
+    },
+    "schule_2": {
+      "schulnummer": "163600",
+      "schultyp": "Realschule",
+      "sozialindex": 7,
+      "lat": 50.8755098,
+      "lon": 8.0291155
+    },
+    "differenz": 5,
+    "entfernung_km": 1.75,
+    "gradient": 2.85
+  },
+  {
+    "schule_1": {
+      "schulnummer": "159050",
+      "schultyp": "Realschule",
+      "sozialindex": 8,
+      "lat": 51.1893506,
+      "lon": 6.4538453
+    },
+    "schule_2": {
+      "schulnummer": "165062",
+      "schultyp": "Gymnasium",
+      "sozialindex": 4,
+      "lat": 51.1925987,
+      "lon": 6.4343304
+    },
+    "differenz": 4,
+    "entfernung_km": 1.41,
+    "gradient": 2.84
+  },
+  {
+    "schule_1": {
+      "schulnummer": "189832",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 8,
+      "lat": 51.1912724,
+      "lon": 6.4544399
+    },
+    "schule_2": {
+      "schulnummer": "165062",
+      "schultyp": "Gymnasium",
+      "sozialindex": 4,
+      "lat": 51.1925987,
+      "lon": 6.4343304
+    },
+    "differenz": 4,
+    "entfernung_km": 1.41,
+    "gradient": 2.84
+  },
+  {
+    "schule_1": {
+      "schulnummer": "141513",
+      "schultyp": "Hauptschule",
+      "sozialindex": 7,
+      "lat": 50.9019786,
+      "lon": 6.8095687
+    },
+    "schule_2": {
+      "schulnummer": "166900",
+      "schultyp": "Gymnasium",
+      "sozialindex": 2,
+      "lat": 50.9177699,
+      "lon": 6.8066995
+    },
+    "differenz": 5,
+    "entfernung_km": 1.77,
+    "gradient": 2.83
+  },
+  {
+    "schule_1": {
+      "schulnummer": "148076",
+      "schultyp": "Hauptschule",
+      "sozialindex": 9,
+      "lat": 51.4793416,
+      "lon": 7.4918158
+    },
+    "schule_2": {
+      "schulnummer": "162784",
+      "schultyp": "Realschule",
+      "sozialindex": 5,
+      "lat": 51.4666636,
+      "lon": 7.4900046
+    },
+    "differenz": 4,
+    "entfernung_km": 1.42,
+    "gradient": 2.83
+  },
+  {
+    "schule_1": {
+      "schulnummer": "189273",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 8,
+      "lat": 51.3433977,
+      "lon": 6.5902964
+    },
+    "schule_2": {
+      "schulnummer": "164999",
+      "schultyp": "Gymnasium",
+      "sozialindex": 3,
+      "lat": 51.3394662,
+      "lon": 6.5656673
+    },
+    "differenz": 5,
+    "entfernung_km": 1.77,
+    "gradient": 2.83
+  },
+  {
+    "schule_1": {
+      "schulnummer": "149603",
+      "schultyp": "Hauptschule",
+      "sozialindex": 4,
+      "lat": 51.3727182,
+      "lon": 7.6040431
+    },
+    "schule_2": {
+      "schulnummer": "163363",
+      "schultyp": "Realschule",
+      "sozialindex": 1,
+      "lat": 51.3674312,
+      "lon": 7.616827
+    },
+    "differenz": 3,
+    "entfernung_km": 1.06,
+    "gradient": 2.82
+  },
+  {
+    "schule_1": {
+      "schulnummer": "159050",
+      "schultyp": "Realschule",
+      "sozialindex": 8,
+      "lat": 51.1893506,
+      "lon": 6.4538453
+    },
+    "schule_2": {
+      "schulnummer": "165050",
+      "schultyp": "Gymnasium",
+      "sozialindex": 5,
+      "lat": 51.1889739,
+      "lon": 6.4385826
+    },
+    "differenz": 3,
+    "entfernung_km": 1.06,
+    "gradient": 2.82
+  },
+  {
+    "schule_1": {
+      "schulnummer": "198717",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 7,
+      "lat": 51.1593568,
+      "lon": 7.0775529
+    },
+    "schule_2": {
+      "schulnummer": "165359",
+      "schultyp": "Gymnasium",
+      "sozialindex": 3,
+      "lat": 51.1655003,
+      "lon": 7.095402
+    },
+    "differenz": 4,
+    "entfernung_km": 1.42,
+    "gradient": 2.82
+  },
+  {
+    "schule_1": {
+      "schulnummer": "136384",
+      "schultyp": "Hauptschule",
+      "sozialindex": 8,
+      "lat": 51.2061884,
+      "lon": 6.858051
+    },
+    "schule_2": {
+      "schulnummer": "100187",
+      "schultyp": "Gymnasium",
+      "sozialindex": 3,
+      "lat": 51.1997252,
+      "lon": 6.8346662
+    },
+    "differenz": 5,
+    "entfernung_km": 1.78,
+    "gradient": 2.81
+  },
+  {
+    "schule_1": {
+      "schulnummer": "141173",
+      "schultyp": "Hauptschule",
+      "sozialindex": 6,
+      "lat": 50.9497284,
+      "lon": 6.6316531
+    },
+    "schule_2": {
+      "schulnummer": "166765",
+      "schultyp": "Gymnasium",
+      "sozialindex": 3,
+      "lat": 50.9572035,
+      "lon": 6.6412335
+    },
+    "differenz": 3,
+    "entfernung_km": 1.07,
+    "gradient": 2.81
+  },
+  {
+    "schule_1": {
+      "schulnummer": "191863",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 8,
+      "lat": 51.1988234,
+      "lon": 6.8114207
+    },
+    "schule_2": {
+      "schulnummer": "100015",
+      "schultyp": "Gymnasium",
+      "sozialindex": 4,
+      "lat": 51.2111051,
+      "lon": 6.8057259
+    },
+    "differenz": 4,
+    "entfernung_km": 1.42,
+    "gradient": 2.81
+  },
+  {
+    "schule_1": {
+      "schulnummer": "142426",
+      "schultyp": "Hauptschule",
+      "sozialindex": 9,
+      "lat": 50.7757792,
+      "lon": 6.1033289
+    },
+    "schule_2": {
+      "schulnummer": "193458",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 6,
+      "lat": 50.7661408,
+      "lon": 6.1033337
+    },
+    "differenz": 3,
+    "entfernung_km": 1.07,
+    "gradient": 2.8
+  },
+  {
+    "schule_1": {
+      "schulnummer": "146547",
+      "schultyp": "Hauptschule",
+      "sozialindex": 5,
+      "lat": 52.0340917,
+      "lon": 8.9070081
+    },
+    "schule_2": {
+      "schulnummer": "168890",
+      "schultyp": "Gymnasium",
+      "sozialindex": 2,
+      "lat": 52.0271555,
+      "lon": 8.8960322
+    },
+    "differenz": 3,
+    "entfernung_km": 1.08,
+    "gradient": 2.79
+  },
+  {
+    "schule_1": {
+      "schulnummer": "198742",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 8,
+      "lat": 50.9472876,
+      "lon": 6.9897216
+    },
+    "schule_2": {
+      "schulnummer": "166571",
+      "schultyp": "Gymnasium",
+      "sozialindex": 3,
+      "lat": 50.9336983,
+      "lon": 6.9760306
+    },
+    "differenz": 5,
+    "entfernung_km": 1.79,
+    "gradient": 2.79
+  },
+  {
+    "schule_1": {
+      "schulnummer": "188165",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 9,
+      "lat": 50.937558,
+      "lon": 7.0285533
+    },
+    "schule_2": {
+      "schulnummer": "184858",
+      "schultyp": "Gymnasium",
+      "sozialindex": 4,
+      "lat": 50.9269217,
+      "lon": 7.04788
+    },
+    "differenz": 5,
+    "entfernung_km": 1.8,
+    "gradient": 2.78
+  },
+  {
+    "schule_1": {
+      "schulnummer": "136967",
+      "schultyp": "Hauptschule",
+      "sozialindex": 8,
+      "lat": 51.4454889,
+      "lon": 7.0879454
+    },
+    "schule_2": {
+      "schulnummer": "184640",
+      "schultyp": "Gymnasium",
+      "sozialindex": 3,
+      "lat": 51.4327933,
+      "lon": 7.0717439
+    },
+    "differenz": 5,
+    "entfernung_km": 1.8,
+    "gradient": 2.77
+  },
+  {
+    "schule_1": {
+      "schulnummer": "159414",
+      "schultyp": "Realschule",
+      "sozialindex": 5,
+      "lat": 51.2561423,
+      "lon": 6.9689675
+    },
+    "schule_2": {
+      "schulnummer": "165591",
+      "schultyp": "Gymnasium",
+      "sozialindex": 2,
+      "lat": 51.2465852,
+      "lon": 6.9718376
+    },
+    "differenz": 3,
+    "entfernung_km": 1.08,
+    "gradient": 2.77
+  },
+  {
+    "schule_1": {
+      "schulnummer": "142797",
+      "schultyp": "Hauptschule",
+      "sozialindex": 8,
+      "lat": 50.7893935,
+      "lon": 6.4924283
+    },
+    "schule_2": {
+      "schulnummer": "160957",
+      "schultyp": "Realschule",
+      "sozialindex": 4,
+      "lat": 50.8023372,
+      "lon": 6.4894055
+    },
+    "differenz": 4,
+    "entfernung_km": 1.45,
+    "gradient": 2.75
+  },
+  {
+    "schule_1": {
+      "schulnummer": "148349",
+      "schultyp": "Hauptschule",
+      "sozialindex": 9,
+      "lat": 51.6939124,
+      "lon": 7.8094071
+    },
+    "schule_2": {
+      "schulnummer": "169559",
+      "schultyp": "Gymnasium",
+      "sozialindex": 4,
+      "lat": 51.690247,
+      "lon": 7.783625
+    },
+    "differenz": 5,
+    "entfernung_km": 1.82,
+    "gradient": 2.74
+  },
+  {
+    "schule_1": {
+      "schulnummer": "193719",
+      "schultyp": "Realschule",
+      "sozialindex": 5,
+      "lat": 51.5156647,
+      "lon": 6.7506555
+    },
+    "schule_2": {
+      "schulnummer": "192405",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 9,
+      "lat": 51.5025551,
+      "lon": 6.7482959
+    },
+    "differenz": 4,
+    "entfernung_km": 1.47,
+    "gradient": 2.73
+  },
+  {
+    "schule_1": {
+      "schulnummer": "198742",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 8,
+      "lat": 50.9472876,
+      "lon": 6.9897216
+    },
+    "schule_2": {
+      "schulnummer": "166558",
+      "schultyp": "Gymnasium",
+      "sozialindex": 4,
+      "lat": 50.9352001,
+      "lon": 6.981331
+    },
+    "differenz": 4,
+    "entfernung_km": 1.47,
+    "gradient": 2.73
+  },
+  {
+    "schule_1": {
+      "schulnummer": "138708",
+      "schultyp": "Hauptschule",
+      "sozialindex": 9,
+      "lat": 51.2636955,
+      "lon": 7.1878251
+    },
+    "schule_2": {
+      "schulnummer": "165475",
+      "schultyp": "Gymnasium",
+      "sozialindex": 6,
+      "lat": 51.272292,
+      "lon": 7.1957163
+    },
+    "differenz": 3,
+    "entfernung_km": 1.1,
+    "gradient": 2.72
+  },
+  {
+    "schule_1": {
+      "schulnummer": "143212",
+      "schultyp": "Hauptschule",
+      "sozialindex": 6,
+      "lat": 51.8480201,
+      "lon": 6.6324574
+    },
+    "schule_2": {
+      "schulnummer": "161070",
+      "schultyp": "Realschule",
+      "sozialindex": 2,
+      "lat": 51.843244,
+      "lon": 6.6125166
+    },
+    "differenz": 4,
+    "entfernung_km": 1.47,
+    "gradient": 2.72
+  },
+  {
+    "schule_1": {
+      "schulnummer": "158940",
+      "schultyp": "Realschule",
+      "sozialindex": 9,
+      "lat": 51.4587688,
+      "lon": 7.0294379
+    },
+    "schule_2": {
+      "schulnummer": "164756",
+      "schultyp": "Gymnasium",
+      "sozialindex": 6,
+      "lat": 51.4550194,
+      "lon": 7.0147067
+    },
+    "differenz": 3,
+    "entfernung_km": 1.1,
+    "gradient": 2.72
+  },
+  {
+    "schule_1": {
+      "schulnummer": "188300",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 6,
+      "lat": 51.1752776,
+      "lon": 7.0981288
+    },
+    "schule_2": {
+      "schulnummer": "165359",
+      "schultyp": "Gymnasium",
+      "sozialindex": 3,
+      "lat": 51.1655003,
+      "lon": 7.095402
+    },
+    "differenz": 3,
+    "entfernung_km": 1.1,
+    "gradient": 2.72
+  },
+  {
+    "schule_1": {
+      "schulnummer": "100131",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 5,
+      "lat": 51.2564902,
+      "lon": 6.9719814
+    },
+    "schule_2": {
+      "schulnummer": "165591",
+      "schultyp": "Gymnasium",
+      "sozialindex": 2,
+      "lat": 51.2465852,
+      "lon": 6.9718376
+    },
+    "differenz": 3,
+    "entfernung_km": 1.1,
+    "gradient": 2.72
+  },
+  {
+    "schule_1": {
+      "schulnummer": "160350",
+      "schultyp": "Realschule",
+      "sozialindex": 5,
+      "lat": 50.6653837,
+      "lon": 6.7730931
+    },
+    "schule_2": {
+      "schulnummer": "166790",
+      "schultyp": "Gymnasium",
+      "sozialindex": 2,
+      "lat": 50.6559197,
+      "lon": 6.7779735
+    },
+    "differenz": 3,
+    "entfernung_km": 1.11,
+    "gradient": 2.71
+  },
+  {
+    "schule_1": {
+      "schulnummer": "137947",
+      "schultyp": "Hauptschule",
+      "sozialindex": 9,
+      "lat": 51.4615217,
+      "lon": 6.9065595
+    },
+    "schule_2": {
+      "schulnummer": "164136",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 5,
+      "lat": 51.4483348,
+      "lon": 6.9037383
+    },
+    "differenz": 4,
+    "entfernung_km": 1.48,
+    "gradient": 2.7
+  },
+  {
+    "schule_1": {
+      "schulnummer": "141021",
+      "schultyp": "Hauptschule",
+      "sozialindex": 7,
+      "lat": 50.948176,
+      "lon": 6.9628236
+    },
+    "schule_2": {
+      "schulnummer": "166595",
+      "schultyp": "Gymnasium",
+      "sozialindex": 2,
+      "lat": 50.9316754,
+      "lon": 6.9582884
+    },
+    "differenz": 5,
+    "entfernung_km": 1.86,
+    "gradient": 2.69
+  },
+  {
+    "schule_1": {
+      "schulnummer": "194530",
+      "schultyp": "Realschule",
+      "sozialindex": 4,
+      "lat": 51.3665354,
+      "lon": 7.4927724
+    },
+    "schule_2": {
+      "schulnummer": "198791",
+      "schultyp": "Sekundarschule",
+      "sozialindex": 9,
+      "lat": 51.3680145,
+      "lon": 7.4660741
+    },
+    "differenz": 5,
+    "entfernung_km": 1.86,
+    "gradient": 2.69
+  },
+  {
+    "schule_1": {
+      "schulnummer": "158823",
+      "schultyp": "Realschule",
+      "sozialindex": 4,
+      "lat": 51.443111,
+      "lon": 7.0394418
+    },
+    "schule_2": {
+      "schulnummer": "158940",
+      "schultyp": "Realschule",
+      "sozialindex": 9,
+      "lat": 51.4587688,
+      "lon": 7.0294379
+    },
+    "differenz": 5,
+    "entfernung_km": 1.87,
+    "gradient": 2.67
+  },
+  {
+    "schule_1": {
+      "schulnummer": "161986",
+      "schultyp": "Realschule",
+      "sozialindex": 7,
+      "lat": 52.0293725,
+      "lon": 8.5181791
+    },
+    "schule_2": {
+      "schulnummer": "184883",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 3,
+      "lat": 52.0360453,
+      "lon": 8.4991701
+    },
+    "differenz": 4,
+    "entfernung_km": 1.5,
+    "gradient": 2.67
+  },
+  {
+    "schule_1": {
+      "schulnummer": "161974",
+      "schultyp": "Realschule",
+      "sozialindex": 7,
+      "lat": 52.0268789,
+      "lon": 8.5366298
+    },
+    "schule_2": {
+      "schulnummer": "168579",
+      "schultyp": "Gymnasium",
+      "sozialindex": 3,
+      "lat": 52.0293719,
+      "lon": 8.5150047
+    },
+    "differenz": 4,
+    "entfernung_km": 1.51,
+    "gradient": 2.66
+  },
+  {
+    "schule_1": {
+      "schulnummer": "189819",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 4,
+      "lat": 51.2036037,
+      "lon": 6.7912136
+    },
+    "schule_2": {
+      "schulnummer": "191863",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 8,
+      "lat": 51.1988234,
+      "lon": 6.8114207
+    },
+    "differenz": 4,
+    "entfernung_km": 1.5,
+    "gradient": 2.66
+  },
+  {
+    "schule_1": {
+      "schulnummer": "140909",
+      "schultyp": "Hauptschule",
+      "sozialindex": 7,
+      "lat": 50.9323471,
+      "lon": 6.9506045
+    },
+    "schule_2": {
+      "schulnummer": "166601",
+      "schultyp": "Gymnasium",
+      "sozialindex": 2,
+      "lat": 50.9402441,
+      "lon": 6.9267993
+    },
+    "differenz": 5,
+    "entfernung_km": 1.89,
+    "gradient": 2.65
+  },
+  {
+    "schule_1": {
+      "schulnummer": "140545",
+      "schultyp": "Hauptschule",
+      "sozialindex": 6,
+      "lat": 50.7243057,
+      "lon": 7.0714723
+    },
+    "schule_2": {
+      "schulnummer": "166376",
+      "schultyp": "Gymnasium",
+      "sozialindex": 3,
+      "lat": 50.7211668,
+      "lon": 7.0560806
+    },
+    "differenz": 3,
+    "entfernung_km": 1.14,
+    "gradient": 2.64
+  },
+  {
+    "schule_1": {
+      "schulnummer": "159414",
+      "schultyp": "Realschule",
+      "sozialindex": 5,
+      "lat": 51.2561423,
+      "lon": 6.9689675
+    },
+    "schule_2": {
+      "schulnummer": "165670",
+      "schultyp": "Gymnasium",
+      "sozialindex": 2,
+      "lat": 51.2660026,
+      "lon": 6.9646333
+    },
+    "differenz": 3,
+    "entfernung_km": 1.14,
+    "gradient": 2.64
+  },
+  {
+    "schule_1": {
+      "schulnummer": "189832",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 8,
+      "lat": 51.1912724,
+      "lon": 6.4544399
+    },
+    "schule_2": {
+      "schulnummer": "165050",
+      "schultyp": "Gymnasium",
+      "sozialindex": 5,
+      "lat": 51.1889739,
+      "lon": 6.4385826
+    },
+    "differenz": 3,
+    "entfernung_km": 1.13,
+    "gradient": 2.64
+  },
+  {
+    "schule_1": {
+      "schulnummer": "189509",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 7,
+      "lat": 52.1064746,
+      "lon": 8.6936563
+    },
+    "schule_2": {
+      "schulnummer": "168774",
+      "schultyp": "Gymnasium",
+      "sozialindex": 2,
+      "lat": 52.1203898,
+      "lon": 8.6776096
+    },
+    "differenz": 5,
+    "entfernung_km": 1.9,
+    "gradient": 2.64
+  },
+  {
+    "schule_1": {
+      "schulnummer": "149135",
+      "schultyp": "Hauptschule",
+      "sozialindex": 6,
+      "lat": 51.4508619,
+      "lon": 7.9680893
+    },
+    "schule_2": {
+      "schulnummer": "194670",
+      "schultyp": "Gymnasium",
+      "sozialindex": 2,
+      "lat": 51.4371984,
+      "lon": 7.9676898
+    },
+    "differenz": 4,
+    "entfernung_km": 1.52,
+    "gradient": 2.63
+  },
+  {
+    "schule_1": {
+      "schulnummer": "158823",
+      "schultyp": "Realschule",
+      "sozialindex": 4,
+      "lat": 51.443111,
+      "lon": 7.0394418
+    },
+    "schule_2": {
+      "schulnummer": "158902",
+      "schultyp": "Realschule",
+      "sozialindex": 8,
+      "lat": 51.4367423,
+      "lon": 7.0199192
+    },
+    "differenz": 4,
+    "entfernung_km": 1.53,
+    "gradient": 2.62
+  },
+  {
+    "schule_1": {
+      "schulnummer": "188669",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 8,
+      "lat": 51.2613791,
+      "lon": 7.1512787
+    },
+    "schule_2": {
+      "schulnummer": "165372",
+      "schultyp": "Gymnasium",
+      "sozialindex": 4,
+      "lat": 51.2616456,
+      "lon": 7.1293282
+    },
+    "differenz": 4,
+    "entfernung_km": 1.53,
+    "gradient": 2.62
+  },
+  {
+    "schule_1": {
+      "schulnummer": "184380",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 8,
+      "lat": 51.5828494,
+      "lon": 6.9616732
+    },
+    "schule_2": {
+      "schulnummer": "167812",
+      "schultyp": "Gymnasium",
+      "sozialindex": 3,
+      "lat": 51.5757035,
+      "lon": 6.9867743
+    },
+    "differenz": 5,
+    "entfernung_km": 1.91,
+    "gradient": 2.62
+  },
+  {
+    "schule_1": {
+      "schulnummer": "190524",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 7,
+      "lat": 51.6243512,
+      "lon": 7.1890622
+    },
+    "schule_2": {
+      "schulnummer": "191425",
+      "schultyp": "Gymnasium",
+      "sozialindex": 4,
+      "lat": 51.6153231,
+      "lon": 7.1810269
+    },
+    "differenz": 3,
+    "entfernung_km": 1.15,
+    "gradient": 2.62
+  },
+  {
+    "schule_1": {
+      "schulnummer": "100046",
+      "schultyp": "Sekundarschule",
+      "sozialindex": 7,
+      "lat": 52.0111956,
+      "lon": 8.5541799
+    },
+    "schule_2": {
+      "schulnummer": "168555",
+      "schultyp": "Gymnasium",
+      "sozialindex": 2,
+      "lat": 52.0186597,
+      "lon": 8.5289951
+    },
+    "differenz": 5,
+    "entfernung_km": 1.91,
+    "gradient": 2.61
+  },
+  {
+    "schule_1": {
+      "schulnummer": "100042",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 4,
+      "lat": 51.5264152,
+      "lon": 6.3300265
+    },
+    "schule_2": {
+      "schulnummer": "165682",
+      "schultyp": "Gymnasium",
+      "sozialindex": 1,
+      "lat": 51.5160868,
+      "lon": 6.3302882
+    },
+    "differenz": 3,
+    "entfernung_km": 1.15,
+    "gradient": 2.61
+  },
+  {
+    "schule_1": {
+      "schulnummer": "137364",
+      "schultyp": "Hauptschule",
+      "sozialindex": 9,
+      "lat": 51.4743873,
+      "lon": 6.9668622
+    },
+    "schule_2": {
+      "schulnummer": "164744",
+      "schultyp": "Gymnasium",
+      "sozialindex": 5,
+      "lat": 51.472726,
+      "lon": 6.9448068
+    },
+    "differenz": 4,
+    "entfernung_km": 1.54,
+    "gradient": 2.6
+  },
+  {
+    "schule_1": {
+      "schulnummer": "159141",
+      "schultyp": "Realschule",
+      "sozialindex": 9,
+      "lat": 51.4667571,
+      "lon": 6.8513275
+    },
+    "schule_2": {
+      "schulnummer": "165207",
+      "schultyp": "Gymnasium",
+      "sozialindex": 6,
+      "lat": 51.4720635,
+      "lon": 6.8656339
+    },
+    "differenz": 3,
+    "entfernung_km": 1.15,
+    "gradient": 2.6
+  },
+  {
+    "schule_1": {
+      "schulnummer": "159050",
+      "schultyp": "Realschule",
+      "sozialindex": 8,
+      "lat": 51.1893506,
+      "lon": 6.4538453
+    },
+    "schule_2": {
+      "schulnummer": "165049",
+      "schultyp": "Gymnasium",
+      "sozialindex": 3,
+      "lat": 51.1937702,
+      "lon": 6.4270483
+    },
+    "differenz": 5,
+    "entfernung_km": 1.93,
+    "gradient": 2.59
+  },
+  {
+    "schule_1": {
+      "schulnummer": "189832",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 8,
+      "lat": 51.1912724,
+      "lon": 6.4544399
+    },
+    "schule_2": {
+      "schulnummer": "165049",
+      "schultyp": "Gymnasium",
+      "sozialindex": 3,
+      "lat": 51.1937702,
+      "lon": 6.4270483
+    },
+    "differenz": 5,
+    "entfernung_km": 1.93,
+    "gradient": 2.59
+  },
+  {
+    "schule_1": {
+      "schulnummer": "164914",
+      "schultyp": "Gymnasium",
+      "sozialindex": 4,
+      "lat": 51.3370177,
+      "lon": 6.5291244
+    },
+    "schule_2": {
+      "schulnummer": "164940",
+      "schultyp": "Gymnasium",
+      "sozialindex": 9,
+      "lat": 51.332021,
+      "lon": 6.5557182
+    },
+    "differenz": 5,
+    "entfernung_km": 1.93,
+    "gradient": 2.59
+  },
+  {
+    "schule_1": {
+      "schulnummer": "142359",
+      "schultyp": "Hauptschule",
+      "sozialindex": 8,
+      "lat": 50.7630961,
+      "lon": 6.1182392
+    },
+    "schule_2": {
+      "schulnummer": "167356",
+      "schultyp": "Gymnasium",
+      "sozialindex": 3,
+      "lat": 50.7567163,
+      "lon": 6.0926407
+    },
+    "differenz": 5,
+    "entfernung_km": 1.94,
+    "gradient": 2.58
+  },
+  {
+    "schule_1": {
+      "schulnummer": "186430",
+      "schultyp": "Realschule",
+      "sozialindex": 6,
+      "lat": 51.7028872,
+      "lon": 8.7604689
+    },
+    "schule_2": {
+      "schulnummer": "169055",
+      "schultyp": "Gymnasium",
+      "sozialindex": 2,
+      "lat": 51.7163217,
+      "lon": 8.7545552
+    },
+    "differenz": 4,
+    "entfernung_km": 1.55,
+    "gradient": 2.58
+  },
+  {
+    "schule_1": {
+      "schulnummer": "100066",
+      "schultyp": "Hauptschule",
+      "sozialindex": 9,
+      "lat": 51.5023037,
+      "lon": 7.0195881
+    },
+    "schule_2": {
+      "schulnummer": "164770",
+      "schultyp": "Gymnasium",
+      "sozialindex": 6,
+      "lat": 51.4925575,
+      "lon": 7.0132354
+    },
+    "differenz": 3,
+    "entfernung_km": 1.17,
+    "gradient": 2.57
+  },
+  {
+    "schule_1": {
+      "schulnummer": "159955",
+      "schultyp": "Realschule",
+      "sozialindex": 5,
+      "lat": 50.7140806,
+      "lon": 7.0372411
+    },
+    "schule_2": {
+      "schulnummer": "100174",
+      "schultyp": "Gymnasium",
+      "sozialindex": 2,
+      "lat": 50.7208551,
+      "lon": 7.0245224
+    },
+    "differenz": 3,
+    "entfernung_km": 1.17,
+    "gradient": 2.56
+  },
+  {
+    "schule_1": {
+      "schulnummer": "160787",
+      "schultyp": "Realschule",
+      "sozialindex": 8,
+      "lat": 50.7780084,
+      "lon": 6.1064791
+    },
+    "schule_2": {
+      "schulnummer": "160805",
+      "schultyp": "Realschule",
+      "sozialindex": 4,
+      "lat": 50.7642264,
+      "lon": 6.102204
+    },
+    "differenz": 4,
+    "entfernung_km": 1.56,
+    "gradient": 2.56
+  },
+  {
+    "schule_1": {
+      "schulnummer": "189078",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 8,
+      "lat": 51.474334,
+      "lon": 6.853499
+    },
+    "schule_2": {
+      "schulnummer": "165190",
+      "schultyp": "Gymnasium",
+      "sozialindex": 5,
+      "lat": 51.4771875,
+      "lon": 6.8698146
+    },
+    "differenz": 3,
+    "entfernung_km": 1.17,
+    "gradient": 2.56
+  },
+  {
+    "schule_1": {
+      "schulnummer": "194530",
+      "schultyp": "Realschule",
+      "sozialindex": 4,
+      "lat": 51.3665354,
+      "lon": 7.4927724
+    },
+    "schule_2": {
+      "schulnummer": "198808",
+      "schultyp": "Sekundarschule",
+      "sozialindex": 7,
+      "lat": 51.3586184,
+      "lon": 7.481505
+    },
+    "differenz": 3,
+    "entfernung_km": 1.18,
+    "gradient": 2.55
+  },
+  {
+    "schule_1": {
+      "schulnummer": "100131",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 5,
+      "lat": 51.2564902,
+      "lon": 6.9719814
+    },
+    "schule_2": {
+      "schulnummer": "165670",
+      "schultyp": "Gymnasium",
+      "sozialindex": 2,
+      "lat": 51.2660026,
+      "lon": 6.9646333
+    },
+    "differenz": 3,
+    "entfernung_km": 1.17,
+    "gradient": 2.55
+  },
+  {
+    "schule_1": {
+      "schulnummer": "188839",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 6,
+      "lat": 51.9075123,
+      "lon": 8.3612902
+    },
+    "schule_2": {
+      "schulnummer": "169109",
+      "schultyp": "Gymnasium",
+      "sozialindex": 3,
+      "lat": 51.9099296,
+      "lon": 8.3779774
+    },
+    "differenz": 3,
+    "entfernung_km": 1.18,
+    "gradient": 2.55
+  },
+  {
+    "schule_1": {
+      "schulnummer": "158823",
+      "schultyp": "Realschule",
+      "sozialindex": 4,
+      "lat": 51.443111,
+      "lon": 7.0394418
+    },
+    "schule_2": {
+      "schulnummer": "189080",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 9,
+      "lat": 51.4545585,
+      "lon": 7.017827
+    },
+    "differenz": 5,
+    "entfernung_km": 1.97,
+    "gradient": 2.54
+  },
+  {
+    "schule_1": {
+      "schulnummer": "199916",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 7,
+      "lat": 51.1471182,
+      "lon": 6.901997
+    },
+    "schule_2": {
+      "schulnummer": "164409",
+      "schultyp": "Gymnasium",
+      "sozialindex": 4,
+      "lat": 51.1499714,
+      "lon": 6.8856721
+    },
+    "differenz": 3,
+    "entfernung_km": 1.18,
+    "gradient": 2.54
+  },
+  {
+    "schule_1": {
+      "schulnummer": "142797",
+      "schultyp": "Hauptschule",
+      "sozialindex": 8,
+      "lat": 50.7893935,
+      "lon": 6.4924283
+    },
+    "schule_2": {
+      "schulnummer": "167526",
+      "schultyp": "Gymnasium",
+      "sozialindex": 3,
+      "lat": 50.8070445,
+      "lon": 6.4891963
+    },
+    "differenz": 5,
+    "entfernung_km": 1.98,
+    "gradient": 2.53
+  },
+  {
+    "schule_1": {
+      "schulnummer": "148544",
+      "schultyp": "Hauptschule",
+      "sozialindex": 6,
+      "lat": 51.6026859,
+      "lon": 7.5269287
+    },
+    "schule_2": {
+      "schulnummer": "169663",
+      "schultyp": "Gymnasium",
+      "sozialindex": 3,
+      "lat": 51.6108375,
+      "lon": 7.5158294
+    },
+    "differenz": 3,
+    "entfernung_km": 1.19,
+    "gradient": 2.53
+  },
+  {
+    "schule_1": {
+      "schulnummer": "161093",
+      "schultyp": "Realschule",
+      "sozialindex": 5,
+      "lat": 51.5224606,
+      "lon": 6.931732
+    },
+    "schule_2": {
+      "schulnummer": "167708",
+      "schultyp": "Gymnasium",
+      "sozialindex": 2,
+      "lat": 51.5248739,
+      "lon": 6.915004
+    },
+    "differenz": 3,
+    "entfernung_km": 1.19,
+    "gradient": 2.53
+  },
+  {
+    "schule_1": {
+      "schulnummer": "188890",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 5,
+      "lat": 51.1613866,
+      "lon": 7.0146938
+    },
+    "schule_2": {
+      "schulnummer": "165335",
+      "schultyp": "Gymnasium",
+      "sozialindex": 2,
+      "lat": 51.1715025,
+      "lon": 7.0200082
+    },
+    "differenz": 3,
+    "entfernung_km": 1.18,
+    "gradient": 2.53
+  },
+  {
+    "schule_1": {
+      "schulnummer": "141082",
+      "schultyp": "Hauptschule",
+      "sozialindex": 9,
+      "lat": 50.9604358,
+      "lon": 7.0229138
+    },
+    "schule_2": {
+      "schulnummer": "183726",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 6,
+      "lat": 50.9615211,
+      "lon": 7.0398263
+    },
+    "differenz": 3,
+    "entfernung_km": 1.19,
+    "gradient": 2.52
+  },
+  {
+    "schule_1": {
+      "schulnummer": "187008",
+      "schultyp": "Realschule",
+      "sozialindex": 5,
+      "lat": 51.5442598,
+      "lon": 7.0132541
+    },
+    "schule_2": {
+      "schulnummer": "188736",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 8,
+      "lat": 51.5350483,
+      "lon": 7.022133
+    },
+    "differenz": 3,
+    "entfernung_km": 1.19,
+    "gradient": 2.51
+  },
+  {
+    "schule_1": {
+      "schulnummer": "193501",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 5,
+      "lat": 51.4395543,
+      "lon": 6.9875875
+    },
+    "schule_2": {
+      "schulnummer": "164884",
+      "schultyp": "Gymnasium",
+      "sozialindex": 8,
+      "lat": 51.4499482,
+      "lon": 6.9831622
+    },
+    "differenz": 3,
+    "entfernung_km": 1.2,
+    "gradient": 2.51
+  },
+  {
+    "schule_1": {
+      "schulnummer": "137807",
+      "schultyp": "Hauptschule",
+      "sozialindex": 9,
+      "lat": 51.1990791,
+      "lon": 6.4610922
+    },
+    "schule_2": {
+      "schulnummer": "165062",
+      "schultyp": "Gymnasium",
+      "sozialindex": 4,
+      "lat": 51.1925987,
+      "lon": 6.4343304
+    },
+    "differenz": 5,
+    "entfernung_km": 2.0,
+    "gradient": 2.5
+  },
+  {
+    "schule_1": {
+      "schulnummer": "100046",
+      "schultyp": "Sekundarschule",
+      "sozialindex": 7,
+      "lat": 52.0111956,
+      "lon": 8.5541799
+    },
+    "schule_2": {
+      "schulnummer": "168531",
+      "schultyp": "Gymnasium",
+      "sozialindex": 2,
+      "lat": 52.0185875,
+      "lon": 8.527525
+    },
+    "differenz": 5,
+    "entfernung_km": 2.0,
+    "gradient": 2.5
+  },
+  {
+    "schule_1": {
+      "schulnummer": "198742",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 8,
+      "lat": 50.9472876,
+      "lon": 6.9897216
+    },
+    "schule_2": {
+      "schulnummer": "166625",
+      "schultyp": "Gymnasium",
+      "sozialindex": 4,
+      "lat": 50.95712,
+      "lon": 7.006487
+    },
+    "differenz": 4,
+    "entfernung_km": 1.6,
+    "gradient": 2.49
+  },
+  {
+    "schule_1": {
+      "schulnummer": "140960",
+      "schultyp": "Hauptschule",
+      "sozialindex": 8,
+      "lat": 50.9603534,
+      "lon": 6.9227162
+    },
+    "schule_2": {
+      "schulnummer": "100211",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 5,
+      "lat": 50.9712515,
+      "lon": 6.9226872
+    },
+    "differenz": 3,
+    "entfernung_km": 1.21,
+    "gradient": 2.48
+  },
+  {
+    "schule_1": {
+      "schulnummer": "160787",
+      "schultyp": "Realschule",
+      "sozialindex": 8,
+      "lat": 50.7780084,
+      "lon": 6.1064791
+    },
+    "schule_2": {
+      "schulnummer": "196290",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 5,
+      "lat": 50.779828,
+      "lon": 6.0893225
+    },
+    "differenz": 3,
+    "entfernung_km": 1.22,
+    "gradient": 2.45
+  },
+  {
+    "schule_1": {
+      "schulnummer": "136440",
+      "schultyp": "Hauptschule",
+      "sozialindex": 8,
+      "lat": 51.2238785,
+      "lon": 6.789964
+    },
+    "schule_2": {
+      "schulnummer": "164318",
+      "schultyp": "Gymnasium",
+      "sozialindex": 4,
+      "lat": 51.2343622,
+      "lon": 6.8065673
+    },
+    "differenz": 4,
+    "entfernung_km": 1.64,
+    "gradient": 2.44
+  },
+  {
+    "schule_1": {
+      "schulnummer": "100203",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 6,
+      "lat": 51.1906671,
+      "lon": 7.0787207
+    },
+    "schule_2": {
+      "schulnummer": "165360",
+      "schultyp": "Gymnasium",
+      "sozialindex": 3,
+      "lat": 51.1860497,
+      "lon": 7.0625726
+    },
+    "differenz": 3,
+    "entfernung_km": 1.24,
+    "gradient": 2.43
+  },
+  {
+    "schule_1": {
+      "schulnummer": "138393",
+      "schultyp": "Hauptschule",
+      "sozialindex": 8,
+      "lat": 51.1534393,
+      "lon": 6.4623906
+    },
+    "schule_2": {
+      "schulnummer": "165311",
+      "schultyp": "Gymnasium",
+      "sozialindex": 4,
+      "lat": 51.139042,
+      "lon": 6.4564389
+    },
+    "differenz": 4,
+    "entfernung_km": 1.65,
+    "gradient": 2.42
+  },
+  {
+    "schule_1": {
+      "schulnummer": "189698",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 5,
+      "lat": 51.0079679,
+      "lon": 7.618431
+    },
+    "schule_2": {
+      "schulnummer": "166960",
+      "schultyp": "Gymnasium",
+      "sozialindex": 1,
+      "lat": 51.0173037,
+      "lon": 7.6368577
+    },
+    "differenz": 4,
+    "entfernung_km": 1.66,
+    "gradient": 2.42
+  },
+  {
+    "schule_1": {
+      "schulnummer": "190524",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 7,
+      "lat": 51.6243512,
+      "lon": 7.1890622
+    },
+    "schule_2": {
+      "schulnummer": "167939",
+      "schultyp": "Gymnasium",
+      "sozialindex": 3,
+      "lat": 51.6095352,
+      "lon": 7.191144
+    },
+    "differenz": 4,
+    "entfernung_km": 1.65,
+    "gradient": 2.42
+  },
+  {
+    "schule_1": {
+      "schulnummer": "183854",
+      "schultyp": "Hauptschule",
+      "sozialindex": 9,
+      "lat": 51.023605,
+      "lon": 6.9062778
+    },
+    "schule_2": {
+      "schulnummer": "185255",
+      "schultyp": "Gymnasium",
+      "sozialindex": 5,
+      "lat": 51.0182682,
+      "lon": 6.88409
+    },
+    "differenz": 4,
+    "entfernung_km": 1.66,
+    "gradient": 2.41
+  },
+  {
+    "schule_1": {
+      "schulnummer": "192776",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 4,
+      "lat": 51.5577904,
+      "lon": 8.1068089
+    },
+    "schule_2": {
+      "schulnummer": "170409",
+      "schultyp": "Gymnasium",
+      "sozialindex": 1,
+      "lat": 51.5670477,
+      "lon": 8.1169904
+    },
+    "differenz": 3,
+    "entfernung_km": 1.25,
+    "gradient": 2.41
+  },
+  {
+    "schule_1": {
+      "schulnummer": "159670",
+      "schultyp": "Realschule",
+      "sozialindex": 6,
+      "lat": 51.2502576,
+      "lon": 6.3970706
+    },
+    "schule_2": {
+      "schulnummer": "165852",
+      "schultyp": "Gymnasium",
+      "sozialindex": 3,
+      "lat": 51.2563976,
+      "lon": 6.3819175
+    },
+    "differenz": 3,
+    "entfernung_km": 1.26,
+    "gradient": 2.39
+  },
+  {
+    "schule_1": {
+      "schulnummer": "184240",
+      "schultyp": "Realschule",
+      "sozialindex": 6,
+      "lat": 50.7016843,
+      "lon": 7.0538989
+    },
+    "schule_2": {
+      "schulnummer": "166315",
+      "schultyp": "Gymnasium",
+      "sozialindex": 2,
+      "lat": 50.6903211,
+      "lon": 7.0694146
+    },
+    "differenz": 4,
+    "entfernung_km": 1.67,
+    "gradient": 2.39
+  },
+  {
+    "schule_1": {
+      "schulnummer": "100153",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 5,
+      "lat": 51.4370199,
+      "lon": 7.3476144
+    },
+    "schule_2": {
+      "schulnummer": "169729",
+      "schultyp": "Gymnasium",
+      "sozialindex": 2,
+      "lat": 51.4420693,
+      "lon": 7.3313755
+    },
+    "differenz": 3,
+    "entfernung_km": 1.26,
+    "gradient": 2.39
+  },
+  {
+    "schule_1": {
+      "schulnummer": "140478",
+      "schultyp": "Hauptschule",
+      "sozialindex": 8,
+      "lat": 51.0646199,
+      "lon": 7.0053781
+    },
+    "schule_2": {
+      "schulnummer": "199527",
+      "schultyp": "Sekundarschule",
+      "sozialindex": 4,
+      "lat": 51.0671869,
+      "lon": 7.0290957
+    },
+    "differenz": 4,
+    "entfernung_km": 1.68,
+    "gradient": 2.38
+  },
+  {
+    "schule_1": {
+      "schulnummer": "141513",
+      "schultyp": "Hauptschule",
+      "sozialindex": 7,
+      "lat": 50.9019786,
+      "lon": 6.8095687
+    },
+    "schule_2": {
+      "schulnummer": "160416",
+      "schultyp": "Realschule",
+      "sozialindex": 4,
+      "lat": 50.912663,
+      "lon": 6.8036397
+    },
+    "differenz": 3,
+    "entfernung_km": 1.26,
+    "gradient": 2.38
+  },
+  {
+    "schule_1": {
+      "schulnummer": "162930",
+      "schultyp": "Realschule",
+      "sozialindex": 7,
+      "lat": 51.3835494,
+      "lon": 7.4685849
+    },
+    "schule_2": {
+      "schulnummer": "169481",
+      "schultyp": "Gymnasium",
+      "sozialindex": 3,
+      "lat": 51.3697097,
+      "lon": 7.4782651
+    },
+    "differenz": 4,
+    "entfernung_km": 1.68,
+    "gradient": 2.38
+  },
+  {
+    "schule_1": {
+      "schulnummer": "159189",
+      "schultyp": "Realschule",
+      "sozialindex": 5,
+      "lat": 51.1813205,
+      "lon": 7.1692612
+    },
+    "schule_2": {
+      "schulnummer": "189285",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 8,
+      "lat": 51.1791364,
+      "lon": 7.1871114
+    },
+    "differenz": 3,
+    "entfernung_km": 1.27,
+    "gradient": 2.37
+  },
+  {
+    "schule_1": {
+      "schulnummer": "198020",
+      "schultyp": "Sekundarschule",
+      "sozialindex": 5,
+      "lat": 51.4471116,
+      "lon": 7.9586671
+    },
+    "schule_2": {
+      "schulnummer": "194670",
+      "schultyp": "Gymnasium",
+      "sozialindex": 2,
+      "lat": 51.4371984,
+      "lon": 7.9676898
+    },
+    "differenz": 3,
+    "entfernung_km": 1.27,
+    "gradient": 2.37
+  },
+  {
+    "schule_1": {
+      "schulnummer": "198742",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 8,
+      "lat": 50.9472876,
+      "lon": 6.9897216
+    },
+    "schule_2": {
+      "schulnummer": "166650",
+      "schultyp": "Gymnasium",
+      "sozialindex": 4,
+      "lat": 50.9371751,
+      "lon": 7.0076857
+    },
+    "differenz": 4,
+    "entfernung_km": 1.69,
+    "gradient": 2.37
+  },
+  {
+    "schule_1": {
+      "schulnummer": "138629",
+      "schultyp": "Hauptschule",
+      "sozialindex": 9,
+      "lat": 51.2723202,
+      "lon": 7.2439399
+    },
+    "schule_2": {
+      "schulnummer": "165402",
+      "schultyp": "Gymnasium",
+      "sozialindex": 5,
+      "lat": 51.2776422,
+      "lon": 7.2208434
+    },
+    "differenz": 4,
+    "entfernung_km": 1.71,
+    "gradient": 2.34
+  },
+  {
+    "schule_1": {
+      "schulnummer": "193458",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 6,
+      "lat": 50.7661408,
+      "lon": 6.1033337
+    },
+    "schule_2": {
+      "schulnummer": "167356",
+      "schultyp": "Gymnasium",
+      "sozialindex": 3,
+      "lat": 50.7567163,
+      "lon": 6.0926407
+    },
+    "differenz": 3,
+    "entfernung_km": 1.29,
+    "gradient": 2.33
+  },
+  {
+    "schule_1": {
+      "schulnummer": "159141",
+      "schultyp": "Realschule",
+      "sozialindex": 9,
+      "lat": 51.4667571,
+      "lon": 6.8513275
+    },
+    "schule_2": {
+      "schulnummer": "165190",
+      "schultyp": "Gymnasium",
+      "sozialindex": 5,
+      "lat": 51.4771875,
+      "lon": 6.8698146
+    },
+    "differenz": 4,
+    "entfernung_km": 1.73,
+    "gradient": 2.32
+  },
+  {
+    "schule_1": {
+      "schulnummer": "196174",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 8,
+      "lat": 51.2112753,
+      "lon": 6.6752331
+    },
+    "schule_2": {
+      "schulnummer": "165130",
+      "schultyp": "Gymnasium",
+      "sozialindex": 4,
+      "lat": 51.196615,
+      "lon": 6.68339
+    },
+    "differenz": 4,
+    "entfernung_km": 1.73,
+    "gradient": 2.32
+  },
+  {
+    "schule_1": {
+      "schulnummer": "159050",
+      "schultyp": "Realschule",
+      "sozialindex": 8,
+      "lat": 51.1893506,
+      "lon": 6.4538453
+    },
+    "schule_2": {
+      "schulnummer": "165300",
+      "schultyp": "Gymnasium",
+      "sozialindex": 4,
+      "lat": 51.1742555,
+      "lon": 6.4477968
+    },
+    "differenz": 4,
+    "entfernung_km": 1.73,
+    "gradient": 2.31
+  },
+  {
+    "schule_1": {
+      "schulnummer": "189935",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 7,
+      "lat": 51.4844102,
+      "lon": 7.3013936
+    },
+    "schule_2": {
+      "schulnummer": "169183",
+      "schultyp": "Gymnasium",
+      "sozialindex": 3,
+      "lat": 51.4718894,
+      "lon": 7.31634
+    },
+    "differenz": 4,
+    "entfernung_km": 1.73,
+    "gradient": 2.31
+  },
+  {
+    "schule_1": {
+      "schulnummer": "162656",
+      "schultyp": "Realschule",
+      "sozialindex": 5,
+      "lat": 51.4791644,
+      "lon": 7.2363129
+    },
+    "schule_2": {
+      "schulnummer": "195947",
+      "schultyp": "Gymnasium",
+      "sozialindex": 2,
+      "lat": 51.4676705,
+      "lon": 7.2316495
+    },
+    "differenz": 3,
+    "entfernung_km": 1.32,
+    "gradient": 2.28
+  },
+  {
+    "schule_1": {
+      "schulnummer": "141483",
+      "schultyp": "Hauptschule",
+      "sozialindex": 7,
+      "lat": 50.8261266,
+      "lon": 6.8979357
+    },
+    "schule_2": {
+      "schulnummer": "193227",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 4,
+      "lat": 50.8145035,
+      "lon": 6.9017204
+    },
+    "differenz": 3,
+    "entfernung_km": 1.32,
+    "gradient": 2.27
+  },
+  {
+    "schule_1": {
+      "schulnummer": "140909",
+      "schultyp": "Hauptschule",
+      "sozialindex": 7,
+      "lat": 50.9323471,
+      "lon": 6.9506045
+    },
+    "schule_2": {
+      "schulnummer": "166571",
+      "schultyp": "Gymnasium",
+      "sozialindex": 3,
+      "lat": 50.9336983,
+      "lon": 6.9760306
+    },
+    "differenz": 4,
+    "entfernung_km": 1.79,
+    "gradient": 2.24
+  },
+  {
+    "schule_1": {
+      "schulnummer": "162747",
+      "schultyp": "Realschule",
+      "sozialindex": 6,
+      "lat": 51.5016511,
+      "lon": 7.4429935
+    },
+    "schule_2": {
+      "schulnummer": "169304",
+      "schultyp": "Gymnasium",
+      "sozialindex": 2,
+      "lat": 51.4898492,
+      "lon": 7.4605139
+    },
+    "differenz": 4,
+    "entfernung_km": 1.79,
+    "gradient": 2.24
+  },
+  {
+    "schule_1": {
+      "schulnummer": "136440",
+      "schultyp": "Hauptschule",
+      "sozialindex": 8,
+      "lat": 51.2238785,
+      "lon": 6.789964
+    },
+    "schule_2": {
+      "schulnummer": "100015",
+      "schultyp": "Gymnasium",
+      "sozialindex": 4,
+      "lat": 51.2111051,
+      "lon": 6.8057259
+    },
+    "differenz": 4,
+    "entfernung_km": 1.8,
+    "gradient": 2.23
+  },
+  {
+    "schule_1": {
+      "schulnummer": "140867",
+      "schultyp": "Hauptschule",
+      "sozialindex": 8,
+      "lat": 50.9686815,
+      "lon": 6.9321135
+    },
+    "schule_2": {
+      "schulnummer": "100205",
+      "schultyp": "Gymnasium",
+      "sozialindex": 5,
+      "lat": 50.9692355,
+      "lon": 6.9512946
+    },
+    "differenz": 3,
+    "entfernung_km": 1.34,
+    "gradient": 2.23
+  },
+  {
+    "schule_1": {
+      "schulnummer": "158690",
+      "schultyp": "Realschule",
+      "sozialindex": 6,
+      "lat": 51.2040247,
+      "lon": 6.811256
+    },
+    "schule_2": {
+      "schulnummer": "164458",
+      "schultyp": "Gymnasium",
+      "sozialindex": 3,
+      "lat": 51.204884,
+      "lon": 6.7919515
+    },
+    "differenz": 3,
+    "entfernung_km": 1.35,
+    "gradient": 2.23
+  },
+  {
+    "schule_1": {
+      "schulnummer": "164343",
+      "schultyp": "Gymnasium",
+      "sozialindex": 5,
+      "lat": 51.1671982,
+      "lon": 6.8641483
+    },
+    "schule_2": {
+      "schulnummer": "164355",
+      "schultyp": "Gymnasium",
+      "sozialindex": 2,
+      "lat": 51.1587076,
+      "lon": 6.8779628
+    },
+    "differenz": 3,
+    "entfernung_km": 1.35,
+    "gradient": 2.22
+  },
+  {
+    "schule_1": {
+      "schulnummer": "148519",
+      "schultyp": "Hauptschule",
+      "sozialindex": 9,
+      "lat": 51.3756367,
+      "lon": 7.6881668
+    },
+    "schule_2": {
+      "schulnummer": "183260",
+      "schultyp": "Realschule",
+      "sozialindex": 5,
+      "lat": 51.3899014,
+      "lon": 7.7007672
+    },
+    "differenz": 4,
+    "entfernung_km": 1.81,
+    "gradient": 2.21
+  },
+  {
+    "schule_1": {
+      "schulnummer": "198304",
+      "schultyp": "Sekundarschule",
+      "sozialindex": 6,
+      "lat": 52.2971368,
+      "lon": 7.4448133
+    },
+    "schule_2": {
+      "schulnummer": "168373",
+      "schultyp": "Gymnasium",
+      "sozialindex": 2,
+      "lat": 52.282924,
+      "lon": 7.4318446
+    },
+    "differenz": 4,
+    "entfernung_km": 1.81,
+    "gradient": 2.21
+  },
+  {
+    "schule_1": {
+      "schulnummer": "138368",
+      "schultyp": "Hauptschule",
+      "sozialindex": 9,
+      "lat": 51.1403645,
+      "lon": 6.4578109
+    },
+    "schule_2": {
+      "schulnummer": "193355",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 6,
+      "lat": 51.1527392,
+      "lon": 6.4564645
+    },
+    "differenz": 3,
+    "entfernung_km": 1.38,
+    "gradient": 2.18
+  },
+  {
+    "schule_1": {
+      "schulnummer": "189868",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 5,
+      "lat": 51.2005676,
+      "lon": 6.6850614
+    },
+    "schule_2": {
+      "schulnummer": "196174",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 8,
+      "lat": 51.2112753,
+      "lon": 6.6752331
+    },
+    "differenz": 3,
+    "entfernung_km": 1.37,
+    "gradient": 2.18
+  },
+  {
+    "schule_1": {
+      "schulnummer": "162899",
+      "schultyp": "Realschule",
+      "sozialindex": 4,
+      "lat": 51.5172486,
+      "lon": 7.409914
+    },
+    "schule_2": {
+      "schulnummer": "188827",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 8,
+      "lat": 51.5337093,
+      "lon": 7.4063159
+    },
+    "differenz": 4,
+    "entfernung_km": 1.85,
+    "gradient": 2.17
+  },
+  {
+    "schule_1": {
+      "schulnummer": "198122",
+      "schultyp": "Sekundarschule",
+      "sozialindex": 5,
+      "lat": 51.1734246,
+      "lon": 7.2047097
+    },
+    "schule_2": {
+      "schulnummer": "189285",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 8,
+      "lat": 51.1791364,
+      "lon": 7.1871114
+    },
+    "differenz": 3,
+    "entfernung_km": 1.38,
+    "gradient": 2.17
+  },
+  {
+    "schule_1": {
+      "schulnummer": "100207",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 6,
+      "lat": 51.4691388,
+      "lon": 6.8817133
+    },
+    "schule_2": {
+      "schulnummer": "189844",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 9,
+      "lat": 51.4733583,
+      "lon": 6.8629392
+    },
+    "differenz": 3,
+    "entfernung_km": 1.38,
+    "gradient": 2.17
+  },
+  {
+    "schule_1": {
+      "schulnummer": "141021",
+      "schultyp": "Hauptschule",
+      "sozialindex": 7,
+      "lat": 50.948176,
+      "lon": 6.9628236
+    },
+    "schule_2": {
+      "schulnummer": "166571",
+      "schultyp": "Gymnasium",
+      "sozialindex": 3,
+      "lat": 50.9336983,
+      "lon": 6.9760306
+    },
+    "differenz": 4,
+    "entfernung_km": 1.86,
+    "gradient": 2.15
+  },
+  {
+    "schule_1": {
+      "schulnummer": "158884",
+      "schultyp": "Realschule",
+      "sozialindex": 6,
+      "lat": 51.4452858,
+      "lon": 7.0733423
+    },
+    "schule_2": {
+      "schulnummer": "184640",
+      "schultyp": "Gymnasium",
+      "sozialindex": 3,
+      "lat": 51.4327933,
+      "lon": 7.0717439
+    },
+    "differenz": 3,
+    "entfernung_km": 1.39,
+    "gradient": 2.15
+  },
+  {
+    "schule_1": {
+      "schulnummer": "136359",
+      "schultyp": "Hauptschule",
+      "sozialindex": 8,
+      "lat": 51.2097083,
+      "lon": 6.7788758
+    },
+    "schule_2": {
+      "schulnummer": "100015",
+      "schultyp": "Gymnasium",
+      "sozialindex": 4,
+      "lat": 51.2111051,
+      "lon": 6.8057259
+    },
+    "differenz": 4,
+    "entfernung_km": 1.88,
+    "gradient": 2.13
+  },
+  {
+    "schule_1": {
+      "schulnummer": "158665",
+      "schultyp": "Realschule",
+      "sozialindex": 6,
+      "lat": 51.2167351,
+      "lon": 6.784831
+    },
+    "schule_2": {
+      "schulnummer": "164458",
+      "schultyp": "Gymnasium",
+      "sozialindex": 3,
+      "lat": 51.204884,
+      "lon": 6.7919515
+    },
+    "differenz": 3,
+    "entfernung_km": 1.41,
+    "gradient": 2.13
+  },
+  {
+    "schule_1": {
+      "schulnummer": "158896",
+      "schultyp": "Realschule",
+      "sozialindex": 8,
+      "lat": 51.4521165,
+      "lon": 6.9852826
+    },
+    "schule_2": {
+      "schulnummer": "193501",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 5,
+      "lat": 51.4395543,
+      "lon": 6.9875875
+    },
+    "differenz": 3,
+    "entfernung_km": 1.41,
+    "gradient": 2.13
+  },
+  {
+    "schule_1": {
+      "schulnummer": "159086",
+      "schultyp": "Realschule",
+      "sozialindex": 9,
+      "lat": 51.425111,
+      "lon": 6.8953199
+    },
+    "schule_2": {
+      "schulnummer": "159104",
+      "schultyp": "Realschule",
+      "sozialindex": 5,
+      "lat": 51.441356,
+      "lon": 6.8881205
+    },
+    "differenz": 4,
+    "entfernung_km": 1.87,
+    "gradient": 2.13
+  },
+  {
+    "schule_1": {
+      "schulnummer": "147898",
+      "schultyp": "Hauptschule",
+      "sozialindex": 9,
+      "lat": 51.5548747,
+      "lon": 7.4672766
+    },
+    "schule_2": {
+      "schulnummer": "169286",
+      "schultyp": "Gymnasium",
+      "sozialindex": 5,
+      "lat": 51.5525805,
+      "lon": 7.4943501
+    },
+    "differenz": 4,
+    "entfernung_km": 1.89,
+    "gradient": 2.12
+  },
+  {
+    "schule_1": {
+      "schulnummer": "136440",
+      "schultyp": "Hauptschule",
+      "sozialindex": 8,
+      "lat": 51.2238785,
+      "lon": 6.789964
+    },
+    "schule_2": {
+      "schulnummer": "158574",
+      "schultyp": "Realschule",
+      "sozialindex": 4,
+      "lat": 51.2114183,
+      "lon": 6.7713059
+    },
+    "differenz": 4,
+    "entfernung_km": 1.9,
+    "gradient": 2.11
+  },
+  {
+    "schule_1": {
+      "schulnummer": "138848",
+      "schultyp": "Hauptschule",
+      "sozialindex": 8,
+      "lat": 51.5283574,
+      "lon": 6.7480138
+    },
+    "schule_2": {
+      "schulnummer": "193719",
+      "schultyp": "Realschule",
+      "sozialindex": 5,
+      "lat": 51.5156647,
+      "lon": 6.7506555
+    },
+    "differenz": 3,
+    "entfernung_km": 1.42,
+    "gradient": 2.11
+  },
+  {
+    "schule_1": {
+      "schulnummer": "160106",
+      "schultyp": "Realschule",
+      "sozialindex": 8,
+      "lat": 51.1731549,
+      "lon": 7.2136475
+    },
+    "schule_2": {
+      "schulnummer": "165270",
+      "schultyp": "Gymnasium",
+      "sozialindex": 4,
+      "lat": 51.1825454,
+      "lon": 7.1910056
+    },
+    "differenz": 4,
+    "entfernung_km": 1.89,
+    "gradient": 2.11
+  },
+  {
+    "schule_1": {
+      "schulnummer": "147102",
+      "schultyp": "Hauptschule",
+      "sozialindex": 7,
+      "lat": 51.7518276,
+      "lon": 8.7378204
+    },
+    "schule_2": {
+      "schulnummer": "162530",
+      "schultyp": "Realschule",
+      "sozialindex": 3,
+      "lat": 51.7454824,
+      "lon": 8.7120871
+    },
+    "differenz": 4,
+    "entfernung_km": 1.91,
+    "gradient": 2.1
+  },
+  {
+    "schule_1": {
+      "schulnummer": "159281",
+      "schultyp": "Realschule",
+      "sozialindex": 8,
+      "lat": 51.2738948,
+      "lon": 7.1934478
+    },
+    "schule_2": {
+      "schulnummer": "165451",
+      "schultyp": "Gymnasium",
+      "sozialindex": 4,
+      "lat": 51.2579937,
+      "lon": 7.1831254
+    },
+    "differenz": 4,
+    "entfernung_km": 1.91,
+    "gradient": 2.1
+  },
+  {
+    "schule_1": {
+      "schulnummer": "160076",
+      "schultyp": "Realschule",
+      "sozialindex": 5,
+      "lat": 50.9526975,
+      "lon": 6.9213859
+    },
+    "schule_2": {
+      "schulnummer": "166601",
+      "schultyp": "Gymnasium",
+      "sozialindex": 2,
+      "lat": 50.9402441,
+      "lon": 6.9267993
+    },
+    "differenz": 3,
+    "entfernung_km": 1.44,
+    "gradient": 2.09
+  },
+  {
+    "schule_1": {
+      "schulnummer": "137807",
+      "schultyp": "Hauptschule",
+      "sozialindex": 9,
+      "lat": 51.1990791,
+      "lon": 6.4610922
+    },
+    "schule_2": {
+      "schulnummer": "165050",
+      "schultyp": "Gymnasium",
+      "sozialindex": 5,
+      "lat": 51.1889739,
+      "lon": 6.4385826
+    },
+    "differenz": 4,
+    "entfernung_km": 1.93,
+    "gradient": 2.07
+  },
+  {
+    "schule_1": {
+      "schulnummer": "100185",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 5,
+      "lat": 51.2332531,
+      "lon": 6.7073324
+    },
+    "schule_2": {
+      "schulnummer": "165761",
+      "schultyp": "Gymnasium",
+      "sozialindex": 2,
+      "lat": 51.2412161,
+      "lon": 6.6908402
+    },
+    "differenz": 3,
+    "entfernung_km": 1.45,
+    "gradient": 2.07
+  },
+  {
+    "schule_1": {
+      "schulnummer": "148349",
+      "schultyp": "Hauptschule",
+      "sozialindex": 9,
+      "lat": 51.6939124,
+      "lon": 7.8094071
+    },
+    "schule_2": {
+      "schulnummer": "189250",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 5,
+      "lat": 51.6811058,
+      "lon": 7.8284967
+    },
+    "differenz": 4,
+    "entfernung_km": 1.94,
+    "gradient": 2.06
+  },
+  {
+    "schule_1": {
+      "schulnummer": "188232",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 7,
+      "lat": 51.2452287,
+      "lon": 6.8183349
+    },
+    "schule_2": {
+      "schulnummer": "164318",
+      "schultyp": "Gymnasium",
+      "sozialindex": 4,
+      "lat": 51.2343622,
+      "lon": 6.8065673
+    },
+    "differenz": 3,
+    "entfernung_km": 1.46,
+    "gradient": 2.06
+  },
+  {
+    "schule_1": {
+      "schulnummer": "136359",
+      "schultyp": "Hauptschule",
+      "sozialindex": 8,
+      "lat": 51.2097083,
+      "lon": 6.7788758
+    },
+    "schule_2": {
+      "schulnummer": "164483",
+      "schultyp": "Gymnasium",
+      "sozialindex": 5,
+      "lat": 51.2163925,
+      "lon": 6.7969645
+    },
+    "differenz": 3,
+    "entfernung_km": 1.46,
+    "gradient": 2.05
+  },
+  {
+    "schule_1": {
+      "schulnummer": "187793",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 5,
+      "lat": 51.4886665,
+      "lon": 6.7655257
+    },
+    "schule_2": {
+      "schulnummer": "192405",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 9,
+      "lat": 51.5025551,
+      "lon": 6.7482959
+    },
+    "differenz": 4,
+    "entfernung_km": 1.95,
+    "gradient": 2.05
+  },
+  {
+    "schule_1": {
+      "schulnummer": "189832",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 8,
+      "lat": 51.1912724,
+      "lon": 6.4544399
+    },
+    "schule_2": {
+      "schulnummer": "165300",
+      "schultyp": "Gymnasium",
+      "sozialindex": 4,
+      "lat": 51.1742555,
+      "lon": 6.4477968
+    },
+    "differenz": 4,
+    "entfernung_km": 1.95,
+    "gradient": 2.05
+  },
+  {
+    "schule_1": {
+      "schulnummer": "100212",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 6,
+      "lat": 50.9495159,
+      "lon": 6.8769996
+    },
+    "schule_2": {
+      "schulnummer": "100147",
+      "schultyp": "Gymnasium",
+      "sozialindex": 2,
+      "lat": 50.9373485,
+      "lon": 6.897123
+    },
+    "differenz": 4,
+    "entfernung_km": 1.95,
+    "gradient": 2.05
+  },
+  {
+    "schule_1": {
+      "schulnummer": "138538",
+      "schultyp": "Hauptschule",
+      "sozialindex": 6,
+      "lat": 51.2528963,
+      "lon": 7.1350657
+    },
+    "schule_2": {
+      "schulnummer": "159270",
+      "schultyp": "Realschule",
+      "sozialindex": 9,
+      "lat": 51.2641253,
+      "lon": 7.1464399
+    },
+    "differenz": 3,
+    "entfernung_km": 1.48,
+    "gradient": 2.03
+  },
+  {
+    "schule_1": {
+      "schulnummer": "139993",
+      "schultyp": "Hauptschule",
+      "sozialindex": 9,
+      "lat": 51.4545092,
+      "lon": 6.6537988
+    },
+    "schule_2": {
+      "schulnummer": "159773",
+      "schultyp": "Realschule",
+      "sozialindex": 6,
+      "lat": 51.4463898,
+      "lon": 6.6367276
+    },
+    "differenz": 3,
+    "entfernung_km": 1.49,
+    "gradient": 2.02
+  },
+  {
+    "schule_1": {
+      "schulnummer": "140685",
+      "schultyp": "Hauptschule",
+      "sozialindex": 7,
+      "lat": 50.7515281,
+      "lon": 7.0762832
+    },
+    "schule_2": {
+      "schulnummer": "195728",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 4,
+      "lat": 50.7462574,
+      "lon": 7.0957191
+    },
+    "differenz": 3,
+    "entfernung_km": 1.49,
+    "gradient": 2.02
+  },
+  {
+    "schule_1": {
+      "schulnummer": "161111",
+      "schultyp": "Realschule",
+      "sozialindex": 9,
+      "lat": 51.5068287,
+      "lon": 7.0938764
+    },
+    "schule_2": {
+      "schulnummer": "167733",
+      "schultyp": "Gymnasium",
+      "sozialindex": 6,
+      "lat": 51.5151021,
+      "lon": 7.1107223
+    },
+    "differenz": 3,
+    "entfernung_km": 1.49,
+    "gradient": 2.02
+  },
+  {
+    "schule_1": {
+      "schulnummer": "161974",
+      "schultyp": "Realschule",
+      "sozialindex": 7,
+      "lat": 52.0268789,
+      "lon": 8.5366298
+    },
+    "schule_2": {
+      "schulnummer": "168520",
+      "schultyp": "Gymnasium",
+      "sozialindex": 4,
+      "lat": 52.01559,
+      "lon": 8.5481572
+    },
+    "differenz": 3,
+    "entfernung_km": 1.48,
+    "gradient": 2.02
+  },
+  {
+    "schule_1": {
+      "schulnummer": "140909",
+      "schultyp": "Hauptschule",
+      "sozialindex": 7,
+      "lat": 50.9323471,
+      "lon": 6.9506045
+    },
+    "schule_2": {
+      "schulnummer": "160260",
+      "schultyp": "Realschule",
+      "sozialindex": 4,
+      "lat": 50.9457088,
+      "lon": 6.9490756
+    },
+    "differenz": 3,
+    "entfernung_km": 1.49,
+    "gradient": 2.01
+  },
+  {
+    "schule_1": {
+      "schulnummer": "163326",
+      "schultyp": "Realschule",
+      "sozialindex": 5,
+      "lat": 51.3911833,
+      "lon": 7.1860309
+    },
+    "schule_2": {
+      "schulnummer": "169973",
+      "schultyp": "Gymnasium",
+      "sozialindex": 2,
+      "lat": 51.3971013,
+      "lon": 7.2053177
+    },
+    "differenz": 3,
+    "entfernung_km": 1.49,
+    "gradient": 2.01
+  },
+  {
+    "schule_1": {
+      "schulnummer": "188499",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 5,
+      "lat": 51.4316312,
+      "lon": 6.7882849
+    },
+    "schule_2": {
+      "schulnummer": "193252",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 9,
+      "lat": 51.4291486,
+      "lon": 6.7598832
+    },
+    "differenz": 4,
+    "entfernung_km": 1.99,
+    "gradient": 2.01
+  },
+  {
+    "schule_1": {
+      "schulnummer": "165438",
+      "schultyp": "Gymnasium",
+      "sozialindex": 4,
+      "lat": 51.253863,
+      "lon": 7.1439482
+    },
+    "schule_2": {
+      "schulnummer": "165463",
+      "schultyp": "Gymnasium",
+      "sozialindex": 8,
+      "lat": 51.2639713,
+      "lon": 7.1675109
+    },
+    "differenz": 4,
+    "entfernung_km": 1.99,
+    "gradient": 2.01
+  },
+  {
+    "schule_1": {
+      "schulnummer": "193458",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 6,
+      "lat": 50.7661408,
+      "lon": 6.1033337
+    },
+    "schule_2": {
+      "schulnummer": "167319",
+      "schultyp": "Gymnasium",
+      "sozialindex": 3,
+      "lat": 50.7576138,
+      "lon": 6.0867685
+    },
+    "differenz": 3,
+    "entfernung_km": 1.5,
+    "gradient": 2.0
+  },
+  {
+    "schule_1": {
+      "schulnummer": "197877",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 6,
+      "lat": 50.979302,
+      "lon": 7.1264328
+    },
+    "schule_2": {
+      "schulnummer": "167022",
+      "schultyp": "Gymnasium",
+      "sozialindex": 2,
+      "lat": 50.9626021,
+      "lon": 7.1369299
+    },
+    "differenz": 4,
+    "entfernung_km": 2.0,
+    "gradient": 2.0
+  },
+  {
+    "schule_1": {
+      "schulnummer": "189730",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 6,
+      "lat": 51.577753,
+      "lon": 7.04366
+    },
+    "schule_2": {
+      "schulnummer": "167757",
+      "schultyp": "Gymnasium",
+      "sozialindex": 3,
+      "lat": 51.5813835,
+      "lon": 7.0645732
+    },
+    "differenz": 3,
+    "entfernung_km": 1.5,
+    "gradient": 2.0
+  },
+  {
+    "schule_1": {
+      "schulnummer": "192820",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 7,
+      "lat": 51.5018499,
+      "lon": 7.4046182
+    },
+    "schule_2": {
+      "schulnummer": "169353",
+      "schultyp": "Gymnasium",
+      "sozialindex": 4,
+      "lat": 51.5148979,
+      "lon": 7.4101625
+    },
+    "differenz": 3,
+    "entfernung_km": 1.5,
+    "gradient": 2.0
+  },
+  {
+    "schule_1": {
+      "schulnummer": "163089",
+      "schultyp": "Realschule",
+      "sozialindex": 6,
+      "lat": 51.4609697,
+      "lon": 7.162903
+    },
+    "schule_2": {
+      "schulnummer": "169705",
+      "schultyp": "Gymnasium",
+      "sozialindex": 3,
+      "lat": 51.4716084,
+      "lon": 7.1491693
+    },
+    "differenz": 3,
+    "entfernung_km": 1.52,
+    "gradient": 1.98
+  },
+  {
+    "schule_1": {
+      "schulnummer": "136566",
+      "schultyp": "Hauptschule",
+      "sozialindex": 9,
+      "lat": 51.2627001,
+      "lon": 6.808316
+    },
+    "schule_2": {
+      "schulnummer": "100186",
+      "schultyp": "Realschule",
+      "sozialindex": 6,
+      "lat": 51.2723293,
+      "lon": 6.7927364
+    },
+    "differenz": 3,
+    "entfernung_km": 1.52,
+    "gradient": 1.97
+  },
+  {
+    "schule_1": {
+      "schulnummer": "140545",
+      "schultyp": "Hauptschule",
+      "sozialindex": 6,
+      "lat": 50.7243057,
+      "lon": 7.0714723
+    },
+    "schule_2": {
+      "schulnummer": "159980",
+      "schultyp": "Realschule",
+      "sozialindex": 3,
+      "lat": 50.7168902,
+      "lon": 7.0898545
+    },
+    "differenz": 3,
+    "entfernung_km": 1.53,
+    "gradient": 1.96
+  },
+  {
+    "schule_1": {
+      "schulnummer": "148015",
+      "schultyp": "Hauptschule",
+      "sozialindex": 9,
+      "lat": 51.5715445,
+      "lon": 7.382117
+    },
+    "schule_2": {
+      "schulnummer": "162851",
+      "schultyp": "Realschule",
+      "sozialindex": 6,
+      "lat": 51.5591793,
+      "lon": 7.3917934
+    },
+    "differenz": 3,
+    "entfernung_km": 1.53,
+    "gradient": 1.96
+  },
+  {
+    "schule_1": {
+      "schulnummer": "197026",
+      "schultyp": "Sekundarschule",
+      "sozialindex": 4,
+      "lat": 51.3848792,
+      "lon": 7.3975708
+    },
+    "schule_2": {
+      "schulnummer": "170010",
+      "schultyp": "Gymnasium",
+      "sozialindex": 1,
+      "lat": 51.3857179,
+      "lon": 7.3755109
+    },
+    "differenz": 3,
+    "entfernung_km": 1.53,
+    "gradient": 1.96
+  },
+  {
+    "schule_1": {
+      "schulnummer": "189297",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 6,
+      "lat": 51.3380008,
+      "lon": 7.0376846
+    },
+    "schule_2": {
+      "schulnummer": "165633",
+      "schultyp": "Gymnasium",
+      "sozialindex": 3,
+      "lat": 51.3425515,
+      "lon": 7.0168751
+    },
+    "differenz": 3,
+    "entfernung_km": 1.53,
+    "gradient": 1.96
+  },
+  {
+    "schule_1": {
+      "schulnummer": "158630",
+      "schultyp": "Realschule",
+      "sozialindex": 6,
+      "lat": 51.2088692,
+      "lon": 6.7881444
+    },
+    "schule_2": {
+      "schulnummer": "164446",
+      "schultyp": "Gymnasium",
+      "sozialindex": 3,
+      "lat": 51.2212184,
+      "lon": 6.7777021
+    },
+    "differenz": 3,
+    "entfernung_km": 1.55,
+    "gradient": 1.93
+  },
+  {
+    "schule_1": {
+      "schulnummer": "196186",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 6,
+      "lat": 51.2013053,
+      "lon": 6.4082419
+    },
+    "schule_2": {
+      "schulnummer": "165049",
+      "schultyp": "Gymnasium",
+      "sozialindex": 3,
+      "lat": 51.1937702,
+      "lon": 6.4270483
+    },
+    "differenz": 3,
+    "entfernung_km": 1.56,
+    "gradient": 1.93
+  },
+  {
+    "schule_1": {
+      "schulnummer": "189730",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 6,
+      "lat": 51.577753,
+      "lon": 7.04366
+    },
+    "schule_2": {
+      "schulnummer": "167745",
+      "schultyp": "Gymnasium",
+      "sozialindex": 3,
+      "lat": 51.5806447,
+      "lon": 7.0656704
+    },
+    "differenz": 3,
+    "entfernung_km": 1.55,
+    "gradient": 1.93
+  },
+  {
+    "schule_1": {
+      "schulnummer": "136281",
+      "schultyp": "Hauptschule",
+      "sozialindex": 7,
+      "lat": 51.2463826,
+      "lon": 6.8234308
+    },
+    "schule_2": {
+      "schulnummer": "164537",
+      "schultyp": "Gymnasium",
+      "sozialindex": 4,
+      "lat": 51.2590094,
+      "lon": 6.8136281
+    },
+    "differenz": 3,
+    "entfernung_km": 1.56,
+    "gradient": 1.92
+  },
+  {
+    "schule_1": {
+      "schulnummer": "188232",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 7,
+      "lat": 51.2452287,
+      "lon": 6.8183349
+    },
+    "schule_2": {
+      "schulnummer": "164537",
+      "schultyp": "Gymnasium",
+      "sozialindex": 4,
+      "lat": 51.2590094,
+      "lon": 6.8136281
+    },
+    "differenz": 3,
+    "entfernung_km": 1.57,
+    "gradient": 1.91
+  },
+  {
+    "schule_1": {
+      "schulnummer": "141240",
+      "schultyp": "Hauptschule",
+      "sozialindex": 7,
+      "lat": 50.9128855,
+      "lon": 6.7134581
+    },
+    "schule_2": {
+      "schulnummer": "160313",
+      "schultyp": "Realschule",
+      "sozialindex": 4,
+      "lat": 50.9108806,
+      "lon": 6.691211
+    },
+    "differenz": 3,
+    "entfernung_km": 1.58,
+    "gradient": 1.9
+  },
+  {
+    "schule_1": {
+      "schulnummer": "141240",
+      "schultyp": "Hauptschule",
+      "sozialindex": 7,
+      "lat": 50.9128855,
+      "lon": 6.7134581
+    },
+    "schule_2": {
+      "schulnummer": "191942",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 4,
+      "lat": 50.9108806,
+      "lon": 6.691211
+    },
+    "differenz": 3,
+    "entfernung_km": 1.58,
+    "gradient": 1.9
+  },
+  {
+    "schule_1": {
+      "schulnummer": "158665",
+      "schultyp": "Realschule",
+      "sozialindex": 6,
+      "lat": 51.2167351,
+      "lon": 6.784831
+    },
+    "schule_2": {
+      "schulnummer": "164320",
+      "schultyp": "Gymnasium",
+      "sozialindex": 3,
+      "lat": 51.2302126,
+      "lon": 6.7920364
+    },
+    "differenz": 3,
+    "entfernung_km": 1.58,
+    "gradient": 1.9
+  },
+  {
+    "schule_1": {
+      "schulnummer": "161974",
+      "schultyp": "Realschule",
+      "sozialindex": 7,
+      "lat": 52.0268789,
+      "lon": 8.5366298
+    },
+    "schule_2": {
+      "schulnummer": "161998",
+      "schultyp": "Realschule",
+      "sozialindex": 4,
+      "lat": 52.0314312,
+      "lon": 8.5148185
+    },
+    "differenz": 3,
+    "entfernung_km": 1.58,
+    "gradient": 1.9
+  },
+  {
+    "schule_1": {
+      "schulnummer": "198365",
+      "schultyp": "Sekundarschule",
+      "sozialindex": 6,
+      "lat": 51.5456895,
+      "lon": 7.3093293
+    },
+    "schule_2": {
+      "schulnummer": "169249",
+      "schultyp": "Gymnasium",
+      "sozialindex": 3,
+      "lat": 51.5597524,
+      "lon": 7.3122287
+    },
+    "differenz": 3,
+    "entfernung_km": 1.58,
+    "gradient": 1.9
+  },
+  {
+    "schule_1": {
+      "schulnummer": "187770",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 8,
+      "lat": 51.4826714,
+      "lon": 7.2136974
+    },
+    "schule_2": {
+      "schulnummer": "188311",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 5,
+      "lat": 51.4965165,
+      "lon": 7.2190103
+    },
+    "differenz": 3,
+    "entfernung_km": 1.58,
+    "gradient": 1.9
+  },
+  {
+    "schule_1": {
+      "schulnummer": "199825",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 5,
+      "lat": 51.4446413,
+      "lon": 7.5478764
+    },
+    "schule_2": {
+      "schulnummer": "170082",
+      "schultyp": "Gymnasium",
+      "sozialindex": 2,
+      "lat": 51.4433462,
+      "lon": 7.5705202
+    },
+    "differenz": 3,
+    "entfernung_km": 1.58,
+    "gradient": 1.9
+  },
+  {
+    "schule_1": {
+      "schulnummer": "193458",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 6,
+      "lat": 50.7661408,
+      "lon": 6.1033337
+    },
+    "schule_2": {
+      "schulnummer": "167368",
+      "schultyp": "Gymnasium",
+      "sozialindex": 3,
+      "lat": 50.7730203,
+      "lon": 6.083587
+    },
+    "differenz": 3,
+    "entfernung_km": 1.59,
+    "gradient": 1.89
+  },
+  {
+    "schule_1": {
+      "schulnummer": "159967",
+      "schultyp": "Realschule",
+      "sozialindex": 6,
+      "lat": 50.7500176,
+      "lon": 7.1257919
+    },
+    "schule_2": {
+      "schulnummer": "185310",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 3,
+      "lat": 50.7501306,
+      "lon": 7.1486037
+    },
+    "differenz": 3,
+    "entfernung_km": 1.6,
+    "gradient": 1.87
+  },
+  {
+    "schule_1": {
+      "schulnummer": "160180",
+      "schultyp": "Realschule",
+      "sozialindex": 7,
+      "lat": 50.9589519,
+      "lon": 7.0012852
+    },
+    "schule_2": {
+      "schulnummer": "166686",
+      "schultyp": "Gymnasium",
+      "sozialindex": 4,
+      "lat": 50.9519763,
+      "lon": 7.0212853
+    },
+    "differenz": 3,
+    "entfernung_km": 1.6,
+    "gradient": 1.87
+  },
+  {
+    "schule_1": {
+      "schulnummer": "162656",
+      "schultyp": "Realschule",
+      "sozialindex": 5,
+      "lat": 51.4791644,
+      "lon": 7.2363129
+    },
+    "schule_2": {
+      "schulnummer": "187770",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 8,
+      "lat": 51.4826714,
+      "lon": 7.2136974
+    },
+    "differenz": 3,
+    "entfernung_km": 1.61,
+    "gradient": 1.86
+  },
+  {
+    "schule_1": {
+      "schulnummer": "140867",
+      "schultyp": "Hauptschule",
+      "sozialindex": 8,
+      "lat": 50.9686815,
+      "lon": 6.9321135
+    },
+    "schule_2": {
+      "schulnummer": "160120",
+      "schultyp": "Realschule",
+      "sozialindex": 5,
+      "lat": 50.9714292,
+      "lon": 6.9551147
+    },
+    "differenz": 3,
+    "entfernung_km": 1.64,
+    "gradient": 1.83
+  },
+  {
+    "schule_1": {
+      "schulnummer": "159244",
+      "schultyp": "Realschule",
+      "sozialindex": 5,
+      "lat": 51.1860497,
+      "lon": 7.0625726
+    },
+    "schule_2": {
+      "schulnummer": "190913",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 2,
+      "lat": 51.1837458,
+      "lon": 7.0393354
+    },
+    "differenz": 3,
+    "entfernung_km": 1.64,
+    "gradient": 1.83
+  },
+  {
+    "schule_1": {
+      "schulnummer": "161160",
+      "schultyp": "Realschule",
+      "sozialindex": 9,
+      "lat": 51.5171453,
+      "lon": 7.0872704
+    },
+    "schule_2": {
+      "schulnummer": "167733",
+      "schultyp": "Gymnasium",
+      "sozialindex": 6,
+      "lat": 51.5151021,
+      "lon": 7.1107223
+    },
+    "differenz": 3,
+    "entfernung_km": 1.64,
+    "gradient": 1.83
+  },
+  {
+    "schule_1": {
+      "schulnummer": "159955",
+      "schultyp": "Realschule",
+      "sozialindex": 5,
+      "lat": 50.7140806,
+      "lon": 7.0372411
+    },
+    "schule_2": {
+      "schulnummer": "166352",
+      "schultyp": "Gymnasium",
+      "sozialindex": 2,
+      "lat": 50.7028155,
+      "lon": 7.0524341
+    },
+    "differenz": 3,
+    "entfernung_km": 1.65,
+    "gradient": 1.82
+  },
+  {
+    "schule_1": {
+      "schulnummer": "196861",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 5,
+      "lat": 51.7340418,
+      "lon": 8.7743441
+    },
+    "schule_2": {
+      "schulnummer": "169020",
+      "schultyp": "Gymnasium",
+      "sozialindex": 2,
+      "lat": 51.721059,
+      "lon": 8.7619304
+    },
+    "differenz": 3,
+    "entfernung_km": 1.68,
+    "gradient": 1.79
+  },
+  {
+    "schule_1": {
+      "schulnummer": "143492",
+      "schultyp": "Hauptschule",
+      "sozialindex": 8,
+      "lat": 51.5539009,
+      "lon": 7.0392231
+    },
+    "schule_2": {
+      "schulnummer": "100202",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 5,
+      "lat": 51.5428819,
+      "lon": 7.0225808
+    },
+    "differenz": 3,
+    "entfernung_km": 1.68,
+    "gradient": 1.78
+  },
+  {
+    "schule_1": {
+      "schulnummer": "162190",
+      "schultyp": "Realschule",
+      "sozialindex": 3,
+      "lat": 52.1119794,
+      "lon": 8.6799404
+    },
+    "schule_2": {
+      "schulnummer": "162206",
+      "schultyp": "Realschule",
+      "sozialindex": 6,
+      "lat": 52.121432,
+      "lon": 8.6606585
+    },
+    "differenz": 3,
+    "entfernung_km": 1.68,
+    "gradient": 1.78
+  },
+  {
+    "schule_1": {
+      "schulnummer": "158690",
+      "schultyp": "Realschule",
+      "sozialindex": 6,
+      "lat": 51.2040247,
+      "lon": 6.811256
+    },
+    "schule_2": {
+      "schulnummer": "100187",
+      "schultyp": "Gymnasium",
+      "sozialindex": 3,
+      "lat": 51.1997252,
+      "lon": 6.8346662
+    },
+    "differenz": 3,
+    "entfernung_km": 1.7,
+    "gradient": 1.77
+  },
+  {
+    "schule_1": {
+      "schulnummer": "194293",
+      "schultyp": "Realschule",
+      "sozialindex": 3,
+      "lat": 51.1770454,
+      "lon": 6.7132823
+    },
+    "schule_2": {
+      "schulnummer": "100052",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 6,
+      "lat": 51.1833595,
+      "lon": 6.6910319
+    },
+    "differenz": 3,
+    "entfernung_km": 1.7,
+    "gradient": 1.76
+  },
+  {
+    "schule_1": {
+      "schulnummer": "144447",
+      "schultyp": "Hauptschule",
+      "sozialindex": 4,
+      "lat": 51.8383707,
+      "lon": 7.2708767
+    },
+    "schule_2": {
+      "schulnummer": "193665",
+      "schultyp": "Gymnasium",
+      "sozialindex": 1,
+      "lat": 51.826877,
+      "lon": 7.2875988
+    },
+    "differenz": 3,
+    "entfernung_km": 1.72,
+    "gradient": 1.75
+  },
+  {
+    "schule_1": {
+      "schulnummer": "199825",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 5,
+      "lat": 51.4446413,
+      "lon": 7.5478764
+    },
+    "schule_2": {
+      "schulnummer": "170070",
+      "schultyp": "Gymnasium",
+      "sozialindex": 2,
+      "lat": 51.4456302,
+      "lon": 7.5728689
+    },
+    "differenz": 3,
+    "entfernung_km": 1.74,
+    "gradient": 1.73
+  },
+  {
+    "schule_1": {
+      "schulnummer": "159050",
+      "schultyp": "Realschule",
+      "sozialindex": 8,
+      "lat": 51.1893506,
+      "lon": 6.4538453
+    },
+    "schule_2": {
+      "schulnummer": "165293",
+      "schultyp": "Gymnasium",
+      "sozialindex": 5,
+      "lat": 51.1752499,
+      "lon": 6.4428205
+    },
+    "differenz": 3,
+    "entfernung_km": 1.75,
+    "gradient": 1.72
+  },
+  {
+    "schule_1": {
+      "schulnummer": "162899",
+      "schultyp": "Realschule",
+      "sozialindex": 4,
+      "lat": 51.5172486,
+      "lon": 7.409914
+    },
+    "schule_2": {
+      "schulnummer": "192820",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 7,
+      "lat": 51.5018499,
+      "lon": 7.4046182
+    },
+    "differenz": 3,
+    "entfernung_km": 1.75,
+    "gradient": 1.71
+  },
+  {
+    "schule_1": {
+      "schulnummer": "166583",
+      "schultyp": "Gymnasium",
+      "sozialindex": 7,
+      "lat": 50.9652917,
+      "lon": 7.0077167
+    },
+    "schule_2": {
+      "schulnummer": "166686",
+      "schultyp": "Gymnasium",
+      "sozialindex": 4,
+      "lat": 50.9519763,
+      "lon": 7.0212853
+    },
+    "differenz": 3,
+    "entfernung_km": 1.76,
+    "gradient": 1.71
+  },
+  {
+    "schule_1": {
+      "schulnummer": "163685",
+      "schultyp": "Realschule",
+      "sozialindex": 2,
+      "lat": 51.5715029,
+      "lon": 8.093301
+    },
+    "schule_2": {
+      "schulnummer": "199450",
+      "schultyp": "Sekundarschule",
+      "sozialindex": 5,
+      "lat": 51.564412,
+      "lon": 8.1161866
+    },
+    "differenz": 3,
+    "entfernung_km": 1.77,
+    "gradient": 1.7
+  },
+  {
+    "schule_1": {
+      "schulnummer": "136281",
+      "schultyp": "Hauptschule",
+      "sozialindex": 7,
+      "lat": 51.2463826,
+      "lon": 6.8234308
+    },
+    "schule_2": {
+      "schulnummer": "164318",
+      "schultyp": "Gymnasium",
+      "sozialindex": 4,
+      "lat": 51.2343622,
+      "lon": 6.8065673
+    },
+    "differenz": 3,
+    "entfernung_km": 1.78,
+    "gradient": 1.69
+  },
+  {
+    "schule_1": {
+      "schulnummer": "138540",
+      "schultyp": "Hauptschule",
+      "sozialindex": 7,
+      "lat": 51.2730816,
+      "lon": 7.1913214
+    },
+    "schule_2": {
+      "schulnummer": "165451",
+      "schultyp": "Gymnasium",
+      "sozialindex": 4,
+      "lat": 51.2579937,
+      "lon": 7.1831254
+    },
+    "differenz": 3,
+    "entfernung_km": 1.77,
+    "gradient": 1.69
+  },
+  {
+    "schule_1": {
+      "schulnummer": "159270",
+      "schultyp": "Realschule",
+      "sozialindex": 9,
+      "lat": 51.2641253,
+      "lon": 7.1464399
+    },
+    "schule_2": {
+      "schulnummer": "197397",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 6,
+      "lat": 51.2705073,
+      "lon": 7.1228182
+    },
+    "differenz": 3,
+    "entfernung_km": 1.79,
+    "gradient": 1.68
+  },
+  {
+    "schule_1": {
+      "schulnummer": "187793",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 5,
+      "lat": 51.4886665,
+      "lon": 6.7655257
+    },
+    "schule_2": {
+      "schulnummer": "191395",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 8,
+      "lat": 51.4798921,
+      "lon": 6.7438044
+    },
+    "differenz": 3,
+    "entfernung_km": 1.79,
+    "gradient": 1.67
+  },
+  {
+    "schule_1": {
+      "schulnummer": "162656",
+      "schultyp": "Realschule",
+      "sozialindex": 5,
+      "lat": 51.4791644,
+      "lon": 7.2363129
+    },
+    "schule_2": {
+      "schulnummer": "169160",
+      "schultyp": "Gymnasium",
+      "sozialindex": 2,
+      "lat": 51.4662929,
+      "lon": 7.2202622
+    },
+    "differenz": 3,
+    "entfernung_km": 1.81,
+    "gradient": 1.66
+  },
+  {
+    "schule_1": {
+      "schulnummer": "163764",
+      "schultyp": "Realschule",
+      "sozialindex": 2,
+      "lat": 51.6829865,
+      "lon": 7.8545424
+    },
+    "schule_2": {
+      "schulnummer": "189250",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 5,
+      "lat": 51.6811058,
+      "lon": 7.8284967
+    },
+    "differenz": 3,
+    "entfernung_km": 1.81,
+    "gradient": 1.66
+  },
+  {
+    "schule_1": {
+      "schulnummer": "140879",
+      "schultyp": "Hauptschule",
+      "sozialindex": 6,
+      "lat": 51.0080531,
+      "lon": 6.8981834
+    },
+    "schule_2": {
+      "schulnummer": "183854",
+      "schultyp": "Hauptschule",
+      "sozialindex": 9,
+      "lat": 51.023605,
+      "lon": 6.9062778
+    },
+    "differenz": 3,
+    "entfernung_km": 1.82,
+    "gradient": 1.65
+  },
+  {
+    "schule_1": {
+      "schulnummer": "161810",
+      "schultyp": "Realschule",
+      "sozialindex": 3,
+      "lat": 52.284782,
+      "lon": 7.4270004
+    },
+    "schule_2": {
+      "schulnummer": "198304",
+      "schultyp": "Sekundarschule",
+      "sozialindex": 6,
+      "lat": 52.2971368,
+      "lon": 7.4448133
+    },
+    "differenz": 3,
+    "entfernung_km": 1.83,
+    "gradient": 1.64
+  },
+  {
+    "schule_1": {
+      "schulnummer": "188190",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 6,
+      "lat": 51.5628416,
+      "lon": 7.3103445
+    },
+    "schule_2": {
+      "schulnummer": "169250",
+      "schultyp": "Gymnasium",
+      "sozialindex": 3,
+      "lat": 51.5462674,
+      "lon": 7.3099314
+    },
+    "differenz": 3,
+    "entfernung_km": 1.84,
+    "gradient": 1.63
+  },
+  {
+    "schule_1": {
+      "schulnummer": "191231",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 4,
+      "lat": 51.5474288,
+      "lon": 7.6925318
+    },
+    "schule_2": {
+      "schulnummer": "170458",
+      "schultyp": "Gymnasium",
+      "sozialindex": 1,
+      "lat": 51.5308702,
+      "lon": 7.694911
+    },
+    "differenz": 3,
+    "entfernung_km": 1.85,
+    "gradient": 1.62
+  },
+  {
+    "schule_1": {
+      "schulnummer": "100068",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 4,
+      "lat": 50.9076785,
+      "lon": 6.9128427
+    },
+    "schule_2": {
+      "schulnummer": "166730",
+      "schultyp": "Gymnasium",
+      "sozialindex": 1,
+      "lat": 50.9219261,
+      "lon": 6.9270034
+    },
+    "differenz": 3,
+    "entfernung_km": 1.87,
+    "gradient": 1.6
+  },
+  {
+    "schule_1": {
+      "schulnummer": "193495",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 7,
+      "lat": 51.9846756,
+      "lon": 8.5284436
+    },
+    "schule_2": {
+      "schulnummer": "168580",
+      "schultyp": "Gymnasium",
+      "sozialindex": 4,
+      "lat": 51.9832785,
+      "lon": 8.5011095
+    },
+    "differenz": 3,
+    "entfernung_km": 1.88,
+    "gradient": 1.6
+  },
+  {
+    "schule_1": {
+      "schulnummer": "143212",
+      "schultyp": "Hauptschule",
+      "sozialindex": 6,
+      "lat": 51.8480201,
+      "lon": 6.6324574
+    },
+    "schule_2": {
+      "schulnummer": "167680",
+      "schultyp": "Gymnasium",
+      "sozialindex": 3,
+      "lat": 51.8376942,
+      "lon": 6.6106136
+    },
+    "differenz": 3,
+    "entfernung_km": 1.89,
+    "gradient": 1.59
+  },
+  {
+    "schule_1": {
+      "schulnummer": "150782",
+      "schultyp": "Hauptschule",
+      "sozialindex": 5,
+      "lat": 51.6740872,
+      "lon": 7.8779079
+    },
+    "schule_2": {
+      "schulnummer": "163764",
+      "schultyp": "Realschule",
+      "sozialindex": 2,
+      "lat": 51.6829865,
+      "lon": 7.8545424
+    },
+    "differenz": 3,
+    "entfernung_km": 1.89,
+    "gradient": 1.59
+  },
+  {
+    "schule_1": {
+      "schulnummer": "190895",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 9,
+      "lat": 51.4918825,
+      "lon": 6.9859787
+    },
+    "schule_2": {
+      "schulnummer": "164770",
+      "schultyp": "Gymnasium",
+      "sozialindex": 6,
+      "lat": 51.4925575,
+      "lon": 7.0132354
+    },
+    "differenz": 3,
+    "entfernung_km": 1.89,
+    "gradient": 1.59
+  },
+  {
+    "schule_1": {
+      "schulnummer": "189868",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 5,
+      "lat": 51.2005676,
+      "lon": 6.6850614
+    },
+    "schule_2": {
+      "schulnummer": "165141",
+      "schultyp": "Gymnasium",
+      "sozialindex": 2,
+      "lat": 51.1850427,
+      "lon": 6.6958323
+    },
+    "differenz": 3,
+    "entfernung_km": 1.88,
+    "gradient": 1.59
+  },
+  {
+    "schule_1": {
+      "schulnummer": "137364",
+      "schultyp": "Hauptschule",
+      "sozialindex": 9,
+      "lat": 51.4743873,
+      "lon": 6.9668622
+    },
+    "schule_2": {
+      "schulnummer": "158847",
+      "schultyp": "Realschule",
+      "sozialindex": 6,
+      "lat": 51.4693331,
+      "lon": 6.9406406
+    },
+    "differenz": 3,
+    "entfernung_km": 1.9,
+    "gradient": 1.58
+  },
+  {
+    "schule_1": {
+      "schulnummer": "183088",
+      "schultyp": "Realschule",
+      "sozialindex": 5,
+      "lat": 51.2379193,
+      "lon": 6.7512189
+    },
+    "schule_2": {
+      "schulnummer": "164525",
+      "schultyp": "Gymnasium",
+      "sozialindex": 2,
+      "lat": 51.2535308,
+      "lon": 6.7620927
+    },
+    "differenz": 3,
+    "entfernung_km": 1.89,
+    "gradient": 1.58
+  },
+  {
+    "schule_1": {
+      "schulnummer": "189017",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 8,
+      "lat": 51.5268742,
+      "lon": 6.9364768
+    },
+    "schule_2": {
+      "schulnummer": "190846",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 5,
+      "lat": 51.543244,
+      "lon": 6.9289176
+    },
+    "differenz": 3,
+    "entfernung_km": 1.89,
+    "gradient": 1.58
+  },
+  {
+    "schule_1": {
+      "schulnummer": "141847",
+      "schultyp": "Hauptschule",
+      "sozialindex": 7,
+      "lat": 51.0015865,
+      "lon": 7.1229221
+    },
+    "schule_2": {
+      "schulnummer": "183738",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 4,
+      "lat": 50.9977347,
+      "lon": 7.0963957
+    },
+    "differenz": 3,
+    "entfernung_km": 1.91,
+    "gradient": 1.57
+  },
+  {
+    "schule_1": {
+      "schulnummer": "145245",
+      "schultyp": "Hauptschule",
+      "sozialindex": 5,
+      "lat": 52.1679711,
+      "lon": 7.5444391
+    },
+    "schule_2": {
+      "schulnummer": "168361",
+      "schultyp": "Gymnasium",
+      "sozialindex": 2,
+      "lat": 52.1801274,
+      "lon": 7.5245921
+    },
+    "differenz": 3,
+    "entfernung_km": 1.91,
+    "gradient": 1.57
+  },
+  {
+    "schule_1": {
+      "schulnummer": "137947",
+      "schultyp": "Hauptschule",
+      "sozialindex": 9,
+      "lat": 51.4615217,
+      "lon": 6.9065595
+    },
+    "schule_2": {
+      "schulnummer": "100207",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 6,
+      "lat": 51.4691388,
+      "lon": 6.8817133
+    },
+    "differenz": 3,
+    "entfernung_km": 1.92,
+    "gradient": 1.56
+  },
+  {
+    "schule_1": {
+      "schulnummer": "140843",
+      "schultyp": "Hauptschule",
+      "sozialindex": 9,
+      "lat": 50.9349508,
+      "lon": 7.0585099
+    },
+    "schule_2": {
+      "schulnummer": "160209",
+      "schultyp": "Realschule",
+      "sozialindex": 6,
+      "lat": 50.9474917,
+      "lon": 7.077398
+    },
+    "differenz": 3,
+    "entfernung_km": 1.92,
+    "gradient": 1.56
+  },
+  {
+    "schule_1": {
+      "schulnummer": "158975",
+      "schultyp": "Realschule",
+      "sozialindex": 6,
+      "lat": 51.3370177,
+      "lon": 6.5291244
+    },
+    "schule_2": {
+      "schulnummer": "164940",
+      "schultyp": "Gymnasium",
+      "sozialindex": 9,
+      "lat": 51.332021,
+      "lon": 6.5557182
+    },
+    "differenz": 3,
+    "entfernung_km": 1.93,
+    "gradient": 1.56
+  },
+  {
+    "schule_1": {
+      "schulnummer": "193458",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 6,
+      "lat": 50.7661408,
+      "lon": 6.1033337
+    },
+    "schule_2": {
+      "schulnummer": "167290",
+      "schultyp": "Gymnasium",
+      "sozialindex": 3,
+      "lat": 50.7770369,
+      "lon": 6.0821235
+    },
+    "differenz": 3,
+    "entfernung_km": 1.92,
+    "gradient": 1.56
+  },
+  {
+    "schule_1": {
+      "schulnummer": "199813",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 6,
+      "lat": 50.9085172,
+      "lon": 7.9926237
+    },
+    "schule_2": {
+      "schulnummer": "170320",
+      "schultyp": "Gymnasium",
+      "sozialindex": 3,
+      "lat": 50.9035407,
+      "lon": 8.0189066
+    },
+    "differenz": 3,
+    "entfernung_km": 1.92,
+    "gradient": 1.56
+  },
+  {
+    "schule_1": {
+      "schulnummer": "140867",
+      "schultyp": "Hauptschule",
+      "sozialindex": 8,
+      "lat": 50.9686815,
+      "lon": 6.9321135
+    },
+    "schule_2": {
+      "schulnummer": "160076",
+      "schultyp": "Realschule",
+      "sozialindex": 5,
+      "lat": 50.9526975,
+      "lon": 6.9213859
+    },
+    "differenz": 3,
+    "entfernung_km": 1.93,
+    "gradient": 1.55
+  },
+  {
+    "schule_1": {
+      "schulnummer": "141021",
+      "schultyp": "Hauptschule",
+      "sozialindex": 7,
+      "lat": 50.948176,
+      "lon": 6.9628236
+    },
+    "schule_2": {
+      "schulnummer": "166558",
+      "schultyp": "Gymnasium",
+      "sozialindex": 4,
+      "lat": 50.9352001,
+      "lon": 6.981331
+    },
+    "differenz": 3,
+    "entfernung_km": 1.94,
+    "gradient": 1.55
+  },
+  {
+    "schule_1": {
+      "schulnummer": "141549",
+      "schultyp": "Hauptschule",
+      "sozialindex": 5,
+      "lat": 50.8639204,
+      "lon": 6.8849398
+    },
+    "schule_2": {
+      "schulnummer": "166911",
+      "schultyp": "Gymnasium",
+      "sozialindex": 2,
+      "lat": 50.8807576,
+      "lon": 6.8779419
+    },
+    "differenz": 3,
+    "entfernung_km": 1.94,
+    "gradient": 1.55
+  },
+  {
+    "schule_1": {
+      "schulnummer": "160805",
+      "schultyp": "Realschule",
+      "sozialindex": 4,
+      "lat": 50.7642264,
+      "lon": 6.102204
+    },
+    "schule_2": {
+      "schulnummer": "167381",
+      "schultyp": "Gymnasium",
+      "sozialindex": 7,
+      "lat": 50.7758578,
+      "lon": 6.1226824
+    },
+    "differenz": 3,
+    "entfernung_km": 1.94,
+    "gradient": 1.55
+  },
+  {
+    "schule_1": {
+      "schulnummer": "146067",
+      "schultyp": "Hauptschule",
+      "sozialindex": 5,
+      "lat": 51.9473837,
+      "lon": 8.8406574
+    },
+    "schule_2": {
+      "schulnummer": "168660",
+      "schultyp": "Gymnasium",
+      "sozialindex": 2,
+      "lat": 51.9344134,
+      "lon": 8.8598008
+    },
+    "differenz": 3,
+    "entfernung_km": 1.95,
+    "gradient": 1.54
+  },
+  {
+    "schule_1": {
+      "schulnummer": "159281",
+      "schultyp": "Realschule",
+      "sozialindex": 8,
+      "lat": 51.2738948,
+      "lon": 7.1934478
+    },
+    "schule_2": {
+      "schulnummer": "165402",
+      "schultyp": "Gymnasium",
+      "sozialindex": 5,
+      "lat": 51.2776422,
+      "lon": 7.2208434
+    },
+    "differenz": 3,
+    "entfernung_km": 1.95,
+    "gradient": 1.54
+  },
+  {
+    "schule_1": {
+      "schulnummer": "161925",
+      "schultyp": "Realschule",
+      "sozialindex": 4,
+      "lat": 52.2778539,
+      "lon": 7.7090746
+    },
+    "schule_2": {
+      "schulnummer": "168452",
+      "schultyp": "Gymnasium",
+      "sozialindex": 1,
+      "lat": 52.2697737,
+      "lon": 7.7344519
+    },
+    "differenz": 3,
+    "entfernung_km": 1.95,
+    "gradient": 1.54
+  },
+  {
+    "schule_1": {
+      "schulnummer": "100210",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 5,
+      "lat": 50.9495159,
+      "lon": 6.8769996
+    },
+    "schule_2": {
+      "schulnummer": "100147",
+      "schultyp": "Gymnasium",
+      "sozialindex": 2,
+      "lat": 50.9373485,
+      "lon": 6.897123
+    },
+    "differenz": 3,
+    "entfernung_km": 1.95,
+    "gradient": 1.54
+  },
+  {
+    "schule_1": {
+      "schulnummer": "189832",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 8,
+      "lat": 51.1912724,
+      "lon": 6.4544399
+    },
+    "schule_2": {
+      "schulnummer": "165293",
+      "schultyp": "Gymnasium",
+      "sozialindex": 5,
+      "lat": 51.1752499,
+      "lon": 6.4428205
+    },
+    "differenz": 3,
+    "entfernung_km": 1.96,
+    "gradient": 1.53
+  },
+  {
+    "schule_1": {
+      "schulnummer": "197877",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 6,
+      "lat": 50.979302,
+      "lon": 7.1264328
+    },
+    "schule_2": {
+      "schulnummer": "167046",
+      "schultyp": "Gymnasium",
+      "sozialindex": 3,
+      "lat": 50.9967386,
+      "lon": 7.1212052
+    },
+    "differenz": 3,
+    "entfernung_km": 1.97,
+    "gradient": 1.52
+  },
+  {
+    "schule_1": {
+      "schulnummer": "189145",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 9,
+      "lat": 51.1544889,
+      "lon": 6.4280225
+    },
+    "schule_2": {
+      "schulnummer": "193355",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 6,
+      "lat": 51.1527392,
+      "lon": 6.4564645
+    },
+    "differenz": 3,
+    "entfernung_km": 1.99,
+    "gradient": 1.51
+  },
+  {
+    "schule_1": {
+      "schulnummer": "160532",
+      "schultyp": "Realschule",
+      "sozialindex": 3,
+      "lat": 50.9626021,
+      "lon": 7.1369299
+    },
+    "schule_2": {
+      "schulnummer": "197877",
+      "schultyp": "Gesamtschule",
+      "sozialindex": 6,
+      "lat": 50.979302,
+      "lon": 7.1264328
+    },
+    "differenz": 3,
+    "entfernung_km": 2.0,
+    "gradient": 1.5
+  },
+  {
+    "schule_1": {
+      "schulnummer": "186430",
+      "schultyp": "Realschule",
+      "sozialindex": 6,
+      "lat": 51.7028872,
+      "lon": 8.7604689
+    },
+    "schule_2": {
+      "schulnummer": "169031",
+      "schultyp": "Gymnasium",
+      "sozialindex": 3,
+      "lat": 51.7207421,
+      "lon": 8.7634739
+    },
+    "differenz": 3,
+    "entfernung_km": 2.0,
+    "gradient": 1.5
+  },
+  {
+    "schule_1": {
+      "schulnummer": "164756",
+      "schultyp": "Gymnasium",
+      "sozialindex": 6,
+      "lat": 51.4550194,
+      "lon": 7.0147067
+    },
+    "schule_2": {
+      "schulnummer": "164800",
+      "schultyp": "Gymnasium",
+      "sozialindex": 3,
+      "lat": 51.4370634,
+      "lon": 7.0164182
+    },
+    "differenz": 3,
+    "entfernung_km": 2.0,
+    "gradient": 1.5
+  }
+]

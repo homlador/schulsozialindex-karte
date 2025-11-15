@@ -1,0 +1,5816 @@
+[
+  {
+    "schule_1": {
+      "schulnummer": "101291",
+      "schultyp": "Grundschule",
+      "sozialindex": 3,
+      "lat": 51.4239911,
+      "lon": 6.7836342
+    },
+    "schule_2": {
+      "schulnummer": "101606",
+      "schultyp": "Grundschule",
+      "sozialindex": 7,
+      "lat": 51.4241644,
+      "lon": 6.7836888
+    },
+    "differenz": 4,
+    "entfernung_km": 0.02,
+    "gradient": 203.68
+  },
+  {
+    "schule_1": {
+      "schulnummer": "117894",
+      "schultyp": "Grundschule",
+      "sozialindex": 7,
+      "lat": 51.0825305,
+      "lon": 6.312721
+    },
+    "schule_2": {
+      "schulnummer": "117912",
+      "schultyp": "Grundschule",
+      "sozialindex": 2,
+      "lat": 51.0825305,
+      "lon": 6.312721
+    },
+    "differenz": 5,
+    "entfernung_km": 0.05,
+    "gradient": 100.0
+  },
+  {
+    "schule_1": {
+      "schulnummer": "130175",
+      "schultyp": "Grundschule",
+      "sozialindex": 2,
+      "lat": 51.3811252,
+      "lon": 7.4653099
+    },
+    "schule_2": {
+      "schulnummer": "130230",
+      "schultyp": "Grundschule",
+      "sozialindex": 6,
+      "lat": 51.3811494,
+      "lon": 7.4659953
+    },
+    "differenz": 4,
+    "entfernung_km": 0.05,
+    "gradient": 83.96
+  },
+  {
+    "schule_1": {
+      "schulnummer": "101266",
+      "schultyp": "Grundschule",
+      "sozialindex": 5,
+      "lat": 51.4922743,
+      "lon": 6.7917425
+    },
+    "schule_2": {
+      "schulnummer": "101655",
+      "schultyp": "Grundschule",
+      "sozialindex": 9,
+      "lat": 51.4922743,
+      "lon": 6.7917425
+    },
+    "differenz": 4,
+    "entfernung_km": 0.05,
+    "gradient": 80.0
+  },
+  {
+    "schule_1": {
+      "schulnummer": "101898",
+      "schultyp": "Grundschule",
+      "sozialindex": 3,
+      "lat": 51.4813338,
+      "lon": 7.060719
+    },
+    "schule_2": {
+      "schulnummer": "102246",
+      "schultyp": "Grundschule",
+      "sozialindex": 7,
+      "lat": 51.4813338,
+      "lon": 7.060719
+    },
+    "differenz": 4,
+    "entfernung_km": 0.05,
+    "gradient": 80.0
+  },
+  {
+    "schule_1": {
+      "schulnummer": "102957",
+      "schultyp": "Grundschule",
+      "sozialindex": 2,
+      "lat": 51.3200387,
+      "lon": 6.5359369
+    },
+    "schule_2": {
+      "schulnummer": "103159",
+      "schultyp": "Grundschule",
+      "sozialindex": 6,
+      "lat": 51.3200387,
+      "lon": 6.5359369
+    },
+    "differenz": 4,
+    "entfernung_km": 0.05,
+    "gradient": 80.0
+  },
+  {
+    "schule_1": {
+      "schulnummer": "110309",
+      "schultyp": "Grundschule",
+      "sozialindex": 6,
+      "lat": 51.1044143,
+      "lon": 6.9511366
+    },
+    "schule_2": {
+      "schulnummer": "110334",
+      "schultyp": "Grundschule",
+      "sozialindex": 2,
+      "lat": 51.1044143,
+      "lon": 6.9511366
+    },
+    "differenz": 4,
+    "entfernung_km": 0.05,
+    "gradient": 80.0
+  },
+  {
+    "schule_1": {
+      "schulnummer": "104206",
+      "schultyp": "Grundschule",
+      "sozialindex": 4,
+      "lat": 51.1971112,
+      "lon": 6.682643
+    },
+    "schule_2": {
+      "schulnummer": "104231",
+      "schultyp": "Grundschule",
+      "sozialindex": 8,
+      "lat": 51.1971112,
+      "lon": 6.682643
+    },
+    "differenz": 4,
+    "entfernung_km": 0.05,
+    "gradient": 80.0
+  },
+  {
+    "schule_1": {
+      "schulnummer": "111624",
+      "schultyp": "Grundschule",
+      "sozialindex": 6,
+      "lat": 50.9457123,
+      "lon": 6.9145095
+    },
+    "schule_2": {
+      "schulnummer": "112343",
+      "schultyp": "Grundschule",
+      "sozialindex": 2,
+      "lat": 50.9457123,
+      "lon": 6.9145095
+    },
+    "differenz": 4,
+    "entfernung_km": 0.05,
+    "gradient": 80.0
+  },
+  {
+    "schule_1": {
+      "schulnummer": "102179",
+      "schultyp": "Grundschule",
+      "sozialindex": 2,
+      "lat": 51.4463346,
+      "lon": 6.9730012
+    },
+    "schule_2": {
+      "schulnummer": "102830",
+      "schultyp": "Grundschule",
+      "sozialindex": 9,
+      "lat": 51.4456249,
+      "lon": 6.9720475
+    },
+    "differenz": 7,
+    "entfernung_km": 0.1,
+    "gradient": 68.0
+  },
+  {
+    "schule_1": {
+      "schulnummer": "134259",
+      "schultyp": "Grundschule",
+      "sozialindex": 1,
+      "lat": 51.1164562,
+      "lon": 7.9561836
+    },
+    "schule_2": {
+      "schulnummer": "134569",
+      "schultyp": "Grundschule",
+      "sozialindex": 5,
+      "lat": 51.1169618,
+      "lon": 7.9558494
+    },
+    "differenz": 4,
+    "entfernung_km": 0.06,
+    "gradient": 65.72
+  },
+  {
+    "schule_1": {
+      "schulnummer": "100122",
+      "schultyp": "Grundschule",
+      "sozialindex": 7,
+      "lat": 51.1780045,
+      "lon": 6.8756514
+    },
+    "schule_2": {
+      "schulnummer": "100675",
+      "schultyp": "Grundschule",
+      "sozialindex": 4,
+      "lat": 51.1780045,
+      "lon": 6.8756514
+    },
+    "differenz": 3,
+    "entfernung_km": 0.05,
+    "gradient": 60.0
+  },
+  {
+    "schule_1": {
+      "schulnummer": "100547",
+      "schultyp": "Grundschule",
+      "sozialindex": 3,
+      "lat": 51.1671055,
+      "lon": 6.8690886
+    },
+    "schule_2": {
+      "schulnummer": "100882",
+      "schultyp": "Grundschule",
+      "sozialindex": 6,
+      "lat": 51.1671055,
+      "lon": 6.8690886
+    },
+    "differenz": 3,
+    "entfernung_km": 0.05,
+    "gradient": 60.0
+  },
+  {
+    "schule_1": {
+      "schulnummer": "110851",
+      "schultyp": "Grundschule",
+      "sozialindex": 6,
+      "lat": 50.7416946,
+      "lon": 7.0616106
+    },
+    "schule_2": {
+      "schulnummer": "110991",
+      "schultyp": "Grundschule",
+      "sozialindex": 9,
+      "lat": 50.7416946,
+      "lon": 7.0616106
+    },
+    "differenz": 3,
+    "entfernung_km": 0.05,
+    "gradient": 60.0
+  },
+  {
+    "schule_1": {
+      "schulnummer": "111776",
+      "schultyp": "Grundschule",
+      "sozialindex": 6,
+      "lat": 50.9304317,
+      "lon": 7.0426226
+    },
+    "schule_2": {
+      "schulnummer": "112252",
+      "schultyp": "Grundschule",
+      "sozialindex": 9,
+      "lat": 50.9304317,
+      "lon": 7.0426226
+    },
+    "differenz": 3,
+    "entfernung_km": 0.05,
+    "gradient": 60.0
+  },
+  {
+    "schule_1": {
+      "schulnummer": "103287",
+      "schultyp": "Grundschule",
+      "sozialindex": 6,
+      "lat": 51.0307087,
+      "lon": 6.9808928
+    },
+    "schule_2": {
+      "schulnummer": "103354",
+      "schultyp": "Grundschule",
+      "sozialindex": 9,
+      "lat": 51.0307087,
+      "lon": 6.9808928
+    },
+    "differenz": 3,
+    "entfernung_km": 0.05,
+    "gradient": 60.0
+  },
+  {
+    "schule_1": {
+      "schulnummer": "114017",
+      "schultyp": "Grundschule",
+      "sozialindex": 4,
+      "lat": 50.8109418,
+      "lon": 6.9709503
+    },
+    "schule_2": {
+      "schulnummer": "114054",
+      "schultyp": "Grundschule",
+      "sozialindex": 7,
+      "lat": 50.8109418,
+      "lon": 6.9709503
+    },
+    "differenz": 3,
+    "entfernung_km": 0.05,
+    "gradient": 60.0
+  },
+  {
+    "schule_1": {
+      "schulnummer": "129264",
+      "schultyp": "Grundschule",
+      "sozialindex": 4,
+      "lat": 51.5343654,
+      "lon": 7.6195069
+    },
+    "schule_2": {
+      "schulnummer": "129616",
+      "schultyp": "Grundschule",
+      "sozialindex": 7,
+      "lat": 51.5343654,
+      "lon": 7.6195069
+    },
+    "differenz": 3,
+    "entfernung_km": 0.05,
+    "gradient": 60.0
+  },
+  {
+    "schule_1": {
+      "schulnummer": "128843",
+      "schultyp": "Grundschule",
+      "sozialindex": 2,
+      "lat": 51.4690891,
+      "lon": 7.2238426
+    },
+    "schule_2": {
+      "schulnummer": "128879",
+      "schultyp": "Grundschule",
+      "sozialindex": 5,
+      "lat": 51.469495,
+      "lon": 7.2234041
+    },
+    "differenz": 3,
+    "entfernung_km": 0.05,
+    "gradient": 55.14
+  },
+  {
+    "schule_1": {
+      "schulnummer": "100687",
+      "schultyp": "Grundschule",
+      "sozialindex": 1,
+      "lat": 51.2288089,
+      "lon": 6.7568679
+    },
+    "schule_2": {
+      "schulnummer": "100821",
+      "schultyp": "Grundschule",
+      "sozialindex": 5,
+      "lat": 51.2294824,
+      "lon": 6.7574625
+    },
+    "differenz": 4,
+    "entfernung_km": 0.09,
+    "gradient": 46.74
+  },
+  {
+    "schule_1": {
+      "schulnummer": "100020",
+      "schultyp": "Grundschule",
+      "sozialindex": 5,
+      "lat": 51.2751293,
+      "lon": 6.7829699
+    },
+    "schule_2": {
+      "schulnummer": "100663",
+      "schultyp": "Grundschule",
+      "sozialindex": 8,
+      "lat": 51.2757114,
+      "lon": 6.7832619
+    },
+    "differenz": 3,
+    "entfernung_km": 0.07,
+    "gradient": 44.22
+  },
+  {
+    "schule_1": {
+      "schulnummer": "111491",
+      "schultyp": "Grundschule",
+      "sozialindex": 5,
+      "lat": 50.9698739,
+      "lon": 7.0407781
+    },
+    "schule_2": {
+      "schulnummer": "111983",
+      "schultyp": "Grundschule",
+      "sozialindex": 8,
+      "lat": 50.9707225,
+      "lon": 7.0405321
+    },
+    "differenz": 3,
+    "entfernung_km": 0.1,
+    "gradient": 31.28
+  },
+  {
+    "schule_1": {
+      "schulnummer": "104188",
+      "schultyp": "Grundschule",
+      "sozialindex": 9,
+      "lat": 51.2131624,
+      "lon": 6.6737642
+    },
+    "schule_2": {
+      "schulnummer": "104220",
+      "schultyp": "Grundschule",
+      "sozialindex": 5,
+      "lat": 51.2129126,
+      "lon": 6.6714614
+    },
+    "differenz": 4,
+    "entfernung_km": 0.16,
+    "gradient": 24.57
+  },
+  {
+    "schule_1": {
+      "schulnummer": "100523",
+      "schultyp": "Grundschule",
+      "sozialindex": 3,
+      "lat": 51.2499658,
+      "lon": 6.8091293
+    },
+    "schule_2": {
+      "schulnummer": "100894",
+      "schultyp": "Grundschule",
+      "sozialindex": 8,
+      "lat": 51.2519778,
+      "lon": 6.8087005
+    },
+    "differenz": 5,
+    "entfernung_km": 0.23,
+    "gradient": 22.15
+  },
+  {
+    "schule_1": {
+      "schulnummer": "119106",
+      "schultyp": "Grundschule",
+      "sozialindex": 2,
+      "lat": 51.526009,
+      "lon": 7.0230373
+    },
+    "schule_2": {
+      "schulnummer": "183386",
+      "schultyp": "Grundschule",
+      "sozialindex": 8,
+      "lat": 51.5284851,
+      "lon": 7.0223833
+    },
+    "differenz": 6,
+    "entfernung_km": 0.28,
+    "gradient": 21.5
+  },
+  {
+    "schule_1": {
+      "schulnummer": "100183",
+      "schultyp": "Grundschule",
+      "sozialindex": 3,
+      "lat": 51.1856713,
+      "lon": 6.8262179
+    },
+    "schule_2": {
+      "schulnummer": "100900",
+      "schultyp": "Grundschule",
+      "sozialindex": 8,
+      "lat": 51.1862791,
+      "lon": 6.822857
+    },
+    "differenz": 5,
+    "entfernung_km": 0.24,
+    "gradient": 20.51
+  },
+  {
+    "schule_1": {
+      "schulnummer": "129458",
+      "schultyp": "Grundschule",
+      "sozialindex": 3,
+      "lat": 51.5121724,
+      "lon": 7.4931573
+    },
+    "schule_2": {
+      "schulnummer": "129914",
+      "schultyp": "Grundschule",
+      "sozialindex": 6,
+      "lat": 51.5129833,
+      "lon": 7.491447
+    },
+    "differenz": 3,
+    "entfernung_km": 0.15,
+    "gradient": 20.16
+  },
+  {
+    "schule_1": {
+      "schulnummer": "105533",
+      "schultyp": "Grundschule",
+      "sozialindex": 3,
+      "lat": 51.2254487,
+      "lon": 7.0661343
+    },
+    "schule_2": {
+      "schulnummer": "105661",
+      "schultyp": "Grundschule",
+      "sozialindex": 8,
+      "lat": 51.2277402,
+      "lon": 7.0666731
+    },
+    "differenz": 5,
+    "entfernung_km": 0.26,
+    "gradient": 19.41
+  },
+  {
+    "schule_1": {
+      "schulnummer": "107955",
+      "schultyp": "Grundschule",
+      "sozialindex": 2,
+      "lat": 51.252542,
+      "lon": 6.6920919
+    },
+    "schule_2": {
+      "schulnummer": "107967",
+      "schultyp": "Grundschule",
+      "sozialindex": 5,
+      "lat": 51.2539533,
+      "lon": 6.6922856
+    },
+    "differenz": 3,
+    "entfernung_km": 0.16,
+    "gradient": 19.05
+  },
+  {
+    "schule_1": {
+      "schulnummer": "111806",
+      "schultyp": "Grundschule",
+      "sozialindex": 8,
+      "lat": 50.9278647,
+      "lon": 6.9466888
+    },
+    "schule_2": {
+      "schulnummer": "112586",
+      "schultyp": "Grundschule",
+      "sozialindex": 2,
+      "lat": 50.9259593,
+      "lon": 6.9432027
+    },
+    "differenz": 6,
+    "entfernung_km": 0.32,
+    "gradient": 18.55
+  },
+  {
+    "schule_1": {
+      "schulnummer": "111880",
+      "schultyp": "Grundschule",
+      "sozialindex": 8,
+      "lat": 50.9181198,
+      "lon": 6.9569194
+    },
+    "schule_2": {
+      "schulnummer": "112320",
+      "schultyp": "Grundschule",
+      "sozialindex": 1,
+      "lat": 50.91947,
+      "lon": 6.9516721
+    },
+    "differenz": 7,
+    "entfernung_km": 0.4,
+    "gradient": 17.62
+  },
+  {
+    "schule_1": {
+      "schulnummer": "103573",
+      "schultyp": "Grundschule",
+      "sozialindex": 9,
+      "lat": 51.1908728,
+      "lon": 6.4250214
+    },
+    "schule_2": {
+      "schulnummer": "186259",
+      "schultyp": "Grundschule",
+      "sozialindex": 4,
+      "lat": 51.1931261,
+      "lon": 6.4272873
+    },
+    "differenz": 5,
+    "entfernung_km": 0.3,
+    "gradient": 16.88
+  },
+  {
+    "schule_1": {
+      "schulnummer": "120522",
+      "schultyp": "Grundschule",
+      "sozialindex": 9,
+      "lat": 51.6505133,
+      "lon": 7.6627441
+    },
+    "schule_2": {
+      "schulnummer": "135835",
+      "schultyp": "Grundschule",
+      "sozialindex": 1,
+      "lat": 51.6463844,
+      "lon": 7.6647057
+    },
+    "differenz": 8,
+    "entfernung_km": 0.48,
+    "gradient": 16.71
+  },
+  {
+    "schule_1": {
+      "schulnummer": "131623",
+      "schultyp": "Grundschule",
+      "sozialindex": 3,
+      "lat": 51.2248077,
+      "lon": 7.6427577
+    },
+    "schule_2": {
+      "schulnummer": "187598",
+      "schultyp": "Grundschule",
+      "sozialindex": 9,
+      "lat": 51.2222854,
+      "lon": 7.6387395
+    },
+    "differenz": 6,
+    "entfernung_km": 0.4,
+    "gradient": 15.14
+  },
+  {
+    "schule_1": {
+      "schulnummer": "100204",
+      "schultyp": "Grundschule",
+      "sozialindex": 8,
+      "lat": 51.1629336,
+      "lon": 7.1077153
+    },
+    "schule_2": {
+      "schulnummer": "105399",
+      "schultyp": "Grundschule",
+      "sozialindex": 5,
+      "lat": 51.1613388,
+      "lon": 7.1091103
+    },
+    "differenz": 3,
+    "entfernung_km": 0.2,
+    "gradient": 14.83
+  },
+  {
+    "schule_1": {
+      "schulnummer": "130187",
+      "schultyp": "Grundschule",
+      "sozialindex": 3,
+      "lat": 51.3963294,
+      "lon": 7.47225
+    },
+    "schule_2": {
+      "schulnummer": "130254",
+      "schultyp": "Grundschule",
+      "sozialindex": 6,
+      "lat": 51.3979499,
+      "lon": 7.4737853
+    },
+    "differenz": 3,
+    "entfernung_km": 0.21,
+    "gradient": 14.33
+  },
+  {
+    "schule_1": {
+      "schulnummer": "127735",
+      "schultyp": "Grundschule",
+      "sozialindex": 6,
+      "lat": 51.4903671,
+      "lon": 9.1405831
+    },
+    "schule_2": {
+      "schulnummer": "127747",
+      "schultyp": "Grundschule",
+      "sozialindex": 2,
+      "lat": 51.4883397,
+      "lon": 9.1429873
+    },
+    "differenz": 4,
+    "entfernung_km": 0.28,
+    "gradient": 14.27
+  },
+  {
+    "schule_1": {
+      "schulnummer": "122798",
+      "schultyp": "Grundschule",
+      "sozialindex": 9,
+      "lat": 51.6510701,
+      "lon": 7.1056886
+    },
+    "schule_2": {
+      "schulnummer": "122907",
+      "schultyp": "Grundschule",
+      "sozialindex": 2,
+      "lat": 51.6505,
+      "lon": 7.113
+    },
+    "differenz": 7,
+    "entfernung_km": 0.51,
+    "gradient": 13.77
+  },
+  {
+    "schule_1": {
+      "schulnummer": "122245",
+      "schultyp": "Grundschule",
+      "sozialindex": 7,
+      "lat": 51.6019449,
+      "lon": 7.1229388
+    },
+    "schule_2": {
+      "schulnummer": "122336",
+      "schultyp": "Grundschule",
+      "sozialindex": 4,
+      "lat": 51.6002963,
+      "lon": 7.1248857
+    },
+    "differenz": 3,
+    "entfernung_km": 0.23,
+    "gradient": 13.2
+  },
+  {
+    "schule_1": {
+      "schulnummer": "111697",
+      "schultyp": "Grundschule",
+      "sozialindex": 2,
+      "lat": 50.9197212,
+      "lon": 6.9636568
+    },
+    "schule_2": {
+      "schulnummer": "111880",
+      "schultyp": "Grundschule",
+      "sozialindex": 8,
+      "lat": 50.9181198,
+      "lon": 6.9569194
+    },
+    "differenz": 6,
+    "entfernung_km": 0.5,
+    "gradient": 11.89
+  },
+  {
+    "schule_1": {
+      "schulnummer": "111909",
+      "schultyp": "Grundschule",
+      "sozialindex": 1,
+      "lat": 50.9533275,
+      "lon": 6.9602047
+    },
+    "schule_2": {
+      "schulnummer": "103378",
+      "schultyp": "Grundschule",
+      "sozialindex": 5,
+      "lat": 50.9563381,
+      "lon": 6.9588992
+    },
+    "differenz": 4,
+    "entfernung_km": 0.35,
+    "gradient": 11.53
+  },
+  {
+    "schule_1": {
+      "schulnummer": "100032",
+      "schultyp": "Grundschule",
+      "sozialindex": 7,
+      "lat": 50.8371878,
+      "lon": 6.8908053
+    },
+    "schule_2": {
+      "schulnummer": "113554",
+      "schultyp": "Grundschule",
+      "sozialindex": 3,
+      "lat": 50.8346118,
+      "lon": 6.8879399
+    },
+    "differenz": 4,
+    "entfernung_km": 0.35,
+    "gradient": 11.43
+  },
+  {
+    "schule_1": {
+      "schulnummer": "129185",
+      "schultyp": "Grundschule",
+      "sozialindex": 8,
+      "lat": 51.5088898,
+      "lon": 7.4523375
+    },
+    "schule_2": {
+      "schulnummer": "129409",
+      "schultyp": "Grundschule",
+      "sozialindex": 2,
+      "lat": 51.5042736,
+      "lon": 7.4540081
+    },
+    "differenz": 6,
+    "entfernung_km": 0.53,
+    "gradient": 11.4
+  },
+  {
+    "schule_1": {
+      "schulnummer": "110802",
+      "schultyp": "Grundschule",
+      "sozialindex": 4,
+      "lat": 50.7391822,
+      "lon": 7.0914305
+    },
+    "schule_2": {
+      "schulnummer": "110978",
+      "schultyp": "Grundschule",
+      "sozialindex": 8,
+      "lat": 50.741403,
+      "lon": 7.0876564
+    },
+    "differenz": 4,
+    "entfernung_km": 0.36,
+    "gradient": 11.03
+  },
+  {
+    "schule_1": {
+      "schulnummer": "115733",
+      "schultyp": "Grundschule",
+      "sozialindex": 1,
+      "lat": 50.632165,
+      "lon": 7.0553089
+    },
+    "schule_2": {
+      "schulnummer": "186090",
+      "schultyp": "Grundschule",
+      "sozialindex": 6,
+      "lat": 50.6339684,
+      "lon": 7.0495378
+    },
+    "differenz": 5,
+    "entfernung_km": 0.45,
+    "gradient": 11.02
+  },
+  {
+    "schule_1": {
+      "schulnummer": "129318",
+      "schultyp": "Grundschule",
+      "sozialindex": 2,
+      "lat": 51.5555207,
+      "lon": 7.4670167
+    },
+    "schule_2": {
+      "schulnummer": "130059",
+      "schultyp": "Grundschule",
+      "sozialindex": 8,
+      "lat": 51.5567564,
+      "lon": 7.4593534
+    },
+    "differenz": 6,
+    "entfernung_km": 0.55,
+    "gradient": 10.96
+  },
+  {
+    "schule_1": {
+      "schulnummer": "100808",
+      "schultyp": "Grundschule",
+      "sozialindex": 9,
+      "lat": 51.1243052,
+      "lon": 6.7866969
+    },
+    "schule_2": {
+      "schulnummer": "108108",
+      "schultyp": "Grundschule",
+      "sozialindex": 4,
+      "lat": 51.1274872,
+      "lon": 6.7819255
+    },
+    "differenz": 5,
+    "entfernung_km": 0.49,
+    "gradient": 10.29
+  },
+  {
+    "schule_1": {
+      "schulnummer": "129318",
+      "schultyp": "Grundschule",
+      "sozialindex": 2,
+      "lat": 51.5555207,
+      "lon": 7.4670167
+    },
+    "schule_2": {
+      "schulnummer": "130096",
+      "schultyp": "Grundschule",
+      "sozialindex": 9,
+      "lat": 51.5517059,
+      "lon": 7.4757074
+    },
+    "differenz": 7,
+    "entfernung_km": 0.74,
+    "gradient": 9.52
+  },
+  {
+    "schule_1": {
+      "schulnummer": "100470",
+      "schultyp": "Grundschule",
+      "sozialindex": 7,
+      "lat": 51.2285593,
+      "lon": 6.816495
+    },
+    "schule_2": {
+      "schulnummer": "100705",
+      "schultyp": "Grundschule",
+      "sozialindex": 1,
+      "lat": 51.234302,
+      "lon": 6.81407
+    },
+    "differenz": 6,
+    "entfernung_km": 0.66,
+    "gradient": 9.08
+  },
+  {
+    "schule_1": {
+      "schulnummer": "102180",
+      "schultyp": "Grundschule",
+      "sozialindex": 4,
+      "lat": 51.4397544,
+      "lon": 6.9958577
+    },
+    "schule_2": {
+      "schulnummer": "102544",
+      "schultyp": "Grundschule",
+      "sozialindex": 8,
+      "lat": 51.4398377,
+      "lon": 6.9893972
+    },
+    "differenz": 4,
+    "entfernung_km": 0.45,
+    "gradient": 8.93
+  },
+  {
+    "schule_1": {
+      "schulnummer": "111454",
+      "schultyp": "Grundschule",
+      "sozialindex": 2,
+      "lat": 50.9869564,
+      "lon": 6.9871797
+    },
+    "schule_2": {
+      "schulnummer": "112616",
+      "schultyp": "Grundschule",
+      "sozialindex": 6,
+      "lat": 50.9837371,
+      "lon": 6.9910453
+    },
+    "differenz": 4,
+    "entfernung_km": 0.45,
+    "gradient": 8.91
+  },
+  {
+    "schule_1": {
+      "schulnummer": "185528",
+      "schultyp": "Grundschule",
+      "sozialindex": 9,
+      "lat": 50.9496137,
+      "lon": 6.640181
+    },
+    "schule_2": {
+      "schulnummer": "112770",
+      "schultyp": "Grundschule",
+      "sozialindex": 2,
+      "lat": 50.9490364,
+      "lon": 6.6514027
+    },
+    "differenz": 7,
+    "entfernung_km": 0.79,
+    "gradient": 8.87
+  },
+  {
+    "schule_1": {
+      "schulnummer": "135975",
+      "schultyp": "Grundschule",
+      "sozialindex": 5,
+      "lat": 51.4988326,
+      "lon": 7.615291
+    },
+    "schule_2": {
+      "schulnummer": "135987",
+      "schultyp": "Grundschule",
+      "sozialindex": 2,
+      "lat": 51.4962858,
+      "lon": 7.6179629
+    },
+    "differenz": 3,
+    "entfernung_km": 0.34,
+    "gradient": 8.87
+  },
+  {
+    "schule_1": {
+      "schulnummer": "109060",
+      "schultyp": "Grundschule",
+      "sozialindex": 9,
+      "lat": 51.4538668,
+      "lon": 6.6886999
+    },
+    "schule_2": {
+      "schulnummer": "109101",
+      "schultyp": "Grundschule",
+      "sozialindex": 2,
+      "lat": 51.4565218,
+      "lon": 6.6994952
+    },
+    "differenz": 7,
+    "entfernung_km": 0.8,
+    "gradient": 8.7
+  },
+  {
+    "schule_1": {
+      "schulnummer": "100109",
+      "schultyp": "Grundschule",
+      "sozialindex": 2,
+      "lat": 51.189907,
+      "lon": 6.8148053
+    },
+    "schule_2": {
+      "schulnummer": "100900",
+      "schultyp": "Grundschule",
+      "sozialindex": 8,
+      "lat": 51.1862791,
+      "lon": 6.822857
+    },
+    "differenz": 6,
+    "entfernung_km": 0.69,
+    "gradient": 8.68
+  },
+  {
+    "schule_1": {
+      "schulnummer": "100213",
+      "schultyp": "Grundschule",
+      "sozialindex": 2,
+      "lat": 51.189907,
+      "lon": 6.8148053
+    },
+    "schule_2": {
+      "schulnummer": "100900",
+      "schultyp": "Grundschule",
+      "sozialindex": 8,
+      "lat": 51.1862791,
+      "lon": 6.822857
+    },
+    "differenz": 6,
+    "entfernung_km": 0.69,
+    "gradient": 8.68
+  },
+  {
+    "schule_1": {
+      "schulnummer": "102179",
+      "schultyp": "Grundschule",
+      "sozialindex": 2,
+      "lat": 51.4463346,
+      "lon": 6.9730012
+    },
+    "schule_2": {
+      "schulnummer": "102805",
+      "schultyp": "Grundschule",
+      "sozialindex": 7,
+      "lat": 51.4514361,
+      "lon": 6.9713769
+    },
+    "differenz": 5,
+    "entfernung_km": 0.58,
+    "gradient": 8.65
+  },
+  {
+    "schule_1": {
+      "schulnummer": "124163",
+      "schultyp": "Grundschule",
+      "sozialindex": 3,
+      "lat": 52.0151174,
+      "lon": 8.5421075
+    },
+    "schule_2": {
+      "schulnummer": "124230",
+      "schultyp": "Grundschule",
+      "sozialindex": 9,
+      "lat": 52.021001,
+      "lon": 8.545745
+    },
+    "differenz": 6,
+    "entfernung_km": 0.7,
+    "gradient": 8.57
+  },
+  {
+    "schule_1": {
+      "schulnummer": "150903",
+      "schultyp": "Grundschule",
+      "sozialindex": 1,
+      "lat": 51.0424362,
+      "lon": 7.0001996
+    },
+    "schule_2": {
+      "schulnummer": "103226",
+      "schultyp": "Grundschule",
+      "sozialindex": 6,
+      "lat": 51.0475365,
+      "lon": 6.9980972
+    },
+    "differenz": 5,
+    "entfernung_km": 0.59,
+    "gradient": 8.53
+  },
+  {
+    "schule_1": {
+      "schulnummer": "106483",
+      "schultyp": "Grundschule",
+      "sozialindex": 1,
+      "lat": 51.3292401,
+      "lon": 6.9583156
+    },
+    "schule_2": {
+      "schulnummer": "106513",
+      "schultyp": "Grundschule",
+      "sozialindex": 7,
+      "lat": 51.3245788,
+      "lon": 6.9654058
+    },
+    "differenz": 6,
+    "entfernung_km": 0.72,
+    "gradient": 8.39
+  },
+  {
+    "schule_1": {
+      "schulnummer": "120066",
+      "schultyp": "Grundschule",
+      "sozialindex": 7,
+      "lat": 51.5733999,
+      "lon": 7.2356046
+    },
+    "schule_2": {
+      "schulnummer": "130680",
+      "schultyp": "Grundschule",
+      "sozialindex": 3,
+      "lat": 51.5691289,
+      "lon": 7.234992
+    },
+    "differenz": 4,
+    "entfernung_km": 0.48,
+    "gradient": 8.39
+  },
+  {
+    "schule_1": {
+      "schulnummer": "130175",
+      "schultyp": "Grundschule",
+      "sozialindex": 2,
+      "lat": 51.3811252,
+      "lon": 7.4653099
+    },
+    "schule_2": {
+      "schulnummer": "130412",
+      "schultyp": "Grundschule",
+      "sozialindex": 9,
+      "lat": 51.3735504,
+      "lon": 7.4664347
+    },
+    "differenz": 7,
+    "entfernung_km": 0.85,
+    "gradient": 8.28
+  },
+  {
+    "schule_1": {
+      "schulnummer": "135136",
+      "schultyp": "Grundschule",
+      "sozialindex": 3,
+      "lat": 50.9571804,
+      "lon": 7.9987857
+    },
+    "schule_2": {
+      "schulnummer": "135148",
+      "schultyp": "Grundschule",
+      "sozialindex": 9,
+      "lat": 50.9615879,
+      "lon": 7.9910885
+    },
+    "differenz": 6,
+    "entfernung_km": 0.73,
+    "gradient": 8.24
+  },
+  {
+    "schule_1": {
+      "schulnummer": "112318",
+      "schultyp": "Grundschule",
+      "sozialindex": 6,
+      "lat": 51.0199272,
+      "lon": 6.8852965
+    },
+    "schule_2": {
+      "schulnummer": "185413",
+      "schultyp": "Grundschule",
+      "sozialindex": 9,
+      "lat": 51.0185722,
+      "lon": 6.8900514
+    },
+    "differenz": 3,
+    "entfernung_km": 0.37,
+    "gradient": 8.22
+  },
+  {
+    "schule_1": {
+      "schulnummer": "103317",
+      "schultyp": "Grundschule",
+      "sozialindex": 2,
+      "lat": 51.037947,
+      "lon": 7.0536419
+    },
+    "schule_2": {
+      "schulnummer": "103330",
+      "schultyp": "Grundschule",
+      "sozialindex": 9,
+      "lat": 51.0454947,
+      "lon": 7.0514541
+    },
+    "differenz": 7,
+    "entfernung_km": 0.85,
+    "gradient": 8.21
+  },
+  {
+    "schule_1": {
+      "schulnummer": "101138",
+      "schultyp": "Grundschule",
+      "sozialindex": 4,
+      "lat": 51.4755474,
+      "lon": 6.739508
+    },
+    "schule_2": {
+      "schulnummer": "101448",
+      "schultyp": "Grundschule",
+      "sozialindex": 9,
+      "lat": 51.48048,
+      "lon": 6.7356562
+    },
+    "differenz": 5,
+    "entfernung_km": 0.61,
+    "gradient": 8.2
+  },
+  {
+    "schule_1": {
+      "schulnummer": "102570",
+      "schultyp": "Grundschule",
+      "sozialindex": 4,
+      "lat": 51.4462096,
+      "lon": 6.9632744
+    },
+    "schule_2": {
+      "schulnummer": "102830",
+      "schultyp": "Grundschule",
+      "sozialindex": 9,
+      "lat": 51.4456249,
+      "lon": 6.9720475
+    },
+    "differenz": 5,
+    "entfernung_km": 0.61,
+    "gradient": 8.18
+  },
+  {
+    "schule_1": {
+      "schulnummer": "130175",
+      "schultyp": "Grundschule",
+      "sozialindex": 2,
+      "lat": 51.3811252,
+      "lon": 7.4653099
+    },
+    "schule_2": {
+      "schulnummer": "130382",
+      "schultyp": "Grundschule",
+      "sozialindex": 8,
+      "lat": 51.380046,
+      "lon": 7.4548196
+    },
+    "differenz": 6,
+    "entfernung_km": 0.74,
+    "gradient": 8.13
+  },
+  {
+    "schule_1": {
+      "schulnummer": "118783",
+      "schultyp": "Grundschule",
+      "sozialindex": 9,
+      "lat": 51.5206444,
+      "lon": 6.936717
+    },
+    "schule_2": {
+      "schulnummer": "118837",
+      "schultyp": "Grundschule",
+      "sozialindex": 5,
+      "lat": 51.5176383,
+      "lon": 6.9314888
+    },
+    "differenz": 4,
+    "entfernung_km": 0.49,
+    "gradient": 8.12
+  },
+  {
+    "schule_1": {
+      "schulnummer": "127516",
+      "schultyp": "Grundschule",
+      "sozialindex": 5,
+      "lat": 51.7135969,
+      "lon": 8.7511008
+    },
+    "schule_2": {
+      "schulnummer": "124746",
+      "schultyp": "Grundschule",
+      "sozialindex": 1,
+      "lat": 51.7143562,
+      "lon": 8.7440019
+    },
+    "differenz": 4,
+    "entfernung_km": 0.5,
+    "gradient": 8.06
+  },
+  {
+    "schule_1": {
+      "schulnummer": "100014",
+      "schultyp": "Grundschule",
+      "sozialindex": 5,
+      "lat": 51.5280695,
+      "lon": 7.2236424
+    },
+    "schule_2": {
+      "schulnummer": "130576",
+      "schultyp": "Grundschule",
+      "sozialindex": 1,
+      "lat": 51.5276289,
+      "lon": 7.2308634
+    },
+    "differenz": 4,
+    "entfernung_km": 0.5,
+    "gradient": 7.97
+  },
+  {
+    "schule_1": {
+      "schulnummer": "101771",
+      "schultyp": "Grundschule",
+      "sozialindex": 2,
+      "lat": 51.4559117,
+      "lon": 7.1065481
+    },
+    "schule_2": {
+      "schulnummer": "102866",
+      "schultyp": "Grundschule",
+      "sozialindex": 9,
+      "lat": 51.4480091,
+      "lon": 7.1067722
+    },
+    "differenz": 7,
+    "entfernung_km": 0.88,
+    "gradient": 7.96
+  },
+  {
+    "schule_1": {
+      "schulnummer": "104875",
+      "schultyp": "Grundschule",
+      "sozialindex": 8,
+      "lat": 51.1883703,
+      "lon": 7.1917707
+    },
+    "schule_2": {
+      "schulnummer": "104887",
+      "schultyp": "Grundschule",
+      "sozialindex": 2,
+      "lat": 51.1937688,
+      "lon": 7.185136
+    },
+    "differenz": 6,
+    "entfernung_km": 0.76,
+    "gradient": 7.92
+  },
+  {
+    "schule_1": {
+      "schulnummer": "112690",
+      "schultyp": "Grundschule",
+      "sozialindex": 3,
+      "lat": 50.9507416,
+      "lon": 6.6510405
+    },
+    "schule_2": {
+      "schulnummer": "185528",
+      "schultyp": "Grundschule",
+      "sozialindex": 9,
+      "lat": 50.9496137,
+      "lon": 6.640181
+    },
+    "differenz": 6,
+    "entfernung_km": 0.77,
+    "gradient": 7.78
+  },
+  {
+    "schule_1": {
+      "schulnummer": "128156",
+      "schultyp": "Grundschule",
+      "sozialindex": 5,
+      "lat": 51.881232,
+      "lon": 8.2463883
+    },
+    "schule_2": {
+      "schulnummer": "128168",
+      "schultyp": "Grundschule",
+      "sozialindex": 2,
+      "lat": 51.8839695,
+      "lon": 8.2426946
+    },
+    "differenz": 3,
+    "entfernung_km": 0.4,
+    "gradient": 7.57
+  },
+  {
+    "schule_1": {
+      "schulnummer": "100204",
+      "schultyp": "Grundschule",
+      "sozialindex": 8,
+      "lat": 51.1629336,
+      "lon": 7.1077153
+    },
+    "schule_2": {
+      "schulnummer": "105417",
+      "schultyp": "Grundschule",
+      "sozialindex": 3,
+      "lat": 51.1689019,
+      "lon": 7.1080358
+    },
+    "differenz": 5,
+    "entfernung_km": 0.66,
+    "gradient": 7.53
+  },
+  {
+    "schule_1": {
+      "schulnummer": "117249",
+      "schultyp": "Grundschule",
+      "sozialindex": 3,
+      "lat": 50.8201703,
+      "lon": 6.1280005
+    },
+    "schule_2": {
+      "schulnummer": "184846",
+      "schultyp": "Grundschule",
+      "sozialindex": 6,
+      "lat": 50.8188999,
+      "lon": 6.133405
+    },
+    "differenz": 3,
+    "entfernung_km": 0.41,
+    "gradient": 7.41
+  },
+  {
+    "schule_1": {
+      "schulnummer": "100596",
+      "schultyp": "Grundschule",
+      "sozialindex": 2,
+      "lat": 51.2399227,
+      "lon": 6.7830491
+    },
+    "schule_2": {
+      "schulnummer": "100936",
+      "schultyp": "Grundschule",
+      "sozialindex": 6,
+      "lat": 51.2390167,
+      "lon": 6.7906851
+    },
+    "differenz": 4,
+    "entfernung_km": 0.54,
+    "gradient": 7.39
+  },
+  {
+    "schule_1": {
+      "schulnummer": "103676",
+      "schultyp": "Grundschule",
+      "sozialindex": 4,
+      "lat": 51.1930586,
+      "lon": 6.4540803
+    },
+    "schule_2": {
+      "schulnummer": "103720",
+      "schultyp": "Grundschule",
+      "sozialindex": 8,
+      "lat": 51.1881551,
+      "lon": 6.4551449
+    },
+    "differenz": 4,
+    "entfernung_km": 0.55,
+    "gradient": 7.27
+  },
+  {
+    "schule_1": {
+      "schulnummer": "119090",
+      "schultyp": "Grundschule",
+      "sozialindex": 3,
+      "lat": 51.5912219,
+      "lon": 7.0502807
+    },
+    "schule_2": {
+      "schulnummer": "119430",
+      "schultyp": "Grundschule",
+      "sozialindex": 7,
+      "lat": 51.5941198,
+      "lon": 7.056734
+    },
+    "differenz": 4,
+    "entfernung_km": 0.55,
+    "gradient": 7.27
+  },
+  {
+    "schule_1": {
+      "schulnummer": "118023",
+      "schultyp": "Grundschule",
+      "sozialindex": 2,
+      "lat": 50.9777155,
+      "lon": 6.0753554
+    },
+    "schule_2": {
+      "schulnummer": "118114",
+      "schultyp": "Grundschule",
+      "sozialindex": 5,
+      "lat": 50.9777342,
+      "lon": 6.0812634
+    },
+    "differenz": 3,
+    "entfernung_km": 0.41,
+    "gradient": 7.25
+  },
+  {
+    "schule_1": {
+      "schulnummer": "127401",
+      "schultyp": "Grundschule",
+      "sozialindex": 8,
+      "lat": 51.7177478,
+      "lon": 8.7310547
+    },
+    "schule_2": {
+      "schulnummer": "124746",
+      "schultyp": "Grundschule",
+      "sozialindex": 1,
+      "lat": 51.7143562,
+      "lon": 8.7440019
+    },
+    "differenz": 7,
+    "entfernung_km": 0.97,
+    "gradient": 7.23
+  },
+  {
+    "schule_1": {
+      "schulnummer": "100390",
+      "schultyp": "Grundschule",
+      "sozialindex": 9,
+      "lat": 51.1801457,
+      "lon": 6.8662711
+    },
+    "schule_2": {
+      "schulnummer": "100675",
+      "schultyp": "Grundschule",
+      "sozialindex": 4,
+      "lat": 51.1780045,
+      "lon": 6.8756514
+    },
+    "differenz": 5,
+    "entfernung_km": 0.7,
+    "gradient": 7.19
+  },
+  {
+    "schule_1": {
+      "schulnummer": "116464",
+      "schultyp": "Grundschule",
+      "sozialindex": 7,
+      "lat": 50.7699315,
+      "lon": 6.0767354
+    },
+    "schule_2": {
+      "schulnummer": "151166",
+      "schultyp": "Grundschule",
+      "sozialindex": 4,
+      "lat": 50.7667452,
+      "lon": 6.07989
+    },
+    "differenz": 3,
+    "entfernung_km": 0.42,
+    "gradient": 7.18
+  },
+  {
+    "schule_1": {
+      "schulnummer": "133152",
+      "schultyp": "Grundschule",
+      "sozialindex": 3,
+      "lat": 51.3877143,
+      "lon": 7.3956321
+    },
+    "schule_2": {
+      "schulnummer": "133164",
+      "schultyp": "Grundschule",
+      "sozialindex": 6,
+      "lat": 51.3887646,
+      "lon": 7.3897304
+    },
+    "differenz": 3,
+    "entfernung_km": 0.43,
+    "gradient": 7.04
+  },
+  {
+    "schule_1": {
+      "schulnummer": "111806",
+      "schultyp": "Grundschule",
+      "sozialindex": 8,
+      "lat": 50.9278647,
+      "lon": 6.9466888
+    },
+    "schule_2": {
+      "schulnummer": "112320",
+      "schultyp": "Grundschule",
+      "sozialindex": 1,
+      "lat": 50.91947,
+      "lon": 6.9516721
+    },
+    "differenz": 7,
+    "entfernung_km": 1.0,
+    "gradient": 7.02
+  },
+  {
+    "schule_1": {
+      "schulnummer": "112872",
+      "schultyp": "Grundschule",
+      "sozialindex": 3,
+      "lat": 50.8712444,
+      "lon": 6.6979183
+    },
+    "schule_2": {
+      "schulnummer": "112896",
+      "schultyp": "Grundschule",
+      "sozialindex": 9,
+      "lat": 50.8789626,
+      "lon": 6.6964823
+    },
+    "differenz": 6,
+    "entfernung_km": 0.86,
+    "gradient": 6.94
+  },
+  {
+    "schule_1": {
+      "schulnummer": "111200",
+      "schultyp": "Grundschule",
+      "sozialindex": 8,
+      "lat": 50.6969522,
+      "lon": 7.1553805
+    },
+    "schule_2": {
+      "schulnummer": "111223",
+      "schultyp": "Grundschule",
+      "sozialindex": 3,
+      "lat": 50.6908203,
+      "lon": 7.1588452
+    },
+    "differenz": 5,
+    "entfernung_km": 0.72,
+    "gradient": 6.9
+  },
+  {
+    "schule_1": {
+      "schulnummer": "100444",
+      "schultyp": "Grundschule",
+      "sozialindex": 9,
+      "lat": 51.2274364,
+      "lon": 6.7946586
+    },
+    "schule_2": {
+      "schulnummer": "150850",
+      "schultyp": "Grundschule",
+      "sozialindex": 4,
+      "lat": 51.2283231,
+      "lon": 6.8050167
+    },
+    "differenz": 5,
+    "entfernung_km": 0.73,
+    "gradient": 6.87
+  },
+  {
+    "schule_1": {
+      "schulnummer": "101916",
+      "schultyp": "Grundschule",
+      "sozialindex": 8,
+      "lat": 51.4329127,
+      "lon": 7.1089331
+    },
+    "schule_2": {
+      "schulnummer": "102120",
+      "schultyp": "Grundschule",
+      "sozialindex": 3,
+      "lat": 51.4370679,
+      "lon": 7.100632
+    },
+    "differenz": 5,
+    "entfernung_km": 0.74,
+    "gradient": 6.78
+  },
+  {
+    "schule_1": {
+      "schulnummer": "102283",
+      "schultyp": "Grundschule",
+      "sozialindex": 4,
+      "lat": 51.4728644,
+      "lon": 7.0764954
+    },
+    "schule_2": {
+      "schulnummer": "102738",
+      "schultyp": "Grundschule",
+      "sozialindex": 9,
+      "lat": 51.4664514,
+      "lon": 7.0793881
+    },
+    "differenz": 5,
+    "entfernung_km": 0.74,
+    "gradient": 6.75
+  },
+  {
+    "schule_1": {
+      "schulnummer": "100137",
+      "schultyp": "Grundschule",
+      "sozialindex": 9,
+      "lat": 51.3360954,
+      "lon": 6.5682187
+    },
+    "schule_2": {
+      "schulnummer": "103196",
+      "schultyp": "Grundschule",
+      "sozialindex": 4,
+      "lat": 51.3417943,
+      "lon": 6.5738356
+    },
+    "differenz": 5,
+    "entfernung_km": 0.74,
+    "gradient": 6.72
+  },
+  {
+    "schule_1": {
+      "schulnummer": "133358",
+      "schultyp": "Grundschule",
+      "sozialindex": 9,
+      "lat": 51.4408725,
+      "lon": 7.5637534
+    },
+    "schule_2": {
+      "schulnummer": "186508",
+      "schultyp": "Grundschule",
+      "sozialindex": 4,
+      "lat": 51.4458846,
+      "lon": 7.5708735
+    },
+    "differenz": 5,
+    "entfernung_km": 0.74,
+    "gradient": 6.72
+  },
+  {
+    "schule_1": {
+      "schulnummer": "119659",
+      "schultyp": "Grundschule",
+      "sozialindex": 5,
+      "lat": 51.9658225,
+      "lon": 7.6313798
+    },
+    "schule_2": {
+      "schulnummer": "119775",
+      "schultyp": "Grundschule",
+      "sozialindex": 2,
+      "lat": 51.9692239,
+      "lon": 7.6278407
+    },
+    "differenz": 3,
+    "entfernung_km": 0.45,
+    "gradient": 6.68
+  },
+  {
+    "schule_1": {
+      "schulnummer": "100304",
+      "schultyp": "Grundschule",
+      "sozialindex": 8,
+      "lat": 51.2230138,
+      "lon": 6.8067195
+    },
+    "schule_2": {
+      "schulnummer": "150850",
+      "schultyp": "Grundschule",
+      "sozialindex": 4,
+      "lat": 51.2283231,
+      "lon": 6.8050167
+    },
+    "differenz": 4,
+    "entfernung_km": 0.6,
+    "gradient": 6.64
+  },
+  {
+    "schule_1": {
+      "schulnummer": "104413",
+      "schultyp": "Grundschule",
+      "sozialindex": 9,
+      "lat": 51.4675881,
+      "lon": 6.8535727
+    },
+    "schule_2": {
+      "schulnummer": "104656",
+      "schultyp": "Grundschule",
+      "sozialindex": 4,
+      "lat": 51.4609702,
+      "lon": 6.8559201
+    },
+    "differenz": 5,
+    "entfernung_km": 0.75,
+    "gradient": 6.63
+  },
+  {
+    "schule_1": {
+      "schulnummer": "105004",
+      "schultyp": "Grundschule",
+      "sozialindex": 3,
+      "lat": 51.1436145,
+      "lon": 6.4576717
+    },
+    "schule_2": {
+      "schulnummer": "105090",
+      "schultyp": "Grundschule",
+      "sozialindex": 8,
+      "lat": 51.1496962,
+      "lon": 6.4626065
+    },
+    "differenz": 5,
+    "entfernung_km": 0.76,
+    "gradient": 6.59
+  },
+  {
+    "schule_1": {
+      "schulnummer": "100158",
+      "schultyp": "Grundschule",
+      "sozialindex": 6,
+      "lat": 51.1449631,
+      "lon": 6.8890246
+    },
+    "schule_2": {
+      "schulnummer": "183635",
+      "schultyp": "Grundschule",
+      "sozialindex": 3,
+      "lat": 51.1421631,
+      "lon": 6.8938041
+    },
+    "differenz": 3,
+    "entfernung_km": 0.46,
+    "gradient": 6.58
+  },
+  {
+    "schule_1": {
+      "schulnummer": "101059",
+      "schultyp": "Grundschule",
+      "sozialindex": 8,
+      "lat": 51.142672,
+      "lon": 6.9046794
+    },
+    "schule_2": {
+      "schulnummer": "183635",
+      "schultyp": "Grundschule",
+      "sozialindex": 3,
+      "lat": 51.1421631,
+      "lon": 6.8938041
+    },
+    "differenz": 5,
+    "entfernung_km": 0.76,
+    "gradient": 6.57
+  },
+  {
+    "schule_1": {
+      "schulnummer": "111200",
+      "schultyp": "Grundschule",
+      "sozialindex": 8,
+      "lat": 50.6969522,
+      "lon": 7.1553805
+    },
+    "schule_2": {
+      "schulnummer": "111338",
+      "schultyp": "Grundschule",
+      "sozialindex": 5,
+      "lat": 50.6989943,
+      "lon": 7.1610061
+    },
+    "differenz": 3,
+    "entfernung_km": 0.46,
+    "gradient": 6.57
+  },
+  {
+    "schule_1": {
+      "schulnummer": "102088",
+      "schultyp": "Grundschule",
+      "sozialindex": 6,
+      "lat": 51.5005316,
+      "lon": 7.0396723
+    },
+    "schule_2": {
+      "schulnummer": "102507",
+      "schultyp": "Grundschule",
+      "sozialindex": 9,
+      "lat": 51.4985779,
+      "lon": 7.0454878
+    },
+    "differenz": 3,
+    "entfernung_km": 0.46,
+    "gradient": 6.56
+  },
+  {
+    "schule_1": {
+      "schulnummer": "100167",
+      "schultyp": "Grundschule",
+      "sozialindex": 3,
+      "lat": 51.4886018,
+      "lon": 6.5551293
+    },
+    "schule_2": {
+      "schulnummer": "109113",
+      "schultyp": "Grundschule",
+      "sozialindex": 7,
+      "lat": 51.4898762,
+      "lon": 6.5637008
+    },
+    "differenz": 4,
+    "entfernung_km": 0.61,
+    "gradient": 6.56
+  },
+  {
+    "schule_1": {
+      "schulnummer": "119970",
+      "schultyp": "Grundschule",
+      "sozialindex": 4,
+      "lat": 51.5756081,
+      "lon": 7.2411885
+    },
+    "schule_2": {
+      "schulnummer": "120066",
+      "schultyp": "Grundschule",
+      "sozialindex": 7,
+      "lat": 51.5733999,
+      "lon": 7.2356046
+    },
+    "differenz": 3,
+    "entfernung_km": 0.46,
+    "gradient": 6.56
+  },
+  {
+    "schule_1": {
+      "schulnummer": "118680",
+      "schultyp": "Grundschule",
+      "sozialindex": 5,
+      "lat": 51.8401969,
+      "lon": 6.6140053
+    },
+    "schule_2": {
+      "schulnummer": "120431",
+      "schultyp": "Grundschule",
+      "sozialindex": 2,
+      "lat": 51.8366397,
+      "lon": 6.6174239
+    },
+    "differenz": 3,
+    "entfernung_km": 0.46,
+    "gradient": 6.52
+  },
+  {
+    "schule_1": {
+      "schulnummer": "113633",
+      "schultyp": "Grundschule",
+      "sozialindex": 7,
+      "lat": 50.9050132,
+      "lon": 6.8065794
+    },
+    "schule_2": {
+      "schulnummer": "113657",
+      "schultyp": "Grundschule",
+      "sozialindex": 3,
+      "lat": 50.9058925,
+      "lon": 6.7979073
+    },
+    "differenz": 4,
+    "entfernung_km": 0.62,
+    "gradient": 6.49
+  },
+  {
+    "schule_1": {
+      "schulnummer": "100961",
+      "schultyp": "Grundschule",
+      "sozialindex": 1,
+      "lat": 51.2100247,
+      "lon": 6.7690514
+    },
+    "schule_2": {
+      "schulnummer": "100973",
+      "schultyp": "Grundschule",
+      "sozialindex": 6,
+      "lat": 51.2126679,
+      "lon": 6.7793695
+    },
+    "differenz": 5,
+    "entfernung_km": 0.78,
+    "gradient": 6.44
+  },
+  {
+    "schule_1": {
+      "schulnummer": "104620",
+      "schultyp": "Grundschule",
+      "sozialindex": 9,
+      "lat": 51.4723047,
+      "lon": 6.8575378
+    },
+    "schule_2": {
+      "schulnummer": "104632",
+      "schultyp": "Grundschule",
+      "sozialindex": 4,
+      "lat": 51.4785376,
+      "lon": 6.8625731
+    },
+    "differenz": 5,
+    "entfernung_km": 0.78,
+    "gradient": 6.44
+  },
+  {
+    "schule_1": {
+      "schulnummer": "100250",
+      "schultyp": "Grundschule",
+      "sozialindex": 6,
+      "lat": 51.211853,
+      "lon": 6.7799322
+    },
+    "schule_2": {
+      "schulnummer": "100961",
+      "schultyp": "Grundschule",
+      "sozialindex": 1,
+      "lat": 51.2100247,
+      "lon": 6.7690514
+    },
+    "differenz": 5,
+    "entfernung_km": 0.78,
+    "gradient": 6.37
+  },
+  {
+    "schule_1": {
+      "schulnummer": "133358",
+      "schultyp": "Grundschule",
+      "sozialindex": 9,
+      "lat": 51.4408725,
+      "lon": 7.5637534
+    },
+    "schule_2": {
+      "schulnummer": "133360",
+      "schultyp": "Grundschule",
+      "sozialindex": 3,
+      "lat": 51.4463786,
+      "lon": 7.5533949
+    },
+    "differenz": 6,
+    "entfernung_km": 0.94,
+    "gradient": 6.36
+  },
+  {
+    "schule_1": {
+      "schulnummer": "124308",
+      "schultyp": "Grundschule",
+      "sozialindex": 6,
+      "lat": 51.9931592,
+      "lon": 8.5095111
+    },
+    "schule_2": {
+      "schulnummer": "124310",
+      "schultyp": "Grundschule",
+      "sozialindex": 9,
+      "lat": 51.9889281,
+      "lon": 8.5104903
+    },
+    "differenz": 3,
+    "entfernung_km": 0.48,
+    "gradient": 6.31
+  },
+  {
+    "schule_1": {
+      "schulnummer": "100535",
+      "schultyp": "Grundschule",
+      "sozialindex": 5,
+      "lat": 51.2441227,
+      "lon": 6.7845271
+    },
+    "schule_2": {
+      "schulnummer": "100596",
+      "schultyp": "Grundschule",
+      "sozialindex": 2,
+      "lat": 51.2399227,
+      "lon": 6.7830491
+    },
+    "differenz": 3,
+    "entfernung_km": 0.48,
+    "gradient": 6.27
+  },
+  {
+    "schule_1": {
+      "schulnummer": "105788",
+      "schultyp": "Grundschule",
+      "sozialindex": 7,
+      "lat": 51.2671242,
+      "lon": 7.2007837
+    },
+    "schule_2": {
+      "schulnummer": "105983",
+      "schultyp": "Grundschule",
+      "sozialindex": 4,
+      "lat": 51.2634937,
+      "lon": 7.1971012
+    },
+    "differenz": 3,
+    "entfernung_km": 0.48,
+    "gradient": 6.27
+  },
+  {
+    "schule_1": {
+      "schulnummer": "113578",
+      "schultyp": "Grundschule",
+      "sozialindex": 3,
+      "lat": 50.8103489,
+      "lon": 6.8922188
+    },
+    "schule_2": {
+      "schulnummer": "113591",
+      "schultyp": "Grundschule",
+      "sozialindex": 6,
+      "lat": 50.8143932,
+      "lon": 6.8946065
+    },
+    "differenz": 3,
+    "entfernung_km": 0.48,
+    "gradient": 6.25
+  },
+  {
+    "schule_1": {
+      "schulnummer": "131167",
+      "schultyp": "Grundschule",
+      "sozialindex": 4,
+      "lat": 51.4796712,
+      "lon": 7.1261634
+    },
+    "schule_2": {
+      "schulnummer": "196447",
+      "schultyp": "Grundschule",
+      "sozialindex": 8,
+      "lat": 51.4834034,
+      "lon": 7.1332794
+    },
+    "differenz": 4,
+    "entfernung_km": 0.64,
+    "gradient": 6.21
+  },
+  {
+    "schule_1": {
+      "schulnummer": "116324",
+      "schultyp": "Grundschule",
+      "sozialindex": 5,
+      "lat": 50.7640435,
+      "lon": 6.0957097
+    },
+    "schule_2": {
+      "schulnummer": "116476",
+      "schultyp": "Grundschule",
+      "sozialindex": 2,
+      "lat": 50.7605856,
+      "lon": 6.0998943
+    },
+    "differenz": 3,
+    "entfernung_km": 0.48,
+    "gradient": 6.2
+  },
+  {
+    "schule_1": {
+      "schulnummer": "119143",
+      "schultyp": "Grundschule",
+      "sozialindex": 2,
+      "lat": 51.5849479,
+      "lon": 7.0229922
+    },
+    "schule_2": {
+      "schulnummer": "119271",
+      "schultyp": "Grundschule",
+      "sozialindex": 7,
+      "lat": 51.591866,
+      "lon": 7.019469
+    },
+    "differenz": 5,
+    "entfernung_km": 0.81,
+    "gradient": 6.2
+  },
+  {
+    "schule_1": {
+      "schulnummer": "111648",
+      "schultyp": "Grundschule",
+      "sozialindex": 3,
+      "lat": 50.930003,
+      "lon": 6.9355173
+    },
+    "schule_2": {
+      "schulnummer": "111806",
+      "schultyp": "Grundschule",
+      "sozialindex": 8,
+      "lat": 50.9278647,
+      "lon": 6.9466888
+    },
+    "differenz": 5,
+    "entfernung_km": 0.82,
+    "gradient": 6.11
+  },
+  {
+    "schule_1": {
+      "schulnummer": "100191",
+      "schultyp": "Grundschule",
+      "sozialindex": 9,
+      "lat": 51.4443017,
+      "lon": 6.6426814
+    },
+    "schule_2": {
+      "schulnummer": "109290",
+      "schultyp": "Grundschule",
+      "sozialindex": 5,
+      "lat": 51.442135,
+      "lon": 6.6338255
+    },
+    "differenz": 4,
+    "entfernung_km": 0.66,
+    "gradient": 6.07
+  },
+  {
+    "schule_1": {
+      "schulnummer": "113591",
+      "schultyp": "Grundschule",
+      "sozialindex": 6,
+      "lat": 50.8143932,
+      "lon": 6.8946065
+    },
+    "schule_2": {
+      "schulnummer": "113189",
+      "schultyp": "Grundschule",
+      "sozialindex": 2,
+      "lat": 50.8086402,
+      "lon": 6.8922915
+    },
+    "differenz": 4,
+    "entfernung_km": 0.66,
+    "gradient": 6.06
+  },
+  {
+    "schule_1": {
+      "schulnummer": "101151",
+      "schultyp": "Grundschule",
+      "sozialindex": 9,
+      "lat": 51.4252649,
+      "lon": 6.7562665
+    },
+    "schule_2": {
+      "schulnummer": "101242",
+      "schultyp": "Grundschule",
+      "sozialindex": 5,
+      "lat": 51.4305406,
+      "lon": 6.7606876
+    },
+    "differenz": 4,
+    "entfernung_km": 0.66,
+    "gradient": 6.04
+  },
+  {
+    "schule_1": {
+      "schulnummer": "135112",
+      "schultyp": "Grundschule",
+      "sozialindex": 3,
+      "lat": 50.959552,
+      "lon": 7.9772366
+    },
+    "schule_2": {
+      "schulnummer": "135148",
+      "schultyp": "Grundschule",
+      "sozialindex": 9,
+      "lat": 50.9615879,
+      "lon": 7.9910885
+    },
+    "differenz": 6,
+    "entfernung_km": 1.0,
+    "gradient": 6.02
+  },
+  {
+    "schule_1": {
+      "schulnummer": "119842",
+      "schultyp": "Grundschule",
+      "sozialindex": 9,
+      "lat": 51.993231,
+      "lon": 7.6458044
+    },
+    "schule_2": {
+      "schulnummer": "119878",
+      "schultyp": "Grundschule",
+      "sozialindex": 6,
+      "lat": 51.989159,
+      "lon": 7.648911
+    },
+    "differenz": 3,
+    "entfernung_km": 0.5,
+    "gradient": 6.0
+  },
+  {
+    "schule_1": {
+      "schulnummer": "116830",
+      "schultyp": "Grundschule",
+      "sozialindex": 7,
+      "lat": 50.8199295,
+      "lon": 6.2580204
+    },
+    "schule_2": {
+      "schulnummer": "116877",
+      "schultyp": "Grundschule",
+      "sozialindex": 4,
+      "lat": 50.8213573,
+      "lon": 6.2648614
+    },
+    "differenz": 3,
+    "entfernung_km": 0.51,
+    "gradient": 5.93
+  },
+  {
+    "schule_1": {
+      "schulnummer": "100523",
+      "schultyp": "Grundschule",
+      "sozialindex": 3,
+      "lat": 51.2499658,
+      "lon": 6.8091293
+    },
+    "schule_2": {
+      "schulnummer": "100869",
+      "schultyp": "Grundschule",
+      "sozialindex": 7,
+      "lat": 51.2560535,
+      "lon": 6.8095493
+    },
+    "differenz": 4,
+    "entfernung_km": 0.68,
+    "gradient": 5.9
+  },
+  {
+    "schule_1": {
+      "schulnummer": "103860",
+      "schultyp": "Grundschule",
+      "sozialindex": 9,
+      "lat": 51.4539882,
+      "lon": 6.8608104
+    },
+    "schule_2": {
+      "schulnummer": "104656",
+      "schultyp": "Grundschule",
+      "sozialindex": 4,
+      "lat": 51.4609702,
+      "lon": 6.8559201
+    },
+    "differenz": 5,
+    "entfernung_km": 0.85,
+    "gradient": 5.9
+  },
+  {
+    "schule_1": {
+      "schulnummer": "106082",
+      "schultyp": "Grundschule",
+      "sozialindex": 4,
+      "lat": 51.5550181,
+      "lon": 6.7691383
+    },
+    "schule_2": {
+      "schulnummer": "106197",
+      "schultyp": "Grundschule",
+      "sozialindex": 1,
+      "lat": 51.5596161,
+      "lon": 6.7691747
+    },
+    "differenz": 3,
+    "entfernung_km": 0.51,
+    "gradient": 5.87
+  },
+  {
+    "schule_1": {
+      "schulnummer": "111880",
+      "schultyp": "Grundschule",
+      "sozialindex": 8,
+      "lat": 50.9181198,
+      "lon": 6.9569194
+    },
+    "schule_2": {
+      "schulnummer": "189169",
+      "schultyp": "Grundschule",
+      "sozialindex": 3,
+      "lat": 50.9251019,
+      "lon": 6.9620803
+    },
+    "differenz": 5,
+    "entfernung_km": 0.86,
+    "gradient": 5.84
+  },
+  {
+    "schule_1": {
+      "schulnummer": "129550",
+      "schultyp": "Grundschule",
+      "sozialindex": 4,
+      "lat": 51.5444227,
+      "lon": 7.5355649
+    },
+    "schule_2": {
+      "schulnummer": "183842",
+      "schultyp": "Grundschule",
+      "sozialindex": 8,
+      "lat": 51.5476629,
+      "lon": 7.5439935
+    },
+    "differenz": 4,
+    "entfernung_km": 0.69,
+    "gradient": 5.84
+  },
+  {
+    "schule_1": {
+      "schulnummer": "104425",
+      "schultyp": "Grundschule",
+      "sozialindex": 8,
+      "lat": 51.4796267,
+      "lon": 6.8723643
+    },
+    "schule_2": {
+      "schulnummer": "104632",
+      "schultyp": "Grundschule",
+      "sozialindex": 4,
+      "lat": 51.4785376,
+      "lon": 6.8625731
+    },
+    "differenz": 4,
+    "entfernung_km": 0.69,
+    "gradient": 5.81
+  },
+  {
+    "schule_1": {
+      "schulnummer": "103561",
+      "schultyp": "Grundschule",
+      "sozialindex": 7,
+      "lat": 51.1908285,
+      "lon": 6.4337563
+    },
+    "schule_2": {
+      "schulnummer": "186259",
+      "schultyp": "Grundschule",
+      "sozialindex": 4,
+      "lat": 51.1931261,
+      "lon": 6.4272873
+    },
+    "differenz": 3,
+    "entfernung_km": 0.52,
+    "gradient": 5.79
+  },
+  {
+    "schule_1": {
+      "schulnummer": "105454",
+      "schultyp": "Grundschule",
+      "sozialindex": 6,
+      "lat": 51.273528,
+      "lon": 7.247341
+    },
+    "schule_2": {
+      "schulnummer": "105582",
+      "schultyp": "Grundschule",
+      "sozialindex": 3,
+      "lat": 51.2709961,
+      "lon": 7.2410805
+    },
+    "differenz": 3,
+    "entfernung_km": 0.52,
+    "gradient": 5.78
+  },
+  {
+    "schule_1": {
+      "schulnummer": "105697",
+      "schultyp": "Grundschule",
+      "sozialindex": 8,
+      "lat": 51.2693526,
+      "lon": 7.1817812
+    },
+    "schule_2": {
+      "schulnummer": "105740",
+      "schultyp": "Grundschule",
+      "sozialindex": 4,
+      "lat": 51.2753901,
+      "lon": 7.1842054
+    },
+    "differenz": 4,
+    "entfernung_km": 0.69,
+    "gradient": 5.78
+  },
+  {
+    "schule_1": {
+      "schulnummer": "112446",
+      "schultyp": "Grundschule",
+      "sozialindex": 9,
+      "lat": 50.9860765,
+      "lon": 7.0250465
+    },
+    "schule_2": {
+      "schulnummer": "112562",
+      "schultyp": "Grundschule",
+      "sozialindex": 5,
+      "lat": 50.9826085,
+      "lon": 7.0332741
+    },
+    "differenz": 4,
+    "entfernung_km": 0.69,
+    "gradient": 5.77
+  },
+  {
+    "schule_1": {
+      "schulnummer": "121459",
+      "schultyp": "Grundschule",
+      "sozialindex": 5,
+      "lat": 51.6924805,
+      "lon": 7.7425393
+    },
+    "schule_2": {
+      "schulnummer": "121460",
+      "schultyp": "Grundschule",
+      "sozialindex": 2,
+      "lat": 51.6927067,
+      "lon": 7.734947
+    },
+    "differenz": 3,
+    "entfernung_km": 0.52,
+    "gradient": 5.73
+  },
+  {
+    "schule_1": {
+      "schulnummer": "111880",
+      "schultyp": "Grundschule",
+      "sozialindex": 8,
+      "lat": 50.9181198,
+      "lon": 6.9569194
+    },
+    "schule_2": {
+      "schulnummer": "113130",
+      "schultyp": "Grundschule",
+      "sozialindex": 3,
+      "lat": 50.9105649,
+      "lon": 6.9603924
+    },
+    "differenz": 5,
+    "entfernung_km": 0.87,
+    "gradient": 5.72
+  },
+  {
+    "schule_1": {
+      "schulnummer": "101618",
+      "schultyp": "Grundschule",
+      "sozialindex": 5,
+      "lat": 51.4000101,
+      "lon": 6.7641688
+    },
+    "schule_2": {
+      "schulnummer": "101679",
+      "schultyp": "Grundschule",
+      "sozialindex": 9,
+      "lat": 51.4030922,
+      "lon": 6.7553429
+    },
+    "differenz": 4,
+    "entfernung_km": 0.7,
+    "gradient": 5.7
+  },
+  {
+    "schule_1": {
+      "schulnummer": "112379",
+      "schultyp": "Grundschule",
+      "sozialindex": 1,
+      "lat": 50.9626459,
+      "lon": 6.9580464
+    },
+    "schule_2": {
+      "schulnummer": "103378",
+      "schultyp": "Grundschule",
+      "sozialindex": 5,
+      "lat": 50.9563381,
+      "lon": 6.9588992
+    },
+    "differenz": 4,
+    "entfernung_km": 0.7,
+    "gradient": 5.68
+  },
+  {
+    "schule_1": {
+      "schulnummer": "129185",
+      "schultyp": "Grundschule",
+      "sozialindex": 8,
+      "lat": 51.5088898,
+      "lon": 7.4523375
+    },
+    "schule_2": {
+      "schulnummer": "129379",
+      "schultyp": "Grundschule",
+      "sozialindex": 3,
+      "lat": 51.5020329,
+      "lon": 7.4459924
+    },
+    "differenz": 5,
+    "entfernung_km": 0.88,
+    "gradient": 5.68
+  },
+  {
+    "schule_1": {
+      "schulnummer": "102416",
+      "schultyp": "Grundschule",
+      "sozialindex": 2,
+      "lat": 51.4328438,
+      "lon": 7.0062634
+    },
+    "schule_2": {
+      "schulnummer": "195467",
+      "schultyp": "Grundschule",
+      "sozialindex": 6,
+      "lat": 51.4385617,
+      "lon": 7.0107253
+    },
+    "differenz": 4,
+    "entfernung_km": 0.71,
+    "gradient": 5.66
+  },
+  {
+    "schule_1": {
+      "schulnummer": "129203",
+      "schultyp": "Grundschule",
+      "sozialindex": 4,
+      "lat": 51.5568655,
+      "lon": 7.4855407
+    },
+    "schule_2": {
+      "schulnummer": "130096",
+      "schultyp": "Grundschule",
+      "sozialindex": 9,
+      "lat": 51.5517059,
+      "lon": 7.4757074
+    },
+    "differenz": 5,
+    "entfernung_km": 0.89,
+    "gradient": 5.62
+  },
+  {
+    "schule_1": {
+      "schulnummer": "102106",
+      "schultyp": "Grundschule",
+      "sozialindex": 2,
+      "lat": 51.4790786,
+      "lon": 6.9368915
+    },
+    "schule_2": {
+      "schulnummer": "102556",
+      "schultyp": "Grundschule",
+      "sozialindex": 7,
+      "lat": 51.4865982,
+      "lon": 6.9321653
+    },
+    "differenz": 5,
+    "entfernung_km": 0.9,
+    "gradient": 5.57
+  },
+  {
+    "schule_1": {
+      "schulnummer": "130461",
+      "schultyp": "Grundschule",
+      "sozialindex": 6,
+      "lat": 51.6728097,
+      "lon": 7.8283515
+    },
+    "schule_2": {
+      "schulnummer": "130527",
+      "schultyp": "Grundschule",
+      "sozialindex": 9,
+      "lat": 51.6700655,
+      "lon": 7.8218919
+    },
+    "differenz": 3,
+    "entfernung_km": 0.54,
+    "gradient": 5.56
+  },
+  {
+    "schule_1": {
+      "schulnummer": "101126",
+      "schultyp": "Grundschule",
+      "sozialindex": 3,
+      "lat": 51.5007916,
+      "lon": 6.8005568
+    },
+    "schule_2": {
+      "schulnummer": "101436",
+      "schultyp": "Grundschule",
+      "sozialindex": 7,
+      "lat": 51.4989556,
+      "lon": 6.8105811
+    },
+    "differenz": 4,
+    "entfernung_km": 0.72,
+    "gradient": 5.53
+  },
+  {
+    "schule_1": {
+      "schulnummer": "108133",
+      "schultyp": "Grundschule",
+      "sozialindex": 7,
+      "lat": 51.1609545,
+      "lon": 6.7375537
+    },
+    "schule_2": {
+      "schulnummer": "108145",
+      "schultyp": "Grundschule",
+      "sozialindex": 2,
+      "lat": 51.1549432,
+      "lon": 6.728666
+    },
+    "differenz": 5,
+    "entfernung_km": 0.91,
+    "gradient": 5.49
+  },
+  {
+    "schule_1": {
+      "schulnummer": "104188",
+      "schultyp": "Grundschule",
+      "sozialindex": 9,
+      "lat": 51.2131624,
+      "lon": 6.6737642
+    },
+    "schule_2": {
+      "schulnummer": "104243",
+      "schultyp": "Grundschule",
+      "sozialindex": 4,
+      "lat": 51.2193593,
+      "lon": 6.665128
+    },
+    "differenz": 5,
+    "entfernung_km": 0.91,
+    "gradient": 5.47
+  },
+  {
+    "schule_1": {
+      "schulnummer": "105697",
+      "schultyp": "Grundschule",
+      "sozialindex": 8,
+      "lat": 51.2693526,
+      "lon": 7.1817812
+    },
+    "schule_2": {
+      "schulnummer": "105820",
+      "schultyp": "Grundschule",
+      "sozialindex": 5,
+      "lat": 51.2683725,
+      "lon": 7.1739929
+    },
+    "differenz": 3,
+    "entfernung_km": 0.55,
+    "gradient": 5.43
+  },
+  {
+    "schule_1": {
+      "schulnummer": "100115",
+      "schultyp": "Grundschule",
+      "sozialindex": 9,
+      "lat": 51.581536,
+      "lon": 7.2124152
+    },
+    "schule_2": {
+      "schulnummer": "120030",
+      "schultyp": "Grundschule",
+      "sozialindex": 4,
+      "lat": 51.5897702,
+      "lon": 7.2109048
+    },
+    "differenz": 5,
+    "entfernung_km": 0.92,
+    "gradient": 5.43
+  },
+  {
+    "schule_1": {
+      "schulnummer": "129495",
+      "schultyp": "Grundschule",
+      "sozialindex": 4,
+      "lat": 51.529187,
+      "lon": 7.4145763
+    },
+    "schule_2": {
+      "schulnummer": "129598",
+      "schultyp": "Grundschule",
+      "sozialindex": 8,
+      "lat": 51.5354624,
+      "lon": 7.4110863
+    },
+    "differenz": 4,
+    "entfernung_km": 0.74,
+    "gradient": 5.42
+  },
+  {
+    "schule_1": {
+      "schulnummer": "101904",
+      "schultyp": "Grundschule",
+      "sozialindex": 2,
+      "lat": 51.4704796,
+      "lon": 6.9267982
+    },
+    "schule_2": {
+      "schulnummer": "102234",
+      "schultyp": "Grundschule",
+      "sozialindex": 5,
+      "lat": 51.4701106,
+      "lon": 6.9347959
+    },
+    "differenz": 3,
+    "entfernung_km": 0.56,
+    "gradient": 5.4
+  },
+  {
+    "schule_1": {
+      "schulnummer": "116180",
+      "schultyp": "Grundschule",
+      "sozialindex": 8,
+      "lat": 50.7530812,
+      "lon": 6.1437898
+    },
+    "schule_2": {
+      "schulnummer": "193975",
+      "schultyp": "Grundschule",
+      "sozialindex": 4,
+      "lat": 50.7490464,
+      "lon": 6.1522245
+    },
+    "differenz": 4,
+    "entfernung_km": 0.74,
+    "gradient": 5.38
+  },
+  {
+    "schule_1": {
+      "schulnummer": "116348",
+      "schultyp": "Grundschule",
+      "sozialindex": 5,
+      "lat": 50.7739545,
+      "lon": 6.0825456
+    },
+    "schule_2": {
+      "schulnummer": "116543",
+      "schultyp": "Grundschule",
+      "sozialindex": 9,
+      "lat": 50.7727603,
+      "lon": 6.0929785
+    },
+    "differenz": 4,
+    "entfernung_km": 0.75,
+    "gradient": 5.37
+  },
+  {
+    "schule_1": {
+      "schulnummer": "118758",
+      "schultyp": "Grundschule",
+      "sozialindex": 4,
+      "lat": 51.5214157,
+      "lon": 6.9119842
+    },
+    "schule_2": {
+      "schulnummer": "118898",
+      "schultyp": "Grundschule",
+      "sozialindex": 8,
+      "lat": 51.5236293,
+      "lon": 6.9221694
+    },
+    "differenz": 4,
+    "entfernung_km": 0.75,
+    "gradient": 5.36
+  },
+  {
+    "schule_1": {
+      "schulnummer": "101801",
+      "schultyp": "Grundschule",
+      "sozialindex": 4,
+      "lat": 51.465348,
+      "lon": 6.9573219
+    },
+    "schule_2": {
+      "schulnummer": "102404",
+      "schultyp": "Grundschule",
+      "sozialindex": 8,
+      "lat": 51.470283,
+      "lon": 6.9498568
+    },
+    "differenz": 4,
+    "entfernung_km": 0.75,
+    "gradient": 5.31
+  },
+  {
+    "schule_1": {
+      "schulnummer": "190240",
+      "schultyp": "Grundschule",
+      "sozialindex": 6,
+      "lat": 50.8183638,
+      "lon": 6.1204457
+    },
+    "schule_2": {
+      "schulnummer": "117249",
+      "schultyp": "Grundschule",
+      "sozialindex": 3,
+      "lat": 50.8201703,
+      "lon": 6.1280005
+    },
+    "differenz": 3,
+    "entfernung_km": 0.57,
+    "gradient": 5.29
+  },
+  {
+    "schule_1": {
+      "schulnummer": "100493",
+      "schultyp": "Grundschule",
+      "sozialindex": 2,
+      "lat": 51.193702,
+      "lon": 6.7689353
+    },
+    "schule_2": {
+      "schulnummer": "100730",
+      "schultyp": "Grundschule",
+      "sozialindex": 6,
+      "lat": 51.1962308,
+      "lon": 6.7790469
+    },
+    "differenz": 4,
+    "entfernung_km": 0.76,
+    "gradient": 5.27
+  },
+  {
+    "schule_1": {
+      "schulnummer": "105247",
+      "schultyp": "Grundschule",
+      "sozialindex": 3,
+      "lat": 51.1624458,
+      "lon": 7.0661083
+    },
+    "schule_2": {
+      "schulnummer": "105442",
+      "schultyp": "Grundschule",
+      "sozialindex": 8,
+      "lat": 51.1662247,
+      "lon": 7.0784172
+    },
+    "differenz": 5,
+    "entfernung_km": 0.96,
+    "gradient": 5.23
+  },
+  {
+    "schule_1": {
+      "schulnummer": "105480",
+      "schultyp": "Grundschule",
+      "sozialindex": 4,
+      "lat": 51.276246,
+      "lon": 7.1485803
+    },
+    "schule_2": {
+      "schulnummer": "105624",
+      "schultyp": "Grundschule",
+      "sozialindex": 9,
+      "lat": 51.2681149,
+      "lon": 7.1530603
+    },
+    "differenz": 5,
+    "entfernung_km": 0.96,
+    "gradient": 5.23
+  },
+  {
+    "schule_1": {
+      "schulnummer": "100444",
+      "schultyp": "Grundschule",
+      "sozialindex": 9,
+      "lat": 51.2274364,
+      "lon": 6.7946586
+    },
+    "schule_2": {
+      "schulnummer": "100742",
+      "schultyp": "Grundschule",
+      "sozialindex": 4,
+      "lat": 51.2345252,
+      "lon": 6.7868633
+    },
+    "differenz": 5,
+    "entfernung_km": 0.96,
+    "gradient": 5.22
+  },
+  {
+    "schule_1": {
+      "schulnummer": "101801",
+      "schultyp": "Grundschule",
+      "sozialindex": 4,
+      "lat": 51.465348,
+      "lon": 6.9573219
+    },
+    "schule_2": {
+      "schulnummer": "102015",
+      "schultyp": "Grundschule",
+      "sozialindex": 9,
+      "lat": 51.4585829,
+      "lon": 6.9659532
+    },
+    "differenz": 5,
+    "entfernung_km": 0.96,
+    "gradient": 5.2
+  },
+  {
+    "schule_1": {
+      "schulnummer": "116361",
+      "schultyp": "Grundschule",
+      "sozialindex": 4,
+      "lat": 50.7688688,
+      "lon": 6.0686999
+    },
+    "schule_2": {
+      "schulnummer": "116464",
+      "schultyp": "Grundschule",
+      "sozialindex": 7,
+      "lat": 50.7699315,
+      "lon": 6.0767354
+    },
+    "differenz": 3,
+    "entfernung_km": 0.58,
+    "gradient": 5.2
+  },
+  {
+    "schule_1": {
+      "schulnummer": "128053",
+      "schultyp": "Grundschule",
+      "sozialindex": 5,
+      "lat": 51.9152674,
+      "lon": 8.3784354
+    },
+    "schule_2": {
+      "schulnummer": "128120",
+      "schultyp": "Grundschule",
+      "sozialindex": 9,
+      "lat": 51.908389,
+      "lon": 8.3765349
+    },
+    "differenz": 4,
+    "entfernung_km": 0.78,
+    "gradient": 5.16
+  },
+  {
+    "schule_1": {
+      "schulnummer": "107610",
+      "schultyp": "Grundschule",
+      "sozialindex": 2,
+      "lat": 51.2188329,
+      "lon": 6.6137541
+    },
+    "schule_2": {
+      "schulnummer": "184949",
+      "schultyp": "Grundschule",
+      "sozialindex": 5,
+      "lat": 51.2233771,
+      "lon": 6.6180218
+    },
+    "differenz": 3,
+    "entfernung_km": 0.59,
+    "gradient": 5.12
+  },
+  {
+    "schule_1": {
+      "schulnummer": "133218",
+      "schultyp": "Grundschule",
+      "sozialindex": 3,
+      "lat": 51.3567825,
+      "lon": 7.5723445
+    },
+    "schule_2": {
+      "schulnummer": "133255",
+      "schultyp": "Grundschule",
+      "sozialindex": 7,
+      "lat": 51.3623398,
+      "lon": 7.5654544
+    },
+    "differenz": 4,
+    "entfernung_km": 0.78,
+    "gradient": 5.12
+  },
+  {
+    "schule_1": {
+      "schulnummer": "136025",
+      "schultyp": "Grundschule",
+      "sozialindex": 2,
+      "lat": 51.6379912,
+      "lon": 7.7768849
+    },
+    "schule_2": {
+      "schulnummer": "130850",
+      "schultyp": "Grundschule",
+      "sozialindex": 6,
+      "lat": 51.6414987,
+      "lon": 7.7670297
+    },
+    "differenz": 4,
+    "entfernung_km": 0.78,
+    "gradient": 5.1
+  },
+  {
+    "schule_1": {
+      "schulnummer": "106100",
+      "schultyp": "Grundschule",
+      "sozialindex": 7,
+      "lat": 51.5600527,
+      "lon": 6.7328359
+    },
+    "schule_2": {
+      "schulnummer": "106215",
+      "schultyp": "Grundschule",
+      "sozialindex": 2,
+      "lat": 51.5669393,
+      "lon": 6.7238415
+    },
+    "differenz": 5,
+    "entfernung_km": 0.99,
+    "gradient": 5.07
+  },
+  {
+    "schule_1": {
+      "schulnummer": "100584",
+      "schultyp": "Grundschule",
+      "sozialindex": 9,
+      "lat": 51.1786998,
+      "lon": 6.8615154
+    },
+    "schule_2": {
+      "schulnummer": "100675",
+      "schultyp": "Grundschule",
+      "sozialindex": 4,
+      "lat": 51.1780045,
+      "lon": 6.8756514
+    },
+    "differenz": 5,
+    "entfernung_km": 0.99,
+    "gradient": 5.06
+  },
+  {
+    "schule_1": {
+      "schulnummer": "101850",
+      "schultyp": "Grundschule",
+      "sozialindex": 2,
+      "lat": 51.4480953,
+      "lon": 7.0730216
+    },
+    "schule_2": {
+      "schulnummer": "102740",
+      "schultyp": "Grundschule",
+      "sozialindex": 5,
+      "lat": 51.453164,
+      "lon": 7.0757875
+    },
+    "differenz": 3,
+    "entfernung_km": 0.6,
+    "gradient": 5.04
+  },
+  {
+    "schule_1": {
+      "schulnummer": "117328",
+      "schultyp": "Grundschule",
+      "sozialindex": 9,
+      "lat": 50.7937067,
+      "lon": 6.5005189
+    },
+    "schule_2": {
+      "schulnummer": "117377",
+      "schultyp": "Grundschule",
+      "sozialindex": 5,
+      "lat": 50.7881479,
+      "lon": 6.4931942
+    },
+    "differenz": 4,
+    "entfernung_km": 0.8,
+    "gradient": 4.97
+  },
+  {
+    "schule_1": {
+      "schulnummer": "100189",
+      "schultyp": "Grundschule",
+      "sozialindex": 9,
+      "lat": 51.3511149,
+      "lon": 7.4513604
+    },
+    "schule_2": {
+      "schulnummer": "130357",
+      "schultyp": "Grundschule",
+      "sozialindex": 5,
+      "lat": 51.3579196,
+      "lon": 7.4469257
+    },
+    "differenz": 4,
+    "entfernung_km": 0.82,
+    "gradient": 4.9
+  },
+  {
+    "schule_1": {
+      "schulnummer": "105545",
+      "schultyp": "Grundschule",
+      "sozialindex": 8,
+      "lat": 51.2707853,
+      "lon": 7.1936472
+    },
+    "schule_2": {
+      "schulnummer": "105740",
+      "schultyp": "Grundschule",
+      "sozialindex": 4,
+      "lat": 51.2753901,
+      "lon": 7.1842054
+    },
+    "differenz": 4,
+    "entfernung_km": 0.83,
+    "gradient": 4.8
+  },
+  {
+    "schule_1": {
+      "schulnummer": "127360",
+      "schultyp": "Grundschule",
+      "sozialindex": 6,
+      "lat": 51.7797175,
+      "lon": 8.8178511
+    },
+    "schule_2": {
+      "schulnummer": "127371",
+      "schultyp": "Grundschule",
+      "sozialindex": 3,
+      "lat": 51.7850464,
+      "lon": 8.8207569
+    },
+    "differenz": 3,
+    "entfernung_km": 0.63,
+    "gradient": 4.8
+  },
+  {
+    "schule_1": {
+      "schulnummer": "124230",
+      "schultyp": "Grundschule",
+      "sozialindex": 9,
+      "lat": 52.021001,
+      "lon": 8.545745
+    },
+    "schule_2": {
+      "schulnummer": "124278",
+      "schultyp": "Grundschule",
+      "sozialindex": 5,
+      "lat": 52.0137731,
+      "lon": 8.5491638
+    },
+    "differenz": 4,
+    "entfernung_km": 0.84,
+    "gradient": 4.78
+  },
+  {
+    "schule_1": {
+      "schulnummer": "131027",
+      "schultyp": "Grundschule",
+      "sozialindex": 6,
+      "lat": 51.5435232,
+      "lon": 7.1474715
+    },
+    "schule_2": {
+      "schulnummer": "131064",
+      "schultyp": "Grundschule",
+      "sozialindex": 9,
+      "lat": 51.5383757,
+      "lon": 7.1511763
+    },
+    "differenz": 3,
+    "entfernung_km": 0.63,
+    "gradient": 4.78
+  },
+  {
+    "schule_1": {
+      "schulnummer": "118930",
+      "schultyp": "Grundschule",
+      "sozialindex": 5,
+      "lat": 51.5823558,
+      "lon": 7.1098359
+    },
+    "schule_2": {
+      "schulnummer": "119088",
+      "schultyp": "Grundschule",
+      "sozialindex": 2,
+      "lat": 51.5780296,
+      "lon": 7.1039292
+    },
+    "differenz": 3,
+    "entfernung_km": 0.63,
+    "gradient": 4.76
+  },
+  {
+    "schule_1": {
+      "schulnummer": "132172",
+      "schultyp": "Grundschule",
+      "sozialindex": 1,
+      "lat": 51.2807871,
+      "lon": 7.9478348
+    },
+    "schule_2": {
+      "schulnummer": "133498",
+      "schultyp": "Grundschule",
+      "sozialindex": 5,
+      "lat": 51.2880956,
+      "lon": 7.9509552
+    },
+    "differenz": 4,
+    "entfernung_km": 0.84,
+    "gradient": 4.76
+  },
+  {
+    "schule_1": {
+      "schulnummer": "111909",
+      "schultyp": "Grundschule",
+      "sozialindex": 1,
+      "lat": 50.9533275,
+      "lon": 6.9602047
+    },
+    "schule_2": {
+      "schulnummer": "111958",
+      "schultyp": "Grundschule",
+      "sozialindex": 4,
+      "lat": 50.9554218,
+      "lon": 6.9518186
+    },
+    "differenz": 3,
+    "entfernung_km": 0.63,
+    "gradient": 4.75
+  },
+  {
+    "schule_1": {
+      "schulnummer": "107943",
+      "schultyp": "Grundschule",
+      "sozialindex": 6,
+      "lat": 51.2464403,
+      "lon": 6.6993113
+    },
+    "schule_2": {
+      "schulnummer": "107955",
+      "schultyp": "Grundschule",
+      "sozialindex": 2,
+      "lat": 51.252542,
+      "lon": 6.6920919
+    },
+    "differenz": 4,
+    "entfernung_km": 0.84,
+    "gradient": 4.74
+  },
+  {
+    "schule_1": {
+      "schulnummer": "105545",
+      "schultyp": "Grundschule",
+      "sozialindex": 8,
+      "lat": 51.2707853,
+      "lon": 7.1936472
+    },
+    "schule_2": {
+      "schulnummer": "105983",
+      "schultyp": "Grundschule",
+      "sozialindex": 4,
+      "lat": 51.2634937,
+      "lon": 7.1971012
+    },
+    "differenz": 4,
+    "entfernung_km": 0.85,
+    "gradient": 4.73
+  },
+  {
+    "schule_1": {
+      "schulnummer": "100171",
+      "schultyp": "Grundschule",
+      "sozialindex": 3,
+      "lat": 51.2326381,
+      "lon": 6.857054
+    },
+    "schule_2": {
+      "schulnummer": "101000",
+      "schultyp": "Grundschule",
+      "sozialindex": 6,
+      "lat": 51.2276662,
+      "lon": 6.8616904
+    },
+    "differenz": 3,
+    "entfernung_km": 0.64,
+    "gradient": 4.69
+  },
+  {
+    "schule_1": {
+      "schulnummer": "105363",
+      "schultyp": "Grundschule",
+      "sozialindex": 5,
+      "lat": 51.1867986,
+      "lon": 7.0824353
+    },
+    "schule_2": {
+      "schulnummer": "105405",
+      "schultyp": "Grundschule",
+      "sozialindex": 8,
+      "lat": 51.1824911,
+      "lon": 7.0763193
+    },
+    "differenz": 3,
+    "entfernung_km": 0.64,
+    "gradient": 4.68
+  },
+  {
+    "schule_1": {
+      "schulnummer": "118710",
+      "schultyp": "Grundschule",
+      "sozialindex": 6,
+      "lat": 51.5451979,
+      "lon": 6.9420204
+    },
+    "schule_2": {
+      "schulnummer": "118734",
+      "schultyp": "Grundschule",
+      "sozialindex": 2,
+      "lat": 51.5413236,
+      "lon": 6.9528086
+    },
+    "differenz": 4,
+    "entfernung_km": 0.86,
+    "gradient": 4.64
+  },
+  {
+    "schule_1": {
+      "schulnummer": "150988",
+      "schultyp": "Grundschule",
+      "sozialindex": 3,
+      "lat": 50.6619649,
+      "lon": 7.3080483
+    },
+    "schule_2": {
+      "schulnummer": "183027",
+      "schultyp": "Grundschule",
+      "sozialindex": 6,
+      "lat": 50.6626905,
+      "lon": 7.2989208
+    },
+    "differenz": 3,
+    "entfernung_km": 0.65,
+    "gradient": 4.63
+  },
+  {
+    "schule_1": {
+      "schulnummer": "129630",
+      "schultyp": "Grundschule",
+      "sozialindex": 8,
+      "lat": 51.4805558,
+      "lon": 7.5014707
+    },
+    "schule_2": {
+      "schulnummer": "130035",
+      "schultyp": "Grundschule",
+      "sozialindex": 4,
+      "lat": 51.4737955,
+      "lon": 7.5075978
+    },
+    "differenz": 4,
+    "entfernung_km": 0.86,
+    "gradient": 4.63
+  },
+  {
+    "schule_1": {
+      "schulnummer": "104565",
+      "schultyp": "Grundschule",
+      "sozialindex": 5,
+      "lat": 51.4679823,
+      "lon": 6.8679741
+    },
+    "schule_2": {
+      "schulnummer": "104620",
+      "schultyp": "Grundschule",
+      "sozialindex": 9,
+      "lat": 51.4723047,
+      "lon": 6.8575378
+    },
+    "differenz": 4,
+    "entfernung_km": 0.87,
+    "gradient": 4.61
+  },
+  {
+    "schule_1": {
+      "schulnummer": "111790",
+      "schultyp": "Grundschule",
+      "sozialindex": 9,
+      "lat": 50.9692766,
+      "lon": 7.0087332
+    },
+    "schule_2": {
+      "schulnummer": "112495",
+      "schultyp": "Grundschule",
+      "sozialindex": 6,
+      "lat": 50.9668334,
+      "lon": 7.000174
+    },
+    "differenz": 3,
+    "entfernung_km": 0.66,
+    "gradient": 4.56
+  },
+  {
+    "schule_1": {
+      "schulnummer": "101941",
+      "schultyp": "Grundschule",
+      "sozialindex": 5,
+      "lat": 51.4449553,
+      "lon": 7.0423799
+    },
+    "schule_2": {
+      "schulnummer": "102520",
+      "schultyp": "Grundschule",
+      "sozialindex": 9,
+      "lat": 51.4529005,
+      "lon": 7.0419927
+    },
+    "differenz": 4,
+    "entfernung_km": 0.88,
+    "gradient": 4.53
+  },
+  {
+    "schule_1": {
+      "schulnummer": "119647",
+      "schultyp": "Grundschule",
+      "sozialindex": 2,
+      "lat": 51.9694719,
+      "lon": 7.6237255
+    },
+    "schule_2": {
+      "schulnummer": "119659",
+      "schultyp": "Grundschule",
+      "sozialindex": 5,
+      "lat": 51.9658225,
+      "lon": 7.6313798
+    },
+    "differenz": 3,
+    "entfernung_km": 0.66,
+    "gradient": 4.52
+  },
+  {
+    "schule_1": {
+      "schulnummer": "120170",
+      "schultyp": "Grundschule",
+      "sozialindex": 2,
+      "lat": 52.0818452,
+      "lon": 7.0077911
+    },
+    "schule_2": {
+      "schulnummer": "120194",
+      "schultyp": "Grundschule",
+      "sozialindex": 5,
+      "lat": 52.0789175,
+      "lon": 6.9993198
+    },
+    "differenz": 3,
+    "entfernung_km": 0.66,
+    "gradient": 4.52
+  },
+  {
+    "schule_1": {
+      "schulnummer": "109400",
+      "schultyp": "Grundschule",
+      "sozialindex": 8,
+      "lat": 51.4049192,
+      "lon": 6.7043261
+    },
+    "schule_2": {
+      "schulnummer": "109435",
+      "schultyp": "Grundschule",
+      "sozialindex": 5,
+      "lat": 51.4060338,
+      "lon": 6.6948772
+    },
+    "differenz": 3,
+    "entfernung_km": 0.67,
+    "gradient": 4.5
+  },
+  {
+    "schule_1": {
+      "schulnummer": "114066",
+      "schultyp": "Grundschule",
+      "sozialindex": 1,
+      "lat": 51.0001899,
+      "lon": 6.8059293
+    },
+    "schule_2": {
+      "schulnummer": "114078",
+      "schultyp": "Grundschule",
+      "sozialindex": 4,
+      "lat": 51.005004,
+      "lon": 6.8001987
+    },
+    "differenz": 3,
+    "entfernung_km": 0.67,
+    "gradient": 4.49
+  },
+  {
+    "schule_1": {
+      "schulnummer": "114765",
+      "schultyp": "Grundschule",
+      "sozialindex": 4,
+      "lat": 50.8594788,
+      "lon": 7.09037
+    },
+    "schule_2": {
+      "schulnummer": "114790",
+      "schultyp": "Grundschule",
+      "sozialindex": 7,
+      "lat": 50.8611499,
+      "lon": 7.0995633
+    },
+    "differenz": 3,
+    "entfernung_km": 0.67,
+    "gradient": 4.47
+  },
+  {
+    "schule_1": {
+      "schulnummer": "112677",
+      "schultyp": "Grundschule",
+      "sozialindex": 5,
+      "lat": 50.9564397,
+      "lon": 6.633418
+    },
+    "schule_2": {
+      "schulnummer": "185528",
+      "schultyp": "Grundschule",
+      "sozialindex": 9,
+      "lat": 50.9496137,
+      "lon": 6.640181
+    },
+    "differenz": 4,
+    "entfernung_km": 0.89,
+    "gradient": 4.47
+  },
+  {
+    "schule_1": {
+      "schulnummer": "100144",
+      "schultyp": "Grundschule",
+      "sozialindex": 5,
+      "lat": 51.0800401,
+      "lon": 6.8931647
+    },
+    "schule_2": {
+      "schulnummer": "110474",
+      "schultyp": "Grundschule",
+      "sozialindex": 8,
+      "lat": 51.0855696,
+      "lon": 6.8970584
+    },
+    "differenz": 3,
+    "entfernung_km": 0.67,
+    "gradient": 4.46
+  },
+  {
+    "schule_1": {
+      "schulnummer": "111417",
+      "schultyp": "Grundschule",
+      "sozialindex": 3,
+      "lat": 50.9532376,
+      "lon": 6.9137807
+    },
+    "schule_2": {
+      "schulnummer": "111995",
+      "schultyp": "Grundschule",
+      "sozialindex": 6,
+      "lat": 50.9573591,
+      "lon": 6.9067257
+    },
+    "differenz": 3,
+    "entfernung_km": 0.67,
+    "gradient": 4.45
+  },
+  {
+    "schule_1": {
+      "schulnummer": "116324",
+      "schultyp": "Grundschule",
+      "sozialindex": 5,
+      "lat": 50.7640435,
+      "lon": 6.0957097
+    },
+    "schule_2": {
+      "schulnummer": "116385",
+      "schultyp": "Grundschule",
+      "sozialindex": 9,
+      "lat": 50.7711767,
+      "lon": 6.1017507
+    },
+    "differenz": 4,
+    "entfernung_km": 0.9,
+    "gradient": 4.45
+  },
+  {
+    "schule_1": {
+      "schulnummer": "130321",
+      "schultyp": "Grundschule",
+      "sozialindex": 9,
+      "lat": 51.352645,
+      "lon": 7.4567644
+    },
+    "schule_2": {
+      "schulnummer": "130357",
+      "schultyp": "Grundschule",
+      "sozialindex": 5,
+      "lat": 51.3579196,
+      "lon": 7.4469257
+    },
+    "differenz": 4,
+    "entfernung_km": 0.9,
+    "gradient": 4.44
+  },
+  {
+    "schule_1": {
+      "schulnummer": "102623",
+      "schultyp": "Grundschule",
+      "sozialindex": 5,
+      "lat": 51.4457425,
+      "lon": 7.0942645
+    },
+    "schule_2": {
+      "schulnummer": "102866",
+      "schultyp": "Grundschule",
+      "sozialindex": 9,
+      "lat": 51.4480091,
+      "lon": 7.1067722
+    },
+    "differenz": 4,
+    "entfernung_km": 0.9,
+    "gradient": 4.43
+  },
+  {
+    "schule_1": {
+      "schulnummer": "105740",
+      "schultyp": "Grundschule",
+      "sozialindex": 4,
+      "lat": 51.2753901,
+      "lon": 7.1842054
+    },
+    "schule_2": {
+      "schulnummer": "105752",
+      "schultyp": "Grundschule",
+      "sozialindex": 8,
+      "lat": 51.2808132,
+      "lon": 7.1938949
+    },
+    "differenz": 4,
+    "entfernung_km": 0.9,
+    "gradient": 4.42
+  },
+  {
+    "schule_1": {
+      "schulnummer": "120509",
+      "schultyp": "Grundschule",
+      "sozialindex": 8,
+      "lat": 51.7612788,
+      "lon": 7.8925255
+    },
+    "schule_2": {
+      "schulnummer": "120560",
+      "schultyp": "Grundschule",
+      "sozialindex": 5,
+      "lat": 51.7673,
+      "lon": 7.890783
+    },
+    "differenz": 3,
+    "entfernung_km": 0.68,
+    "gradient": 4.41
+  },
+  {
+    "schule_1": {
+      "schulnummer": "129173",
+      "schultyp": "Grundschule",
+      "sozialindex": 8,
+      "lat": 51.4778925,
+      "lon": 7.4961673
+    },
+    "schule_2": {
+      "schulnummer": "130035",
+      "schultyp": "Grundschule",
+      "sozialindex": 4,
+      "lat": 51.4737955,
+      "lon": 7.5075978
+    },
+    "differenz": 4,
+    "entfernung_km": 0.91,
+    "gradient": 4.38
+  },
+  {
+    "schule_1": {
+      "schulnummer": "105480",
+      "schultyp": "Grundschule",
+      "sozialindex": 4,
+      "lat": 51.276246,
+      "lon": 7.1485803
+    },
+    "schule_2": {
+      "schulnummer": "105790",
+      "schultyp": "Grundschule",
+      "sozialindex": 8,
+      "lat": 51.26805,
+      "lon": 7.1500541
+    },
+    "differenz": 4,
+    "entfernung_km": 0.92,
+    "gradient": 4.36
+  },
+  {
+    "schule_1": {
+      "schulnummer": "135460",
+      "schultyp": "Grundschule",
+      "sozialindex": 7,
+      "lat": 51.556343,
+      "lon": 8.1123076
+    },
+    "schule_2": {
+      "schulnummer": "135501",
+      "schultyp": "Grundschule",
+      "sozialindex": 3,
+      "lat": 51.5635724,
+      "lon": 8.1187903
+    },
+    "differenz": 4,
+    "entfernung_km": 0.92,
+    "gradient": 4.35
+  },
+  {
+    "schule_1": {
+      "schulnummer": "116610",
+      "schultyp": "Grundschule",
+      "sozialindex": 5,
+      "lat": 50.8582672,
+      "lon": 6.2005055
+    },
+    "schule_2": {
+      "schulnummer": "116660",
+      "schultyp": "Grundschule",
+      "sozialindex": 2,
+      "lat": 50.8542318,
+      "lon": 6.2080072
+    },
+    "differenz": 3,
+    "entfernung_km": 0.69,
+    "gradient": 4.34
+  },
+  {
+    "schule_1": {
+      "schulnummer": "103068",
+      "schultyp": "Grundschule",
+      "sozialindex": 6,
+      "lat": 51.3045303,
+      "lon": 6.5817126
+    },
+    "schule_2": {
+      "schulnummer": "103111",
+      "schultyp": "Grundschule",
+      "sozialindex": 2,
+      "lat": 51.2997084,
+      "lon": 6.5925271
+    },
+    "differenz": 4,
+    "entfernung_km": 0.92,
+    "gradient": 4.33
+  },
+  {
+    "schule_1": {
+      "schulnummer": "104231",
+      "schultyp": "Grundschule",
+      "sozialindex": 8,
+      "lat": 51.1971112,
+      "lon": 6.682643
+    },
+    "schule_2": {
+      "schulnummer": "104279",
+      "schultyp": "Grundschule",
+      "sozialindex": 4,
+      "lat": 51.1936276,
+      "lon": 6.6705603
+    },
+    "differenz": 4,
+    "entfernung_km": 0.93,
+    "gradient": 4.32
+  },
+  {
+    "schule_1": {
+      "schulnummer": "130977",
+      "schultyp": "Grundschule",
+      "sozialindex": 3,
+      "lat": 51.5119083,
+      "lon": 7.1699589
+    },
+    "schule_2": {
+      "schulnummer": "131015",
+      "schultyp": "Grundschule",
+      "sozialindex": 6,
+      "lat": 51.513834,
+      "lon": 7.1603828
+    },
+    "differenz": 3,
+    "entfernung_km": 0.7,
+    "gradient": 4.31
+  },
+  {
+    "schule_1": {
+      "schulnummer": "100810",
+      "schultyp": "Grundschule",
+      "sozialindex": 3,
+      "lat": 51.214933,
+      "lon": 6.7699089
+    },
+    "schule_2": {
+      "schulnummer": "100973",
+      "schultyp": "Grundschule",
+      "sozialindex": 6,
+      "lat": 51.2126679,
+      "lon": 6.7793695
+    },
+    "differenz": 3,
+    "entfernung_km": 0.71,
+    "gradient": 4.25
+  },
+  {
+    "schule_1": {
+      "schulnummer": "113566",
+      "schultyp": "Grundschule",
+      "sozialindex": 3,
+      "lat": 50.8121749,
+      "lon": 6.8852025
+    },
+    "schule_2": {
+      "schulnummer": "113591",
+      "schultyp": "Grundschule",
+      "sozialindex": 6,
+      "lat": 50.8143932,
+      "lon": 6.8946065
+    },
+    "differenz": 3,
+    "entfernung_km": 0.71,
+    "gradient": 4.25
+  },
+  {
+    "schule_1": {
+      "schulnummer": "123924",
+      "schultyp": "Grundschule",
+      "sozialindex": 2,
+      "lat": 51.9463387,
+      "lon": 7.9823222
+    },
+    "schule_2": {
+      "schulnummer": "123948",
+      "schultyp": "Grundschule",
+      "sozialindex": 5,
+      "lat": 51.952691,
+      "lon": 7.9820741
+    },
+    "differenz": 3,
+    "entfernung_km": 0.71,
+    "gradient": 4.25
+  },
+  {
+    "schule_1": {
+      "schulnummer": "101394",
+      "schultyp": "Grundschule",
+      "sozialindex": 4,
+      "lat": 51.4626569,
+      "lon": 6.7726647
+    },
+    "schule_2": {
+      "schulnummer": "101692",
+      "schultyp": "Grundschule",
+      "sozialindex": 8,
+      "lat": 51.4696954,
+      "lon": 6.7803621
+    },
+    "differenz": 4,
+    "entfernung_km": 0.95,
+    "gradient": 4.22
+  },
+  {
+    "schule_1": {
+      "schulnummer": "102702",
+      "schultyp": "Grundschule",
+      "sozialindex": 6,
+      "lat": 51.4476737,
+      "lon": 7.0278392
+    },
+    "schule_2": {
+      "schulnummer": "192879",
+      "schultyp": "Grundschule",
+      "sozialindex": 9,
+      "lat": 51.454028,
+      "lon": 7.028906
+    },
+    "differenz": 3,
+    "entfernung_km": 0.71,
+    "gradient": 4.22
+  },
+  {
+    "schule_1": {
+      "schulnummer": "108832",
+      "schultyp": "Grundschule",
+      "sozialindex": 3,
+      "lat": 51.6723327,
+      "lon": 6.1603108
+    },
+    "schule_2": {
+      "schulnummer": "192030",
+      "schultyp": "Grundschule",
+      "sozialindex": 6,
+      "lat": 51.6763077,
+      "lon": 6.152191
+    },
+    "differenz": 3,
+    "entfernung_km": 0.71,
+    "gradient": 4.21
+  },
+  {
+    "schule_1": {
+      "schulnummer": "100196",
+      "schultyp": "Grundschule",
+      "sozialindex": 8,
+      "lat": 52.2821843,
+      "lon": 8.8816462
+    },
+    "schule_2": {
+      "schulnummer": "126913",
+      "schultyp": "Grundschule",
+      "sozialindex": 5,
+      "lat": 52.2845901,
+      "lon": 8.8913635
+    },
+    "differenz": 3,
+    "entfernung_km": 0.71,
+    "gradient": 4.21
+  },
+  {
+    "schule_1": {
+      "schulnummer": "111399",
+      "schultyp": "Grundschule",
+      "sozialindex": 2,
+      "lat": 50.9110914,
+      "lon": 6.9299752
+    },
+    "schule_2": {
+      "schulnummer": "111946",
+      "schultyp": "Grundschule",
+      "sozialindex": 5,
+      "lat": 50.9079306,
+      "lon": 6.938877
+    },
+    "differenz": 3,
+    "entfernung_km": 0.72,
+    "gradient": 4.19
+  },
+  {
+    "schule_1": {
+      "schulnummer": "128636",
+      "schultyp": "Grundschule",
+      "sozialindex": 2,
+      "lat": 51.4660545,
+      "lon": 7.2146654
+    },
+    "schule_2": {
+      "schulnummer": "128879",
+      "schultyp": "Grundschule",
+      "sozialindex": 5,
+      "lat": 51.469495,
+      "lon": 7.2234041
+    },
+    "differenz": 3,
+    "entfernung_km": 0.72,
+    "gradient": 4.19
+  },
+  {
+    "schule_1": {
+      "schulnummer": "101813",
+      "schultyp": "Grundschule",
+      "sozialindex": 6,
+      "lat": 51.4604372,
+      "lon": 7.083175
+    },
+    "schule_2": {
+      "schulnummer": "102738",
+      "schultyp": "Grundschule",
+      "sozialindex": 9,
+      "lat": 51.4664514,
+      "lon": 7.0793881
+    },
+    "differenz": 3,
+    "entfernung_km": 0.72,
+    "gradient": 4.18
+  },
+  {
+    "schule_1": {
+      "schulnummer": "101059",
+      "schultyp": "Grundschule",
+      "sozialindex": 8,
+      "lat": 51.142672,
+      "lon": 6.9046794
+    },
+    "schule_2": {
+      "schulnummer": "101060",
+      "schultyp": "Grundschule",
+      "sozialindex": 5,
+      "lat": 51.1376101,
+      "lon": 6.8982522
+    },
+    "differenz": 3,
+    "entfernung_km": 0.72,
+    "gradient": 4.17
+  },
+  {
+    "schule_1": {
+      "schulnummer": "100204",
+      "schultyp": "Grundschule",
+      "sozialindex": 8,
+      "lat": 51.1629336,
+      "lon": 7.1077153
+    },
+    "schule_2": {
+      "schulnummer": "105302",
+      "schultyp": "Grundschule",
+      "sozialindex": 4,
+      "lat": 51.1575796,
+      "lon": 7.0969212
+    },
+    "differenz": 4,
+    "entfernung_km": 0.96,
+    "gradient": 4.17
+  },
+  {
+    "schule_1": {
+      "schulnummer": "100973",
+      "schultyp": "Grundschule",
+      "sozialindex": 6,
+      "lat": 51.2126679,
+      "lon": 6.7793695
+    },
+    "schule_2": {
+      "schulnummer": "101047",
+      "schultyp": "Grundschule",
+      "sozialindex": 9,
+      "lat": 51.2154351,
+      "lon": 6.7887788
+    },
+    "differenz": 3,
+    "entfernung_km": 0.72,
+    "gradient": 4.14
+  },
+  {
+    "schule_1": {
+      "schulnummer": "103160",
+      "schultyp": "Grundschule",
+      "sozialindex": 8,
+      "lat": 51.333848,
+      "lon": 6.5795189
+    },
+    "schule_2": {
+      "schulnummer": "103196",
+      "schultyp": "Grundschule",
+      "sozialindex": 4,
+      "lat": 51.3417943,
+      "lon": 6.5738356
+    },
+    "differenz": 4,
+    "entfernung_km": 0.97,
+    "gradient": 4.13
+  },
+  {
+    "schule_1": {
+      "schulnummer": "129732",
+      "schultyp": "Grundschule",
+      "sozialindex": 1,
+      "lat": 51.4693787,
+      "lon": 7.5154451
+    },
+    "schule_2": {
+      "schulnummer": "130035",
+      "schultyp": "Grundschule",
+      "sozialindex": 4,
+      "lat": 51.4737955,
+      "lon": 7.5075978
+    },
+    "differenz": 3,
+    "entfernung_km": 0.73,
+    "gradient": 4.1
+  },
+  {
+    "schule_1": {
+      "schulnummer": "100250",
+      "schultyp": "Grundschule",
+      "sozialindex": 6,
+      "lat": 51.211853,
+      "lon": 6.7799322
+    },
+    "schule_2": {
+      "schulnummer": "101047",
+      "schultyp": "Grundschule",
+      "sozialindex": 9,
+      "lat": 51.2154351,
+      "lon": 6.7887788
+    },
+    "differenz": 3,
+    "entfernung_km": 0.73,
+    "gradient": 4.09
+  },
+  {
+    "schule_1": {
+      "schulnummer": "103652",
+      "schultyp": "Grundschule",
+      "sozialindex": 2,
+      "lat": 51.2046495,
+      "lon": 6.4111867
+    },
+    "schule_2": {
+      "schulnummer": "103755",
+      "schultyp": "Grundschule",
+      "sozialindex": 5,
+      "lat": 51.203432,
+      "lon": 6.4215941
+    },
+    "differenz": 3,
+    "entfernung_km": 0.74,
+    "gradient": 4.07
+  },
+  {
+    "schule_1": {
+      "schulnummer": "100262",
+      "schultyp": "Grundschule",
+      "sozialindex": 9,
+      "lat": 51.2078308,
+      "lon": 6.8286257
+    },
+    "schule_2": {
+      "schulnummer": "100924",
+      "schultyp": "Grundschule",
+      "sozialindex": 5,
+      "lat": 51.2127254,
+      "lon": 6.8404098
+    },
+    "differenz": 4,
+    "entfernung_km": 0.98,
+    "gradient": 4.06
+  },
+  {
+    "schule_1": {
+      "schulnummer": "100225",
+      "schultyp": "Grundschule",
+      "sozialindex": 5,
+      "lat": 51.2009869,
+      "lon": 6.8196149
+    },
+    "schule_2": {
+      "schulnummer": "100262",
+      "schultyp": "Grundschule",
+      "sozialindex": 9,
+      "lat": 51.2078308,
+      "lon": 6.8286257
+    },
+    "differenz": 4,
+    "entfernung_km": 0.99,
+    "gradient": 4.05
+  },
+  {
+    "schule_1": {
+      "schulnummer": "116324",
+      "schultyp": "Grundschule",
+      "sozialindex": 5,
+      "lat": 50.7640435,
+      "lon": 6.0957097
+    },
+    "schule_2": {
+      "schulnummer": "116543",
+      "schultyp": "Grundschule",
+      "sozialindex": 9,
+      "lat": 50.7727603,
+      "lon": 6.0929785
+    },
+    "differenz": 4,
+    "entfernung_km": 0.99,
+    "gradient": 4.05
+  },
+  {
+    "schule_1": {
+      "schulnummer": "101941",
+      "schultyp": "Grundschule",
+      "sozialindex": 5,
+      "lat": 51.4449553,
+      "lon": 7.0423799
+    },
+    "schule_2": {
+      "schulnummer": "102647",
+      "schultyp": "Grundschule",
+      "sozialindex": 1,
+      "lat": 51.4417222,
+      "lon": 7.0556876
+    },
+    "differenz": 4,
+    "entfernung_km": 0.99,
+    "gradient": 4.04
+  },
+  {
+    "schule_1": {
+      "schulnummer": "116208",
+      "schultyp": "Grundschule",
+      "sozialindex": 5,
+      "lat": 50.7949174,
+      "lon": 6.1287827
+    },
+    "schule_2": {
+      "schulnummer": "116490",
+      "schultyp": "Grundschule",
+      "sozialindex": 9,
+      "lat": 50.7918241,
+      "lon": 6.1155165
+    },
+    "differenz": 4,
+    "entfernung_km": 0.99,
+    "gradient": 4.02
+  },
+  {
+    "schule_1": {
+      "schulnummer": "104413",
+      "schultyp": "Grundschule",
+      "sozialindex": 9,
+      "lat": 51.4675881,
+      "lon": 6.8535727
+    },
+    "schule_2": {
+      "schulnummer": "104565",
+      "schultyp": "Grundschule",
+      "sozialindex": 5,
+      "lat": 51.4679823,
+      "lon": 6.8679741
+    },
+    "differenz": 4,
+    "entfernung_km": 1.0,
+    "gradient": 4.01
+  },
+  {
+    "schule_1": {
+      "schulnummer": "104796",
+      "schultyp": "Grundschule",
+      "sozialindex": 8,
+      "lat": 51.1660688,
+      "lon": 7.1979687
+    },
+    "schule_2": {
+      "schulnummer": "104991",
+      "schultyp": "Grundschule",
+      "sozialindex": 4,
+      "lat": 51.1711698,
+      "lon": 7.2097654
+    },
+    "differenz": 4,
+    "entfernung_km": 1.0,
+    "gradient": 4.0
+  },
+  {
+    "schule_1": {
+      "schulnummer": "116683",
+      "schultyp": "Grundschule",
+      "sozialindex": 6,
+      "lat": 50.9226787,
+      "lon": 6.2099965
+    },
+    "schule_2": {
+      "schulnummer": "116737",
+      "schultyp": "Grundschule",
+      "sozialindex": 3,
+      "lat": 50.9214647,
+      "lon": 6.1994035
+    },
+    "differenz": 3,
+    "entfernung_km": 0.75,
+    "gradient": 3.98
+  },
+  {
+    "schule_1": {
+      "schulnummer": "131623",
+      "schultyp": "Grundschule",
+      "sozialindex": 3,
+      "lat": 51.2248077,
+      "lon": 7.6427577
+    },
+    "schule_2": {
+      "schulnummer": "131659",
+      "schultyp": "Grundschule",
+      "sozialindex": 6,
+      "lat": 51.219937,
+      "lon": 7.6502947
+    },
+    "differenz": 3,
+    "entfernung_km": 0.75,
+    "gradient": 3.98
+  },
+  {
+    "schule_1": {
+      "schulnummer": "102155",
+      "schultyp": "Grundschule",
+      "sozialindex": 4,
+      "lat": 51.4907992,
+      "lon": 7.0008871
+    },
+    "schule_2": {
+      "schulnummer": "102659",
+      "schultyp": "Grundschule",
+      "sozialindex": 7,
+      "lat": 51.4954817,
+      "lon": 7.0088895
+    },
+    "differenz": 3,
+    "entfernung_km": 0.76,
+    "gradient": 3.95
+  },
+  {
+    "schule_1": {
+      "schulnummer": "100088",
+      "schultyp": "Grundschule",
+      "sozialindex": 7,
+      "lat": 51.3335273,
+      "lon": 7.0469395
+    },
+    "schule_2": {
+      "schulnummer": "100184",
+      "schultyp": "Grundschule",
+      "sozialindex": 4,
+      "lat": 51.3399572,
+      "lon": 7.0507356
+    },
+    "differenz": 3,
+    "entfernung_km": 0.76,
+    "gradient": 3.94
+  },
+  {
+    "schule_1": {
+      "schulnummer": "102702",
+      "schultyp": "Grundschule",
+      "sozialindex": 6,
+      "lat": 51.4476737,
+      "lon": 7.0278392
+    },
+    "schule_2": {
+      "schulnummer": "102787",
+      "schultyp": "Grundschule",
+      "sozialindex": 9,
+      "lat": 51.4488519,
+      "lon": 7.0170006
+    },
+    "differenz": 3,
+    "entfernung_km": 0.76,
+    "gradient": 3.93
+  },
+  {
+    "schule_1": {
+      "schulnummer": "107712",
+      "schultyp": "Grundschule",
+      "sozialindex": 2,
+      "lat": 51.2298163,
+      "lon": 6.6219193
+    },
+    "schule_2": {
+      "schulnummer": "184949",
+      "schultyp": "Grundschule",
+      "sozialindex": 5,
+      "lat": 51.2233771,
+      "lon": 6.6180218
+    },
+    "differenz": 3,
+    "entfernung_km": 0.77,
+    "gradient": 3.92
+  },
+  {
+    "schule_1": {
+      "schulnummer": "184974",
+      "schultyp": "Grundschule",
+      "sozialindex": 8,
+      "lat": 51.9969181,
+      "lon": 7.5937053
+    },
+    "schule_2": {
+      "schulnummer": "192089",
+      "schultyp": "Grundschule",
+      "sozialindex": 5,
+      "lat": 51.9983516,
+      "lon": 7.604638
+    },
+    "differenz": 3,
+    "entfernung_km": 0.77,
+    "gradient": 3.92
+  },
+  {
+    "schule_1": {
+      "schulnummer": "110700",
+      "schultyp": "Grundschule",
+      "sozialindex": 5,
+      "lat": 51.1361864,
+      "lon": 7.2147856
+    },
+    "schule_2": {
+      "schulnummer": "110723",
+      "schultyp": "Grundschule",
+      "sozialindex": 2,
+      "lat": 51.1363499,
+      "lon": 7.2257967
+    },
+    "differenz": 3,
+    "entfernung_km": 0.77,
+    "gradient": 3.9
+  },
+  {
+    "schule_1": {
+      "schulnummer": "104115",
+      "schultyp": "Grundschule",
+      "sozialindex": 7,
+      "lat": 51.201863,
+      "lon": 6.6907079
+    },
+    "schule_2": {
+      "schulnummer": "104206",
+      "schultyp": "Grundschule",
+      "sozialindex": 4,
+      "lat": 51.1971112,
+      "lon": 6.682643
+    },
+    "differenz": 3,
+    "entfernung_km": 0.77,
+    "gradient": 3.89
+  },
+  {
+    "schule_1": {
+      "schulnummer": "100250",
+      "schultyp": "Grundschule",
+      "sozialindex": 6,
+      "lat": 51.211853,
+      "lon": 6.7799322
+    },
+    "schule_2": {
+      "schulnummer": "100810",
+      "schultyp": "Grundschule",
+      "sozialindex": 3,
+      "lat": 51.214933,
+      "lon": 6.7699089
+    },
+    "differenz": 3,
+    "entfernung_km": 0.78,
+    "gradient": 3.86
+  },
+  {
+    "schule_1": {
+      "schulnummer": "101382",
+      "schultyp": "Grundschule",
+      "sozialindex": 6,
+      "lat": 51.5124161,
+      "lon": 6.7667013
+    },
+    "schule_2": {
+      "schulnummer": "101643",
+      "schultyp": "Grundschule",
+      "sozialindex": 9,
+      "lat": 51.5072567,
+      "lon": 6.7590123
+    },
+    "differenz": 3,
+    "entfernung_km": 0.78,
+    "gradient": 3.83
+  },
+  {
+    "schule_1": {
+      "schulnummer": "116439",
+      "schultyp": "Grundschule",
+      "sozialindex": 7,
+      "lat": 50.7734628,
+      "lon": 6.0833712
+    },
+    "schule_2": {
+      "schulnummer": "151166",
+      "schultyp": "Grundschule",
+      "sozialindex": 4,
+      "lat": 50.7667452,
+      "lon": 6.07989
+    },
+    "differenz": 3,
+    "entfernung_km": 0.79,
+    "gradient": 3.82
+  },
+  {
+    "schule_1": {
+      "schulnummer": "130308",
+      "schultyp": "Grundschule",
+      "sozialindex": 2,
+      "lat": 51.3549414,
+      "lon": 7.5062931
+    },
+    "schule_2": {
+      "schulnummer": "185279",
+      "schultyp": "Grundschule",
+      "sozialindex": 5,
+      "lat": 51.3620949,
+      "lon": 7.5071235
+    },
+    "differenz": 3,
+    "entfernung_km": 0.8,
+    "gradient": 3.76
+  },
+  {
+    "schule_1": {
+      "schulnummer": "100470",
+      "schultyp": "Grundschule",
+      "sozialindex": 7,
+      "lat": 51.2285593,
+      "lon": 6.816495
+    },
+    "schule_2": {
+      "schulnummer": "150850",
+      "schultyp": "Grundschule",
+      "sozialindex": 4,
+      "lat": 51.2283231,
+      "lon": 6.8050167
+    },
+    "differenz": 3,
+    "entfernung_km": 0.8,
+    "gradient": 3.75
+  },
+  {
+    "schule_1": {
+      "schulnummer": "120674",
+      "schultyp": "Grundschule",
+      "sozialindex": 6,
+      "lat": 51.7048691,
+      "lon": 7.8436788
+    },
+    "schule_2": {
+      "schulnummer": "120704",
+      "schultyp": "Grundschule",
+      "sozialindex": 9,
+      "lat": 51.7016075,
+      "lon": 7.8332388
+    },
+    "differenz": 3,
+    "entfernung_km": 0.81,
+    "gradient": 3.72
+  },
+  {
+    "schule_1": {
+      "schulnummer": "102570",
+      "schultyp": "Grundschule",
+      "sozialindex": 4,
+      "lat": 51.4462096,
+      "lon": 6.9632744
+    },
+    "schule_2": {
+      "schulnummer": "102805",
+      "schultyp": "Grundschule",
+      "sozialindex": 7,
+      "lat": 51.4514361,
+      "lon": 6.9713769
+    },
+    "differenz": 3,
+    "entfernung_km": 0.81,
+    "gradient": 3.71
+  },
+  {
+    "schule_1": {
+      "schulnummer": "120560",
+      "schultyp": "Grundschule",
+      "sozialindex": 5,
+      "lat": 51.7673,
+      "lon": 7.890783
+    },
+    "schule_2": {
+      "schulnummer": "187010",
+      "schultyp": "Grundschule",
+      "sozialindex": 2,
+      "lat": 51.7743952,
+      "lon": 7.8936712
+    },
+    "differenz": 3,
+    "entfernung_km": 0.81,
+    "gradient": 3.69
+  },
+  {
+    "schule_1": {
+      "schulnummer": "115538",
+      "schultyp": "Grundschule",
+      "sozialindex": 5,
+      "lat": 50.7777765,
+      "lon": 7.2765376
+    },
+    "schule_2": {
+      "schulnummer": "115575",
+      "schultyp": "Grundschule",
+      "sozialindex": 2,
+      "lat": 50.7744713,
+      "lon": 7.26618
+    },
+    "differenz": 3,
+    "entfernung_km": 0.82,
+    "gradient": 3.68
+  },
+  {
+    "schule_1": {
+      "schulnummer": "123160",
+      "schultyp": "Grundschule",
+      "sozialindex": 9,
+      "lat": 52.2891632,
+      "lon": 7.4440612
+    },
+    "schule_2": {
+      "schulnummer": "123225",
+      "schultyp": "Grundschule",
+      "sozialindex": 6,
+      "lat": 52.2964457,
+      "lon": 7.4454674
+    },
+    "differenz": 3,
+    "entfernung_km": 0.82,
+    "gradient": 3.68
+  },
+  {
+    "schule_1": {
+      "schulnummer": "112008",
+      "schultyp": "Grundschule",
+      "sozialindex": 2,
+      "lat": 50.9616772,
+      "lon": 6.9506553
+    },
+    "schule_2": {
+      "schulnummer": "103378",
+      "schultyp": "Grundschule",
+      "sozialindex": 5,
+      "lat": 50.9563381,
+      "lon": 6.9588992
+    },
+    "differenz": 3,
+    "entfernung_km": 0.83,
+    "gradient": 3.62
+  },
+  {
+    "schule_1": {
+      "schulnummer": "103500",
+      "schultyp": "Grundschule",
+      "sozialindex": 3,
+      "lat": 51.1766511,
+      "lon": 6.4316094
+    },
+    "schule_2": {
+      "schulnummer": "105041",
+      "schultyp": "Grundschule",
+      "sozialindex": 6,
+      "lat": 51.1731372,
+      "lon": 6.4421545
+    },
+    "differenz": 3,
+    "entfernung_km": 0.83,
+    "gradient": 3.6
+  },
+  {
+    "schule_1": {
+      "schulnummer": "110784",
+      "schultyp": "Grundschule",
+      "sozialindex": 2,
+      "lat": 50.730722,
+      "lon": 7.082659
+    },
+    "schule_2": {
+      "schulnummer": "110966",
+      "schultyp": "Grundschule",
+      "sozialindex": 5,
+      "lat": 50.7262621,
+      "lon": 7.0731222
+    },
+    "differenz": 3,
+    "entfernung_km": 0.83,
+    "gradient": 3.59
+  },
+  {
+    "schule_1": {
+      "schulnummer": "111417",
+      "schultyp": "Grundschule",
+      "sozialindex": 3,
+      "lat": 50.9532376,
+      "lon": 6.9137807
+    },
+    "schule_2": {
+      "schulnummer": "111624",
+      "schultyp": "Grundschule",
+      "sozialindex": 6,
+      "lat": 50.9457123,
+      "lon": 6.9145095
+    },
+    "differenz": 3,
+    "entfernung_km": 0.84,
+    "gradient": 3.58
+  },
+  {
+    "schule_1": {
+      "schulnummer": "106859",
+      "schultyp": "Grundschule",
+      "sozialindex": 5,
+      "lat": 51.2882431,
+      "lon": 6.8311522
+    },
+    "schule_2": {
+      "schulnummer": "183271",
+      "schultyp": "Grundschule",
+      "sozialindex": 8,
+      "lat": 51.2937408,
+      "lon": 6.8228631
+    },
+    "differenz": 3,
+    "entfernung_km": 0.84,
+    "gradient": 3.57
+  },
+  {
+    "schule_1": {
+      "schulnummer": "100116",
+      "schultyp": "Grundschule",
+      "sozialindex": 8,
+      "lat": 51.5425236,
+      "lon": 7.2230218
+    },
+    "schule_2": {
+      "schulnummer": "186685",
+      "schultyp": "Grundschule",
+      "sozialindex": 5,
+      "lat": 51.5382133,
+      "lon": 7.2330379
+    },
+    "differenz": 3,
+    "entfernung_km": 0.84,
+    "gradient": 3.56
+  },
+  {
+    "schule_1": {
+      "schulnummer": "100870",
+      "schultyp": "Grundschule",
+      "sozialindex": 6,
+      "lat": 51.1493826,
+      "lon": 6.8975989
+    },
+    "schule_2": {
+      "schulnummer": "183635",
+      "schultyp": "Grundschule",
+      "sozialindex": 3,
+      "lat": 51.1421631,
+      "lon": 6.8938041
+    },
+    "differenz": 3,
+    "entfernung_km": 0.85,
+    "gradient": 3.55
+  },
+  {
+    "schule_1": {
+      "schulnummer": "117365",
+      "schultyp": "Grundschule",
+      "sozialindex": 5,
+      "lat": 50.8106468,
+      "lon": 6.49627
+    },
+    "schule_2": {
+      "schulnummer": "117420",
+      "schultyp": "Grundschule",
+      "sozialindex": 8,
+      "lat": 50.8034636,
+      "lon": 6.5001902
+    },
+    "differenz": 3,
+    "entfernung_km": 0.84,
+    "gradient": 3.55
+  },
+  {
+    "schule_1": {
+      "schulnummer": "130230",
+      "schultyp": "Grundschule",
+      "sozialindex": 6,
+      "lat": 51.3811494,
+      "lon": 7.4659953
+    },
+    "schule_2": {
+      "schulnummer": "130412",
+      "schultyp": "Grundschule",
+      "sozialindex": 9,
+      "lat": 51.3735504,
+      "lon": 7.4664347
+    },
+    "differenz": 3,
+    "entfernung_km": 0.85,
+    "gradient": 3.55
+  },
+  {
+    "schule_1": {
+      "schulnummer": "131659",
+      "schultyp": "Grundschule",
+      "sozialindex": 6,
+      "lat": 51.219937,
+      "lon": 7.6502947
+    },
+    "schule_2": {
+      "schulnummer": "187598",
+      "schultyp": "Grundschule",
+      "sozialindex": 9,
+      "lat": 51.2222854,
+      "lon": 7.6387395
+    },
+    "differenz": 3,
+    "entfernung_km": 0.85,
+    "gradient": 3.55
+  },
+  {
+    "schule_1": {
+      "schulnummer": "129458",
+      "schultyp": "Grundschule",
+      "sozialindex": 3,
+      "lat": 51.5121724,
+      "lon": 7.4931573
+    },
+    "schule_2": {
+      "schulnummer": "129768",
+      "schultyp": "Grundschule",
+      "sozialindex": 6,
+      "lat": 51.5163016,
+      "lon": 7.503505
+    },
+    "differenz": 3,
+    "entfernung_km": 0.85,
+    "gradient": 3.53
+  },
+  {
+    "schule_1": {
+      "schulnummer": "111879",
+      "schultyp": "Grundschule",
+      "sozialindex": 4,
+      "lat": 50.9712287,
+      "lon": 6.901051
+    },
+    "schule_2": {
+      "schulnummer": "112021",
+      "schultyp": "Grundschule",
+      "sozialindex": 7,
+      "lat": 50.9648693,
+      "lon": 6.8941284
+    },
+    "differenz": 3,
+    "entfernung_km": 0.86,
+    "gradient": 3.5
+  },
+  {
+    "schule_1": {
+      "schulnummer": "103974",
+      "schultyp": "Grundschule",
+      "sozialindex": 4,
+      "lat": 51.4467123,
+      "lon": 6.9119317
+    },
+    "schule_2": {
+      "schulnummer": "104012",
+      "schultyp": "Grundschule",
+      "sozialindex": 7,
+      "lat": 51.4510817,
+      "lon": 6.901684
+    },
+    "differenz": 3,
+    "entfernung_km": 0.86,
+    "gradient": 3.49
+  },
+  {
+    "schule_1": {
+      "schulnummer": "116336",
+      "schultyp": "Grundschule",
+      "sozialindex": 6,
+      "lat": 50.7597797,
+      "lon": 6.1316417
+    },
+    "schule_2": {
+      "schulnummer": "116403",
+      "schultyp": "Grundschule",
+      "sozialindex": 9,
+      "lat": 50.7671747,
+      "lon": 6.1355505
+    },
+    "differenz": 3,
+    "entfernung_km": 0.87,
+    "gradient": 3.46
+  },
+  {
+    "schule_1": {
+      "schulnummer": "130989",
+      "schultyp": "Grundschule",
+      "sozialindex": 8,
+      "lat": 51.5237107,
+      "lon": 7.1703897
+    },
+    "schule_2": {
+      "schulnummer": "131052",
+      "schultyp": "Grundschule",
+      "sozialindex": 5,
+      "lat": 51.5176437,
+      "lon": 7.1783029
+    },
+    "differenz": 3,
+    "entfernung_km": 0.87,
+    "gradient": 3.45
+  },
+  {
+    "schule_1": {
+      "schulnummer": "105041",
+      "schultyp": "Grundschule",
+      "sozialindex": 6,
+      "lat": 51.1731372,
+      "lon": 6.4421545
+    },
+    "schule_2": {
+      "schulnummer": "105065",
+      "schultyp": "Grundschule",
+      "sozialindex": 9,
+      "lat": 51.1655186,
+      "lon": 6.4452523
+    },
+    "differenz": 3,
+    "entfernung_km": 0.87,
+    "gradient": 3.43
+  },
+  {
+    "schule_1": {
+      "schulnummer": "121551",
+      "schultyp": "Grundschule",
+      "sozialindex": 2,
+      "lat": 51.861139,
+      "lon": 7.4884447
+    },
+    "schule_2": {
+      "schulnummer": "121563",
+      "schultyp": "Grundschule",
+      "sozialindex": 5,
+      "lat": 51.8537817,
+      "lon": 7.4839774
+    },
+    "differenz": 3,
+    "entfernung_km": 0.87,
+    "gradient": 3.43
+  },
+  {
+    "schule_1": {
+      "schulnummer": "101941",
+      "schultyp": "Grundschule",
+      "sozialindex": 5,
+      "lat": 51.4449553,
+      "lon": 7.0423799
+    },
+    "schule_2": {
+      "schulnummer": "102118",
+      "schultyp": "Grundschule",
+      "sozialindex": 2,
+      "lat": 51.4377844,
+      "lon": 7.0371347
+    },
+    "differenz": 3,
+    "entfernung_km": 0.88,
+    "gradient": 3.42
+  },
+  {
+    "schule_1": {
+      "schulnummer": "116579",
+      "schultyp": "Grundschule",
+      "sozialindex": 3,
+      "lat": 50.8681514,
+      "lon": 6.1740663
+    },
+    "schule_2": {
+      "schulnummer": "116592",
+      "schultyp": "Grundschule",
+      "sozialindex": 6,
+      "lat": 50.876097,
+      "lon": 6.1735318
+    },
+    "differenz": 3,
+    "entfernung_km": 0.88,
+    "gradient": 3.39
+  },
+  {
+    "schule_1": {
+      "schulnummer": "129460",
+      "schultyp": "Grundschule",
+      "sozialindex": 5,
+      "lat": 51.500623,
+      "lon": 7.4688943
+    },
+    "schule_2": {
+      "schulnummer": "129781",
+      "schultyp": "Grundschule",
+      "sozialindex": 2,
+      "lat": 51.5001221,
+      "lon": 7.4561465
+    },
+    "differenz": 3,
+    "entfernung_km": 0.88,
+    "gradient": 3.39
+  },
+  {
+    "schule_1": {
+      "schulnummer": "130783",
+      "schultyp": "Grundschule",
+      "sozialindex": 5,
+      "lat": 51.3856262,
+      "lon": 7.6894601
+    },
+    "schule_2": {
+      "schulnummer": "130813",
+      "schultyp": "Grundschule",
+      "sozialindex": 8,
+      "lat": 51.3778763,
+      "lon": 7.6924736
+    },
+    "differenz": 3,
+    "entfernung_km": 0.89,
+    "gradient": 3.38
+  },
+  {
+    "schule_1": {
+      "schulnummer": "116221",
+      "schultyp": "Grundschule",
+      "sozialindex": 6,
+      "lat": 50.7796863,
+      "lon": 6.1510919
+    },
+    "schule_2": {
+      "schulnummer": "116518",
+      "schultyp": "Grundschule",
+      "sozialindex": 3,
+      "lat": 50.7823646,
+      "lon": 6.1630324
+    },
+    "differenz": 3,
+    "entfernung_km": 0.89,
+    "gradient": 3.37
+  },
+  {
+    "schule_1": {
+      "schulnummer": "120376",
+      "schultyp": "Grundschule",
+      "sozialindex": 1,
+      "lat": 52.1782533,
+      "lon": 7.0510208
+    },
+    "schule_2": {
+      "schulnummer": "120390",
+      "schultyp": "Grundschule",
+      "sozialindex": 4,
+      "lat": 52.1827079,
+      "lon": 7.040152
+    },
+    "differenz": 3,
+    "entfernung_km": 0.89,
+    "gradient": 3.37
+  },
+  {
+    "schule_1": {
+      "schulnummer": "134831",
+      "schultyp": "Grundschule",
+      "sozialindex": 6,
+      "lat": 50.9007907,
+      "lon": 8.0370634
+    },
+    "schule_2": {
+      "schulnummer": "134892",
+      "schultyp": "Grundschule",
+      "sozialindex": 3,
+      "lat": 50.8956052,
+      "lon": 8.046729
+    },
+    "differenz": 3,
+    "entfernung_km": 0.89,
+    "gradient": 3.37
+  },
+  {
+    "schule_1": {
+      "schulnummer": "102556",
+      "schultyp": "Grundschule",
+      "sozialindex": 7,
+      "lat": 51.4865982,
+      "lon": 6.9321653
+    },
+    "schule_2": {
+      "schulnummer": "102842",
+      "schultyp": "Grundschule",
+      "sozialindex": 4,
+      "lat": 51.4924466,
+      "lon": 6.9411455
+    },
+    "differenz": 3,
+    "entfernung_km": 0.9,
+    "gradient": 3.33
+  },
+  {
+    "schule_1": {
+      "schulnummer": "116439",
+      "schultyp": "Grundschule",
+      "sozialindex": 7,
+      "lat": 50.7734628,
+      "lon": 6.0833712
+    },
+    "schule_2": {
+      "schulnummer": "116440",
+      "schultyp": "Grundschule",
+      "sozialindex": 4,
+      "lat": 50.781565,
+      "lon": 6.08434
+    },
+    "differenz": 3,
+    "entfernung_km": 0.9,
+    "gradient": 3.32
+  },
+  {
+    "schule_1": {
+      "schulnummer": "111971",
+      "schultyp": "Grundschule",
+      "sozialindex": 6,
+      "lat": 51.0175811,
+      "lon": 6.9145909
+    },
+    "schule_2": {
+      "schulnummer": "183349",
+      "schultyp": "Grundschule",
+      "sozialindex": 9,
+      "lat": 51.0193968,
+      "lon": 6.9019279
+    },
+    "differenz": 3,
+    "entfernung_km": 0.91,
+    "gradient": 3.3
+  },
+  {
+    "schule_1": {
+      "schulnummer": "104929",
+      "schultyp": "Grundschule",
+      "sozialindex": 6,
+      "lat": 51.1880875,
+      "lon": 7.2699172
+    },
+    "schule_2": {
+      "schulnummer": "104966",
+      "schultyp": "Grundschule",
+      "sozialindex": 3,
+      "lat": 51.1879817,
+      "lon": 7.256854
+    },
+    "differenz": 3,
+    "entfernung_km": 0.91,
+    "gradient": 3.29
+  },
+  {
+    "schule_1": {
+      "schulnummer": "109320",
+      "schultyp": "Grundschule",
+      "sozialindex": 6,
+      "lat": 51.5420538,
+      "lon": 6.5820177
+    },
+    "schule_2": {
+      "schulnummer": "109332",
+      "schultyp": "Grundschule",
+      "sozialindex": 3,
+      "lat": 51.5470845,
+      "lon": 6.5924628
+    },
+    "differenz": 3,
+    "entfernung_km": 0.91,
+    "gradient": 3.28
+  },
+  {
+    "schule_1": {
+      "schulnummer": "111958",
+      "schultyp": "Grundschule",
+      "sozialindex": 4,
+      "lat": 50.9554218,
+      "lon": 6.9518186
+    },
+    "schule_2": {
+      "schulnummer": "112379",
+      "schultyp": "Grundschule",
+      "sozialindex": 1,
+      "lat": 50.9626459,
+      "lon": 6.9580464
+    },
+    "differenz": 3,
+    "entfernung_km": 0.91,
+    "gradient": 3.28
+  },
+  {
+    "schule_1": {
+      "schulnummer": "113736",
+      "schultyp": "Grundschule",
+      "sozialindex": 6,
+      "lat": 50.8815106,
+      "lon": 6.8868575
+    },
+    "schule_2": {
+      "schulnummer": "113827",
+      "schultyp": "Grundschule",
+      "sozialindex": 3,
+      "lat": 50.8756884,
+      "lon": 6.8776707
+    },
+    "differenz": 3,
+    "entfernung_km": 0.91,
+    "gradient": 3.28
+  },
+  {
+    "schule_1": {
+      "schulnummer": "100705",
+      "schultyp": "Grundschule",
+      "sozialindex": 1,
+      "lat": 51.234302,
+      "lon": 6.81407
+    },
+    "schule_2": {
+      "schulnummer": "150850",
+      "schultyp": "Grundschule",
+      "sozialindex": 4,
+      "lat": 51.2283231,
+      "lon": 6.8050167
+    },
+    "differenz": 3,
+    "entfernung_km": 0.92,
+    "gradient": 3.27
+  },
+  {
+    "schule_1": {
+      "schulnummer": "112057",
+      "schultyp": "Grundschule",
+      "sozialindex": 2,
+      "lat": 50.9620063,
+      "lon": 6.9212287
+    },
+    "schule_2": {
+      "schulnummer": "186636",
+      "schultyp": "Grundschule",
+      "sozialindex": 5,
+      "lat": 50.9651159,
+      "lon": 6.908973
+    },
+    "differenz": 3,
+    "entfernung_km": 0.93,
+    "gradient": 3.24
+  },
+  {
+    "schule_1": {
+      "schulnummer": "118783",
+      "schultyp": "Grundschule",
+      "sozialindex": 9,
+      "lat": 51.5206444,
+      "lon": 6.936717
+    },
+    "schule_2": {
+      "schulnummer": "118849",
+      "schultyp": "Grundschule",
+      "sozialindex": 6,
+      "lat": 51.5129337,
+      "lon": 6.9316916
+    },
+    "differenz": 3,
+    "entfernung_km": 0.93,
+    "gradient": 3.24
+  },
+  {
+    "schule_1": {
+      "schulnummer": "118837",
+      "schultyp": "Grundschule",
+      "sozialindex": 5,
+      "lat": 51.5176383,
+      "lon": 6.9314888
+    },
+    "schule_2": {
+      "schulnummer": "118898",
+      "schultyp": "Grundschule",
+      "sozialindex": 8,
+      "lat": 51.5236293,
+      "lon": 6.9221694
+    },
+    "differenz": 3,
+    "entfernung_km": 0.93,
+    "gradient": 3.24
+  },
+  {
+    "schule_1": {
+      "schulnummer": "101151",
+      "schultyp": "Grundschule",
+      "sozialindex": 9,
+      "lat": 51.4252649,
+      "lon": 6.7562665
+    },
+    "schule_2": {
+      "schulnummer": "101515",
+      "schultyp": "Grundschule",
+      "sozialindex": 6,
+      "lat": 51.4335325,
+      "lon": 6.7580466
+    },
+    "differenz": 3,
+    "entfernung_km": 0.93,
+    "gradient": 3.23
+  },
+  {
+    "schule_1": {
+      "schulnummer": "100432",
+      "schultyp": "Grundschule",
+      "sozialindex": 4,
+      "lat": 51.2678331,
+      "lon": 6.7690966
+    },
+    "schule_2": {
+      "schulnummer": "100638",
+      "schultyp": "Grundschule",
+      "sozialindex": 1,
+      "lat": 51.2663228,
+      "lon": 6.7556554
+    },
+    "differenz": 3,
+    "entfernung_km": 0.95,
+    "gradient": 3.16
+  },
+  {
+    "schule_1": {
+      "schulnummer": "101382",
+      "schultyp": "Grundschule",
+      "sozialindex": 6,
+      "lat": 51.5124161,
+      "lon": 6.7667013
+    },
+    "schule_2": {
+      "schulnummer": "101709",
+      "schultyp": "Grundschule",
+      "sozialindex": 9,
+      "lat": 51.515271,
+      "lon": 6.75378
+    },
+    "differenz": 3,
+    "entfernung_km": 0.95,
+    "gradient": 3.16
+  },
+  {
+    "schule_1": {
+      "schulnummer": "102210",
+      "schultyp": "Grundschule",
+      "sozialindex": 1,
+      "lat": 51.4301477,
+      "lon": 7.0804265
+    },
+    "schule_2": {
+      "schulnummer": "196563",
+      "schultyp": "Grundschule",
+      "sozialindex": 4,
+      "lat": 51.4216073,
+      "lon": 7.0803571
+    },
+    "differenz": 3,
+    "entfernung_km": 0.95,
+    "gradient": 3.16
+  },
+  {
+    "schule_1": {
+      "schulnummer": "107852",
+      "schultyp": "Grundschule",
+      "sozialindex": 4,
+      "lat": 51.0932806,
+      "lon": 6.834833
+    },
+    "schule_2": {
+      "schulnummer": "107864",
+      "schultyp": "Grundschule",
+      "sozialindex": 7,
+      "lat": 51.0986903,
+      "lon": 6.8243334
+    },
+    "differenz": 3,
+    "entfernung_km": 0.95,
+    "gradient": 3.16
+  },
+  {
+    "schule_1": {
+      "schulnummer": "101485",
+      "schultyp": "Grundschule",
+      "sozialindex": 4,
+      "lat": 51.4178628,
+      "lon": 6.793019
+    },
+    "schule_2": {
+      "schulnummer": "101606",
+      "schultyp": "Grundschule",
+      "sozialindex": 7,
+      "lat": 51.4241644,
+      "lon": 6.7836888
+    },
+    "differenz": 3,
+    "entfernung_km": 0.95,
+    "gradient": 3.15
+  },
+  {
+    "schule_1": {
+      "schulnummer": "114078",
+      "schultyp": "Grundschule",
+      "sozialindex": 4,
+      "lat": 51.005004,
+      "lon": 6.8001987
+    },
+    "schule_2": {
+      "schulnummer": "114080",
+      "schultyp": "Grundschule",
+      "sozialindex": 1,
+      "lat": 50.9969007,
+      "lon": 6.8045887
+    },
+    "differenz": 3,
+    "entfernung_km": 0.95,
+    "gradient": 3.15
+  },
+  {
+    "schule_1": {
+      "schulnummer": "103949",
+      "schultyp": "Grundschule",
+      "sozialindex": 8,
+      "lat": 51.4235993,
+      "lon": 6.8677926
+    },
+    "schule_2": {
+      "schulnummer": "103962",
+      "schultyp": "Grundschule",
+      "sozialindex": 5,
+      "lat": 51.4195355,
+      "lon": 6.8801124
+    },
+    "differenz": 3,
+    "entfernung_km": 0.97,
+    "gradient": 3.1
+  },
+  {
+    "schule_1": {
+      "schulnummer": "129616",
+      "schultyp": "Grundschule",
+      "sozialindex": 7,
+      "lat": 51.5343654,
+      "lon": 7.6195069
+    },
+    "schule_2": {
+      "schulnummer": "129963",
+      "schultyp": "Grundschule",
+      "sozialindex": 4,
+      "lat": 51.5280069,
+      "lon": 7.6098962
+    },
+    "differenz": 3,
+    "entfernung_km": 0.97,
+    "gradient": 3.09
+  },
+  {
+    "schule_1": {
+      "schulnummer": "106859",
+      "schultyp": "Grundschule",
+      "sozialindex": 5,
+      "lat": 51.2882431,
+      "lon": 6.8311522
+    },
+    "schule_2": {
+      "schulnummer": "186612",
+      "schultyp": "Grundschule",
+      "sozialindex": 8,
+      "lat": 51.290796,
+      "lon": 6.8177272
+    },
+    "differenz": 3,
+    "entfernung_km": 0.98,
+    "gradient": 3.07
+  },
+  {
+    "schule_1": {
+      "schulnummer": "115307",
+      "schultyp": "Grundschule",
+      "sozialindex": 2,
+      "lat": 50.7850653,
+      "lon": 7.2273849
+    },
+    "schule_2": {
+      "schulnummer": "190470",
+      "schultyp": "Grundschule",
+      "sozialindex": 5,
+      "lat": 50.7904981,
+      "lon": 7.2164679
+    },
+    "differenz": 3,
+    "entfernung_km": 0.98,
+    "gradient": 3.07
+  },
+  {
+    "schule_1": {
+      "schulnummer": "111740",
+      "schultyp": "Grundschule",
+      "sozialindex": 5,
+      "lat": 50.958544,
+      "lon": 6.9375731
+    },
+    "schule_2": {
+      "schulnummer": "112008",
+      "schultyp": "Grundschule",
+      "sozialindex": 2,
+      "lat": 50.9616772,
+      "lon": 6.9506553
+    },
+    "differenz": 3,
+    "entfernung_km": 0.98,
+    "gradient": 3.06
+  },
+  {
+    "schule_1": {
+      "schulnummer": "129124",
+      "schultyp": "Grundschule",
+      "sozialindex": 7,
+      "lat": 51.5411419,
+      "lon": 7.3275753
+    },
+    "schule_2": {
+      "schulnummer": "129136",
+      "schultyp": "Grundschule",
+      "sozialindex": 4,
+      "lat": 51.5404872,
+      "lon": 7.3133765
+    },
+    "differenz": 3,
+    "entfernung_km": 0.98,
+    "gradient": 3.05
+  },
+  {
+    "schule_1": {
+      "schulnummer": "130722",
+      "schultyp": "Grundschule",
+      "sozialindex": 8,
+      "lat": 51.540989,
+      "lon": 7.2195107
+    },
+    "schule_2": {
+      "schulnummer": "186685",
+      "schultyp": "Grundschule",
+      "sozialindex": 5,
+      "lat": 51.5382133,
+      "lon": 7.2330379
+    },
+    "differenz": 3,
+    "entfernung_km": 0.99,
+    "gradient": 3.05
+  },
+  {
+    "schule_1": {
+      "schulnummer": "111776",
+      "schultyp": "Grundschule",
+      "sozialindex": 6,
+      "lat": 50.9304317,
+      "lon": 7.0426226
+    },
+    "schule_2": {
+      "schulnummer": "112525",
+      "schultyp": "Grundschule",
+      "sozialindex": 9,
+      "lat": 50.932099,
+      "lon": 7.0564492
+    },
+    "differenz": 3,
+    "entfernung_km": 0.99,
+    "gradient": 3.04
+  },
+  {
+    "schule_1": {
+      "schulnummer": "105405",
+      "schultyp": "Grundschule",
+      "sozialindex": 8,
+      "lat": 51.1824911,
+      "lon": 7.0763193
+    },
+    "schule_2": {
+      "schulnummer": "105429",
+      "schultyp": "Grundschule",
+      "sozialindex": 5,
+      "lat": 51.1776356,
+      "lon": 7.0643855
+    },
+    "differenz": 3,
+    "entfernung_km": 0.99,
+    "gradient": 3.03
+  },
+  {
+    "schule_1": {
+      "schulnummer": "101941",
+      "schultyp": "Grundschule",
+      "sozialindex": 5,
+      "lat": 51.4449553,
+      "lon": 7.0423799
+    },
+    "schule_2": {
+      "schulnummer": "102398",
+      "schultyp": "Grundschule",
+      "sozialindex": 2,
+      "lat": 51.4369602,
+      "lon": 7.0360188
+    },
+    "differenz": 3,
+    "entfernung_km": 0.99,
+    "gradient": 3.02
+  },
+  {
+    "schule_1": {
+      "schulnummer": "104905",
+      "schultyp": "Grundschule",
+      "sozialindex": 7,
+      "lat": 51.1795117,
+      "lon": 7.2149181
+    },
+    "schule_2": {
+      "schulnummer": "104991",
+      "schultyp": "Grundschule",
+      "sozialindex": 4,
+      "lat": 51.1711698,
+      "lon": 7.2097654
+    },
+    "differenz": 3,
+    "entfernung_km": 0.99,
+    "gradient": 3.02
+  },
+  {
+    "schule_1": {
+      "schulnummer": "100596",
+      "schultyp": "Grundschule",
+      "sozialindex": 2,
+      "lat": 51.2399227,
+      "lon": 6.7830491
+    },
+    "schule_2": {
+      "schulnummer": "100602",
+      "schultyp": "Grundschule",
+      "sozialindex": 5,
+      "lat": 51.2488047,
+      "lon": 6.7805323
+    },
+    "differenz": 3,
+    "entfernung_km": 1.0,
+    "gradient": 2.99
+  },
+  {
+    "schule_1": {
+      "schulnummer": "119027",
+      "schultyp": "Grundschule",
+      "sozialindex": 6,
+      "lat": 51.528262,
+      "lon": 7.1219896
+    },
+    "schule_2": {
+      "schulnummer": "185553",
+      "schultyp": "Grundschule",
+      "sozialindex": 9,
+      "lat": 51.5208572,
+      "lon": 7.1137102
+    },
+    "differenz": 3,
+    "entfernung_km": 1.0,
+    "gradient": 2.99
+  },
+  {
+    "schule_1": {
+      "schulnummer": "131088",
+      "schultyp": "Grundschule",
+      "sozialindex": 5,
+      "lat": 51.4632648,
+      "lon": 7.1516489
+    },
+    "schule_2": {
+      "schulnummer": "131090",
+      "schultyp": "Grundschule",
+      "sozialindex": 8,
+      "lat": 51.4714298,
+      "lon": 7.1454739
+    },
+    "differenz": 3,
+    "entfernung_km": 1.0,
+    "gradient": 2.99
+  },
+  {
+    "schule_1": {
+      "schulnummer": "131933",
+      "schultyp": "Grundschule",
+      "sozialindex": 3,
+      "lat": 51.455433,
+      "lon": 7.9568571
+    },
+    "schule_2": {
+      "schulnummer": "131945",
+      "schultyp": "Grundschule",
+      "sozialindex": 6,
+      "lat": 51.4499693,
+      "lon": 7.9683985
+    },
+    "differenz": 3,
+    "entfernung_km": 1.0,
+    "gradient": 2.99
+  }
+]
