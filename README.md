@@ -8,7 +8,7 @@ Dieses Projekt generiert mit Python eine [Webseite](https://homlador.github.io/s
 
 0. `$ uv sync`
 
-Die Schritte 1 bis 4 sind nur nötig, wenn sich die Datengrundlage ändert.
+Die Schritte 1 bis 5 sind nur nötig, wenn sich die Datengrundlage ändert.
 
 1. [Schul- und Adressverzeichnis](https://statistik.nrw/sites/default/files/2025-03/AS_BS_Verzeichnis_2024_25_%28gerundet%29_0.xlsx) von der Seite der [Schulkarte und Umkreissuche von Statistik.NRW](https://statistik.nrw/service/veroeffentlichungen/schulen-in-nordrhein-westfalen-und-ihre-erreichbarkeiten/schulkarte-und-umkreissuche) laden.
 Manuell aufbereiten:
@@ -40,4 +40,3 @@ Die [Daten des Schulsozialindex](https://www.schulministerium.nrw/system/files/m
 ## TODO/Ideen
 
 * Auswahl nach Bezirken o.ä dynamisch
-* Gradienten per Javascript für ausgewählte Schulen berechnen und maximale Entfernung definierbar machen
